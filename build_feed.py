@@ -1,15 +1,19 @@
 import json, os, datetime
-from firecrawl import FirecrawlApp
+from firecrawl import Firecrawl
 
-app = FirecrawlApp(api_key=os.environ["FIRECRAWL_API_KEY"])
+app = Firecrawl(api_key=os.environ["FIRECRAWL_API_KEY"])
 TOPIC = "artificial intelligence"
 
-result = app.search(query=f"{TOPIC} news", params={"limit": 20})
+result = app.search(query=f"{TOPIC} news", limit=20)
 
-articles = [
-    {"title": r.get("title", ""), "link": r.get("url", "")}
-    for r in result.get("data", [])
-]
+# v2 SDK returns an object; web results are under .web
+web_results = result.web if hasattr(result, "web") else result.get("web", [])
+
+articles = []
+for r in web_results:
+    title = getattr(r, "title", None) or (r.get("title") if isinstance(r, dict) else "")
+    url = getattr(r, "url", None) or (r.get("url") if isinstance(r, dict) else "")
+    articles.append({"title": title, "link": url})
 
 feed = {
     "topic": TOPIC,
