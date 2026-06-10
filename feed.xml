@@ -5,38 +5,8 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:38:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:55:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Top Trump artificial intelligence adviser to leave the White House</title>
-      <link>https://www.washingtonpost.com/politics/2026/06/06/trump-top-ai-advisor-leaving-white-house/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/politics/2026/06/06/trump-top-ai-advisor-leaving-white-house/</guid>
-      <description>Sriram Krishnan, who has been central to the administration's AI efforts, will probably continue to play an active role in its approach to...</description>
-    </item>
-    <item>
-      <title>OpenAI and the White House have competing visions for regulating artificial intelligence</title>
-      <link>https://mashable.com/tech/openai-clashes-with-washington-over-ai-regulation</link>
-      <guid isPermaLink="true">https://mashable.com/tech/openai-clashes-with-washington-over-ai-regulation</guid>
-      <description>OpenAI's new AI guidelines are clashing against the guidance written by the Trump administration.</description>
-    </item>
-    <item>
-      <title>Tom Snyder: AI solves 80-year-old math mystery. What it means for humanity</title>
-      <link>https://www.wral.com/business/technology/artificial-intelligence-solves-math-mystery-what-it-means-tom-snyder-june-2026/</link>
-      <guid isPermaLink="true">https://www.wral.com/business/technology/artificial-intelligence-solves-math-mystery-what-it-means-tom-snyder-june-2026/</guid>
-      <description>A recent AI-generated proof that resolved a decades-old mathematical problem has sparked a broader question about the future of human...</description>
-    </item>
-    <item>
-      <title>Software Deals Hit COVID-Era Lows Amid AI Disruption</title>
-      <link>https://www.pymnts.com/artificial-intelligence-2/2026/software-deals-hit-covid-era-lows-amid-ai-disruption/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/artificial-intelligence-2/2026/software-deals-hit-covid-era-lows-amid-ai-disruption/</guid>
-      <description>Software buyouts are reportedly at a six-year low because of the specter of artificial intelligence (AI) disruption.</description>
-    </item>
-    <item>
-      <title>Solidion Technology Granted 7 New Patents on Composite Anode Materials For Batteries Targeting Humanoid Robots, Space-Based Artificial Intelligence Data Centers and the Lunar Economy</title>
-      <link>https://ca.finance.yahoo.com/news/solidion-technology-granted-7-patents-100000651.html</link>
-      <guid isPermaLink="true">https://ca.finance.yahoo.com/news/solidion-technology-granted-7-patents-100000651.html</guid>
-      <description>Solidion Technology Inc. ("Solidion" or the "Company") (Nasdaq: STI), an advanced battery technology solutions provider, today announced the...</description>
-    </item>
     <item>
       <title>Will artificial intelligence soon escape human control?</title>
       <link>https://www.economist.com/science-and-technology/2026/06/07/will-artificial-intelligence-soon-escape-human-control</link>
@@ -44,88 +14,118 @@
       <description>WHEN ANTHROPIC, an artificial-intelligence lab, debuts on stock markets later this year, it is likely to be one of the biggest initial...</description>
     </item>
     <item>
-      <title>Apple Expected to Detail Its A.I. Plans at Conference</title>
-      <link>https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html</guid>
-      <description>For the second time, the company is expected to explain its artificial intelligence plans. Unlike some rivals, it is not reorganizing around...</description>
+      <title>The United States Must Reject Government Control of Artificial Intelligence</title>
+      <link>https://www.rstreet.org/commentary/the-united-states-must-reject-government-control-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.rstreet.org/commentary/the-united-states-must-reject-government-control-of-artificial-intelligence/</guid>
+      <description>Every major technological revolution—but especially information and communications technology (ICT) revolutions—eventually feature calls for...</description>
     </item>
     <item>
-      <title>University of New Hampshire professor discusses philosophical impacts of AI</title>
-      <link>https://www.wmur.com/article/max-edwards-artificial-intelligence-human-impact/71517187</link>
-      <guid isPermaLink="true">https://www.wmur.com/article/max-edwards-artificial-intelligence-human-impact/71517187</guid>
-      <description>A recent University of New Hampshire Survey Center poll found that many Granite Staters have concerns about artificial intelligence.</description>
+      <title>Here's why universal basic income would be a disaster for America’s future</title>
+      <link>https://www.foxnews.com/opinion/heres-universal-basic-income-would-disaster-americas-future</link>
+      <guid isPermaLink="true">https://www.foxnews.com/opinion/heres-universal-basic-income-would-disaster-americas-future</guid>
+      <description>Universal basic income assumes Americans can't adapt to AI, but history shows technological revolutions create new jobs rather than...</description>
     </item>
     <item>
-      <title>Impersonation scams on the rise: RBFCU warns of increased AI bank fraud</title>
-      <link>https://www.ksat.com/news/local/2026/06/06/impersonation-scams-on-the-rise-rbfcu-warns-of-increase-of-ai-bank-fraud/</link>
-      <guid isPermaLink="true">https://www.ksat.com/news/local/2026/06/06/impersonation-scams-on-the-rise-rbfcu-warns-of-increase-of-ai-bank-fraud/</guid>
-      <description>Tags: Consumer, Scam, Money, Artificial Intelligence, Fraud, FBI, Randolph-Brooks Federal Credit Union, San Antonio, Bexar County.</description>
+      <title>Global watchdog calls for tighter controls on agentic AI in finance</title>
+      <link>https://www.reuters.com/legal/transactional/global-watchdog-calls-tighter-controls-agentic-ai-finance-2026-06-10/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/transactional/global-watchdog-calls-tighter-controls-agentic-ai-finance-2026-06-10/</guid>
+      <description>Global regulators said increasingly autonomous forms of AI could amplify risks for the financial system and called for new controls ​as...</description>
     </item>
     <item>
-      <title>AI Can Analyze a Crisis. It Can’t Broker Peace</title>
-      <link>https://www.bloomberg.com/opinion/articles/2026-06-07/diplomacy-in-the-age-of-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/opinion/articles/2026-06-07/diplomacy-in-the-age-of-artificial-intelligence</guid>
-      <description>From John F. Kennedy and Nikita Khrushchev navigating the Cuban Missile Crisis in 1962 to Henry Kissinger and Zhou Enlai's meetings that...</description>
+      <title>Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts</title>
+      <link>https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html</guid>
+      <description>The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company's new artificial intelligence...</description>
     </item>
     <item>
-      <title>3 High-Growth Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-high-growth-artificial-intelligence-232500984.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/3-high-growth-artificial-intelligence-232500984.html</guid>
-      <description>If you've got $5,000 sitting around waiting to invest, now could be a smart time to put it to work. Several high-growth investment...</description>
+      <title>Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says</title>
+      <link>https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html</guid>
+      <description>U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial...</description>
     </item>
     <item>
-      <title>Opinion | Human intelligence will win out over artificial intelligence</title>
-      <link>https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/07/why-human-intelligence-still-matters-age-ai/</guid>
-      <description>The more machines can do, the clearer it becomes what only human beings can provide.</description>
+      <title>Claude Mythos: Anthropic releases version of AI tool despite risk concerns</title>
+      <link>https://www.bbc.com/news/articles/ckg701v1dp6o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ckg701v1dp6o</guid>
+      <description>Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government...</description>
     </item>
     <item>
-      <title>DOE Explains...Artificial Intelligence</title>
-      <link>https://www.energy.gov/science/doe-explainsartificial-intelligence</link>
-      <guid isPermaLink="true">https://www.energy.gov/science/doe-explainsartificial-intelligence</guid>
-      <description>The Advanced Scientific Computing Research (ASCR) program in the Department of Energy Office of Science (DOE SC) has been working on AI since...</description>
+      <title>Apple renames Siri as ‘Siri AI’ with new push into artificial intelligence</title>
+      <link>https://www.nbcnews.com/tech/tech-news/apple-renames-siri-siri-ai-new-push-artificial-intelligence-rcna349048</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/apple-renames-siri-siri-ai-new-push-artificial-intelligence-rcna349048</guid>
+      <description>Apple said Monday that it was overhauling its longtime virtual assistant, Siri, by adding artificial intelligence features and changing its...</description>
     </item>
     <item>
-      <title>AI regulation: what it is, its impact on businesses, and how to create value with secure and reliable artificial intelligence</title>
-      <link>https://www.telefonica.com/en/communication-room/blog/ai-regulation-impact-businesses-create-secure-reliable-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.telefonica.com/en/communication-room/blog/ai-regulation-impact-businesses-create-secure-reliable-artificial-intelligence/</guid>
-      <description>What is artificial intelligence regulation and why is it crucial for businesses and governments. Artificial Intelligence is evolving almost...</description>
+      <title>Opinion | This bird made history — and kicked off a breakthrough</title>
+      <link>https://www.washingtonpost.com/opinions/2026/06/09/ai-powered-genomes-can-help-save-endangered-species/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/09/ai-powered-genomes-can-help-save-endangered-species/</guid>
+      <description>Artificial intelligence is becoming increasingly powerful in conservation. And it's just getting started.</description>
     </item>
     <item>
-      <title>Worried About a Crash in Artificial Intelligence (AI) Stocks? Instantly Diversify Your Portfolio With This Spectacular Vanguard ETF.</title>
-      <link>https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/06/08/worried-crash-in-ai-stocks-diversify-vanguard-etf/</guid>
-      <description>Since the artificial intelligence (AI) boom started gathering momentum in early 2023, semiconductor stocks like Nvidia and Micron Technology...</description>
+      <title>The Artificial Intelligence Backlash</title>
+      <link>https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-the-artificial-intelligence-backlash/0531E304-75AE-4F7C-8114-B672E19BEEC4</link>
+      <guid isPermaLink="true">https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-the-artificial-intelligence-backlash/0531E304-75AE-4F7C-8114-B672E19BEEC4</guid>
+      <description>Journal Editorial Report: Paul Gigot interviews WSJ Business World Columnist Holman Jenkins. Photo: Chip Somodevilla/Getty Images/Daniel...</description>
     </item>
     <item>
-      <title>Elder Gong teaches how to hear God’s voice amid increased use of artificial intelligence</title>
-      <link>https://www.thechurchnews.com/leaders/2026/06/07/gerrit-gong-ai-hear-god-amid-increased-use-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.thechurchnews.com/leaders/2026/06/07/gerrit-gong-ai-hear-god-amid-increased-use-of-artificial-intelligence/</guid>
-      <description>Over the past decade, the abilities of and access to artificial intelligence have increased rapidly. Elder Gerrit W. Gong of the Quorum of...</description>
+      <title>New Krantz Institute for Artificial Intelligence, Ethics, and Humanity</title>
+      <link>https://www.bc.edu/bc-web/sites/bc-news/articles/2026/summer/gift-establishes-krantz-institute-for-artificial-intelligence-ethics-humanity.html</link>
+      <guid isPermaLink="true">https://www.bc.edu/bc-web/sites/bc-news/articles/2026/summer/gift-establishes-krantz-institute-for-artificial-intelligence-ethics-humanity.html</guid>
+      <description>Boston College will leverage its formative and ethical strengths as a Jesuit, Catholic university to explore the opportunities, implications, and dangers of...</description>
     </item>
     <item>
-      <title>Checking in on AI at Hyatt Hotels, where human and artificial intelligence have a double room</title>
-      <link>https://diginomica.com/checking-ai-hyatt-hotels-where-human-and-artificial-intelligence-have-double-room</link>
-      <guid isPermaLink="true">https://diginomica.com/checking-ai-hyatt-hotels-where-human-and-artificial-intelligence-have-double-room</guid>
-      <description>No reservations about the positive impact of humans and AI working in tandem here….</description>
+      <title>Magnifica Humanitas, Artificial Intelligence, and Amish Country</title>
+      <link>https://www.frontporchrepublic.com/2026/06/magnifica-humanitas-artificial-intelligence-and-amish-country/</link>
+      <guid isPermaLink="true">https://www.frontporchrepublic.com/2026/06/magnifica-humanitas-artificial-intelligence-and-amish-country/</guid>
+      <description>They say that kids these days can't get along without screens, but my teenaged daughter is an exception. On our most recent road trip,...</description>
     </item>
     <item>
-      <title>The AI You’re Given vs. the AI You Chose</title>
-      <link>https://www.pymnts.com/artificial-intelligence-2/2026/copilot-wins-ai-at-work-until-workers-get-a-choice/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/artificial-intelligence-2/2026/copilot-wins-ai-at-work-until-workers-get-a-choice/</guid>
-      <description>There's a number in the latest PYMNTS Intelligence consumer survey that ought to get the attention of everyone who's still debating the...</description>
+      <title>AI in Drug Discovery: Progress, Limits and What Comes Next</title>
+      <link>https://www.drugtargetreview.com/reports/ai-in-drug-discovery-progress-limits-and-what-comes-next/2135549.article</link>
+      <guid isPermaLink="true">https://www.drugtargetreview.com/reports/ai-in-drug-discovery-progress-limits-and-what-comes-next/2135549.article</guid>
+      <description>AI has attracted enormous investment across drug discovery, but major questions still remain around validation, reproducibility and...</description>
     </item>
     <item>
-      <title>Melanie Mitchell: What We Get Wrong About AI</title>
-      <link>https://yalereview.org/article/melanie-mitchell-jagged-intelligence</link>
-      <guid isPermaLink="true">https://yalereview.org/article/melanie-mitchell-jagged-intelligence</guid>
-      <description>In general, today's AI systems perform extremely well until, often unexpectedly, they don't. They are inconsistent, lack a sense of when...</description>
+      <title>Artificial Intelligence in Airway Management: Current Evidence and Future Perspectives</title>
+      <link>https://www.cureus.com/articles/503298-artificial-intelligence-in-airway-management-current-evidence-and-future-perspectives</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/503298-artificial-intelligence-in-airway-management-current-evidence-and-future-perspectives</guid>
+      <description>Airway management remains a critical component of anesthetic practice, and failure to anticipate a difficult airway may result in...</description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://abcnews.com/alerts/ArtificialIntelligence</link>
-      <guid isPermaLink="true">https://abcnews.com/alerts/ArtificialIntelligence</guid>
-      <description>Artificial Intelligence · AI nonprofit co-founder: 'AIs we see today represent dangers to the world' · Anthropic calls for global pause in AI...</description>
+      <title>The use of artificial intelligence: From clinical decision-making to courtroom strategy | Viewpoint</title>
+      <link>https://www.chiefhealthcareexecutive.com/view/the-use-of-artificial-intelligence-from-clinical-decision-making-to-courtroom-strategy-viewpoint</link>
+      <guid isPermaLink="true">https://www.chiefhealthcareexecutive.com/view/the-use-of-artificial-intelligence-from-clinical-decision-making-to-courtroom-strategy-viewpoint</guid>
+      <description>Artificial intelligence is rapidly transforming both healthcare delivery and medical malpractice litigation. Image provided by the author.</description>
+    </item>
+    <item>
+      <title>The hands-off era of AI oversight is ending. What comes next?</title>
+      <link>https://www.csmonitor.com/USA/Politics/2026/0610/artificial-intelligence-regulation-trump-congress</link>
+      <guid isPermaLink="true">https://www.csmonitor.com/USA/Politics/2026/0610/artificial-intelligence-regulation-trump-congress</guid>
+      <description>Artificial intelligence in the United States has so far been met with a largely hands-off regulatory approach. That approach is changing,...</description>
+    </item>
+    <item>
+      <title>Bridgewater College offers new Artificial Intelligence Certificate</title>
+      <link>https://rocktownnow.com/news/218812-bridgewater-college-offers-new-artificial-intelligence-certificate/</link>
+      <guid isPermaLink="true">https://rocktownnow.com/news/218812-bridgewater-college-offers-new-artificial-intelligence-certificate/</guid>
+      <description>The Nolen School of Business and Professional Studies at Bridgewater College is launching a new 12-credit certificate in artificial...</description>
+    </item>
+    <item>
+      <title>Eastern University Launches Affordable Online Master's Degree in Artificial Intelligence Innovation</title>
+      <link>https://bucksco.today/2026/06/eastern-university-artificial-intelligence-innovation/</link>
+      <guid isPermaLink="true">https://bucksco.today/2026/06/eastern-university-artificial-intelligence-innovation/</guid>
+      <description>Eastern University's new M.A. in Artificial Intelligence Innovation is designed to equip professionals to lead in an AI-driven world.</description>
+    </item>
+    <item>
+      <title>Maryland Launches Innovation Lab for Artificial Intelligence</title>
+      <link>https://www.govtech.com/artificial-intelligence/maryland-launches-innovation-lab-for-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.govtech.com/artificial-intelligence/maryland-launches-innovation-lab-for-artificial-intelligence</guid>
+      <description>The move comes as the state works to create money-saving AI agents and seeks to encourage more AI expertise. Other states also are striving...</description>
+    </item>
+    <item>
+      <title>UNC Announces Saif Kharait As New Chief Artificial Intelligence Officer</title>
+      <link>https://chapelboro.com/news/unc/unc-announces-saif-kharait-as-new-chief-artificial-intelligence-officer</link>
+      <guid isPermaLink="true">https://chapelboro.com/news/unc/unc-announces-saif-kharait-as-new-chief-artificial-intelligence-officer</guid>
+      <description>UNC revealed its next chief artificial intelligence officer is Saif Khairat, a current professor at the School of Nursing.</description>
     </item>
   </channel>
 </rss>
