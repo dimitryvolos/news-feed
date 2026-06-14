@@ -5,73 +5,31 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 08:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:30:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Hidden Workers Most Threatened by A.I.</title>
-      <link>https://www.nytimes.com/2026/06/10/business/economy/back-office-workers-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/business/economy/back-office-workers-ai.html</guid>
-      <description>As artificial intelligence spreads, millions of middle-class jobs in human resources, billing and payroll could be at risk. Most are held by...</description>
+      <title>A GOP revolt over AI is taking shape</title>
+      <link>https://www.politico.com/news/2026/06/13/republicans-ai-josh-hawley-tech-republicans-artificial-intelligence-00961315</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/06/13/republicans-ai-josh-hawley-tech-republicans-artificial-intelligence-00961315</guid>
+      <description>The Republican Party has a choice to make — perhaps the defining choice of its next half century,” Sen. Josh Hawley wrote in an essay on AI.</description>
     </item>
     <item>
-      <title>Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini</title>
-      <link>https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/</guid>
-      <description>Slowly but surely, artificial intelligence is finding its way into sports. The latest venue? This year's World Cup, where Google will be...</description>
+      <title>Derbyshire police officer investigated over AI-generated ‘evidential material’</title>
+      <link>https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai</guid>
+      <description>A police officer is under criminal investigation over the alleged use of artificial intelligence and has been removed from frontline duties...</description>
     </item>
     <item>
-      <title>AI is cutting hours of office work, but also creating a new kind of busywork</title>
-      <link>https://www.latimes.com/business/story/2026-06-12/ai-saves-office-workers-hours-but-then-demands-hours-of-babysitting</link>
-      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-06-12/ai-saves-office-workers-hours-but-then-demands-hours-of-babysitting</guid>
-      <description>As the use of artificial intelligence spreads across companies worldwide, it is relieving workers of tedious old chores but creating new...</description>
+      <title>Trump tried to block state AI regulations, but some states are forging ahead</title>
+      <link>https://www.washingtonpost.com/politics/2026/06/14/trump-artificial-intelligence-chatbots-ai/994b0374-67d0-11f1-830e-133d20cadd28_story.html</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/politics/2026/06/14/trump-artificial-intelligence-chatbots-ai/994b0374-67d0-11f1-830e-133d20cadd28_story.html</guid>
+      <description>Six months after President Donald Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.</description>
     </item>
     <item>
-      <title>Jeff Bezos Wants to Build an ‘Artificial General Engineer’</title>
-      <link>https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bezos opens up about AI startup Prometheus after $12 billion raise: 'We're not being secretive'</title>
-      <link>https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bezos Bats Down AI Job Loss Fears While Launching New Venture</title>
-      <link>https://www.wsj.com/tech/ai/bezos-bats-down-ai-job-loss-fears-while-launching-new-venture-d1e6fb09</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/bezos-bats-down-ai-job-loss-fears-while-launching-new-venture-d1e6fb09</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world</title>
-      <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic</title>
-      <link>https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e</guid>
-      <description>The company might lower prices for tokens, the central unit for gauging AI costs, though the discussions are still in flux.</description>
-    </item>
-    <item>
-      <title>Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language</title>
-      <link>https://www.nature.com/articles/s42256-026-01250-8</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s42256-026-01250-8</guid>
-      <description>Large language models have revolutionized many fields by learning from sequential data, yet their application to three-dimensional molecular...</description>
-    </item>
-    <item>
-      <title>Industry Experts Testify on Artificial Intelligence Innovation</title>
-      <link>https://www.c-span.org/event/senate-committee/industry-experts-testify-on-artificial-intelligence-innovation/443941</link>
-      <guid isPermaLink="true">https://www.c-span.org/event/senate-committee/industry-experts-testify-on-artificial-intelligence-innovation/443941</guid>
-      <description>Industry experts testify before the Senate Banking Committee on the economic and national security implications of artificial intelligence...</description>
-    </item>
-    <item>
-      <title>Opinion | How AI can revolutionize conservation</title>
-      <link>https://www.washingtonpost.com/opinions/2026/06/11/how-ai-can-revolutionize-conservation/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/11/how-ai-can-revolutionize-conservation/</guid>
-      <description>Artificial intelligence optimism, cigarette regulation and more, in readers' eyes.</description>
+      <title>Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models</title>
+      <link>https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html</guid>
+      <description>The administration's surprise restrictions Friday cut off foreign access to Anthropic's latest models and sparked another round of finger...</description>
     </item>
     <item>
       <title>How frontier teams are reinventing AI-native development</title>
@@ -80,40 +38,64 @@
       <description>Frontier teams are not just using AI to code faster. They're redesigning how software gets built. The result is 4.5x productivity gains,...</description>
     </item>
     <item>
-      <title>AI models are absorbing antisemitism from humans, study says</title>
-      <link>https://www.timesofisrael.com/ai-models-are-absorbing-antisemitism-from-humans-study-says/</link>
-      <guid isPermaLink="true">https://www.timesofisrael.com/ai-models-are-absorbing-antisemitism-from-humans-study-says/</guid>
-      <description>Despite efforts to rein in bias, peer-reviewed psychology paper finds that large language models replicate antisemitic tropes, with possible...</description>
+      <title>US orders Anthropic to disable AI models for all foreign nationals</title>
+      <link>https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals</guid>
+      <description>The company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.</description>
     </item>
     <item>
-      <title>A Comparative Study of the Divergent Paths to Artificial General Intelligence between China and the United States</title>
-      <link>https://www.chinausfocus.com/peace-security/a-comparative-study-of-the-divergent-paths-to-artificial-general-intelligence-between-china-and-the-united-states</link>
-      <guid isPermaLink="true">https://www.chinausfocus.com/peace-security/a-comparative-study-of-the-divergent-paths-to-artificial-general-intelligence-between-china-and-the-united-states</guid>
-      <description>In recent years, Artificial General Intelligence (AGI) has re‑emerged as a central theme in artificial intelligence research and technology...</description>
+      <title>Anthropic shuts down Mythos access after sweeping U.S. order</title>
+      <link>https://www.latimes.com/business/story/2026-06-13/anthropic-shuts-down-mythos-access-after-sweeping-u-s-order</link>
+      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-06-13/anthropic-shuts-down-mythos-access-after-sweeping-u-s-order</guid>
+      <description>Anthropic PBC has disabled access to its most advanced artificial intelligence models, including Mythos, following an unprecedented order by...</description>
     </item>
     <item>
-      <title>AI use is surging across HHS, jumping 148% at the FDA in 2025, Bipartisan Policy Center data finds</title>
-      <link>https://www.fiercehealthcare.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center</link>
-      <guid isPermaLink="true">https://www.fiercehealthcare.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center</guid>
-      <description>Artificial intelligence use cases across the federal health department spiked between fiscal years 2024 and 2025— led by a 148%...</description>
+      <title>'Wake-up call': Europe reacts to Anthropic halting access to its Fable 5 and Mythos 5 AI models</title>
+      <link>https://www.euronews.com/2026/06/13/wake-up-call-europe-reacts-to-anthropic-halting-access-to-its-fable-5-and-mythos-5-ai-mode</link>
+      <guid isPermaLink="true">https://www.euronews.com/2026/06/13/wake-up-call-europe-reacts-to-anthropic-halting-access-to-its-fable-5-and-mythos-5-ai-mode</guid>
+      <description>Anthropic said it believed the US government had become aware of a potential means of jailbreaking Fable 5.</description>
     </item>
     <item>
-      <title>Q&amp;A: The evolution of artificial intelligence</title>
-      <link>https://www.psu.edu/news/great-valley/story/qa-evolution-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.psu.edu/news/great-valley/story/qa-evolution-artificial-intelligence</guid>
-      <description>Great Valley Chancellor Colin Neill discussed his experience working with artificial intelligence (AI) in the 1990s and how Great Valley is...</description>
+      <title>Hong Kong office sector may boost investment to curb AI tenant loss: analysts</title>
+      <link>https://www.scmp.com/business/article/3357053/hong-kong-commercial-landlords-may-bet-investment-curb-tenant-loss-ai-analysts</link>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3357053/hong-kong-commercial-landlords-may-bet-investment-curb-tenant-loss-ai-analysts</guid>
+      <description>Landlords may need to refurbish or convert commercial real estate to better accommodate artificial intelligence technology, according to...</description>
     </item>
     <item>
-      <title>Merkley, Padilla Lead Effort to Fight Back Against Voter Suppression and Misuse of Artificial Intelligence in U.S. Elections</title>
-      <link>https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections/</link>
-      <guid isPermaLink="true">https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections/</guid>
-      <description>Washington, D.C. – Oregon's U.S. Senator Jeff Merkley and California's U.S. Senator Alex Padilla reintroduced legislation to protect voters...</description>
+      <title>Phoenix residents react to the rapid rise of artificial intelligence</title>
+      <link>https://www.fox10phoenix.com/video/fmc-xyalne19ecv1cw22</link>
+      <guid isPermaLink="true">https://www.fox10phoenix.com/video/fmc-xyalne19ecv1cw22</guid>
+      <description>Artificial intelligence is rapidly changing daily life, prompting questions about whether its widespread adoption is a positive or negative...</description>
     </item>
     <item>
-      <title>Ohio University’s Online MBA in artificial intelligence ranked 11th nationally</title>
-      <link>https://irontontribune.com/2026/06/12/ohio-universitys-online-mba-in-artificial-intelligence-ranked-11th-nationally/</link>
-      <guid isPermaLink="true">https://irontontribune.com/2026/06/12/ohio-universitys-online-mba-in-artificial-intelligence-ranked-11th-nationally/</guid>
-      <description>ATHENS — Ohio University's Online Master of Business Administration (MBA) in Artificial Intelligence has been ranked 11th in the nation in...</description>
+      <title>Manning: My real concerns with artificial intelligence</title>
+      <link>https://yourislandnews.com/my-real-concerns-with-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://yourislandnews.com/my-real-concerns-with-artificial-intelligence/</guid>
+      <description>By Terry Manning. First, I don't hate artificial intelligence. I have to remind myself and others of that from time to time.</description>
+    </item>
+    <item>
+      <title>Nature of Things: Artificial Intelligence sparks controversy in commencement speeches</title>
+      <link>https://www.dailyrepublic.com/opinion/nature-of-things-artificial-intelligence-sparks-controversy-in-commencement-speeches/article_fae48f66-7529-4c73-82a0-1461db28d88f.html</link>
+      <guid isPermaLink="true">https://www.dailyrepublic.com/opinion/nature-of-things-artificial-intelligence-sparks-controversy-in-commencement-speeches/article_fae48f66-7529-4c73-82a0-1461db28d88f.html</guid>
+      <description>It's graduation season and therefore time for a grand, but usually forgettable tradition: commencement speeches.</description>
+    </item>
+    <item>
+      <title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</title>
+      <link>https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</link>
+      <guid isPermaLink="true">https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</guid>
+      <description>In alignment with 2 major trends, mammography and early detection in lung cancer screening, AI is being used to better identify early-stage...</description>
+    </item>
+    <item>
+      <title>Industry Experts Testify on Artificial Intelligence Innovation</title>
+      <link>https://www.c-span.org/event/senate-committee/industry-experts-testify-on-artificial-intelligence-innovation/443941</link>
+      <guid isPermaLink="true">https://www.c-span.org/event/senate-committee/industry-experts-testify-on-artificial-intelligence-innovation/443941</guid>
+      <description>Industry experts testify before the Senate Banking Committee on the economic and national security implications of artificial intelligence...</description>
+    </item>
+    <item>
+      <title>Bridging three-dimensional molecular structures and artificial intelligence with a conformation description language</title>
+      <link>https://www.nature.com/articles/s42256-026-01250-8</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s42256-026-01250-8</guid>
+      <description>Large language models have revolutionized many fields by learning from sequential data, yet their application to three-dimensional molecular...</description>
     </item>
     <item>
       <title>How the Real Estate Industry Is Embracing Artificial Intelligence · Babson Thought &amp; Action</title>
@@ -122,10 +104,28 @@
       <description>Like nearly every industry, real estate is wrestling with artificial intelligence. Real estate, though, is not like most industries.</description>
     </item>
     <item>
-      <title>Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies</title>
-      <link>https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/finance/us-bank-regulators-ramp-up-scrutiny-ai-use-financial-companies-2026-06-12/</guid>
-      <description>U.S. banking regulators are stepping up scrutiny of how lenders deploy artificial intelligence as the developing technology sweeps through...</description>
+      <title>From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/</guid>
+      <description>... 12 JUN 2026 in Advanced (300), Amazon Bedrock, Amazon Bedrock Data Automation, Amazon Bedrock Knowledge Bases, Amazon Machine Learning,...</description>
+    </item>
+    <item>
+      <title>Q&amp;A: The evolution of artificial intelligence</title>
+      <link>https://www.psu.edu/news/great-valley/story/qa-evolution-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.psu.edu/news/great-valley/story/qa-evolution-artificial-intelligence</guid>
+      <description>Great Valley Chancellor Colin Neill discussed his experience working with artificial intelligence (AI) in the 1990s and how Great Valley is...</description>
+    </item>
+    <item>
+      <title>WATCH: Senate Banking Committee holds hearing on artificial intelligence</title>
+      <link>https://www.pbs.org/newshour/politics/watch-live-senate-banking-committee-holds-hearing-on-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/politics/watch-live-senate-banking-committee-holds-hearing-on-artificial-intelligence</guid>
+      <description>The Senate Banking, Housing and Urban Affairs Committee is holding a hearing Thursday on artificial intelligence, titled "AI and the...</description>
+    </item>
+    <item>
+      <title>Artificial intelligence is helping Floridians with brain tumors; Here’s how</title>
+      <link>https://www.chronicleonline.com/news/state/artificial-intelligence-is-helping-floridians-with-brain-tumors-here-s-how/article_82913111-6de2-57b4-a4af-eac277743842.html</link>
+      <guid isPermaLink="true">https://www.chronicleonline.com/news/state/artificial-intelligence-is-helping-floridians-with-brain-tumors-here-s-how/article_82913111-6de2-57b4-a4af-eac277743842.html</guid>
+      <description>TAMPA — Dr. Brian Collins was completing his medical residency at Georgetown University in the early 2000s when the institution invested in...</description>
     </item>
   </channel>
 </rss>
