@@ -5,20 +5,8 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:21:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns</title>
-      <link>https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security</guid>
-      <description>Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic's Fable...</description>
-    </item>
-    <item>
-      <title>A case of artificial intelligence-enhanced diagnostics leading to heart transplantation</title>
-      <link>https://www.nature.com/articles/s41591-026-04454-y</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s41591-026-04454-y</guid>
-      <description>34 Altmetric. Metrics details. You have full access to this article via your institution. Download PDF.</description>
-    </item>
     <item>
       <title>Your Home Could Help Solve AI’s Growing Power Demand</title>
       <link>https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html</link>
@@ -26,46 +14,58 @@
       <description>Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the...</description>
     </item>
     <item>
-      <title>‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies</title>
-      <link>https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies</guid>
-      <description>The writer who coined the word 'enshittification' tells us why AI will never deliver what it promises – and why it still appeals so much to...</description>
+      <title>California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce</title>
+      <link>https://www.gov.ca.gov/2026/06/25/california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artificial-intelligences-impacts-on-the-workforce/</link>
+      <guid isPermaLink="true">https://www.gov.ca.gov/2026/06/25/california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artificial-intelligences-impacts-on-the-workforce/</guid>
+      <description>What you need to know: As part of Governor Newsom's executive order on artificial intelligence (AI) and the workforce, California today...</description>
     </item>
     <item>
-      <title>Could A.I. Find Brazil’s Next Pelé?</title>
-      <link>https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html</guid>
-      <description>Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer...</description>
+      <title>ioana teleanu shifts AI tools from thinking for you to making you think</title>
+      <link>https://www.designboom.com/technology/ioana-teleanu-ai-artificial-intelligence-tool-interview/</link>
+      <guid isPermaLink="true">https://www.designboom.com/technology/ioana-teleanu-ai-artificial-intelligence-tool-interview/</guid>
+      <description>in the third feature of 'navigators of design,' ioana teleanu approaches AI as a living material to resist homogenization and preserve human...</description>
     </item>
     <item>
-      <title>Stanford was their golden ticket - could AI help or hinder that?</title>
-      <link>https://www.bbc.com/news/articles/c872j82j2qyo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c872j82j2qyo</guid>
-      <description>The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.</description>
+      <title>'Peppa Pig' Backlash: Kids Agents Call For "Non-AI" Clauses In Deals</title>
+      <link>https://deadline.com/2026/06/peppa-pig-non-air-clauses-kids-agents-1236967257/</link>
+      <guid isPermaLink="true">https://deadline.com/2026/06/peppa-pig-non-air-clauses-kids-agents-1236967257/</guid>
+      <description>Child acting agents have called on studios and producers to insert "non-AI" clauses into contracts amid a row over 'Peppa Pig.'</description>
     </item>
     <item>
-      <title>Dutch official presses US lawmakers over China chip export bill</title>
-      <link>https://www.reuters.com/world/china/netherlands-join-us-led-pax-silica-ai-initiative-despite-asml-dispute-2026-06-23/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/netherlands-join-us-led-pax-silica-ai-initiative-despite-asml-dispute-2026-06-23/</guid>
-      <description>A key Dutch minister met with U.S. Commerce Secretary Howard Lutnick and lawmakers to express concerns over U.S. legislation that ​would...</description>
+      <title>Nonprofit aims to help displaced workers as businesses adopt artificial intelligence</title>
+      <link>https://www.pbs.org/newshour/show/nonprofit-aims-to-help-displaced-workers-as-businesses-adopt-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/show/nonprofit-aims-to-help-displaced-workers-as-businesses-adopt-artificial-intelligence</guid>
+      <description>As businesses adopt artificial intelligence, fears of a wave of job displacement continue to grow. A new nonprofit called RAISE US aims to...</description>
     </item>
     <item>
-      <title>2 Hypergrowth Artificial Intelligence (AI) Stocks Smart Investors Are Loading Up On</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-hypergrowth-artificial-intelligence-ai-095000006.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/2-hypergrowth-artificial-intelligence-ai-095000006.html</guid>
-      <description>Following the lead of institutional investors and hedge funds is a great idea for individual investors. These entities often have a lot more...</description>
+      <title>After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing</title>
+      <link>https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/after-anthropic-shutdown-chinas-zai-closes-frontier-gap-it-plans-dual-listing-2026-06-25/</guid>
+      <description>Chinese AI startup Z.ai said on Thursday it plans to use domestic listing proceeds to fund a quest for ​artificial general intelligence,...</description>
     </item>
     <item>
-      <title>Alphabet: Shares Sell Off on Artificial Intelligence Talent Exits; We See a Buying Opportunity</title>
-      <link>https://global.morningstar.com/en-nd/stocks/alphabet-shares-sell-off-artificial-intelligence-talent-exits-we-see-buying-opportunity</link>
-      <guid isPermaLink="true">https://global.morningstar.com/en-nd/stocks/alphabet-shares-sell-off-artificial-intelligence-talent-exits-we-see-buying-opportunity</guid>
-      <description>Medium. Alphabet GOOGL shares slid more than 5% over the last week after two senior artificial intelligence researchers, John Jumper and...</description>
+      <title>Who will control Africa’s AI infrastructure, and at what cost?</title>
+      <link>https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost</guid>
+      <description>Data centres and AI systems are expanding across Africa, bringing new pressure on energy and resources.</description>
     </item>
     <item>
-      <title>How AI is rewriting the rules of early-stage innovation</title>
-      <link>https://www.weforum.org/stories/2026/06/how-ai-is-rewriting-the-rules-of-early-stage-innovation/</link>
-      <guid isPermaLink="true">https://www.weforum.org/stories/2026/06/how-ai-is-rewriting-the-rules-of-early-stage-innovation/</guid>
-      <description>AI is reshaping how ventures are conceived, funded and launched; these shifts create a new kind of start-up: leaner, faster and more...</description>
+      <title>Forget SpaceX. I'm Loading Up on This Genius Artificial Intelligence (AI) Stock Instead.</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/forget-spacex-im-loading-genius-145200229.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/forget-spacex-im-loading-genius-145200229.html</guid>
+      <description>Space Exploration Technologies, better known as SpaceX, may have captured the attention of many investors, but I think several stocks are...</description>
+    </item>
+    <item>
+      <title>BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg</title>
+      <link>https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en</link>
+      <guid isPermaLink="true">https://www.press.bmwgroup.com/global/article/detail/T0458778EN/bmw-group-advances-the-use-of-physical-ai-in-production-with-figure-03-project-in-spartanburg?language=en</guid>
+      <description>Munich/Spartanburg, USA. BMW Group intensifies the usage of digitalization and the use of artificial intelligence (AI) in production.</description>
+    </item>
+    <item>
+      <title>Church joins European Parliament in seminars on artificial intelligence and human relationships</title>
+      <link>https://www.thechurchnews.com/living-faith/2026/06/25/eu-church-parliament-seminars-ai-artificial-intelligence-human-relationships/</link>
+      <guid isPermaLink="true">https://www.thechurchnews.com/living-faith/2026/06/25/eu-church-parliament-seminars-ai-artificial-intelligence-human-relationships/</guid>
+      <description>European Union and Church's International Affairs Office participate in panel discussions on the growing impact of artificial intelligence.</description>
     </item>
     <item>
       <title>What is artificial intelligence (AI)?</title>
@@ -74,58 +74,58 @@
       <description>Artificial intelligence (AI) is a branch of computer science that lets machines perform tasks that normally require human intelligence,...</description>
     </item>
     <item>
-      <title>Thailand: Artificial Intelligence Readiness Assessment Report</title>
-      <link>https://www.unesco.org/en/articles/thailand-artificial-intelligence-readiness-assessment-report</link>
-      <guid isPermaLink="true">https://www.unesco.org/en/articles/thailand-artificial-intelligence-readiness-assessment-report</guid>
-      <description>It assesses Thailand's AI governance ecosystem across five dimensions and identifies gaps in policy coherence, institutional coordination, and...</description>
+      <title>How Artificial Intelligence is changing the job hunt</title>
+      <link>https://www.njea.org/how-artificial-intelligence-is-changing-the-job-hunt/</link>
+      <guid isPermaLink="true">https://www.njea.org/how-artificial-intelligence-is-changing-the-job-hunt/</guid>
+      <description>By the NJEA Technology Committee. Artificial Intelligence (AI) is set to make huge changes to the workforce in the next few years.</description>
     </item>
     <item>
-      <title>Debates around artificial intelligence continue as Shasta board passes AI resolution</title>
-      <link>https://shastascout.org/debates-around-artificial-intelligence-continue-as-shasta-board-passes-ai-resolution/</link>
-      <guid isPermaLink="true">https://shastascout.org/debates-around-artificial-intelligence-continue-as-shasta-board-passes-ai-resolution/</guid>
-      <description>Today, supervisors unanimously passed a resolution to encourage the implementation of AI into county processes. Public feedback was mixed.</description>
+      <title>More than half of Georgia teachers now use artificial intelligence to prepare for class</title>
+      <link>https://georgiarecorder.com/2026/06/26/more-than-half-of-georgia-teachers-now-use-artificial-intelligence-to-prepare-for-class/</link>
+      <guid isPermaLink="true">https://georgiarecorder.com/2026/06/26/more-than-half-of-georgia-teachers-now-use-artificial-intelligence-to-prepare-for-class/</guid>
+      <description>A new report from the state auditor's office found that nearly 60% of Georgia teachers are using artificial intelligence in classrooms or to...</description>
     </item>
     <item>
-      <title>The Real "Catch" in Clinical Automation: Rethinking Artificial Intelligence for Healthcare Workflows</title>
-      <link>https://www.cureus.com/articles/502390-the-real-catch-in-clinical-automation-rethinking-artificial-intelligence-for-healthcare-workflows</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/502390-the-real-catch-in-clinical-automation-rethinking-artificial-intelligence-for-healthcare-workflows</guid>
-      <description>Artificial intelligence (AI) has demonstrated impressive performance in controlled retrospective studies, yet many systems struggle to...</description>
+      <title>Artificial Intelligence or Artificial Stupidity?</title>
+      <link>https://www.chromatographyonline.com/view/artificial-intelligence-or-artificial-stupidity-</link>
+      <guid isPermaLink="true">https://www.chromatographyonline.com/view/artificial-intelligence-or-artificial-stupidity-</guid>
+      <description>The concept of artificial intelligence (AI) can be traced back to pioneering researchers such as Charles Babbage and Ada Lovelace,...</description>
     </item>
     <item>
-      <title>Construction continues on an artificial intelligence factory data center being built outside Boyce by Dallas-based Applied</title>
-      <link>https://www.reutersconnect.com/item/construction-continues-on-an-artificial-intelligence-factory-data-center-being-built-outside-boyce-by-dallas-based-applied/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjkyNTg1MDc</link>
-      <guid isPermaLink="true">https://www.reutersconnect.com/item/construction-continues-on-an-artificial-intelligence-factory-data-center-being-built-outside-boyce-by-dallas-based-applied/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjkyNTg1MDc</guid>
-      <description>Construction continues on an artificial intelligence factory data center being built outside Boyce by Dallas-based Applied Digital.</description>
+      <title>U of I expands AI legacy with new degree programs</title>
+      <link>https://www.uidaho.edu/newsroom/ai-degrees</link>
+      <guid isPermaLink="true">https://www.uidaho.edu/newsroom/ai-degrees</guid>
+      <description>Graduate researchers Sarah Davis (left) and Hunter Hawkins (center) work with research faculty John Shovic to find AI solutions for a safety...</description>
     </item>
     <item>
-      <title>Sanders calls on Congress to act now on artificial intelligence</title>
-      <link>https://www.wcax.com/2026/06/23/sanders-calls-congress-act-now-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.wcax.com/2026/06/23/sanders-calls-congress-act-now-artificial-intelligence/</guid>
-      <description>Vermont Sen. Bernie Sanders is warning that artificial intelligence could change life as we know it, and he says the big question is who...</description>
+      <title>The Third Ministerial Summit on the Ethics of Artificial Intelligence</title>
+      <link>https://www.unesco.org/en/articles/third-ministerial-summit-ethics-artificial-intelligence-latin-america-and-caribbean-takes-place</link>
+      <guid isPermaLink="true">https://www.unesco.org/en/articles/third-ministerial-summit-ethics-artificial-intelligence-latin-america-and-caribbean-takes-place</guid>
+      <description>The regional event, organized by UNESCO, CAF and the Dominican Republic, brings together more than 20 delegations to advance toward ethical...</description>
     </item>
     <item>
-      <title>Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-004700921.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-004700921.html</guid>
-      <description>In the artificial intelligence (AI) investing world, investors just got a new option: Space Exploration Technologies (NASDAQ: SPCX),...</description>
+      <title>2 Beaten-Down Artificial Intelligence (AI) Stocks for Contrarian Investors to Consider Buying</title>
+      <link>https://www.fool.com/investing/2026/06/26/2-beaten-down-artificial-intelligence-ai-stocks-to/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/06/26/2-beaten-down-artificial-intelligence-ai-stocks-to/</guid>
+      <description>One way to capitalize on the artificial intelligence (AI) industry is to invest in companies that could benefit from the technology,...</description>
     </item>
     <item>
-      <title>‘AI literacy’ encouraged under CMSD’s newly passed artificial intelligence policy for students and staff</title>
-      <link>https://signalcleveland.org/cleveland-schools-cmsd-approves-artificial-intelligence-ai-policy/</link>
-      <guid isPermaLink="true">https://signalcleveland.org/cleveland-schools-cmsd-approves-artificial-intelligence-ai-policy/</guid>
-      <description>As artificial intelligence (AI) is popping up everywhere, including in classrooms across the country, Cleveland's school district has...</description>
+      <title>Spirituality, Religious Moral Precepts and Artificial Intelligence</title>
+      <link>https://jewishjournal.com/spiritual/poetry/389440/spirituality-religious-moral-precepts-and-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://jewishjournal.com/spiritual/poetry/389440/spirituality-religious-moral-precepts-and-artificial-intelligence/</guid>
+      <description>Religious intelligence is based on two obscure ingredients, one of which is spirituality, a religious feeling that does not make any sense,...</description>
     </item>
     <item>
-      <title>Artificial intelligence for video: how to streamline businesses’ audiovisual workflows</title>
-      <link>https://www.telefonica.com/en/communication-room/blog/artificial-intelligence-video-streamline-businesses-audiovisual-workflows/</link>
-      <guid isPermaLink="true">https://www.telefonica.com/en/communication-room/blog/artificial-intelligence-video-streamline-businesses-audiovisual-workflows/</guid>
-      <description>Find out how artificial intelligence applied to video helps businesses automate audiovisual workflows and reuse content.</description>
+      <title>Sloss Tech class shows small business owners how to use Artificial Intelligence</title>
+      <link>https://www.cbs42.com/news/local/sloss-tech-class-shows-small-business-owners-how-to-use-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.cbs42.com/news/local/sloss-tech-class-shows-small-business-owners-how-to-use-artificial-intelligence/</guid>
+      <description>BIRMINGHAM, Ala. (WIAT) — Artificial intelligence experts met with local small business owners at Sloss Tech to problem solve and find out...</description>
     </item>
     <item>
-      <title>Got $1,000? 2 Artificial Intelligence (AI) Stocks to Buy Right Now and Hold for the Next Decade.</title>
-      <link>https://www.fool.com/investing/2026/06/24/got-1000-2-artificial-intelligence-ai-stocks-to-bu/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/06/24/got-1000-2-artificial-intelligence-ai-stocks-to-bu/</guid>
-      <description>Cloud computing will be a huge long-term beneficiary of the AI buildout.</description>
+      <title>University of Idaho students can now major in AI. What does that mean?</title>
+      <link>https://www.idahostatesman.com/news/local/education/article316269897.html</link>
+      <guid isPermaLink="true">https://www.idahostatesman.com/news/local/education/article316269897.html</guid>
+      <description>Starting this fall, students at the University of Idaho can major in artificial intelligence. The university announced Thursday that it is...</description>
     </item>
   </channel>
 </rss>
