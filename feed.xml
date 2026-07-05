@@ -5,7 +5,7 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:49:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial intelligence: Yann LeCun works on more flexible AI</title>
@@ -14,64 +14,76 @@
       <description>Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.</description>
     </item>
     <item>
-      <title>Unchecked AI progress may pose catastrophic risks, UN panel warns</title>
-      <link>https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/</guid>
-      <description>Developments in artificial ​intelligence are outpacing scientific understanding and government policy, meaning there are no guarantees the...</description>
+      <title>‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots</title>
+      <link>https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html</guid>
+      <description>It takes effort to be an informed citizen. Artificial intelligence tools offer an alluring shortcut — but they're not without risk.</description>
     </item>
     <item>
-      <title>Artificial Intelligence for Information Technology Operations (AIOps) for Financial Services Global Market Report 2026</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-information-technology-operations-080900293.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-information-technology-operations-080900293.html</guid>
-      <description>The AIOps market for financial services is rapidly expanding due to rising data complexity, increased real-time fraud detection needs,...</description>
+      <title>AI security questions loom over NATO summit</title>
+      <link>https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758</guid>
+      <description>The deployment of rapidly advancing artificial intelligence technology is fast becoming a global security imperative.</description>
     </item>
     <item>
-      <title>Smart Home Automation Drives Surge in AI Soundbar Market Expansion</title>
-      <link>https://uk.finance.yahoo.com/news/smart-home-automation-drives-surge-080700470.html</link>
-      <guid isPermaLink="true">https://uk.finance.yahoo.com/news/smart-home-automation-drives-surge-080700470.html</guid>
-      <description>Key market opportunities in the AI soundbar sector include rising demand for smart home entertainment, the growth of voice-enabled and...</description>
+      <title>For one small business, AI was key to a quick start and expansion</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/</guid>
+      <description>Michelle Turner had no experience with startup culture so she developed her funding pitch with AI guidance.</description>
     </item>
     <item>
-      <title>Top Companies Driving Innovation in AI-Powered Education: Carnegie Learning and More</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/top-companies-driving-innovation-ai-082200006.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/top-companies-driving-innovation-ai-082200006.html</guid>
-      <description>Market opportunities in AI for teaching include the rise of personalized learning driven by AI's ability to tailor education to individual...</description>
+      <title>We can debate the ethics of AI but can’t seem to change course | Letters</title>
+      <link>https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course</guid>
+      <description>Letters: Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind.</description>
     </item>
     <item>
-      <title>OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report</title>
-      <link>https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html</guid>
-      <description>Trump said in June that the U.S. taking an ownership stake in AI giants would be "a beautiful thing" and make American public "partners in...</description>
+      <title>The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100</title>
+      <link>https://www.fool.com/investing/2026/07/04/the-artificial-intelligence-ai-memory-supercycle-i/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/04/the-artificial-intelligence-ai-memory-supercycle-i/</guid>
+      <description>Memory companies are poised to grow impressively due to artificial intelligence (AI)-fueled demand, and this fund helps them capitalize on...</description>
     </item>
     <item>
-      <title>A.I. Is Reshaping the Economy. Good Luck Measuring How.</title>
-      <link>https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html</guid>
-      <description>Some data suggest artificial intelligence is already causing job losses. Other sources show the opposite. Why is it so hard to figure out...</description>
+      <title>Bezos opens up about AI startup Prometheus after $12 billion raise: 'We're not being secretive'</title>
+      <link>https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html</guid>
+      <description>Follow CNBC's live coverage of an exclusive interview with Jeff Bezos and Vik Bajaj, co-founders and co-CEOs of artificial intelligence...</description>
     </item>
     <item>
-      <title>SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push</guid>
-      <description>SAP SE said it will cut back hiring and travel to save costs as Europe's largest software company devotes more resources to developing...</description>
+      <title>AI race weakens climate pledges at Google, Amazon</title>
+      <link>https://www.scmp.com/yp/news/world/environment/article/3359313/ai-race-weakens-climate-pledges-google-amazon</link>
+      <guid isPermaLink="true">https://www.scmp.com/yp/news/world/environment/article/3359313/ai-race-weakens-climate-pledges-google-amazon</guid>
+      <description>Greenhouse gas emissions have sharply increased at both companies; UN report finds that data centres are the 11th largest consumer of energy...</description>
     </item>
     <item>
-      <title>Does intelligence ‘emerge’ in large language models?</title>
-      <link>https://www.santafe.edu/news-center/news/does-intelligence-emerge-in-large-language-models</link>
-      <guid isPermaLink="true">https://www.santafe.edu/news-center/news/does-intelligence-emerge-in-large-language-models</guid>
-      <description>Present-day LLMs, such as ChatGPT and Claude, can perform complex tasks, such as writing poetry and solving difficult algebra problems,...</description>
+      <title>Artificial intelligence for food innovation</title>
+      <link>https://www.nature.com/articles/s43016-026-01380-7</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s43016-026-01380-7</guid>
+      <description>Global food systems must deliver nutritious, sustainable foods while sharply reducing environmental impact. Yet, food innovation remains...</description>
     </item>
     <item>
-      <title>Anthropic President Daniela Amodei: 'We must embrace both the positive side and the dark side of AI'</title>
-      <link>https://www.lemonde.fr/en/economy/article/2026/07/02/anthropic-president-daniela-amodei-we-must-embrace-both-the-positive-side-and-the-dark-side-of-ai_6755092_19.html</link>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/economy/article/2026/07/02/anthropic-president-daniela-amodei-we-must-embrace-both-the-positive-side-and-the-dark-side-of-ai_6755092_19.html</guid>
-      <description>The president of the American artificial intelligence start-up, valued at $965 billion and known for its warnings about the risks of this...</description>
+      <title>UNESCO and AI-Lab/CBPF's call for remote access to Artificial Intelligence infrastructure</title>
+      <link>https://www.unesco.org/en/articles/unesco-and-ai-lab/cbpfs-call-remote-access-artificial-intelligence-infrastructure</link>
+      <guid isPermaLink="true">https://www.unesco.org/en/articles/unesco-and-ai-lab/cbpfs-call-remote-access-artificial-intelligence-infrastructure</guid>
+      <description>UNESCO and the Computing and Artificial Intelligence Laboratory at the Brazilian Center for Physics Research (AI-Lab/CBPF) are jointly...</description>
     </item>
     <item>
-      <title>Artificial Intelligence: The Complete Guide</title>
-      <link>https://www.snowflake.com/en/artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.snowflake.com/en/artificial-intelligence/</guid>
-      <description>AI refers to software systems that perform tasks associated with human reasoning — recognizing patterns, making predictions, understanding...</description>
+      <title>The Artificial Intelligence (AI) Memory Supercycle Is Getting Stronger. Here's How You Can Profit From This Boom With Less Than $100</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-memory-supercycle-195000985.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-memory-supercycle-195000985.html</guid>
+      <description>Memory companies are poised to grow impressively due to artificial intelligence (AI)-fueled demand, and this fund helps them capitalize on...</description>
+    </item>
+    <item>
+      <title>Augmented intelligence in medicine</title>
+      <link>https://www.ama-assn.org/practice-management/digital-health/augmented-intelligence-medicine</link>
+      <guid isPermaLink="true">https://www.ama-assn.org/practice-management/digital-health/augmented-intelligence-medicine</guid>
+      <description>The AMA House of Delegates uses the term augmented intelligence (AI) as a conceptualization of artificial intelligence that focuses on AI's assistive role.</description>
+    </item>
+    <item>
+      <title>The future is now: College of Computing &amp; Artificial Intelligence officially launches</title>
+      <link>https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/</link>
+      <guid isPermaLink="true">https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/</guid>
+      <description>UW–Madison's first new college in more than four decades will explore and inform technological change for societal benefit.</description>
     </item>
     <item>
       <title>An Optimist’s Account of Artificial Intelligence</title>
@@ -86,10 +98,22 @@
       <description>National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting · AI tools designed...</description>
     </item>
     <item>
-      <title>Artificial Intelligence for Information Technology Operations (AIOps) for Financial Services Global Market Report 2026</title>
-      <link>https://www.globenewswire.com/news-release/2026/07/03/3321687/28124/en/Artificial-Intelligence-for-Information-Technology-Operations-AIOps-for-Financial-Services-Global-Market-Report-2026.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/07/03/3321687/28124/en/Artificial-Intelligence-for-Information-Technology-Operations-AIOps-for-Financial-Services-Global-Market-Report-2026.html</guid>
-      <description>The AIOps market for financial services is rapidly expanding due to rising data complexity, increased real-time fraud detection needs,...</description>
+      <title>Artificial Intelligence: The Complete Guide</title>
+      <link>https://www.snowflake.com/en/artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.snowflake.com/en/artificial-intelligence/</guid>
+      <description>AI refers to software systems that perform tasks associated with human reasoning — recognizing patterns, making predictions, understanding...</description>
+    </item>
+    <item>
+      <title>How To Train Today’s Youth To Thrive In The AI Era – Analysis</title>
+      <link>https://www.eurasiareview.com/05072026-how-to-train-todays-youth-to-thrive-in-the-ai-era-analysis/</link>
+      <guid isPermaLink="true">https://www.eurasiareview.com/05072026-how-to-train-todays-youth-to-thrive-in-the-ai-era-analysis/</guid>
+      <description>As we transition into the early stages of the artificial intelligence-driven era, it is important to discern and cultivate skills that will...</description>
+    </item>
+    <item>
+      <title>Choice Hotels International Appoints Artificial Intelligence Leader Ali Keshavarz to Board</title>
+      <link>https://www.breakingtravelnews.com/news/article/choice-hotels-international-appoints-artificial-intelligence-leader-ali-kes/</link>
+      <guid isPermaLink="true">https://www.breakingtravelnews.com/news/article/choice-hotels-international-appoints-artificial-intelligence-leader-ali-kes/</guid>
+      <description>Choice Hotels International, Inc., one of the world's leading lodging franchisors, today announced the appointment of Ali Keshavarz,...</description>
     </item>
     <item>
       <title>Pope Leo applies Catholic social teaching to artificial intelligence</title>
@@ -98,34 +122,10 @@
       <description>(RNS) — The key issue is not the use of technology as such, but the vision that underlies it.</description>
     </item>
     <item>
-      <title>Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw</title>
-      <link>https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/</link>
-      <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/</guid>
-      <description>René ​Girard believed man is ⁠a creature ​of imitation. The ​French social theorist's ideas have many fans in ​Silicon Valley.</description>
-    </item>
-    <item>
-      <title>The Integrated Circuit and the Future of AI Leadership</title>
-      <link>https://warontherocks.com/cogs-of-war/the-integrated-circuit-and-the-future-of-ai-leadership/</link>
-      <guid isPermaLink="true">https://warontherocks.com/cogs-of-war/the-integrated-circuit-and-the-future-of-ai-leadership/</guid>
-      <description>Editor's note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects...</description>
-    </item>
-    <item>
-      <title>The future is now: College of Computing &amp; Artificial Intelligence officially launches</title>
-      <link>https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/</link>
-      <guid isPermaLink="true">https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/</guid>
-      <description>UW–Madison's first new college in more than four decades will explore and inform technological change for societal benefit.</description>
-    </item>
-    <item>
-      <title>5 Artificial Intelligence (AI) Stocks to Load Up On in July</title>
-      <link>https://www.fool.com/investing/2026/07/02/5-artificial-intelligence-ai-stocks-to-load-up-on/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/02/5-artificial-intelligence-ai-stocks-to-load-up-on/</guid>
-      <description>With 2026 halfway over, it's a good time for investors to reassess their holdings. Artificial intelligence (AI) investing has been a bit of...</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence Is Helping Businesses Reduce No-Shows and Last-Minute Appointment Cancellations</title>
-      <link>https://natlawreview.com/press-releases/artificial-intelligence-helping-businesses-reduce-no-shows-and-last-minute</link>
-      <guid isPermaLink="true">https://natlawreview.com/press-releases/artificial-intelligence-helping-businesses-reduce-no-shows-and-last-minute</guid>
-      <description>NEW ORLEANS, LA, UNITED STATES, July 2, 2026 /EINPresswire.com/ -- Missed appointments and last-minute cancellations continue to create...</description>
+      <title>Bailey Campaign Embraces Artificial Intelligence in New Era of Politics</title>
+      <link>https://news.wttw.com/2026/07/01/bailey-campaign-embraces-artificial-intelligence-new-era-politics</link>
+      <guid isPermaLink="true">https://news.wttw.com/2026/07/01/bailey-campaign-embraces-artificial-intelligence-new-era-politics</guid>
+      <description>Republican Darren Bailey's campaign for governor is embracing images made with artificial intelligence in social media posts. Gov.</description>
     </item>
   </channel>
 </rss>
