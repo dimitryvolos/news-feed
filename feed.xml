@@ -5,37 +5,13 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:39:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Stymied datacentre projects threaten global AI revolution</title>
-      <link>https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution</guid>
-      <description>Large-scale datacentre projects around the world are being challenged or cancelled, as infrastructure's energy demands ramp up.</description>
-    </item>
-    <item>
-      <title>US trade deficit surges amid artificial intelligence spending boom</title>
-      <link>https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</guid>
-      <description>Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.</description>
-    </item>
-    <item>
-      <title>China warns about AI risks with Anthropic's Claude Code</title>
-      <link>https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</guid>
-      <description>The Chinese Ministry of Industry and Information Technology said Wednesday its cybersecurity threat platform found "AI coding tool Claude...</description>
-    </item>
-    <item>
-      <title>2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/2-artificial-intelligence-ai-memory-074500992.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/2-artificial-intelligence-ai-memory-074500992.html</guid>
-      <description>Earnings season is right around the corner, and technology investors will undoubtedly be looking for signals that the AI trade is alive and...</description>
-    </item>
-    <item>
-      <title>Singapore's Temasek boosts China exposure by $7.7 billion, biggest rise in five years, in AI-driven pivot</title>
-      <link>https://www.cnbc.com/2026/07/08/temaseks-china-investment-jumps-most-in-five-years-artificial-intelligence-.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/08/temaseks-china-investment-jumps-most-in-five-years-artificial-intelligence-.html</guid>
-      <description>Temasek is repositioning its China portfolio toward AI-related hardware and infrastructure, robotics, biotech, energy transition.</description>
+      <title>Opinion | Did We Make the Wrong Bet on Big A.I.?</title>
+      <link>https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html</guid>
+      <description>Maybe Anthropic and OpenAI are not the future of artificial intelligence.</description>
     </item>
     <item>
       <title>EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say</title>
@@ -44,34 +20,58 @@
       <description>Chinese authorities have held meetings ​with top tech firms over the past month about potentially restricting overseas access to China's...</description>
     </item>
     <item>
-      <title>Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build</guid>
-      <description>When Amazon.com Inc. sold its biggest ever bond earlier this year, it was inundated with investor orders amid hype about the artificial...</description>
+      <title>AI giant Anthropic creates drug research tool, plans its own studies for overlooked diseases</title>
+      <link>https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked/</link>
+      <guid isPermaLink="true">https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked/</guid>
+      <description>A major artificial intelligence company is betting its technology can speed up the drug development process and open new possibilities for...</description>
     </item>
     <item>
-      <title>Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios</title>
-      <link>https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</guid>
-      <description>The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.</description>
+      <title>Generative Artificial Intelligence (AI) in Teaching Market Report 2026: Global Analysis Projects 42.8% CAGR and $9.1 Billion Valuation by 2030</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/generative-artificial-intelligence-ai-teaching-080600835.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/generative-artificial-intelligence-ai-teaching-080600835.html</guid>
+      <description>The generative AI in teaching market presents key opportunities through rising online learning adoption, demand for personalized education,...</description>
     </item>
     <item>
-      <title>Gov. JB Pritzker signs first-in-nation Illinois law requiring third-party safety audits for AI giants</title>
-      <link>https://www.chicagotribune.com/2026/07/06/jb-pritzker-ai-regulation/</link>
-      <guid isPermaLink="true">https://www.chicagotribune.com/2026/07/06/jb-pritzker-ai-regulation/</guid>
-      <description>Illinois will be the first state to require independent audits of large artificial intelligence developers' safety practices under a new law...</description>
+      <title>Asian investors eye firms benefiting from but resilient to AI</title>
+      <link>https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/</guid>
+      <description>Asian investors struck a cautious tone on artificial intelligence as they increasingly wager on businesses that can withstand the AI-led...</description>
     </item>
     <item>
-      <title>We Need Planetary Intelligence in the Age of AI</title>
-      <link>https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</link>
-      <guid isPermaLink="true">https://time.com/article/2026/07/07/we-need-planetary-intelligence-in-the-age-of-ai/</guid>
-      <description>Will Marshall, CEO of Planet Labs, argues that planetary intelligence is the key to aligning AI with the best interests of humans.</description>
+      <title>Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment</guid>
+      <description>They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?</description>
     </item>
     <item>
-      <title>Opening remarks on sound practices for artificial intelligence</title>
-      <link>https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</guid>
-      <description>In her remarks, Michelle W. Bowman, Chair of the FSB Standing Committee on Supervisory and Regulatory Cooperation (SRC), discusses the FSB's...</description>
+      <title>Introducing Claude apps gateway for AWS</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</guid>
+      <description>Enterprises deploying Claude Code and Claude Desktop across development teams need centralized control over access, cost, and policy.</description>
+    </item>
+    <item>
+      <title>Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels</guid>
+      <description>After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.'s stock is the cheapest it's been since before the AI...</description>
+    </item>
+    <item>
+      <title>Holy See: Robust governance on AI is needed to ensure it serves humanity</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2026-07/holy-see-permanent-observer-balestrero-artificial-intelligence.html</link>
+      <guid isPermaLink="true">https://www.vaticannews.va/en/vatican-city/news/2026-07/holy-see-permanent-observer-balestrero-artificial-intelligence.html</guid>
+      <description>By Isabella H. de Carvalho. Artificial intelligence needs robust governance in order to serve humanity and respect human dignity,...</description>
+    </item>
+    <item>
+      <title>US trade deficit surges amid artificial intelligence spending boom</title>
+      <link>https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</guid>
+      <description>Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.</description>
+    </item>
+    <item>
+      <title>Fresno State launches artificial intelligence minor open to students across disciplines</title>
+      <link>https://abc30.com/post/fresno-state-launches-artificial-intelligence-minor-open-students-disciplines/19436732/</link>
+      <guid isPermaLink="true">https://abc30.com/post/fresno-state-launches-artificial-intelligence-minor-open-students-disciplines/19436732/</guid>
+      <description>As artificial intelligence becomes increasingly integrated into everyday life and the workforce, Fresno State is expanding educational...</description>
     </item>
     <item>
       <title>Applying Artificial Intelligence and machine learning in precision nutrition</title>
@@ -80,52 +80,52 @@
       <description>A key feature of the Precision Nutrition and Health approach is the ability to tailor interventions to individual variability using...</description>
     </item>
     <item>
+      <title>Conversational Artificial Intelligence and Neuropsychiatric Risk: A Narrative Review and Case-Based Synthesis Proposing a Delusional Feedback Loop</title>
+      <link>https://www.cureus.com/articles/504819-conversational-artificial-intelligence-and-neuropsychiatric-risk-a-narrative-review-and-case-based-synthesis-proposing-a-delusional-feedback-loop</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/504819-conversational-artificial-intelligence-and-neuropsychiatric-risk-a-narrative-review-and-case-based-synthesis-proposing-a-delusional-feedback-loop</guid>
+      <description>Conversational AI, powered by artificial intelligence, is becoming a common tool for accessing health information, educating patients,...</description>
+    </item>
+    <item>
+      <title>‘We also need to talk about artificial intelligence's positive potential,' says AI for Good founder</title>
+      <link>https://genevasolutions.news/science-tech/we-also-need-to-talk-about-artificial-intelligence-s-positive-potential-says-ai-for-good-founder</link>
+      <guid isPermaLink="true">https://genevasolutions.news/science-tech/we-also-need-to-talk-about-artificial-intelligence-s-positive-potential-says-ai-for-good-founder</guid>
+      <description>Since 2017, the United Nations' AI for Good conference in Geneva has brought together researchers, NGOs and tech leaders to discuss the...</description>
+    </item>
+    <item>
       <title>The State of Illinois Newsroom</title>
       <link>https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law</link>
       <guid isPermaLink="true">https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law</guid>
       <description>To stay updated on Governor Pritzker's most recent press conferences, please visit the Governor's Twitter page @GovPritzker or the...</description>
     </item>
     <item>
-      <title>Where Medicine and Artificial Intelligence Converge</title>
-      <link>https://www.nyit.edu/news/articles/where-medicine-and-artificial-intelligence-converge/</link>
-      <guid isPermaLink="true">https://www.nyit.edu/news/articles/where-medicine-and-artificial-intelligence-converge/</guid>
-      <description>As a first-year medical student at NYITCOM, Sungjoon Hong worked on research that focuses on ways AI can be used to help comfort and heal...</description>
+      <title>Opening remarks on sound practices for artificial intelligence</title>
+      <link>https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</guid>
+      <description>In her remarks, Michelle W. Bowman, Chair of the FSB Standing Committee on Supervisory and Regulatory Cooperation (SRC), discusses the FSB's...</description>
     </item>
     <item>
-      <title>2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July</title>
-      <link>https://www.fool.com/investing/2026/07/08/2-artificial-intelligence-ai-memory-stocks-to-buy/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/08/2-artificial-intelligence-ai-memory-stocks-to-buy/</guid>
-      <description>Earnings season is right around the corner, and technology investors will undoubtedly be looking for signals that the AI trade is alive and...</description>
+      <title>Mass-produced science is coming. What happens to scientists?</title>
+      <link>https://www.thetransmitter.org/artificial-intelligence/mass-produced-science-is-coming-what-happens-to-scientists/</link>
+      <guid isPermaLink="true">https://www.thetransmitter.org/artificial-intelligence/mass-produced-science-is-coming-what-happens-to-scientists/</guid>
+      <description>Artificial intelligence may soon enable researchers to generate high-quality science at a previously unimaginable speed.</description>
     </item>
     <item>
-      <title>Pritzker Signs Landmark AI Regulation Bill That Aims to Mitigate Risks</title>
-      <link>https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks</link>
-      <guid isPermaLink="true">https://news.wttw.com/2026/07/06/pritzker-signs-landmark-ai-regulation-bill-aims-mitigate-risks</guid>
-      <description>CHICAGO — Gov. JB Pritzker signed artificial intelligence legislation modeled after similar bills in California and New York on Monday,...</description>
+      <title>The epistemology of death: psychological autopsy, artificial intelligence, and forensic decision-making in equivocal deaths</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1900172</link>
+      <guid isPermaLink="true">https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1900172</guid>
+      <description>Traditional post-mortem examinations primarily focus on determining the biological cause of death (causa mortis).</description>
     </item>
     <item>
-      <title>Multi-dataset Topic best practices for Amazon Quick Chat</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/multi-dataset-topic-best-practices-for-amazon-quick-chat/</guid>
-      <description>Note: The topics referenced throughout this document refer to the new Topics experience (not legacy Topics). For details on the differences,...</description>
+      <title>EU Action Plan on Cybersecurity and Artificial Intelligence</title>
+      <link>https://industrialcyber.co/view/eu-action-plan-on-cybersecurity-and-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/view/eu-action-plan-on-cybersecurity-and-artificial-intelligence/</guid>
+      <description>The European Commission's action plan sets out how the EU will address the cybersecurity implications of advanced and frontier AI. It focuses on safer model...</description>
     </item>
     <item>
-      <title>Artificial Intelligence-Driven Call Center Operations in a High-Volume Neurology Practice: Impact on Access, Efficiency, Revenue Growth, and Cost Containment</title>
-      <link>https://www.cureus.com/articles/505612-artificial-intelligence-driven-call-center-operations-in-a-high-volume-neurology-practice-impact-on-access-efficiency-revenue-growth-and-cost-containment</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/505612-artificial-intelligence-driven-call-center-operations-in-a-high-volume-neurology-practice-impact-on-access-efficiency-revenue-growth-and-cost-containment</guid>
-      <description>Background Healthcare systems face increasing administrative burdens, workforce shortages, rising labor costs, and growing patient...</description>
-    </item>
-    <item>
-      <title>Grants support new research on role of AI in the arts</title>
-      <link>https://www.binghamton.edu/news/story/6349/grants-support-new-research-on-role-of-ai-in-the-arts</link>
-      <guid isPermaLink="true">https://www.binghamton.edu/news/story/6349/grants-support-new-research-on-role-of-ai-in-the-arts</guid>
-      <description>The Provost's Office has provided seed grants to support research addressing the impacts of artificial intelligence and machine learning on...</description>
-    </item>
-    <item>
-      <title>Forsyth County Sheriff's Office tests out new humanoid robot, artificial intelligence</title>
-      <link>https://www.wfmynews2.com/article/news/local/forsyth-county-sheriffs-office-tests-out-new-humanoid-robot-artificial-intelligence-winston-salem-engineering-university-north-carolina-school-arts/83-dc4314d7-b735-4800-9b98-145488f53b2e</link>
-      <guid isPermaLink="true">https://www.wfmynews2.com/article/news/local/forsyth-county-sheriffs-office-tests-out-new-humanoid-robot-artificial-intelligence-winston-salem-engineering-university-north-carolina-school-arts/83-dc4314d7-b735-4800-9b98-145488f53b2e</guid>
-      <description>WINSTON-SALEM, N.C. — An engineering lab in Winston Salem is developing a humanoid robot that could soon be seen patrolling the streets.</description>
+      <title>The Pentagon’s AI Strategy Has a Funding Problem</title>
+      <link>https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/</link>
+      <guid isPermaLink="true">https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/</guid>
+      <description>In the span of two weeks, the White House issued two of the most ambitious artificial intelligence directives in American history.</description>
     </item>
   </channel>
 </rss>
