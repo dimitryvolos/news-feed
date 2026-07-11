@@ -5,73 +5,103 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:51:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Opinion | Did We Make the Wrong Bet on Big A.I.?</title>
-      <link>https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html</guid>
-      <description>Maybe Anthropic and OpenAI are not the future of artificial intelligence.</description>
+      <title>The Case for Nationalizing Artificial Intelligence</title>
+      <link>https://jacobin.com/2026/07/ai-policy-nationalization-commons-work</link>
+      <guid isPermaLink="true">https://jacobin.com/2026/07/ai-policy-nationalization-commons-work</guid>
+      <description>Artificial intelligence has been built by robbing the collective work of humanity. The public built AI — we should own it, not a handful of...</description>
     </item>
     <item>
-      <title>EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say</title>
-      <link>https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/</guid>
-      <description>Chinese authorities have held meetings ​with top tech firms over the past month about potentially restricting overseas access to China's...</description>
+      <title>If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It</title>
+      <link>https://www.fool.com/investing/2026/07/09/if-i-could-only-buy-1-artificial-intelligence-ai-s/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/09/if-i-could-only-buy-1-artificial-intelligence-ai-s/</guid>
+      <description>While artificial intelligence (AI) investing is still a central theme in the market, some of the key players in that space haven't been...</description>
     </item>
     <item>
-      <title>AI giant Anthropic creates drug research tool, plans its own studies for overlooked diseases</title>
-      <link>https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked/</link>
-      <guid isPermaLink="true">https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked/</guid>
-      <description>A major artificial intelligence company is betting its technology can speed up the drug development process and open new possibilities for...</description>
+      <title>Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/micron-ceo-sanjay-mehrotra-announces-065500804.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/micron-ceo-sanjay-mehrotra-announces-065500804.html</guid>
+      <description>In the age of artificial intelligence (AI) infrastructure, Micron Technology's (NASDAQ: MU) plan to invest more than $250 billion in U.S....</description>
     </item>
     <item>
-      <title>Generative Artificial Intelligence (AI) in Teaching Market Report 2026: Global Analysis Projects 42.8% CAGR and $9.1 Billion Valuation by 2030</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/generative-artificial-intelligence-ai-teaching-080600835.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/generative-artificial-intelligence-ai-teaching-080600835.html</guid>
-      <description>The generative AI in teaching market presents key opportunities through rising online learning adoption, demand for personalized education,...</description>
+      <title>Nobel-Winning U.S. Chemist Will Move to China to Lead A.I. Institute</title>
+      <link>https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html</guid>
+      <description>Omar Yaghi of the University of California, Berkeley, will head an initiative to apply artificial intelligence to the discovery of new...</description>
     </item>
     <item>
-      <title>Asian investors eye firms benefiting from but resilient to AI</title>
-      <link>https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/</guid>
-      <description>Asian investors struck a cautious tone on artificial intelligence as they increasingly wager on businesses that can withstand the AI-led...</description>
+      <title>Apple sues OpenAI, alleging the AI company stole trade secrets</title>
+      <link>https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment</guid>
-      <description>They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?</description>
+      <title>Apple sues OpenAI, alleging artificial intelligence company stole trade secrets</title>
+      <link>https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets</guid>
+      <description></description>
     </item>
     <item>
-      <title>Introducing Claude apps gateway for AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/</guid>
-      <description>Enterprises deploying Claude Code and Claude Desktop across development teams need centralized control over access, cost, and policy.</description>
+      <title>Apple files lawsuit, accuses OpenAI of stealing trade secrets</title>
+      <link>https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470</link>
+      <guid isPermaLink="true">https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470</guid>
+      <description></description>
     </item>
     <item>
-      <title>Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels</guid>
-      <description>After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.'s stock is the cheapest it's been since before the AI...</description>
+      <title>Apple sues OpenAI for trade secret theft in blockbuster case</title>
+      <link>https://www.smh.com.au/business/companies/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case-20260711-p60ehf.html</link>
+      <guid isPermaLink="true">https://www.smh.com.au/business/companies/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case-20260711-p60ehf.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>Holy See: Robust governance on AI is needed to ensure it serves humanity</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2026-07/holy-see-permanent-observer-balestrero-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.vaticannews.va/en/vatican-city/news/2026-07/holy-see-permanent-observer-balestrero-artificial-intelligence.html</guid>
-      <description>By Isabella H. de Carvalho. Artificial intelligence needs robust governance in order to serve humanity and respect human dignity,...</description>
+      <title>Artificial intelligence: University of Chicago Law School to ban phones, laptops in classroom for 1st-year students in AI strategy</title>
+      <link>https://abc7chicago.com/post/artificial-intelligence-university-chicago-law-school-ban-phones-laptops-classroom-1st-year-students-ai-strategy/19478035/</link>
+      <guid isPermaLink="true">https://abc7chicago.com/post/artificial-intelligence-university-chicago-law-school-ban-phones-laptops-classroom-1st-year-students-ai-strategy/19478035/</guid>
+      <description>University of Chicago Law School says it will ban phones and laptops in the classroom for first-year students in its artificial intelligence...</description>
     </item>
     <item>
-      <title>US trade deficit surges amid artificial intelligence spending boom</title>
-      <link>https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom</guid>
-      <description>Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.</description>
+      <title>New Fed task force members share Chairman Kevin Warsh's embrace of AI</title>
+      <link>https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html</guid>
+      <description>The three members of a task force advising the Fed on artificial intelligence are strong proponents of the technology.</description>
     </item>
     <item>
-      <title>Fresno State launches artificial intelligence minor open to students across disciplines</title>
-      <link>https://abc30.com/post/fresno-state-launches-artificial-intelligence-minor-open-students-disciplines/19436732/</link>
-      <guid isPermaLink="true">https://abc30.com/post/fresno-state-launches-artificial-intelligence-minor-open-students-disciplines/19436732/</guid>
-      <description>As artificial intelligence becomes increasingly integrated into everyday life and the workforce, Fresno State is expanding educational...</description>
+      <title>Silicon Valley's next generation feels the AI blues</title>
+      <link>https://www.lemonde.fr/en/m-le-mag/article/2026/07/11/when-it-comes-to-ai-nothing-s-right-silicon-valley-is-torn_6755365_117.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/en/m-le-mag/article/2026/07/11/when-it-comes-to-ai-nothing-s-right-silicon-valley-is-torn_6755365_117.html</guid>
+      <description>In California, the rise of artificial intelligence no longer generates the unanimous enthusiasm it once did. Anxiety is mounting, especially...</description>
+    </item>
+    <item>
+      <title>How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/</guid>
+      <description>In this post, learn how KTern.AI, an SAP digital transformation platform, used Amazon Bedrock AgentCore to build and deploy AI agents ready...</description>
+    </item>
+    <item>
+      <title>Nvidia Stock Rises as It Shrugs Off Meta’s New AI Chip</title>
+      <link>https://www.barrons.com/articles/nvidia-stock-price-meta-632e43fd</link>
+      <guid isPermaLink="true">https://www.barrons.com/articles/nvidia-stock-price-meta-632e43fd</guid>
+      <description>stock was gaining on Friday, even as its biggest customers continue to put more resources into in-house artificial-intelligence processors.</description>
+    </item>
+    <item>
+      <title>Superhuman Artificial Intelligence Will Make Mistakes in Forecasting Reality</title>
+      <link>https://avi-loeb.medium.com/superhuman-artificial-intelligence-will-make-mistakes-in-forecasting-reality-2623c1aa5db0</link>
+      <guid isPermaLink="true">https://avi-loeb.medium.com/superhuman-artificial-intelligence-will-make-mistakes-in-forecasting-reality-2623c1aa5db0</guid>
+      <description>Superhuman Artificial Intelligence Will Make Mistakes in Forecasting Reality As we approached Gillette Stadium near Boston, Massachusetts,...</description>
+    </item>
+    <item>
+      <title>Berkeley Talks: When we talk to AI, what are we talking to?</title>
+      <link>https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/</link>
+      <guid isPermaLink="true">https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/</guid>
+      <description>Follow Berkeley Talks, a Berkeley News podcast that features lectures and conversations at UC Berkeley. See all Berkeley Talks.</description>
+    </item>
+    <item>
+      <title>Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development</title>
+      <link>https://www.fool.com/investing/2026/07/11/micron-sanjay-mehrotra-announces-250-billion-expan/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/11/micron-sanjay-mehrotra-announces-250-billion-expan/</guid>
+      <description>In the age of artificial intelligence (AI) infrastructure, Micron Technology's (MU 1.05%) plan to invest more than $250 billion in U.S. fab...</description>
     </item>
     <item>
       <title>Applying Artificial Intelligence and machine learning in precision nutrition</title>
@@ -80,52 +110,22 @@
       <description>A key feature of the Precision Nutrition and Health approach is the ability to tailor interventions to individual variability using...</description>
     </item>
     <item>
-      <title>Conversational Artificial Intelligence and Neuropsychiatric Risk: A Narrative Review and Case-Based Synthesis Proposing a Delusional Feedback Loop</title>
-      <link>https://www.cureus.com/articles/504819-conversational-artificial-intelligence-and-neuropsychiatric-risk-a-narrative-review-and-case-based-synthesis-proposing-a-delusional-feedback-loop</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/504819-conversational-artificial-intelligence-and-neuropsychiatric-risk-a-narrative-review-and-case-based-synthesis-proposing-a-delusional-feedback-loop</guid>
-      <description>Conversational AI, powered by artificial intelligence, is becoming a common tool for accessing health information, educating patients,...</description>
+      <title>7 CFO risks from the high-stakes adoption of AI</title>
+      <link>https://www.cfodive.com/news/7-cfo-risks-high-stakes-adoption-ai-artificial-intelligence/824080/</link>
+      <guid isPermaLink="true">https://www.cfodive.com/news/7-cfo-risks-high-stakes-adoption-ai-artificial-intelligence/824080/</guid>
+      <description>There's a risk of losing people who don't want to innovate or who are scared of how this plays out,” Nintex CFO Burt Chao said.</description>
     </item>
     <item>
-      <title>‘We also need to talk about artificial intelligence's positive potential,' says AI for Good founder</title>
-      <link>https://genevasolutions.news/science-tech/we-also-need-to-talk-about-artificial-intelligence-s-positive-potential-says-ai-for-good-founder</link>
-      <guid isPermaLink="true">https://genevasolutions.news/science-tech/we-also-need-to-talk-about-artificial-intelligence-s-positive-potential-says-ai-for-good-founder</guid>
-      <description>Since 2017, the United Nations' AI for Good conference in Geneva has brought together researchers, NGOs and tech leaders to discuss the...</description>
+      <title>Executive Order on Artificial Intelligence Expands Cybersecurity, Federal Oversight</title>
+      <link>https://www.pymnts.com/cpi-posts/executive-order-on-artificial-intelligence-expands-cybersecurity-federal-oversight/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/cpi-posts/executive-order-on-artificial-intelligence-expands-cybersecurity-federal-oversight/</guid>
+      <description>In this insight piece for Holland &amp; Knight, authors Aria Austin &amp; Daniel J. Barsky examine the White House's June 2, 2026 executive order,...</description>
     </item>
     <item>
-      <title>The State of Illinois Newsroom</title>
-      <link>https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law</link>
-      <guid isPermaLink="true">https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law</guid>
-      <description>To stay updated on Governor Pritzker's most recent press conferences, please visit the Governor's Twitter page @GovPritzker or the...</description>
-    </item>
-    <item>
-      <title>Opening remarks on sound practices for artificial intelligence</title>
-      <link>https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/</guid>
-      <description>In her remarks, Michelle W. Bowman, Chair of the FSB Standing Committee on Supervisory and Regulatory Cooperation (SRC), discusses the FSB's...</description>
-    </item>
-    <item>
-      <title>Mass-produced science is coming. What happens to scientists?</title>
-      <link>https://www.thetransmitter.org/artificial-intelligence/mass-produced-science-is-coming-what-happens-to-scientists/</link>
-      <guid isPermaLink="true">https://www.thetransmitter.org/artificial-intelligence/mass-produced-science-is-coming-what-happens-to-scientists/</guid>
-      <description>Artificial intelligence may soon enable researchers to generate high-quality science at a previously unimaginable speed.</description>
-    </item>
-    <item>
-      <title>The epistemology of death: psychological autopsy, artificial intelligence, and forensic decision-making in equivocal deaths</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1900172</link>
-      <guid isPermaLink="true">https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1900172</guid>
-      <description>Traditional post-mortem examinations primarily focus on determining the biological cause of death (causa mortis).</description>
-    </item>
-    <item>
-      <title>EU Action Plan on Cybersecurity and Artificial Intelligence</title>
-      <link>https://industrialcyber.co/view/eu-action-plan-on-cybersecurity-and-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://industrialcyber.co/view/eu-action-plan-on-cybersecurity-and-artificial-intelligence/</guid>
-      <description>The European Commission's action plan sets out how the EU will address the cybersecurity implications of advanced and frontier AI. It focuses on safer model...</description>
-    </item>
-    <item>
-      <title>The Pentagon’s AI Strategy Has a Funding Problem</title>
-      <link>https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/</link>
-      <guid isPermaLink="true">https://warontherocks.com/cogs-of-war/the-pentagons-ai-strategy-has-a-funding-problem/</guid>
-      <description>In the span of two weeks, the White House issued two of the most ambitious artificial intelligence directives in American history.</description>
+      <title>Artificial intelligence raises new questions for Minnesota campaigns</title>
+      <link>https://www.twincities.com/2026/07/10/artificial-intelligence-minnesota-campaigns/</link>
+      <guid isPermaLink="true">https://www.twincities.com/2026/07/10/artificial-intelligence-minnesota-campaigns/</guid>
+      <description>"Minnesotans don't want this in their elections": Experts and lawmakers discuss just how intertwined AI use in campaigns could be.</description>
     </item>
   </channel>
 </rss>
