@@ -5,235 +5,167 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:25:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Will AI help you do your job or replace you?</title>
-      <link>https://www.bbc.com/news/articles/cn7nllr4vd6o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn7nllr4vd6o</guid>
-      <description># Will AI help you do your job or replace you?
-Artificial Intelligence (AI) companies are making vast claims about the ability of their tools to replace human labour.
+      <title>OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack</title>
+      <link>https://www.bbc.com/news/articles/c3ek3gvdnj3o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3ek3gvdnj3o</guid>
+      <description># OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
+Automatically selects the best quality available
+
+## 'Sobering moment'
+It comes a week after Chinese AI start-up Moonshot unveiled Kimi K3 - a massive new artificial intelligence model [it said could rival top US firms](https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o).
 
 [Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>'We do not want to highlight this yet': AI data centre's FAQ slip-up</title>
-      <link>https://www.abc.net.au/news/2026-07-22/tasmania-firmus-ai-data-centre-plan-to-use-irrigation-water/106935718</link>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-07-22/tasmania-firmus-ai-data-centre-plan-to-use-irrigation-water/106935718</guid>
-      <description>## Explore the ABC
-Artificial intelligence company Firmus plans to use state-owned agricultural irrigation water
+      <title>OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim</title>
+      <link>https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks</guid>
+      <description># OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence
+Philosopher Nick Bostrom popularized it back in 2003 with his “paperclip maximizer” thought experiment: an advanced artificial intelligence, given the goal of manufacturing paperclips, might go to great lengths to do so.
 
-# Artificial intelligence company Firmus plans to use state-owned agricultural irrigation water
-Firmus is building an AI factory at St Leonards in Tasmania's north and has proposed two more at Bell Bay and Wesley Vale.(
-
-## What's next?
-AI factories contain data centre infrastructure, advanced cooling systems and graphics processing units which generate AI tokens — the currency of AI needed for tools such as ChatGPT.</description>
-    </item>
-    <item>
-      <title>OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library</title>
-      <link>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</guid>
-      <description># static01.nyt.com is blocked
-OpenAI said on Tuesday that two of its artificial intelligence models went rogue and successfully hacked into Hugging Face, a digital library of A.I. technology that is popular among developers.</description>
-    </item>
-    <item>
-      <title>‘Unprecedented’: OpenAI says AI models autonomously hacked another company</title>
-      <link>https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company</guid>
-      <description>![BERLIN, GERMANY - FEBRUARY 07: Sam Altman, co-founder and CEO of OpenAI, speaks during a panel discussion titled "The Age of AI" at the Technical University of Berlin on February 07, 2025 in Berlin, Germany. Altman said he predicts the pace of artificial intelligence's usefulness in the next two years will accelerate markedly compared to the last two years. (Photo by Sean Gallup/Getty Images)](https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6018089d-1784682504.jpg?resize=770%2C513&amp;quality=80)
-
-ChatGPT creator OpenAI has said that two of its most advanced artificial intelligence models broke out of a controlled test and hacked another AI company.</description>
-    </item>
-    <item>
-      <title>OpenAI admits its models hacked another company in 'unprecedented cyber incident'</title>
-      <link>https://news.sky.com/story/openai-admits-its-models-hacked-another-company-in-unprecedented-cyber-incident-13565814</link>
-      <guid isPermaLink="true">https://news.sky.com/story/openai-admits-its-models-hacked-another-company-in-unprecedented-cyber-incident-13565814</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company</title>
-      <link>https://www.lemonde.fr/en/pixels/article/2026/07/22/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another-company_6755712_13.html</link>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/pixels/article/2026/07/22/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another-company_6755712_13.html</guid>
-      <description>ChatGPT maker OpenAI said Tuesday, July 21, that its artificial intelligence system hacked into another AI company on its own in what the company called an "unprecedented cyber incident."
-
-OpenAI said its AI used stolen credentials and discovered a previously unknown vulnerability to access Hugging Face servers.
-
-Read moreSubscribers only [Artificial intelligence: Xi Jinping promotes open and accessible Chinese alternative to challenge the US](https://www.lemonde.fr/en/economy/article/2026/07/18/artificial-intelligence-xi-jinping-promotes-open-and-accessible-chinese-alternative-to-challenge-the-us_6755604_19.html)</description>
-    </item>
-    <item>
-      <title>Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges</title>
-      <link>https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8</guid>
-      <description># White House to Redirect Billions in Research Funds Toward AI, Away From Colleges
-## The overhaul will reshape $200 billion in spending a year and favors individual scientists to outpace China
-WASHINGTON—The Trump administration plans to accelerate its overhaul of federal research by supporting more individual scientists and the use of artificial intelligence rather than universities, its latest attempt to accelerate technological discovery [to combat China](https://www.wsj.com/tech/ai/top-american-ai-execs-sound-alarm-on-chinese-models-3c74f8c1?mod=article_inline).</description>
-    </item>
-    <item>
-      <title>The U.S. is controlling global access to the world's most powerful AI</title>
-      <link>https://www.upi.com/Voices/2026/07/21/legally-or-not-US-controlling-access-most-powerful-AI/1921784642296/</link>
-      <guid isPermaLink="true">https://www.upi.com/Voices/2026/07/21/legally-or-not-US-controlling-access-most-powerful-AI/1921784642296/</guid>
-      <description># The U.S. is controlling global access to the world's most powerful AI
-Commerce Department ordered Anthropic on June 12, 2026, to immediately [prevent all foreign nationals](https://www.anthropic.com/news/fable-mythos-access) from using the artificial intelligence company's two most advanced large language models, it disabled its Claude Fable 5 and Mythos 5 models within hours, making them [inaccessible to everyone](https://www.anthropic.com/news/fable-mythos-access).
-
-# Ask UPI
-### Latest Headlines
-Large language artificial intelligence models, such as ChatGPT, often misjudge what people outside the West might value as a moral priority.</description>
-    </item>
-    <item>
-      <title>AI is writing, acting and producing China’s minidramas. It’s shaking a $14 billion industry.</title>
-      <link>https://www.nbcnews.com/world/china/china-minidrama-artificial-intelligence-unemployed-actors-microdramas-rcna587414</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/world/china/china-minidrama-artificial-intelligence-unemployed-actors-microdramas-rcna587414</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>China weighs tighter export controls on AI models and chips</title>
-      <link>https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>When China Gets Its Own Mythos</title>
-      <link>https://www.foreignaffairs.com/china/when-china-gets-its-own-mythos</link>
-      <guid isPermaLink="true">https://www.foreignaffairs.com/china/when-china-gets-its-own-mythos</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China</title>
-      <link>https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Election voting advice from AI chatbots ‘inaccurate and unreliable’</title>
-      <link>https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary</guid>
-      <description># Election voting advice from AI chatbots ‘inaccurate and unreliable’
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/2-reason-buy-warren-buffetts-090500280.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/2-reason-buy-warren-buffetts-090500280.html</guid>
-      <description># 2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell
-- 540p
-- 270p
-- Autoselected
-
-Audio Track
-
-## 1. AI is turbo-charging Alphabet's existing businesses
-AI is also funneling significant business to Google Cloud.</description>
+      <title>OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.</title>
+      <link>https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190</guid>
+      <description># OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.
+An alarming cybersecurity incident involving OpenAI’s newest and most advanced artificial intelligence technology has lawmakers hurrying to advance legislation that they say is needed to prevent AI from spinning dangerously outside human control.</description>
     </item>
     <item>
-      <title>How much energy do data centers and artificial intelligence use?</title>
-      <link>https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use</link>
-      <guid isPermaLink="true">https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use</guid>
-      <description>Few — if any — technologies have been [adopted as quickly](https://www.nber.org/system/files/working_papers/w32966/w32966.pdf) as artificial intelligence (AI).
-
-# **Future energy demand for AI is very uncertain**
-#### Acknowledgments
-- [![A dark blue background with a lighter blue world map superimposed over it. Yellow text that says Artificial Intelligence by Our World in Data](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/bd76d67a-a5f3-4b21-8a94-d67b5459e200/w=1200)\
-\
-**Artificial Intelligence** \
-\
-AI already has a large impact on our world. Explore research and data to understand the trajectory of this important technology.](https://ourworldindata.org/artificial-intelligence)
-
-### Cite this work
-```
-Hannah Ritchie (2026) - “How much energy do data centers and artificial intelligence use?” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20260720-091756/how-much-energy-do-data-centers-and-artificial-intelligence-use.html' [Online Resource] (archived on July 20, 2026).
-```
-
-```
-@article{owid-how-much-energy-do-data-centers-and-artificial-intelligence-use,
-    author = {Hannah Ritchie},
-    title = {How much energy do data centers and artificial intelligence use?},
-    journal = {Our World in Data},
-    year = {2026},
-    note = {https://archive.ourworldindata.org/20260720-091756/how-much-energy-do-data-centers-and-artificial-intelligence-use.html}
-}
-```</description>
+      <title>Tech giant OpenAI plans to build $20 billion data center near Georgia coast</title>
+      <link>https://www.ajc.com/news/2026/07/tech-giant-openai-plans-to-build-20-billion-data-center-near-georgia-coast/</link>
+      <guid isPermaLink="true">https://www.ajc.com/news/2026/07/tech-giant-openai-plans-to-build-20-billion-data-center-near-georgia-coast/</guid>
+      <description>OpenAI, the artificial intelligence company behind the ChatGPT chatbot, said it intends to build a $20 billion data center in an [industrial park](https://savannahgatewayindustrialhub.com/) in mostly rural Effingham County, about a 30-minute drive from Savannah’s downtown.</description>
     </item>
     <item>
-      <title>Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-powers-up-1gw-ai-data-center-built-entirely-on-chinese-chips</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-powers-up-1gw-ai-data-center-built-entirely-on-chinese-chips</guid>
-      <description>The blacklisted Chinese AI lab's gigawatt-class site is among the largest built by any Chinese model developer.</description>
+      <title>Amazon Cuts Jobs in Artificial General Intelligence Unit</title>
+      <link>https://www.wsj.com/tech/ai/amazon-cuts-jobs-in-artificial-general-intelligence-unit-fb86e2ba</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/amazon-cuts-jobs-in-artificial-general-intelligence-unit-fb86e2ba</guid>
+      <description># ![](https://www.wsj.com/asset/piano/wsj/img/wsj-lock.svg)   Subscribe to continue reading your article
+## Up Next
+### [Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.](https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=WTRN_pos8)
+12 hours ago
+
+[![](https://images.mktw.net/im-17493788?width=330&amp;height=185)](https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=WTRN_pos8)
+
+[Chronometer Partners’ Matthew Smith says investors and markets are not prepared for a natural-gas shortage.](https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=WTRN_pos8)
+
+[Continue To Article](https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=WTRN_pos8)</description>
     </item>
     <item>
-      <title>Manhattan University Launches Minor in Artificial Intelligence</title>
-      <link>https://manhattan.edu/news/archive/2026/07/manhattan-university-launches-minor-in-artificial-intelligence</link>
-      <guid isPermaLink="true">https://manhattan.edu/news/archive/2026/07/manhattan-university-launches-minor-in-artificial-intelligence</guid>
-      <description># Manhattan University Launches Minor in Artificial Intelligence
-Starting Fall 2026, Manhattan University is launching a new minor program in Artificial Intelligence.
+      <title>Amazon cuts jobs in its artificial general intelligence group</title>
+      <link>https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/world-at-work/amazon-cuts-jobs-its-artificial-general-intelligence-group-2026-07-22/</guid>
+      <description>SAN FRANCISCO, July 22 (Reuters) - Amazon [(AMZN.O), opens new tab](https://www.reuters.com/markets/companies/AMZN.O) on Wednesday cut jobs in ​its artificial general intelligence group, marking the latest in ‌a series of smaller reductions across the company since a much larger one in January.
 
-Image
-
-![AI or Artificial intelligence concept. Businessman using computer use ai to help business and used in daily life, Digital Transformation, Internet of Things, Artificial intelligence brain,](https://manhattan.edu/sites/default/files/styles/4_3_327w/public/media/2026-07/ai-minor-3000x2000.jpg?h=c6980913&amp;itok=lYbPpHEH)
-
-RIVERDALE, N.Y. — Manhattan University will launch a [minor in artificial intelligence](https://manhattan.edu/academics/programs/ai-minor) in fall 2026, giving students across every discipline structured instruction in how intelligent systems work and how to apply them responsibly.
-
-The new minor draws on the combined strengths of all three of the University's schools, the Kakos School of Arts and Sciences, the O'Malley School of Business and the School of Engineering, and builds on established programs in computer science, computer information systems, business analytics, and electrical and computer engineering.
-
-"Artificial intelligence touches every discipline, and our students deserve more than a surface-level familiarity with it," said Bridget Chalk, Ph.D., provost of Manhattan University. "This minor gives students in any major, from business to engineering to the liberal arts, a genuine understanding of how AI works and how to use it responsibly in their fields."
-
-Open to students in every major across the University, the minor was developed jointly by faculty in computer science, computer information systems, business analytics, accounting, law, and electrical, computer and mechanical engineering. It provides structured, interdisciplinary instruction in AI fundamentals: how intelligent systems work, what their limitations are and how to apply them responsibly.
-
-Students choose from a core of upper-level courses in areas including machine learning, data mining, deep learning and generative AI, trustworthy AI, image processing, and AI applications in business and engineering design.
-
-Consistent with the University's Lasallian mission, the minor also challenges students to weigh the ethical and societal implications of artificial intelligence, asking not only what intelligent systems can do, but what they should do.
-
-For more information, visit manhattan.edu/AI.
-
-**Media Contact:**
-
-Robert Cole
-
-Executive Director of Marketing
-
-Manhattan University</description>
+Artificial general intelligence is a hypothetical AI system that surpasses ​human intelligence and can learn, grow and operate autonomously.</description>
     </item>
     <item>
-      <title>HCA Healthcare’s strategic approach to scaling artificial intelligence</title>
-      <link>https://hcahealthcaretoday.com/2026/07/21/hca-healthcares-strategic-approach-to-scaling-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://hcahealthcaretoday.com/2026/07/21/hca-healthcares-strategic-approach-to-scaling-artificial-intelligence/</guid>
-      <description># HCA Healthcare’s strategic approach to scaling artificial intelligence
-## Background
-The group collaborated with external technology partners, including Google, Palantir, GE HealthCare, and Augmedix (now a Commure company), to explore using generative AI to streamline administrative tasks for healthcare staff and allow clinicians to spend more direct time with patients, addressing issues identified by care teams.</description>
+      <title>Amazon cuts some jobs in its artificial general intelligence unit</title>
+      <link>https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html</guid>
+      <description>Amazon cuts some jobs in its artificial general intelligence unit
+
+- Amazon is laying off some employees in its group focused on artificial general intelligence.
+
+![Andy Jassy, chief executive officer of Amazon.com Inc., speaks during an unveiling event in New York, US, on Wednesday, Feb. 26, 2025. Amazon.com Inc. announced a new, rebuilt Alexa voice assistant, known as Alexa+, which will have generative artificial intelligence (AI) features. Photographer: Michael Nagle/Bloomberg via Getty Images](https://image.cnbcfm.com/api/v1/image/108107708-1740584303156-gettyimages-2201489565-ALEXA_AI_UNVEILING.jpeg?v=1784747366&amp;w=1858&amp;h=1045&amp;vtcrop=y)
+
+[Amazon](https://www.cnbc.com/quotes/AMZN/) is laying off some employees in its unit focused on artificial general intelligence, the company confirmed Wednesday, as it continues to cut jobs while pouring money into AI.
+
+AGI generally refers to AI that can perform as well or better than humans on most tasks.</description>
     </item>
     <item>
-      <title>Heat, hardware and high stakes at China’s biggest World AI Conference</title>
-      <link>https://www.scmp.com/tech/article/3361404/heat-hardware-and-high-stakes-chinas-biggest-world-artificial-intelligence-conference</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/article/3361404/heat-hardware-and-high-stakes-chinas-biggest-world-artificial-intelligence-conference</guid>
-      <description>[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=breadcrumb&amp;pgtype=article)
-
-# Heat, hardware and high stakes at China’s biggest World Artificial Intelligence Conference
-### SCMP’s Ann Cao just finished covering her sixth WAIC in Shanghai, and now she’s eagerly looking forward to the next one
-[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=topic_widget&amp;pgtype=article)
-
-## Tech self-reliance takes the stage at China’s World AI Conference
-[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [Xi Jinping](https://www.scmp.com/topics/xi-jinping?module=related_topics&amp;pgtype=article) | [China technology](https://www.scmp.com/topics/china-technology?module=related_topics&amp;pgtype=article) | [Huawei](https://www.scmp.com/topics/huawei?module=related_topics&amp;pgtype=article) | [Unitree Robotics](https://www.scmp.com/topics/unitree-robotics?module=related_topics&amp;pgtype=article) | [Robotics](https://www.scmp.com/topics/robotics?module=related_topics&amp;pgtype=article) | [Alibaba](https://www.scmp.com/topics/alibaba?module=related_topics&amp;pgtype=article) | [Mainland China](https://www.scmp.com/topics/china?module=related_topics&amp;pgtype=article) | [Tencent](https://www.scmp.com/topics/tencent?module=related_topics&amp;pgtype=article) | [Technology](https://www.scmp.com/topics/technology?module=related_topics&amp;pgtype=article)</description>
+      <title>Amazon lays off employees in artificial general intelligence unit</title>
+      <link>https://www.bizjournals.com/seattle/news/2026/07/22/amazon-cuts-ai-employees.html</link>
+      <guid isPermaLink="true">https://www.bizjournals.com/seattle/news/2026/07/22/amazon-cuts-ai-employees.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>Great Valley adds research-focused master's to artificial intelligence programs</title>
-      <link>https://www.psu.edu/news/great-valley/story/great-valley-adds-research-focused-masters-artificial-intelligence-programs</link>
-      <guid isPermaLink="true">https://www.psu.edu/news/great-valley/story/great-valley-adds-research-focused-masters-artificial-intelligence-programs</guid>
-      <description># Great Valley adds research-focused master's to artificial intelligence programs
-## New research-intensive master of science degree prepares students for research careers in industry and academia and for doctoral study
-MALVERN, Pa. — Penn State Great Valley will offer a [master of science in artificial intelligence](https://greatvalley.psu.edu/academics/masters-degrees/master-science-artificial-intelligence) (AI), beginning in fall 2026.
+      <title>New bill takes aim at Chinese AI companies accused of copying American tech</title>
+      <link>https://www.nbcnews.com/tech/tech-news/bill-takes-aim-chinese-ai-companies-accused-us-tech-rcna588686</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/bill-takes-aim-chinese-ai-companies-accused-us-tech-rcna588686</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China's Moonshot AI stole from Anthropic, Trump tech adviser says</title>
+      <link>https://www.bbc.com/news/articles/c5ye2gyz0x4o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5ye2gyz0x4o</guid>
+      <description># China's Moonshot AI stole from Anthropic, Trump tech adviser says
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>Startup founders urge Trump not to shut off Chinese open weight AI</title>
+      <link>https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>As China advances in AI, Trump faces a new test in the technology race</title>
+      <link>https://www.washingtonpost.com/technology/2026/07/22/china-advances-ai-trump-faces-new-test-technology-race/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/07/22/china-advances-ai-trump-faces-new-test-technology-race/</guid>
+      <description>For months, America’s top artificial intelligence companies have appeared to be comfortably far ahead of their Chinese rivals, launching new flagship models with capabilities that have dazzled their most voracious users.</description>
+    </item>
+    <item>
+      <title>The Future of Finance Depends on Better Workflows, Not Better AI</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/</guid>
+      <description>Artificial intelligence is not creating a finance revolution as much as it is conducting an audit. John Landy, chief technology officer at...</description>
+    </item>
+    <item>
+      <title>This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet)</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/favorite-artificial-intelligence-stock-buy-202100330.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/favorite-artificial-intelligence-stock-buy-202100330.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/3-unstoppable-artificial-intelligence-ai-123500299.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/3-unstoppable-artificial-intelligence-ai-123500299.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stocks and the Economy Are Increasingly Relying on the A.I. Boom</title>
+      <link>https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.</title>
+      <link>https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29</link>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI, audits and OSINT featured in House intel bill</title>
+      <link>https://federalnewsnetwork.com/intelligence-community/2026/07/ai-audits-and-osint-featured-in-house-intel-bill/</link>
+      <guid isPermaLink="true">https://federalnewsnetwork.com/intelligence-community/2026/07/ai-audits-and-osint-featured-in-house-intel-bill/</guid>
+      <description># AI, audits and OSINT featured in House intel bill
+## IC audits and budgets
+### Related Stories
+#### Are practical politics—and some strategic horse trading—returning to Congress?
+[Agency Oversight](https://federalnewsnetwork.com/category/management/agency-oversight/) [All News](https://federalnewsnetwork.com/category/all-news/) [Artificial Intelligence](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/) [Budget](https://federalnewsnetwork.com/category/management/budget/) [Christopher Fox](https://federalnewsnetwork.com/tag/christopher-fox/) [Chuck Grassley](https://federalnewsnetwork.com/tag/chuck-grassley/) [Congress](https://federalnewsnetwork.com/category/congress/) [Financial Management](https://federalnewsnetwork.com/category/management/financial-management/) [House Permanent Select Committee on Intelligence](https://federalnewsnetwork.com/tag/house-permanent-select-committee-on-intelligence/) [Inspector General](https://federalnewsnetwork.com/tag/inspector-general/) [Intelligence Community](https://federalnewsnetwork.com/category/intelligence-community/) [Management](https://federalnewsnetwork.com/category/management/) [Office of the Director of National Intelligence](https://federalnewsnetwork.com/tag/office-of-the-director-of-national-intelligence/) [open source intelligence](https://federalnewsnetwork.com/tag/open-source-intelligence/) [OSINT](https://federalnewsnetwork.com/tag/osint/) [Rick Crawford](https://federalnewsnetwork.com/tag/rick-crawford/) [Technology](https://federalnewsnetwork.com/category/technology-main/)</description>
+    </item>
+    <item>
+      <title>Google is hoarding TPUs to chase artificial general intelligence</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755</link>
+      <guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755</guid>
+      <description># Google is hoarding TPUs to chase artificial general intelligence
+Google’s parent company Alphabet is managing its fleet of AI accelerators to prioritize research on artificial general intelligence, rather than renting them all to customers.
 
-“The M.S. in artificial intelligence addresses the growing need for professionals who can conduct original research and develop new AI methods,” said Youakim Badr, professor-in-charge of the artificial intelligence program.
+“In terms of allocating our TPUs … our first priority is making sure we are allocating what we need to compete at the frontier in terms of AGI development,” Pichai replied, referring to Artificial General Intelligence –AIs that possesses human-like intelligence.
 
-## Great Valley’s AI graduate programs
-The new M.S. in artificial intelligence expands Great Valley’s portfolio by providing a research-oriented pathway for students who want to develop new AI methods, contribute original knowledge to the field or prepare for doctoral study.
-
-In contrast with Great Valley’s [master of artificial intelligence](https://greatvalley.psu.edu/academics/masters-degrees/master-artificial-intelligence), which is oriented toward professional practice, this research-oriented M.S. program emphasizes theoretical foundations, mathematical modeling, algorithm development and empirical research.
-
-The master of artificial intelligence, highly ranked by U.S. News and World Report, has two options: AI engineering, for programmers who want to design these systems, or the [applied and generative AI option](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-artificial-intelligence-applied-and-generative-ai-masters-degree), offered only online, which harnesses low- or no-code AI tools for business innovation and transformation.
-
-Great Valley’s new [MBA in AI program](https://greatvalley.psu.edu/academics/masters-degrees/business-artificial-intelligence/), also launching in fall 2026, equips students with expertise in both AI and business, preparing them to redesign organizational workflows and build AI-powered enterprises.
-
-### Tags
-- [Artificial Intelligence](https://www.psu.edu/news/artificial-intelligence)</description>
+## MORE CONTEXT
+[cloud computing](https://www.theregister.com/tag/cloud%20computing) [artificial general intelligence](https://www.theregister.com/tag/artificial%20general%20intelligence) [alphabet](https://www.theregister.com/tag/alphabet) [ai and ml](https://www.theregister.com/tag/ai%20and%20ml) [gpu](https://www.theregister.com/tag/gpu) [tpu](https://www.theregister.com/tag/tpu) [search](https://www.theregister.com/tag/search) [google cloud platform](https://www.theregister.com/tag/google%20cloud%20platform) [google](https://www.theregister.com/tag/google)</description>
+    </item>
+    <item>
+      <title>Investigating Religious Bias In Leading Artificial Intelligence Models</title>
+      <link>https://religionunplugged.com/news/2026/7/21/investigating-religious-bias-in-leading-ai-models</link>
+      <guid isPermaLink="true">https://religionunplugged.com/news/2026/7/21/investigating-religious-bias-in-leading-ai-models</guid>
+      <description>An ethics professor breaks down a recent study exposing religious bias in all major AI models. He thinks throwing out all bias is a bad...</description>
     </item>
   </channel>
 </rss>
