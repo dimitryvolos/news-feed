@@ -5,8 +5,44 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:35:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI's rogue models roamed the internet for 4 days and staged a second attack</title>
+      <link>https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</guid>
+      <description># OpenAI's rogue models roamed the internet for 4 days and staged a second attack
+The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, [according to a new analysis from the platform that was breached](https://huggingface.co/blog/agent-intrusion-technical-timeline).</description>
+    </item>
+    <item>
+      <title>EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says</title>
+      <link>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</guid>
+      <description>Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.
+
+He covers Google, its parent company Alphabet and artificial intelligence.</description>
+    </item>
+    <item>
+      <title>A rogue AI just gave us a warning. Australia isn't prepared</title>
+      <link>https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</link>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach</title>
+      <link>https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trump administration bans new Chinese humanoid robots</title>
+      <link>https://www.bbc.com/news/articles/cp9e2ex3ekyo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cp9e2ex3ekyo</guid>
+      <description># Trump administration bans new Chinese humanoid robots
+Many of them are made in China, which is competing with the US to develop robotics and artificial intelligence (AI).
+
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
     <item>
       <title>Texas A&amp;M University joins the Genesis Mission to transform science using artificial intelligence</title>
       <link>https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/</link>
@@ -17,189 +53,172 @@
 - U.S. Department of Energy (DOE) initiative to accelerate science through the use of artificial intelligence</description>
     </item>
     <item>
-      <title>AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain</title>
-      <link>https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books</guid>
-      <description>AI companies are quietly obtaining rare books, ingesting their contents, and then destroying them -- even if they're exceedingly rare.</description>
+      <title>Mark Zuckerberg Blasts Centralization of A.I. Power</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</guid>
+      <description>Mark Zuckerberg came out swinging against Anthropic and OpenAI, two of the world's most valuable artificial intelligence start-ups,...</description>
     </item>
     <item>
-      <title>NYSUT calls for statewide guardrails on AI, humanoid robots in schools</title>
-      <link>https://cnycentral.com/news/local/nysut-calls-for-statewide-guardrails-on-ai-humanoid-robots-in-schools</link>
-      <guid isPermaLink="true">https://cnycentral.com/news/local/nysut-calls-for-statewide-guardrails-on-ai-humanoid-robots-in-schools</guid>
-      <description>New York's largest teachers union is urging state officials to establish broad safeguards governing artificial intelligence in schools,...</description>
+      <title>New York school pauses plan to deploy humanlike AI robot teacher after backlash</title>
+      <link>https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df</link>
+      <guid isPermaLink="true">https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df</guid>
+      <description>##### Login or register to continue
+[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
+
+[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)</description>
     </item>
     <item>
-      <title>Exclusive | Nvidia Bets on Ilya Sutskever’s New AI Lab to Expand Compute Reach</title>
-      <link>https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8</guid>
-      <description>Partnership with former top OpenAI scientist aims to boost chip giant's high-profile customer roster during AI boom.</description>
+      <title>Accenture wins $821M Pentagon AI data platform contract</title>
+      <link>https://federalnewsnetwork.com/defense-news/2026/07/accenture-wins-821m-pentagon-ai-data-platform-contract/</link>
+      <guid isPermaLink="true">https://federalnewsnetwork.com/defense-news/2026/07/accenture-wins-821m-pentagon-ai-data-platform-contract/</guid>
+      <description># Accenture wins $821M Pentagon AI data platform contract
+### Related Stories
+#### National Guard in Washington, D.C. are moving to long-term housing
+[Accenture](https://federalnewsnetwork.com/tag/accenture/) [Acquisition](https://federalnewsnetwork.com/category/contracting/acquisition/) [Advana](https://federalnewsnetwork.com/tag/advana/) [AI](https://federalnewsnetwork.com/tag/ai/) [All News](https://federalnewsnetwork.com/category/all-news/) [Artificial Intelligence](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/) [artificial intelligence](https://federalnewsnetwork.com/tag/artificial-intelligence/) [Cameron Stanley](https://federalnewsnetwork.com/tag/cameron-stanley/) [Contracting](https://federalnewsnetwork.com/category/contracting/) [Contracts/Awards](https://federalnewsnetwork.com/category/contracting/acquisition/contractsawards/) [Defense](https://federalnewsnetwork.com/category/defense-main/) [Defense Department](https://federalnewsnetwork.com/tag/defense-department/) [Defense Industry](https://federalnewsnetwork.com/category/defense-main/defense-news/defense-industry/) [Defense News](https://federalnewsnetwork.com/category/defense-main/defense-news/) [General Services Administration](https://federalnewsnetwork.com/tag/general-services-administration/) [Technology](https://federalnewsnetwork.com/category/technology-main/) [War Data Platform](https://federalnewsnetwork.com/tag/war-data-platform/)</description>
     </item>
     <item>
-      <title>Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation</title>
-      <link>https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence</guid>
-      <description># Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>How AgentCore Gateway supports the MCP 2026-07-28 spec</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/</guid>
+      <description># How AgentCore Gateway supports the MCP 2026-07-28 spec
+## 3. Server-to-client interactions without persistent connections
+```json
+{
+  "resultType": "input_required",
+  "inputRequests": {
+    "confirm": {
+      "method": "elicitation/create",
+      "params": {
+        "mode": "form",
+        "message": "Delete 3 files?",
+        "requestedSchema": {
+          "type": "object",
+          "properties": {
+            "confirm": {
+              "type": "boolean"
+            },
+            "required": ["confirm"]
+          }
+        }
+      }
+    },
+    "requestState": "eyJzdGVwIjoxLCJmaWxlcyI6WyJhIiwiYiIsImMiXX0="
+  }
+}
+```</description>
     </item>
     <item>
-      <title>Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble</title>
-      <link>https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html</guid>
-      <description>CNBC’s [Jim Cramer](https://www.cnbc.com/jim-cramer/) on Monday said the latest chapter of the artificial intelligence boom is reviving memories of the excesses that fueled the dot-com bubble.</description>
+      <title>A.I. at 25: the Spielberg film that feels more unsettling than ever</title>
+      <link>https://theconversation.com/a-i-at-25-the-spielberg-film-that-feels-more-unsettling-than-ever-287740</link>
+      <guid isPermaLink="true">https://theconversation.com/a-i-at-25-the-spielberg-film-that-feels-more-unsettling-than-ever-287740</guid>
+      <description>Artificial Intelligence, a futuristic fairytale about a robot boy programmed to love.
+
+Released in 2001, [A.I.](https://www.youtube.com/watch?v=_19pRsZRiz4) arrived years before smartphones, social media and the boom in [artificial intelligence](https://theconversation.com/topics/artificial-intelligence-ai-90).
+
+Artificial Intelligence - Official® Trailer [HD] - YouTube
+
+[A.I. Artificial Intelligence - Official® Trailer [HD]](https://www.youtube.com/watch?v=_19pRsZRiz4) [TrailersPlaygroundHD](https://www.youtube.com/channel/UCeR7qki1ikig6q4HwvP6dTg)
+
+Artificial Intelligence’s official trailer (2001).
+
+Artificial Intelligence.
+
+A.I.: Artificial Intelligence (2001) - Dinner Malfunction | Movieclips - YouTube
+
+[A.I.: Artificial Intelligence (2001) - Dinner Malfunction | Movieclips](https://www.youtube.com/watch?v=ofzIdn6PeSc) [Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg)
+
+The dinner malfunction scene in A.I.: Artificial Intelligence.
+
+## What was A.I. really about?
+- [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
     </item>
     <item>
-      <title>My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-favorite-artificial-intelligence-ai-062000192.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/3-favorite-artificial-intelligence-ai-062000192.html</guid>
-      <description># My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now
-By now, it's clear that artificial intelligence (AI) isn't just a fad.
+      <title>Elon Musk's xAI sues to stop Minnesota law banning nudification technology</title>
+      <link>https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/</guid>
+      <description>Billionaire Elon Musk's artificial intelligence company is suing Minnesota over a [first-of-its-kind law](https://www.cbsnews.com/minnesota/news/governor-walz-sings-law-stop-ai-being-used-for-csam/) that bans apps and websites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment.
 
-## 1. Nvidia
-The company's GPUs ( [Graphics Processing Units](https://www.fool.com/investing/stock-market/market-sectors/information-technology/gpu-stocks/?utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=5605f7a7-dbd3-4c84-bac2-68e023335a5e)) are the most important hardware for AI training, and it has kept a large lead in this niche by making GPUs whose raw performance beats that of competitors, not to mention Nvidia's CUDA ecosystem, which provides a wide moat from switching costs.
-
-## 2. Alphabet
-Meanwhile, Google Cloud offers AI services that allow businesses to build, customize, and deploy AI applications and agents.</description>
+- [Artificial Intelligence](https://www.cbsnews.com/minnesota/tag/artificial-intelligence/)</description>
     </item>
     <item>
-      <title>Sam Altman says we are in the singularity: 'This is the moment'</title>
-      <link>https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7</guid>
-      <description>[AI](https://www.businessinsider.com/artificial-intelligence)
+      <title>Katy ISD sets new framework on artificial intelligence use in classrooms</title>
+      <link>https://abc13.com/post/katy-isd-sets-new-framework-artificial-intelligence-use-classrooms/19587218/</link>
+      <guid isPermaLink="true">https://abc13.com/post/katy-isd-sets-new-framework-artificial-intelligence-use-classrooms/19587218/</guid>
+      <description>- [Artificial Intelligence](https://abc13.com/tag/artificial-intelligence/)
 
-# Sam Altman says we are in the singularity: 'This is the moment'
-The singularity is often regarded as the point at which [artificial intelligence surpasses human intelligence](https://www.businessinsider.com/what-is-agi-artificial-general-intelligence-explained-2023-5) and begins advancing at a pace that's difficult for people to predict or control.
+# Katy ISD sets new framework on artificial intelligence use in classrooms
+KATY, Texas (KTRK) -- Leaders at Katy Independent School District say they've [established a framework for the use of artificial intelligence in classrooms](https://www.katyisd.org/news-details/board/news-headlines-katy-independent-school-district-100/post/katy-isd-strikes-a-balance-with-technology-and-ai-in-the-classroom) for the upcoming school year.
 
-## Read next
-### Business Insider tells the innovative stories you want to know
-- [Artificial Intelligence](https://www.businessinsider.com/category/artificial-intelligence)</description>
-    </item>
-    <item>
-      <title>Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.</title>
-      <link>https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html</guid>
-      <description>China's leading technology companies have been steadily releasing artificial intelligence models that perform nearly as well as the best...</description>
-    </item>
-    <item>
-      <title>A rogue AI just gave us a warning. Australia isn't prepared</title>
-      <link>https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</link>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</guid>
-      <description>Far-fetched scenarios about artificial intelligence became more realistic last week when an OpenAI model hacked another company.</description>
-    </item>
-    <item>
-      <title>Cofounder of Perrysburg firm highlights importance of embracing artificial intelligence</title>
-      <link>https://www.toledoblade.com/local/city/2026/07/27/perrysburg-cofounder-highlights-importance-embracing-artificial-intelligence/stories/20260727076</link>
-      <guid isPermaLink="true">https://www.toledoblade.com/local/city/2026/07/27/perrysburg-cofounder-highlights-importance-embracing-artificial-intelligence/stories/20260727076</guid>
-      <description>![LeSean Shaw, co-founder of Actual Reality Technologies, speaks about artificial intelligence.](https://www.toledoblade.com/image/2026/07/27/1140x_a10-7_cTC/rotarymeeting28-20260727065.jpg)
+"Students will learn how to use AI," Assistant Superintendent Dr.
 
-# Cofounder of Perrysburg firm highlights importance of embracing artificial intelligence
-LeSean Shaw knows that artificial intelligence isn’t something that should be feared, rather a tool that can help streamline workplace tasks — and he said it’s here to stay.
+Bell, who presented the framework in front of the school board last week, called artificial intelligence "the current emerging technology of our times."
 
-“Artificial intelligence is a tool, like the spreadsheet, like the tractor, like the power drill. It multiplies what one person could do in one day,” Mr.
+"Using it is changing how people work."
 
-The moment for artificial intelligence is now, he said, and Toledoans should take full advantage. He encouraged Rotary members to adopt AI into their businesses, use it to streamline their employees’ tasks, implement AI policies, and reward those who use it to innovate.
+Katy ISD said it will phase the use of AI into classrooms based on grade level and is not intended to replace teachers or staff.
 
-“We need to be using [AI] as a tool to be able to help us grow, and as a community we need to work together to show unity,” said Kelly Trame, director of development at the Valentine Theatre, noting she will try to find ways AI can make her work easier.
+Those students will also be unable to use generative AI such as Google Gemini, but the district says that doesn't mean the technology is outright banned in those classrooms.
 
-### Featured Local Savings
-LeSean Shaw, co-founder of Actual Reality Technologies, speaks about artificial intelligence.
+The distinction is important because certain District-approved programs use artificial intelligence to support reading instruction and personalize learning while remaining under teacher supervision."
 
-LeSean Shaw, co-founder of Actual Reality Technologies, speaks about artificial intelligence.
-
-LeSean Shaw, co-founder of Actual Reality Technologies, speaks about artificial intelligence.
-
-LeSean Shaw, co-founder of Actual Reality Technologies, speaks about artificial intelligence.</description>
-    </item>
-    <item>
-      <title>My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now</title>
-      <link>https://www.fool.com/investing/2026/07/28/my-3-favorite-artificial-intelligence-ai-stocks-to/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/28/my-3-favorite-artificial-intelligence-ai-stocks-to/</guid>
-      <description>By now, it's clear that artificial intelligence (AI) isn't just a fad. The technology is infiltrating every industry and sector,...</description>
-    </item>
-    <item>
-      <title>High school students explore artificial intelligence at Wright State summer camp</title>
-      <link>https://webapp2.wright.edu/web1/newsroom/2026/07/27/high-school-students-explore-artificial-intelligence-at-wright-state-summer-camp/</link>
-      <guid isPermaLink="true">https://webapp2.wright.edu/web1/newsroom/2026/07/27/high-school-students-explore-artificial-intelligence-at-wright-state-summer-camp/</guid>
-      <description># High school students explore artificial intelligence at Wright State summer camp
-Area high school students received a hands-on introduction to the future of technology during the AES AI Camp at [Wright State University’s Raj Soin College of Business](https://business.wright.edu/), where they explored how artificial intelligence is transforming industries and creating new career opportunities.
-
-Sponsored by the AES Ohio Foundation, the one-day camp introduced students to the fundamentals of artificial intelligence, machine learning and data science through interactive workshops and collaborative challenges. Participants explored the concepts behind AI and neural networks while building their own AI models.
-
-Throughout the day, students like Hannah Sisco, a sophomore at Fairborn High School, worked together to develop AI-driven solutions to solve real-world problems.
-
-“I’ve learned how different AIs can be used in different applications such as in healthcare and agriculture and things like that,” said Sisco.
-
-- Wright State Headlines
-  - Jul27
-[![](https://webapp2.wright.edu/web1/newsroom/files/2026/07/pic2345-99x66.jpg) High school students explore artificial intelligence at Wright State summer camp](https://webapp2.wright.edu/web1/newsroom/2026/07/27/high-school-students-explore-artificial-intelligence-at-wright-state-summer-camp/)
-Area high school students received a hands-on introduction to the future of technology during the AES AI Camp at Wright State University’s Raj Soin College of Business. [Continue reading →](https://webapp2.wright.edu/web1/newsroom/2026/07/27/high-school-students-explore-artificial-intelligence-at-wright-state-summer-camp/)</description>
-    </item>
-    <item>
-      <title>OpenAI CEO Sam Altman claims AI singularity has arrived</title>
-      <link>https://abcnews.com/Business/openai-ceo-sam-altman-claims-ai-singularity-arrived/story?id=135120342</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/openai-ceo-sam-altman-claims-ai-singularity-arrived/story?id=135120342</guid>
-      <description># OpenAI CEO Sam Altman claims AI singularity has arrived
-OpenAI CEO Sam Altman claims [artificial intelligence](https://abcnews.com/Technology/what-is-artificial-intelligence-ai/story?id=99919927) has reached a long-sought threshold in which the technology can improve itself, unleashing rapid progress that may prove difficult to fully control.
-
-The milestone, known as the singularity, promises significant benefits for society, Altman said, appearing to rebuke concern among critics about the societal threat [posed](https://abcnews.com/Business/artificial-intelligence-eliminate-thousands-jobs-new-york-city/story?id=133181521) by wide adoption of AI.
-
-The company said its artificial intelligence models carried out a self-directed hack into another tech company, Hugging Face.
+Katy ISD said they will not use any AI platform that hasn't been reviewed and isn't compliant with federal education laws for protecting information.
 
 ## Related Topics
-- [Artificial Intelligence](https://abcnews.com/alerts/ArtificialIntelligence)</description>
+- [ARTIFICIAL INTELLIGENCE](https://abc13.com/tag/artificial-intelligence/)</description>
     </item>
     <item>
-      <title>Cornerstone Launches President's AI Advisory Board to Lead the Future of Christian Higher Education</title>
-      <link>https://www.cornerstone.edu/cornerstone-university-launches-presidents-artificial-intelligence-advisory-board-to-lead-the-future-of-christian-higher-education/</link>
-      <guid isPermaLink="true">https://www.cornerstone.edu/cornerstone-university-launches-presidents-artificial-intelligence-advisory-board-to-lead-the-future-of-christian-higher-education/</guid>
-      <description># Cornerstone University Launches President's Artificial Intelligence Advisory Board to Lead the Future of Christian Higher Education
-Cornerstone University announced in a [FOX News exclusive](https://www.foxnews.com/culture/christian-university-aims-produce-irreplaceable-graduates-ai-reshapes-higher-education) on Saturday the launch of its new [President’s Artificial Intelligence Advisory Board](https://www.cornerstone.edu/ai-advisory-board/) to ensure that Cornerstone leads — rather than follows — in the integration of artificial intelligence across all aspects of the student experience and university operations.
+      <title>Learn the good, bad and creative about artificial intelligence at upcoming Maui AARP workshop</title>
+      <link>https://mauinow.com/2026/07/28/learn-the-good-bad-and-creative-about-artificial-intelligence-at-upcoming-maui-aarp-workshop/</link>
+      <guid isPermaLink="true">https://mauinow.com/2026/07/28/learn-the-good-bad-and-creative-about-artificial-intelligence-at-upcoming-maui-aarp-workshop/</guid>
+      <description>AARP Hawai'i is holding a series of workshops on Maui to inform the public about harmful and helpful uses for artificial intelligence – how...</description>
+    </item>
+    <item>
+      <title>Academic Orthopaedic Surgeons Prefer Peer-Reviewed Guidelines Over Artificial Intelligence and Social Media for Medical Information</title>
+      <link>https://www.cureus.com/articles/503495-academic-orthopaedic-surgeons-prefer-peer-reviewed-guidelines-over-artificial-intelligence-and-social-media-for-medical-information</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/503495-academic-orthopaedic-surgeons-prefer-peer-reviewed-guidelines-over-artificial-intelligence-and-social-media-for-medical-information</guid>
+      <description>Background and objective Patients increasingly seek recommendations for improved health and wellness, as well as medical advice,...</description>
+    </item>
+    <item>
+      <title>The Infrastructure That Will Define Artificial Intelligence</title>
+      <link>https://aldianews.com/en/leadership/corporate/mapping-digital-power</link>
+      <guid isPermaLink="true">https://aldianews.com/en/leadership/corporate/mapping-digital-power</guid>
+      <description>Meta and BlackRock's partnership to develop a data center campus valued at more than $10 billion confirms that the next race in artificial...</description>
+    </item>
+    <item>
+      <title>LPL shares spike after CEO finally unveils his firm's artificial intelligence play, Cyan, to counter Hazel, after months of stock-price depression. It worked.</title>
+      <link>https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</link>
+      <guid isPermaLink="true">https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</guid>
+      <description>LPL Financial today promised it has its eyes on artificial intelligence as part of a billion overhaul of its technology – and shares responded by shooting...</description>
+    </item>
+    <item>
+      <title>IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice</title>
+      <link>https://www.bipc.com/irs-office-of-professional-responsibility-issues-introductory-guidelines-on-artificial-intelligence-use-in-federal-tax-practice</link>
+      <guid isPermaLink="true">https://www.bipc.com/irs-office-of-professional-responsibility-issues-introductory-guidelines-on-artificial-intelligence-use-in-federal-tax-practice</guid>
+      <description># IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice
+On June 24, 2026, the IRS Office of Professional Responsibility (OPR) released 2026-19 (the OPR Guidance); its first substantive guidance on generative artificial intelligence (AI) in tax practice. The OPR Guidance notes there is no single settled definition of AI given how fast the technology changes, but describes it broadly as machines mimicking human cognitive functions, including judgment and prioritization and observes that virtually every tax firm already uses some form of it — often through research platforms such as Bloomberg Tax.</description>
+    </item>
+    <item>
+      <title>Grand County establishes position on artificial intelligence use</title>
+      <link>https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/</link>
+      <guid isPermaLink="true">https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/</guid>
+      <description># County establishes position on artificial intelligence use
+![](https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/9/2026/05/25095612/AIcountyimage-1024x683.png)**A stock thumbnail image for AI stories created by Chat GPT.**
 
-“Artificial intelligence is the most revolutionary technology in the history of humanity. “Cornerstone will lead in this artificial intelligence moment through providing a sophisticated and compelling Christian framework for the understanding and use of AI to prepare our students to harness AI for the flourishing of all.”
+Most recently, the Grand County Board of County Commissioners answered the question of how they plan to [integrate artificial intelligence](https://www.skyhinews.com/news/grand-county-drafts-strategic-vision-for-use-of-ai/) into Grand County government technology systems in their [strategic AI Vision](https://drive.google.com/file/d/141QwuyFpC3Se1YTLwjVVJgyiyEuaZ_7-/view?usp=sharing).
 
-### Founding Members of the Cornerstone University AI Advisory Board
-To that end, Cornerstone’s recently introduced an [Applied Artificial Intelligence Certificate](https://www.cornerstone.edu/programs/applied-artificial-intelligence-ai-certificate/), a practical, hands-on program designed to help students develop AI fluency and workplace-ready skills.</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence Is Transforming Immigration Adjudications: What Every Employer and Applicant Needs to Know</title>
-      <link>https://wolfsdorf.com/artificial-intelligence-is-transforming-immigration-adjudications-what-every-employer-and-applicant-needs-to-know/</link>
-      <guid isPermaLink="true">https://wolfsdorf.com/artificial-intelligence-is-transforming-immigration-adjudications-what-every-employer-and-applicant-needs-to-know/</guid>
-      <description>Artificial intelligence is rapidly changing the way U.S. immigration cases are reviewed. What was once a largely document-driven...</description>
-    </item>
-    <item>
-      <title>UNESCO Peru to Promote Dialogues on Artificial Intelligence and</title>
-      <link>https://www.unesco.org/en/articles/unesco-peru-promote-dialogues-artificial-intelligence-and-indigenous-language-revitalization-2026</link>
-      <guid isPermaLink="true">https://www.unesco.org/en/articles/unesco-peru-promote-dialogues-artificial-intelligence-and-indigenous-language-revitalization-2026</guid>
-      <description>The programme will include two panel discussions on the opportunities and ethical, legal and governance challenges posed by artificial...</description>
-    </item>
-    <item>
-      <title>How teachers view artificial intelligence with impact the classroom</title>
-      <link>https://dayton247now.com/news/local/how-teachers-view-artificial-intelligence-with-impact-the-classroom</link>
-      <guid isPermaLink="true">https://dayton247now.com/news/local/how-teachers-view-artificial-intelligence-with-impact-the-classroom</guid>
-      <description># How teachers view artificial intelligence will impact the classroom
-#### topics:
-- [Artificial intelligence](https://dayton247now.com/topic/Artificial%20intelligence)
+Artificial intelligence is being embraced for administrative tasks, assistance to citizens and visitors, and consolidation of data sets. The county has laid out a plan for how it aims to integrate this new technology into the workflows of various departments.
 
-Gold says she regularly uses AI to help with lesson planning, brainstorm ideas, anticipate student questions and reflect on her teaching.</description>
+Citizens and visitors will be notified when using artificial intelligence tools and personal data is said to be protected by advanced cybersecurity.
+
+Moving forward, the board will establish an “AI Innovation Working Group” composed of department staff, elected officials and information technology professionals that will “incorporate regular community consultation and feedback mechanisms to identify “low-risk, high-impact” pilot projects for the 2027 fiscal year,” according to the document.
+
+[![](https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/9/2026/05/25095612/AIcountyimage-300x200.png)](https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/)</description>
     </item>
     <item>
-      <title>Artificial intelligence gaining ground in ag</title>
-      <link>https://www.iowafarmbureau.com/Article/Artificial-intelligence-gaining-ground-in-ag</link>
-      <guid isPermaLink="true">https://www.iowafarmbureau.com/Article/Artificial-intelligence-gaining-ground-in-ag</guid>
-      <description># Artificial intelligence gaining ground in ag
-## Published
-##### Survey finds nearly one-half of farmers are using AI, although most remain skeptical about data accuracy and privacy.
-A new national survey ­­shows artificial intelli­gence is gaining ac­­­­ceptance among America’s farmers and ranchers, although skepticism remains about data accuracy, privacy and ownership of proprietary information.</description>
-    </item>
-    <item>
-      <title>Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues</title>
-      <link>https://www.foxbusiness.com/video/6402261553112</link>
-      <guid isPermaLink="true">https://www.foxbusiness.com/video/6402261553112</guid>
-      <description># Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues
-Fitz-Gerald Group chief investment officer Keith Fitz-Gerald asserts that artificial intelligence is the most significant investing theme in recorded human history, comparing its impact to electricity.
-
-Keith Fitz-Gerald emphatically declares artificial intelligence the biggest investing theme in human history, drawing parallels to transformative technologies like electricity. He explains that AI will necessitate every business around the globe to adapt, adopt, or die.
-
-- [ARTIFICIAL INTELLIGENCE](https://www.foxbusiness.com/video/topics/topic/artificial-intelligence)</description>
+      <title>Dakota Intelligence brings artificial intelligence solutions to businesses</title>
+      <link>https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</link>
+      <guid isPermaLink="true">https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</guid>
+      <description>MITCHELL — Timm Johnson wants to make artificial intelligence less intimidating for South Dakota businesses.</description>
     </item>
   </channel>
 </rss>
