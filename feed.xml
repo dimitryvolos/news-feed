@@ -5,22 +5,20 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:21:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenAI's rogue models roamed the internet for 4 days and staged a second attack</title>
       <link>https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</link>
       <guid isPermaLink="true">https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</guid>
-      <description># OpenAI's rogue models roamed the internet for 4 days and staged a second attack
+      <description># OpenAI’s rogue models roamed the internet for 4 days and staged a second attack
 The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, [according to a new analysis from the platform that was breached](https://huggingface.co/blog/agent-intrusion-technical-timeline).</description>
     </item>
     <item>
       <title>EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says</title>
       <link>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</link>
       <guid isPermaLink="true">https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</guid>
-      <description>Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.
-
-He covers Google, its parent company Alphabet and artificial intelligence.</description>
+      <description>Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.</description>
     </item>
     <item>
       <title>A rogue AI just gave us a warning. Australia isn't prepared</title>
@@ -73,7 +71,7 @@ Many of them are made in China, which is competing with the US to develop roboti
       <guid isPermaLink="true">https://federalnewsnetwork.com/defense-news/2026/07/accenture-wins-821m-pentagon-ai-data-platform-contract/</guid>
       <description># Accenture wins $821M Pentagon AI data platform contract
 ### Related Stories
-#### National Guard in Washington, D.C. are moving to long-term housing
+#### House NDAA proposes major acquisition workforce reforms
 [Accenture](https://federalnewsnetwork.com/tag/accenture/) [Acquisition](https://federalnewsnetwork.com/category/contracting/acquisition/) [Advana](https://federalnewsnetwork.com/tag/advana/) [AI](https://federalnewsnetwork.com/tag/ai/) [All News](https://federalnewsnetwork.com/category/all-news/) [Artificial Intelligence](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/) [artificial intelligence](https://federalnewsnetwork.com/tag/artificial-intelligence/) [Cameron Stanley](https://federalnewsnetwork.com/tag/cameron-stanley/) [Contracting](https://federalnewsnetwork.com/category/contracting/) [Contracts/Awards](https://federalnewsnetwork.com/category/contracting/acquisition/contractsawards/) [Defense](https://federalnewsnetwork.com/category/defense-main/) [Defense Department](https://federalnewsnetwork.com/tag/defense-department/) [Defense Industry](https://federalnewsnetwork.com/category/defense-main/defense-news/defense-industry/) [Defense News](https://federalnewsnetwork.com/category/defense-main/defense-news/) [General Services Administration](https://federalnewsnetwork.com/tag/general-services-administration/) [Technology](https://federalnewsnetwork.com/category/technology-main/) [War Data Platform](https://federalnewsnetwork.com/tag/war-data-platform/)</description>
     </item>
     <item>
@@ -188,7 +186,88 @@ Katy ISD said they will not use any AI platform that hasn't been reviewed and is
       <title>LPL shares spike after CEO finally unveils his firm's artificial intelligence play, Cyan, to counter Hazel, after months of stock-price depression. It worked.</title>
       <link>https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</link>
       <guid isPermaLink="true">https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</guid>
-      <description>LPL Financial today promised it has its eyes on artificial intelligence as part of a billion overhaul of its technology – and shares responded by shooting...</description>
+      <description># LPL shares spike after CEO finally unveils his firm's artificial intelligence play, Cyan, to counter Hazel, after months of stock-price depression. It worked.
+- LPL Financial unveils $2 billion AI overhaul, Cyan, boosting stock price.
+- Cyan offers agentic tools for advisors, automating tasks and providing insights.
+- AI integration aims to enhance advisor efficiency and client experiences.
+- LPL's AI strategy focuses on supporting, not replacing, human advisors.
+
+AI generated
+
+[LPL Financial](https://riabiz.com/tags/lpl-financial/page/1) today promised it has its eyes on artificial intelligence as part of a billion overhaul of its technology – and shares responded by shooting up more than $10 and nearer to where they traded when the Feb. 10 news of Altruist.
+
+The Fort Mill, S.C.-based giant announced a do-it-all bundle for all advisor channels with “agentic” tools and the promise of 35 major technology enhancements.
+
+The share climb of $10 was a leap of 3.22% to $342.40 today.
+
+Still LPL made clear that those agentic improvements, branded as Cyan, are not in fact, client-facing agents but will play a subservient role to the 32,000 financial advisors who use LPL for clearing custody or as their in-house W-2 stockbrokers.
+
+Still, the use of AI will be extensive including: Conversational workflow support, agentic automation for account maintenance, recommendations for practice growth and AI-generated financial planning.
+
+“By creating a unified foundation across our business, we are accelerating innovation, unlocking the power of AI and data, and delivering more seamless, intelligent experiences for advisors and their clients."
+
+[![LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/_next/image?url=https%3A%2F%2Fucarecdn.com%2F338d06ac-4e00-429b-b3b3-da43aaf1ec11%2F-%2Fformat%2Fwebp%2F-%2Fresize%2F120x120%2F-%2Fquality%2Fsmart%2F&amp;w=3840&amp;q=75)\
+\
+Related\
+\
+LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/a/2026/2/25/lpl-finally-stops-largely-anthropic-fueled-stock-price-skid-by-confirming-something-big-with-anthropic-a-new-morningstar-report-pounding-the-table-to-buy-lpl-shares-didnt-hurt)
+
+Those capabilities vary from the Hazel capabilities of [Altruist](https://riabiz.com/tags/altruist/page/1), which sent shares spiraling across Wall Street but hit Schwab and LPL among the hardest.
+
+[Hazel](https://riabiz.com/tags/hazel/page/1)'s big feature was AI tax planning, which interprets complex tax forms (like Form 1040s), pay stubs, and account data to create personalized tax strategies and real-time interactive scenario modeling.
+
+LPL describes its plan for AI to “work behind the scenes to surface insights, automate routine tasks and support informed decisions.”
+
+LPL made a prior announcement to let Wall Street it is on its toes with regard to AI on Feb. 24, two weeks after the [Hazel](https://riabiz.com/tags/hazel/page/1) announcement. See: [LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/a/2026/2/25/lpl-finally-stops-largely-anthropic-fueled-stock-price-skid-by-confirming-something-big-with-anthropic-a-new-morningstar-report-pounding-the-table-to-buy-lpl-shares-didnt-hurt)
+
+LPL issued a statement Feb. 24 that both assured it was neither asleep at the AI switch nor that AI is a big threat to its chief asset – its 32,000 financial advisors. It also clarified that [Anthropic](https://riabiz.com/tags/anthropic/page/1) is not its exclusive AI partner.
+
+###### Story Timeline
+May 2, 2026
+
+2 mo ago
+
+Feb 25, 2026
+
+5 mo ago
+
+It read in part:
+
+_“LPL has been intentionally building advisor‑centric AI for years._ _With partners like_ [_Anthropic_](https://riabiz.com/tags/anthropic/page/1) _, we’re shaping the next generation of AI that helps inform decisions all while our advisors guide their clients in making them.”_
+
+![Native ad Logo](https://ucarecdn.com/53d43d28-507e-4042-8483-bc42a182c301/)
+
+Still running ineffective SMAs? $8b+ converted to ETFs in 2025.
+
+Greg Gates, LPL’s chief technology and information officer, made clear this AI announcement is nobody's tweak and more of an overall overhaul.
+
+The “Latitude” branding is an allusion to LPL's broadening out and more accepting approach to third-party software, the release adds.
+
+analyst pegs the target at $412, with no artificial sweeteners.
+
+These early applications, all of which will launch later this year, demonstrate how AI can enhance — not replace — the advisor, enabling more personalized and proactive experiences.
+
+## RIABiz Directory
+The Industry Sourcebook for RIAs
+
+|   [LISTING](https://riabiz.com/d/new)
+
+[Add Your Listing](https://riabiz.com/d/new)
+
+RIABiz Directory
+
+sponsored by
+
+#### Special Sections
+[**Common Tags**\ \
+
+- 401(k) Stories
+- Breakaway Stories
+- Conferences
+- Hybrid RIA
+- Robo-Advisors
+- TAMPs
+- Technology</description>
     </item>
     <item>
       <title>IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice</title>
@@ -218,7 +297,27 @@ Moving forward, the board will establish an “AI Innovation Working Group” co
       <title>Dakota Intelligence brings artificial intelligence solutions to businesses</title>
       <link>https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</link>
       <guid isPermaLink="true">https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</guid>
-      <description>MITCHELL — Timm Johnson wants to make artificial intelligence less intimidating for South Dakota businesses.</description>
+      <description># Dakota Intelligence brings artificial intelligence solutions to businesses
+## Mitchell entrepreneur Timm Johnson helps organizations understand, adopt and implement AI
+Johnson uses artificial intelligence tools to develop solutions for businesses through Dakota Intelligence.
+
+MITCHELL — Timm Johnson wants to make artificial intelligence less intimidating for South Dakota businesses.
+
+Through his Mitchell-based company, Dakota Intelligence, Johnson builds AI systems that answer phones, automate paperwork and organize records.
+
+Johnson operates Dakota Intelligence, an artificial intelligence consulting company that helps businesses adopt AI tools.
+
+Operating from Mitchell, Dakota Intelligence focuses on helping farmers, small businesses, local governments and professional offices understand where artificial intelligence can improve daily operations — and where it cannot.
+
+Since then, he has earned multiple artificial intelligence certifications through Anthropic Academy while working at Dakota Counseling Institute as a behavioral tech intake specialist and electronic health records super user.
+
+During nearly three months at home, he immersed himself in artificial intelligence, studying developments and how those tools could benefit rural businesses.
+
+The company builds AI-powered phone receptionists, appointment booking systems, workflow automation and digital operations dashboards.
+
+A Make grid displays an interactive map of Timm Johnson’s artificial intelligence and no-code automation ecosystem.
+
+He also insists every system include what he calls a "human in the loop," meaning people still review important decisions or content generated by artificial intelligence.</description>
     </item>
   </channel>
 </rss>
