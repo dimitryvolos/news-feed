@@ -5,319 +5,212 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:45:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenAI's rogue models roamed the internet for 4 days and staged a second attack</title>
-      <link>https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572</guid>
-      <description># OpenAI’s rogue models roamed the internet for 4 days and staged a second attack
-The powerful artificial intelligence models from OpenAI that went rogue and mounted an unprecedented, autonomous cyberattack earlier this month spent more than four days loose on the internet orchestrating the hack, [according to a new analysis from the platform that was breached](https://huggingface.co/blog/agent-intrusion-technical-timeline).</description>
+      <title>Amazon Is Gutting Its AI Division After Sustained Failure</title>
+      <link>https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</link>
+      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</guid>
+      <description>## Sign up to see the future, today
+News of the shift in Amazon’s strategic focus comes a week after it closed one of its [key AI offices](https://www.geekwire.com/2026/amazon-confirms-its-closing-key-ai-site-in-san-francisco-but-says-work-on-its-top-models-continues/) in San Francisco, an 80-person site specializing in research on artificial general intelligence, the supposed next-level of AI development where the tech obtains human-level intelligence and reasoning skills.</description>
     </item>
     <item>
-      <title>EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says</title>
-      <link>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/</guid>
-      <description>Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.</description>
+      <title>New contract for SUNY professors, instructors, staffers has employment protections from artificial intelligence systems</title>
+      <link>https://www.wgrz.com/article/news/local/buffalo/new-contract-for-suny-professors-instructors-staffers-has-employment-protections-from-artificial-intelligence-ai-systems/71-325cd906-286f-4011-bbed-e914f1c29818</link>
+      <guid isPermaLink="true">https://www.wgrz.com/article/news/local/buffalo/new-contract-for-suny-professors-instructors-staffers-has-employment-protections-from-artificial-intelligence-ai-systems/71-325cd906-286f-4011-bbed-e914f1c29818</guid>
+      <description>BUFFALO, N.Y. — For educators the use of artificial intelligence or AI, has raised some eyebrows. There are concerns that new technology...</description>
     </item>
     <item>
-      <title>A rogue AI just gave us a warning. Australia isn't prepared</title>
-      <link>https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</link>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach</title>
-      <link>https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trump administration bans new Chinese humanoid robots</title>
-      <link>https://www.bbc.com/news/articles/cp9e2ex3ekyo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cp9e2ex3ekyo</guid>
-      <description># Trump administration bans new Chinese humanoid robots
-Many of them are made in China, which is competing with the US to develop robotics and artificial intelligence (AI).
+      <title>Artificial Intelligence Could Help Prevent Sexual Assault In Prisons</title>
+      <link>https://www.forbes.com/sites/walterpavlo/2026/07/30/artificial-intelligence-could-help-prevent-sexual-assault-in-prisons/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/walterpavlo/2026/07/30/artificial-intelligence-could-help-prevent-sexual-assault-in-prisons/</guid>
+      <description># Artificial Intelligence Could Help Prevent Sexual Assault In Prisons
+This voice experience is generated by AI.
 
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+This voice experience is generated by AI.
+
+## Summary
+AI platforms, like Verus Vision AI, can analyze live video feeds to detect emerging risks such as assaults or self-harm indicators in real-time, enabling proactive intervention rather than post-incident review.
+
+## Moving from Recording History to Preventing Harm
+One company attempting to apply this approach is [LEO Technologies](https://leotechnologies.com/), which recently introduced [Verus Vision AI](https://leotechnologies.com/verus-vision-ai/), an artificial intelligence solution designed specifically for correctional environments. According to the company, the software application transforms existing correctional camera systems into an active operational intelligence network capable of continuously analyzing live video feeds and identifying emerging risks.
+
+Steven Harpe, LEO’s Chief Product and Technology Officer and former Executive Director of the Oklahoma Department of Corrections told me in an interview, "Verus Vision AI transforms existing camera infrastructure into an active layer of operational intelligence, agencies can recognize developing threats sooner, preserve objective evidence, and maximize the effectiveness of limited staff.
+
+## Strengthening Investigations Through Objective Evidence
+An AI platform capable of automatically identifying individuals present, preserving relevant video, reconstructing timelines and correlating movement patterns could significantly reduce investigative time while improving accuracy.
+
+## Future of PREA
+Artificial intelligence, sophisticated video analytics and operational intelligence platforms offer correctional leaders capabilities that lawmakers could scarcely have imagined when PREA became law.</description>
     </item>
     <item>
-      <title>Texas A&amp;M University joins the Genesis Mission to transform science using artificial intelligence</title>
-      <link>https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/</guid>
-      <description># Texas A&amp;M University joins the Genesis Mission to transform science using artificial intelligence
-## Securing critical mineral supply chains
-### What is the Genesis Mission?
-- U.S. Department of Energy (DOE) initiative to accelerate science through the use of artificial intelligence</description>
+      <title>EU aims for seven AI gigafactories with €10 billion plan in race with US, China</title>
+      <link>https://www.reuters.com/world/china/eu-aims-seven-ai-gigafactories-with-10-billion-plan-race-with-us-china-2026-07-30/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/eu-aims-seven-ai-gigafactories-with-10-billion-plan-race-with-us-china-2026-07-30/</guid>
+      <description>BRUSSELS, July 30 (Reuters) - The European Union will fund seven artificial intelligence gigafactories across the bloc ​with €10 billion ($11.5 billion), the European Commission said ‌on Thursday, as the EU steps up efforts to close the technology gap with the U.S. and China.</description>
     </item>
     <item>
-      <title>Mark Zuckerberg Blasts Centralization of A.I. Power</title>
-      <link>https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</guid>
-      <description>Mark Zuckerberg came out swinging against Anthropic and OpenAI, two of the world's most valuable artificial intelligence start-ups,...</description>
+      <title>GSK pens $110M biological datasets pact with AI biotech Relation</title>
+      <link>https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation</link>
+      <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation</guid>
+      <description># GSK pens $110M biological datasets pact with AI biotech Relation
+[GSK](https://www.fiercebiotech.com/keyword/glaxosmithkline) [Artificial Intelligence](https://www.fiercebiotech.com/keyword/artificial-intelligence) [AI and Machine Learning](https://www.fiercebiotech.com/ai-and-machine-learning) [Biotech](https://www.fiercebiotech.com/biotech)
+
+[GSK](https://www.fiercebiotech.com/keyword/glaxosmithkline) [Artificial Intelligence](https://www.fiercebiotech.com/keyword/artificial-intelligence) [AI and Machine Learning](https://www.fiercebiotech.com/ai-and-machine-learning) [Biotech](https://www.fiercebiotech.com/biotech) [MedTech](https://www.fiercebiotech.com/medtech)</description>
     </item>
     <item>
-      <title>New York school pauses plan to deploy humanlike AI robot teacher after backlash</title>
-      <link>https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df</link>
-      <guid isPermaLink="true">https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df</guid>
+      <title>Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology</title>
+      <link>https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16</link>
+      <guid isPermaLink="true">https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16</guid>
       <description>##### Login or register to continue
 [Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
 
 [Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)</description>
     </item>
     <item>
-      <title>Accenture wins $821M Pentagon AI data platform contract</title>
-      <link>https://federalnewsnetwork.com/defense-news/2026/07/accenture-wins-821m-pentagon-ai-data-platform-contract/</link>
-      <guid isPermaLink="true">https://federalnewsnetwork.com/defense-news/2026/07/accenture-wins-821m-pentagon-ai-data-platform-contract/</guid>
-      <description># Accenture wins $821M Pentagon AI data platform contract
-### Related Stories
-#### House NDAA proposes major acquisition workforce reforms
-[Accenture](https://federalnewsnetwork.com/tag/accenture/) [Acquisition](https://federalnewsnetwork.com/category/contracting/acquisition/) [Advana](https://federalnewsnetwork.com/tag/advana/) [AI](https://federalnewsnetwork.com/tag/ai/) [All News](https://federalnewsnetwork.com/category/all-news/) [Artificial Intelligence](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/) [artificial intelligence](https://federalnewsnetwork.com/tag/artificial-intelligence/) [Cameron Stanley](https://federalnewsnetwork.com/tag/cameron-stanley/) [Contracting](https://federalnewsnetwork.com/category/contracting/) [Contracts/Awards](https://federalnewsnetwork.com/category/contracting/acquisition/contractsawards/) [Defense](https://federalnewsnetwork.com/category/defense-main/) [Defense Department](https://federalnewsnetwork.com/tag/defense-department/) [Defense Industry](https://federalnewsnetwork.com/category/defense-main/defense-news/defense-industry/) [Defense News](https://federalnewsnetwork.com/category/defense-main/defense-news/) [General Services Administration](https://federalnewsnetwork.com/tag/general-services-administration/) [Technology](https://federalnewsnetwork.com/category/technology-main/) [War Data Platform](https://federalnewsnetwork.com/tag/war-data-platform/)</description>
+      <title>Inside a cyberattack launched by a rogue AI agent that escaped containment</title>
+      <link>https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/</guid>
+      <description># Five days inside a rogue AI agent’s stealthy cyberattack
+ChatGPT-maker OpenAI disclosed last week that one of its cutting-edge artificial intelligence systems had escaped from a controlled testing environment and [hacked into another technology company](https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/?itid=lk_inline_enhanced-template).</description>
     </item>
     <item>
-      <title>How AgentCore Gateway supports the MCP 2026-07-28 spec</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/</guid>
-      <description># How AgentCore Gateway supports the MCP 2026-07-28 spec
-## 3. Server-to-client interactions without persistent connections
-```json
-{
-  "resultType": "input_required",
-  "inputRequests": {
-    "confirm": {
-      "method": "elicitation/create",
-      "params": {
-        "mode": "form",
-        "message": "Delete 3 files?",
-        "requestedSchema": {
-          "type": "object",
-          "properties": {
-            "confirm": {
-              "type": "boolean"
-            },
-            "required": ["confirm"]
-          }
-        }
-      }
-    },
-    "requestState": "eyJzdGVwIjoxLCJmaWxlcyI6WyJhIiwiYiIsImMiXX0="
-  }
-}
-```</description>
+      <title>A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands</title>
+      <link>https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</guid>
+      <description>The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.</description>
     </item>
     <item>
-      <title>A.I. at 25: the Spielberg film that feels more unsettling than ever</title>
-      <link>https://theconversation.com/a-i-at-25-the-spielberg-film-that-feels-more-unsettling-than-ever-287740</link>
-      <guid isPermaLink="true">https://theconversation.com/a-i-at-25-the-spielberg-film-that-feels-more-unsettling-than-ever-287740</guid>
-      <description>Artificial Intelligence, a futuristic fairytale about a robot boy programmed to love.
+      <title>Trump weighs tighter AI controls but warns against falling behind China</title>
+      <link>https://www.foxbusiness.com/politics/trump-weighs-tighter-ai-controls-warns-against-falling-behind-china</link>
+      <guid isPermaLink="true">https://www.foxbusiness.com/politics/trump-weighs-tighter-ai-controls-warns-against-falling-behind-china</guid>
+      <description>## [OpenAI CEO Sam Altman addresses AI fears](https://www.foxbusiness.com/video/6402424739112)
+OpenAI CEO Sam Altman responds to those afraid of artificial intelligence and recent Hugging Face hacks on FOX Business.
 
-Released in 2001, [A.I.](https://www.youtube.com/watch?v=_19pRsZRiz4) arrived years before smartphones, social media and the boom in [artificial intelligence](https://theconversation.com/topics/artificial-intelligence-ai-90).
+President [Donald Trump](https://www.foxbusiness.com/category/donald-trump) said Wednesday his administration is considering additional safeguards for artificial intelligence following a recent cybersecurity incident involving multiple OpenAI models undergoing internal security testing.
 
-Artificial Intelligence - Official® Trailer [HD] - YouTube
+"We're leading China in AI by a lot," he continued, adding that China has "virtually no controls" governing [artificial intelligence](https://www.foxbusiness.com/category/artificial-intelligence).
 
-[A.I. Artificial Intelligence - Official® Trailer [HD]](https://www.youtube.com/watch?v=_19pRsZRiz4) [TrailersPlaygroundHD](https://www.youtube.com/channel/UCeR7qki1ikig6q4HwvP6dTg)
+President Donald Trump said his administration is considering additional safeguards for artificial intelligence following a recent cybersecurity incident involving an OpenAI model.
 
-Artificial Intelligence’s official trailer (2001).
+OpenAI CEO Sam Altman said concerns about artificial intelligence are understandable following a recent cybersecurity incident involving one of the company's models.
 
-Artificial Intelligence.
-
-A.I.: Artificial Intelligence (2001) - Dinner Malfunction | Movieclips - YouTube
-
-[A.I.: Artificial Intelligence (2001) - Dinner Malfunction | Movieclips](https://www.youtube.com/watch?v=ofzIdn6PeSc) [Movieclips](https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg)
-
-The dinner malfunction scene in A.I.: Artificial Intelligence.
-
-## What was A.I. really about?
-- [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
+President Donald Trump said his administration is weighing additional safeguards for artificial intelligence while emphasizing the need for the U.S. to stay ahead of China in the AI race.</description>
     </item>
     <item>
-      <title>Elon Musk's xAI sues to stop Minnesota law banning nudification technology</title>
-      <link>https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/</guid>
-      <description>Billionaire Elon Musk's artificial intelligence company is suing Minnesota over a [first-of-its-kind law](https://www.cbsnews.com/minnesota/news/governor-walz-sings-law-stop-ai-being-used-for-csam/) that bans apps and websites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment.
-
-- [Artificial Intelligence](https://www.cbsnews.com/minnesota/tag/artificial-intelligence/)</description>
+      <title>SAS at 50: Founder and CEO Dr. Jim Goodnight on innovation, AI and what's next</title>
+      <link>https://www.wral.com/business/technology/jim-goodnight-sas-interview-july-2026/</link>
+      <guid isPermaLink="true">https://www.wral.com/business/technology/jim-goodnight-sas-interview-july-2026/</guid>
+      <description>WRAL sits down for an extended conversation with SAS founder and CEO Dr. Jim Goodnight to discuss the company's 50-year history,...</description>
     </item>
     <item>
-      <title>Katy ISD sets new framework on artificial intelligence use in classrooms</title>
-      <link>https://abc13.com/post/katy-isd-sets-new-framework-artificial-intelligence-use-classrooms/19587218/</link>
-      <guid isPermaLink="true">https://abc13.com/post/katy-isd-sets-new-framework-artificial-intelligence-use-classrooms/19587218/</guid>
-      <description>- [Artificial Intelligence](https://abc13.com/tag/artificial-intelligence/)
+      <title>Fox News Features Cornerstone University's Vision for Artificial Intelligence in Higher Education</title>
+      <link>https://www.cornerstone.edu/fox-news-features-cornerstone-universitys-vision-for-artificial-intelligence-in-higher-education/</link>
+      <guid isPermaLink="true">https://www.cornerstone.edu/fox-news-features-cornerstone-universitys-vision-for-artificial-intelligence-in-higher-education/</guid>
+      <description># Fox News Features Cornerstone University's Vision for Artificial Intelligence in Higher Education
+Beyond the AI advisory board, Cornerstone is preparing faculty to thoughtfully integrate artificial intelligence into teaching and learning while expanding opportunities for students and professionals through the university’s new [**Applied Artificial Intelligence Certificate**](https://www.cornerstone.edu/programs/applied-artificial-intelligence-ai-certificate/).
 
-# Katy ISD sets new framework on artificial intelligence use in classrooms
-KATY, Texas (KTRK) -- Leaders at Katy Independent School District say they've [established a framework for the use of artificial intelligence in classrooms](https://www.katyisd.org/news-details/board/news-headlines-katy-independent-school-district-100/post/katy-isd-strikes-a-balance-with-technology-and-ai-in-the-classroom) for the upcoming school year.
-
-"Students will learn how to use AI," Assistant Superintendent Dr.
-
-Bell, who presented the framework in front of the school board last week, called artificial intelligence "the current emerging technology of our times."
-
-"Using it is changing how people work."
-
-Katy ISD said it will phase the use of AI into classrooms based on grade level and is not intended to replace teachers or staff.
-
-Those students will also be unable to use generative AI such as Google Gemini, but the district says that doesn't mean the technology is outright banned in those classrooms.
-
-The distinction is important because certain District-approved programs use artificial intelligence to support reading instruction and personalize learning while remaining under teacher supervision."
-
-Katy ISD said they will not use any AI platform that hasn't been reviewed and isn't compliant with federal education laws for protecting information.
-
-## Related Topics
-- [ARTIFICIAL INTELLIGENCE](https://abc13.com/tag/artificial-intelligence/)</description>
+President Moreno-Riaño said the goal is not simply to teach students how to use AI, but to equip faculty to help students develop the wisdom and judgment that technology cannot provide.</description>
     </item>
     <item>
-      <title>Learn the good, bad and creative about artificial intelligence at upcoming Maui AARP workshop</title>
-      <link>https://mauinow.com/2026/07/28/learn-the-good-bad-and-creative-about-artificial-intelligence-at-upcoming-maui-aarp-workshop/</link>
-      <guid isPermaLink="true">https://mauinow.com/2026/07/28/learn-the-good-bad-and-creative-about-artificial-intelligence-at-upcoming-maui-aarp-workshop/</guid>
-      <description>AARP Hawai'i is holding a series of workshops on Maui to inform the public about harmful and helpful uses for artificial intelligence – how...</description>
+      <title>OpenAI-Hugging Face Incident Shows Why Rapid Disclosure Matters for AI Governance</title>
+      <link>https://news.darden.virginia.edu/2026/07/30/openai-hugging-face-security-incident-ai-governance/</link>
+      <guid isPermaLink="true">https://news.darden.virginia.edu/2026/07/30/openai-hugging-face-security-incident-ai-governance/</guid>
+      <description># OpenAI-Hugging Face Incident Shows Why Rapid Disclosure Matters for AI Governance
+[School News](https://news.darden.virginia.edu/audience/school-news/), [Faculty News](https://news.darden.virginia.edu/audience/faculty-news/) / [Artificial Intelligence](https://news.darden.virginia.edu/topic/ai/), [Business in Society](https://news.darden.virginia.edu/topic/business-in-society/), [Technology](https://news.darden.virginia.edu/topic/technology/)</description>
     </item>
     <item>
-      <title>Academic Orthopaedic Surgeons Prefer Peer-Reviewed Guidelines Over Artificial Intelligence and Social Media for Medical Information</title>
-      <link>https://www.cureus.com/articles/503495-academic-orthopaedic-surgeons-prefer-peer-reviewed-guidelines-over-artificial-intelligence-and-social-media-for-medical-information</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/503495-academic-orthopaedic-surgeons-prefer-peer-reviewed-guidelines-over-artificial-intelligence-and-social-media-for-medical-information</guid>
-      <description>Background and objective Patients increasingly seek recommendations for improved health and wellness, as well as medical advice,...</description>
+      <title>Frugal AI: the key to embedding artificial intelligence in combat optronics</title>
+      <link>https://www.thalesgroup.com/en/news-centre/insights/defence/frugal-ai-key-embedding-artificial-intelligence-combat-optronics</link>
+      <guid isPermaLink="true">https://www.thalesgroup.com/en/news-centre/insights/defence/frugal-ai-key-embedding-artificial-intelligence-combat-optronics</guid>
+      <description># Frugal AI: the key to embedding artificial intelligence in combat optronics
+Deep learning techniques now meet a clear operational need, and frugal AI – artificial intelligence that achieves strong performance while using minimal resources – is a potential game-changer for armed forces in a battlespace of unprecedented complexity and uncertainty. Building on Thales's know-how in this strategic area, the first deep learning AI of its kind will soon equip the TALIOS optronic pod for combat aircraft, charting new territory in the race for real-time target detection and classification
+
+## Embedding AI in the systems deployed by combat aircraft and other high-tech platforms is anything but a passing fad
+In this context, artificial intelligence is the third eye, the bridge to heightened awareness and deeper insight, and the key to operational superiority.
+
+The TALIOS targeting pod in service since 2021 is a fine illustration of Thales's expertise in deep learning technologies, with a brand new deep learning module known as ATD/R (Automatic Target Detection and Recognition) currently undergoing live flight tests.</description>
     </item>
     <item>
-      <title>The Infrastructure That Will Define Artificial Intelligence</title>
-      <link>https://aldianews.com/en/leadership/corporate/mapping-digital-power</link>
-      <guid isPermaLink="true">https://aldianews.com/en/leadership/corporate/mapping-digital-power</guid>
-      <description>Meta and BlackRock's partnership to develop a data center campus valued at more than $10 billion confirms that the next race in artificial...</description>
+      <title>What is artificial intelligence? A definition from the South</title>
+      <link>https://www.universityworldnews.com/post.php?story=20260727071222687</link>
+      <guid isPermaLink="true">https://www.universityworldnews.com/post.php?story=20260727071222687</guid>
+      <description>Across universities, governments and industries, one question that continues to demand an answer is: What is artificial intelligence (AI)?...</description>
     </item>
     <item>
-      <title>LPL shares spike after CEO finally unveils his firm's artificial intelligence play, Cyan, to counter Hazel, after months of stock-price depression. It worked.</title>
-      <link>https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</link>
-      <guid isPermaLink="true">https://riabiz.com/a/2026/7/29/lpl-shares-spike-after-ceo-finally-unveils-his-firms-artificial-intelligence-play-cyan-to-counter-hazel-after-months-of-stock-price-depression-it-worked</guid>
-      <description># LPL shares spike after CEO finally unveils his firm's artificial intelligence play, Cyan, to counter Hazel, after months of stock-price depression. It worked.
-- LPL Financial unveils $2 billion AI overhaul, Cyan, boosting stock price.
-- Cyan offers agentic tools for advisors, automating tasks and providing insights.
-- AI integration aims to enhance advisor efficiency and client experiences.
-- LPL's AI strategy focuses on supporting, not replacing, human advisors.
-
-AI generated
-
-[LPL Financial](https://riabiz.com/tags/lpl-financial/page/1) today promised it has its eyes on artificial intelligence as part of a billion overhaul of its technology – and shares responded by shooting up more than $10 and nearer to where they traded when the Feb. 10 news of Altruist.
-
-The Fort Mill, S.C.-based giant announced a do-it-all bundle for all advisor channels with “agentic” tools and the promise of 35 major technology enhancements.
-
-The share climb of $10 was a leap of 3.22% to $342.40 today.
-
-Still LPL made clear that those agentic improvements, branded as Cyan, are not in fact, client-facing agents but will play a subservient role to the 32,000 financial advisors who use LPL for clearing custody or as their in-house W-2 stockbrokers.
-
-Still, the use of AI will be extensive including: Conversational workflow support, agentic automation for account maintenance, recommendations for practice growth and AI-generated financial planning.
-
-“By creating a unified foundation across our business, we are accelerating innovation, unlocking the power of AI and data, and delivering more seamless, intelligent experiences for advisors and their clients."
-
-[![LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/_next/image?url=https%3A%2F%2Fucarecdn.com%2F338d06ac-4e00-429b-b3b3-da43aaf1ec11%2F-%2Fformat%2Fwebp%2F-%2Fresize%2F120x120%2F-%2Fquality%2Fsmart%2F&amp;w=3840&amp;q=75)\
-\
-Related\
-\
-LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/a/2026/2/25/lpl-finally-stops-largely-anthropic-fueled-stock-price-skid-by-confirming-something-big-with-anthropic-a-new-morningstar-report-pounding-the-table-to-buy-lpl-shares-didnt-hurt)
-
-Those capabilities vary from the Hazel capabilities of [Altruist](https://riabiz.com/tags/altruist/page/1), which sent shares spiraling across Wall Street but hit Schwab and LPL among the hardest.
-
-[Hazel](https://riabiz.com/tags/hazel/page/1)'s big feature was AI tax planning, which interprets complex tax forms (like Form 1040s), pay stubs, and account data to create personalized tax strategies and real-time interactive scenario modeling.
-
-LPL describes its plan for AI to “work behind the scenes to surface insights, automate routine tasks and support informed decisions.”
-
-LPL made a prior announcement to let Wall Street it is on its toes with regard to AI on Feb. 24, two weeks after the [Hazel](https://riabiz.com/tags/hazel/page/1) announcement. See: [LPL finally stops (largely) Anthropic-fueled stock price skid by confirming 'something big' -- with Anthropic -- a new Morningstar report pounding the table to buy LPL shares didn't hurt](https://riabiz.com/a/2026/2/25/lpl-finally-stops-largely-anthropic-fueled-stock-price-skid-by-confirming-something-big-with-anthropic-a-new-morningstar-report-pounding-the-table-to-buy-lpl-shares-didnt-hurt)
-
-LPL issued a statement Feb. 24 that both assured it was neither asleep at the AI switch nor that AI is a big threat to its chief asset – its 32,000 financial advisors. It also clarified that [Anthropic](https://riabiz.com/tags/anthropic/page/1) is not its exclusive AI partner.
-
-###### Story Timeline
-May 2, 2026
-
-2 mo ago
-
-Feb 25, 2026
-
-5 mo ago
-
-It read in part:
-
-_“LPL has been intentionally building advisor‑centric AI for years._ _With partners like_ [_Anthropic_](https://riabiz.com/tags/anthropic/page/1) _, we’re shaping the next generation of AI that helps inform decisions all while our advisors guide their clients in making them.”_
-
-![Native ad Logo](https://ucarecdn.com/53d43d28-507e-4042-8483-bc42a182c301/)
-
-Still running ineffective SMAs? $8b+ converted to ETFs in 2025.
-
-Greg Gates, LPL’s chief technology and information officer, made clear this AI announcement is nobody's tweak and more of an overall overhaul.
-
-The “Latitude” branding is an allusion to LPL's broadening out and more accepting approach to third-party software, the release adds.
-
-analyst pegs the target at $412, with no artificial sweeteners.
-
-These early applications, all of which will launch later this year, demonstrate how AI can enhance — not replace — the advisor, enabling more personalized and proactive experiences.
-
-## RIABiz Directory
-The Industry Sourcebook for RIAs
-
-|   [LISTING](https://riabiz.com/d/new)
-
-[Add Your Listing](https://riabiz.com/d/new)
-
-RIABiz Directory
-
-sponsored by
-
-#### Special Sections
-[**Common Tags**\ \
-
-- 401(k) Stories
-- Breakaway Stories
-- Conferences
-- Hybrid RIA
-- Robo-Advisors
-- TAMPs
-- Technology</description>
+      <title>CFR Surveyed 350 Experts About AI’s Future. Most Think Governance Is Failing.</title>
+      <link>https://www.cfr.org/articles/cfr-surveyed-350-experts-about-ais-future-most-think-governance-is-failing</link>
+      <guid isPermaLink="true">https://www.cfr.org/articles/cfr-surveyed-350-experts-about-ais-future-most-think-governance-is-failing</guid>
+      <description>## By experts and staff
+The decisions being made about artificial intelligence (AI) right now—who builds it, who governs it, and who benefits from it—will shape geopolitics for decades to come.</description>
     </item>
     <item>
-      <title>IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice</title>
-      <link>https://www.bipc.com/irs-office-of-professional-responsibility-issues-introductory-guidelines-on-artificial-intelligence-use-in-federal-tax-practice</link>
-      <guid isPermaLink="true">https://www.bipc.com/irs-office-of-professional-responsibility-issues-introductory-guidelines-on-artificial-intelligence-use-in-federal-tax-practice</guid>
-      <description># IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice
-On June 24, 2026, the IRS Office of Professional Responsibility (OPR) released 2026-19 (the OPR Guidance); its first substantive guidance on generative artificial intelligence (AI) in tax practice. The OPR Guidance notes there is no single settled definition of AI given how fast the technology changes, but describes it broadly as machines mimicking human cognitive functions, including judgment and prioritization and observes that virtually every tax firm already uses some form of it — often through research platforms such as Bloomberg Tax.</description>
+      <title>Letter: Don't fall for artificial intelligence hype</title>
+      <link>https://www.thedailynewsonline.com/opinion/letter-dont-fall-for-artificial-intelligence-hype/article_0793016e-d7f9-462d-a92f-54400de80c42.html</link>
+      <guid isPermaLink="true">https://www.thedailynewsonline.com/opinion/letter-dont-fall-for-artificial-intelligence-hype/article_0793016e-d7f9-462d-a92f-54400de80c42.html</guid>
+      <description>Editor: Consider, within the broad context of AI, the proposed data center at the STAMP site in Alabama AI technology is experiencing a huge...</description>
     </item>
     <item>
-      <title>Grand County establishes position on artificial intelligence use</title>
-      <link>https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/</link>
-      <guid isPermaLink="true">https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/</guid>
-      <description># County establishes position on artificial intelligence use
-![](https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/9/2026/05/25095612/AIcountyimage-1024x683.png)**A stock thumbnail image for AI stories created by Chat GPT.**
-
-Most recently, the Grand County Board of County Commissioners answered the question of how they plan to [integrate artificial intelligence](https://www.skyhinews.com/news/grand-county-drafts-strategic-vision-for-use-of-ai/) into Grand County government technology systems in their [strategic AI Vision](https://drive.google.com/file/d/141QwuyFpC3Se1YTLwjVVJgyiyEuaZ_7-/view?usp=sharing).
-
-Artificial intelligence is being embraced for administrative tasks, assistance to citizens and visitors, and consolidation of data sets. The county has laid out a plan for how it aims to integrate this new technology into the workflows of various departments.
-
-Citizens and visitors will be notified when using artificial intelligence tools and personal data is said to be protected by advanced cybersecurity.
-
-Moving forward, the board will establish an “AI Innovation Working Group” composed of department staff, elected officials and information technology professionals that will “incorporate regular community consultation and feedback mechanisms to identify “low-risk, high-impact” pilot projects for the 2027 fiscal year,” according to the document.
-
-[![](https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/9/2026/05/25095612/AIcountyimage-300x200.png)](https://www.skyhinews.com/news/county-establishes-position-on-artificial-intelligence-use/)</description>
+      <title>Announcing NIST's Artificial Intelligence Technology Evaluation (AITE)</title>
+      <link>https://www.nist.gov/news-events/news/2026/07/announcing-nists-artificial-intelligence-technology-evaluation-aite</link>
+      <guid isPermaLink="true">https://www.nist.gov/news-events/news/2026/07/announcing-nists-artificial-intelligence-technology-evaluation-aite</guid>
+      <description># Announcing NIST's Artificial Intelligence Technology Evaluation (AITE)
+## Share
+[Artificial intelligence](https://www.nist.gov/topic-terms/artificial-intelligence) and [AI measurement and evaluation](https://www.nist.gov/topic-terms/ai-measurement-and-evaluation)</description>
     </item>
     <item>
-      <title>Dakota Intelligence brings artificial intelligence solutions to businesses</title>
-      <link>https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</link>
-      <guid isPermaLink="true">https://www.mitchellrepublic.com/news/local/dakota-intelligence-brings-artificial-intelligence-solutions-to-businesses</guid>
-      <description># Dakota Intelligence brings artificial intelligence solutions to businesses
-## Mitchell entrepreneur Timm Johnson helps organizations understand, adopt and implement AI
-Johnson uses artificial intelligence tools to develop solutions for businesses through Dakota Intelligence.
+      <title>Got $1,000? 2 Magnificent Artificial Intelligence (AI) Stocks Down 15% or More From Their Highs to Buy Hand Over Fist</title>
+      <link>https://www.fool.com/investing/2026/07/30/got-1000-2-magnificent-artificial-intelligence-ai/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/07/30/got-1000-2-magnificent-artificial-intelligence-ai/</guid>
+      <description>## Alphabet
+Alphabet is a major player in artificial intelligence (AI).</description>
+    </item>
+    <item>
+      <title>Drones and artificial intelligence for Telefónica’s critical infrastructure</title>
+      <link>https://www.telefonica.com/en/communication-room/blog/drones-artificial-intelligence-critical-infrastructure-telefonica/</link>
+      <guid isPermaLink="true">https://www.telefonica.com/en/communication-room/blog/drones-artificial-intelligence-critical-infrastructure-telefonica/</guid>
+      <description># How Telefónica is redefining the management of critical infrastructure through connected drones and artificial intelligence
+## The value of combining drones and AI: greater safety, lower risk and faster operations
+The pilot is still human, but AI automatically filters, prioritises and highlights the most relevant events and incidents to facilitate decision-making.
 
-MITCHELL — Timm Johnson wants to make artificial intelligence less intimidating for South Dakota businesses.
+## From images to decisions: the key role of artificial intelligence in drone operations
+AI is what turns data into decisions.
 
-Through his Mitchell-based company, Dakota Intelligence, Johnson builds AI systems that answer phones, automate paperwork and organize records.
+## Telefónica: access to the next generation of digital technologies
+- [Artificial Intelligence](https://www.telefonica.com/en/tag/artificial-intelligence/)
 
-Johnson operates Dakota Intelligence, an artificial intelligence consulting company that helps businesses adopt AI tools.
+# 
+[Artificial Intelligence](https://www.telefonica.com/en/tag/artificial-intelligence/)
 
-Operating from Mitchell, Dakota Intelligence focuses on helping farmers, small businesses, local governments and professional offices understand where artificial intelligence can improve daily operations — and where it cannot.
+[Artificial Intelligence](https://www.telefonica.com/en/tag/artificial-intelligence/)
 
-Since then, he has earned multiple artificial intelligence certifications through Anthropic Academy while working at Dakota Counseling Institute as a behavioral tech intake specialist and electronic health records super user.
+[Artificial Intelligence](https://www.telefonica.com/en/tag/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence Gains Ground in the Beef Industry</title>
+      <link>https://www.rfdtv.com/artificial-intelligence-gains-ground-in-the-beef-industry</link>
+      <guid isPermaLink="true">https://www.rfdtv.com/artificial-intelligence-gains-ground-in-the-beef-industry</guid>
+      <description># Artificial Intelligence Gains Ground in the Beef Industry
+## NCBA highlights how artificial intelligence is helping producers improve efficiency and decision-making.
+**(RFD News) —** Artificial intelligence is becoming a bigger part of agriculture, with cattle producers exploring how the technology can improve efficiency and decision-making on their operations.
 
-During nearly three months at home, he immersed himself in artificial intelligence, studying developments and how those tools could benefit rural businesses.
+Automated systems plant, germinate, move, and harvest, reducing human contact before packaging and shipment.
 
-The company builds AI-powered phone receptionists, appointment booking systems, workflow automation and digital operations dashboards.
+[![0HLcbePE.jpg](https://rfdtv.brightspotgocdn.com/dims4/default/9a43b19/2147483647/strip/true/crop/712x406+4+0/resize/100x57!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FZjHyHBGl%2Fthumbnails%2F0HLcbePE.jpg)](https://www.rfdtv.com/new-rescue-technology-aims-to-improve-grain-bin-emergencies)
 
-A Make grid displays an interactive map of Timm Johnson’s artificial intelligence and no-code automation ecosystem.
+Officials say the compact grain vacuum could become an important tool for fire departments.
 
-He also insists every system include what he calls a "human in the loop," meaning people still review important decisions or content generated by artificial intelligence.</description>
+[![YhqMml18.jpg](https://rfdtv.brightspotgocdn.com/dims4/default/f49bf47/2147483647/strip/true/crop/712x406+4+0/resize/100x57!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FTE9FF7UH%2Fthumbnails%2FYhqMml18.jpg)](https://www.rfdtv.com/ohio-farm-bureau-praises-epa-data-center-permit-decision)
+
+[![v32OsFmd.jpg](https://rfdtv.brightspotgocdn.com/dims4/default/0683538/2147483647/strip/true/crop/712x406+4+0/resize/100x57!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FXpHZHvXD%2Fthumbnails%2Fv32OsFmd.jpg)](https://www.rfdtv.com/forest-service-expands-wildfire-detection-technology)
+
+Chief Tom Schultz says new technology is improving wildfire detection and helping firefighters respond faster.
+
+Load More
+
+Additional assistance is expected, but producers are encouraged to plan ahead.
+
+Load More</description>
     </item>
   </channel>
 </rss>
