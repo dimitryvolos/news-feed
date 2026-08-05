@@ -5,180 +5,50 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:30:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prediction: The Historic Artificial Intelligence (AI) Infrastructure Build-Out Will Make This Stock a Multibagger</title>
-      <link>https://www.fool.com/investing/2026/08/01/prediction-the-historic-artificial-intelligence-ai/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/01/prediction-the-historic-artificial-intelligence-ai/</guid>
-      <description>## Key Points
-Artificial intelligence (AI) stocks may have fallen out of favor over the past month for various reasons.</description>
+      <title>Artificial intelligence: Why firms are struggling to set prices</title>
+      <link>https://www.bbc.com/news/articles/c872r52x7jgo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c872r52x7jgo</guid>
+      <description>Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.</description>
     </item>
     <item>
-      <title>As computer science enrollments drop, artificial intelligence classes fill up</title>
-      <link>https://www.latimes.com/business/story/2026-08-03/as-computer-science-enrollments-drop-artificial-intelligence-classes-fill-up</link>
-      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-08-03/as-computer-science-enrollments-drop-artificial-intelligence-classes-fill-up</guid>
-      <description># As computer science enrollments drop, artificial intelligence classes fill up
-This is read by an automated voice.
+      <title>White House finalizes artificial intelligence oversight framework</title>
+      <link>https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437</guid>
+      <description># White House finalizes artificial intelligence oversight framework
+The administration is preparing to brief leading AI companies on its blueprint for reviewing advanced AI models.
 
-## AI has prompted unusually fast changes in course offerings
-### [Hollywood fights AI in public while quietly building it into movies](https://www.latimes.com/business/story/2026-07-26/hollywoods-ai-hiring-is-real-inside-studios-hiring-tells-more-careful-story)
-[Business](https://www.latimes.com/business) [Education](https://www.latimes.com/topic/education) [Artificial Intelligence](https://www.latimes.com/topic/artificial-intelligence) [Jobs, Labor &amp; Workplace](https://www.latimes.com/topic/jobs-labor)</description>
+The framework will shape how the federal government works with the country’s leading AI developers before and after their most advanced models are deployed, and comes as the Trump administration seeks to address potential safety and national security risks while pursuing a mostly light-touch regulatory approach to the technology.
+
+Anthropic, Google, Meta and OpenAI will be among the companies in attendance at the ONCD meeting, four of the people said.
+
+Google, OpenAI and Anthropic jointly reviewed a draft and submitted edits in late July, as POLITICO [previously reported](https://www.politico.com/news/2026/07/27/openai-ceo-sam-altman-heads-to-washington-as-ai-policy-deadline-nears-01012970).</description>
     </item>
     <item>
-      <title>ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation</title>
-      <link>https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html</guid>
-      <description>- OpenAI’s ChatGPT accounted for about 88% of identifiable House spending on artificial intelligence tools during the year ending March 31, according to a CNBC analysis.
-
-[OpenAI](https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html) is dominating the first visible wave of artificial intelligence spending inside [Congress](https://www.cnbc.com/congress/).
-
-Other offices are also using AI to summarize [reports and bills](https://www.cnbc.com/legislation/), draft social media posts, prepare constituent responses, analyze legislation, review hearing materials and sort through policy research, according to Marci Harris, CEO of [POPVOX Foundation](https://popvox.com/), a nonprofit that helps train members of Congress and staff on how to use AI.</description>
+      <title>Opinion | Want to Fight Back Against Big Tech? Start Here.</title>
+      <link>https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html</guid>
+      <description>A.I. is a political theory. And it is gobbling up our democracy.</description>
     </item>
     <item>
-      <title>Austin leaders to get report on residents' priorities for AI governance</title>
-      <link>https://cbsaustin.com/news/local/austin-leaders-to-get-report-on-residents-priorities-for-ai-governance</link>
-      <guid isPermaLink="true">https://cbsaustin.com/news/local/austin-leaders-to-get-report-on-residents-priorities-for-ai-governance</guid>
-      <description># Austin leaders to get report on residents' priorities for AI governance
+      <title>Saline Co. Sheriff’s Office said AI was used to edit evidence photo after online backlash</title>
+      <link>https://katv.com/news/local/saline-co-sheriffs-office-said-ai-was-used-to-edit-evidence-photo-after-online-backlash-reporter-autumn-foltz-ualr-law-professor-robert-steinbuch-artificial-intelligence-money-drugs-arrest</link>
+      <guid isPermaLink="true">https://katv.com/news/local/saline-co-sheriffs-office-said-ai-was-used-to-edit-evidence-photo-after-online-backlash-reporter-autumn-foltz-ualr-law-professor-robert-steinbuch-artificial-intelligence-money-drugs-arrest</guid>
+      <description># Saline Co. Sheriff’s Office said AI was used to edit evidence photo after online backlash
+The Saline County Sheriff’s Office is explaining why it used artificial intelligence to edit a Facebook photo that showed evidence from a recent drug arrest, after the image sparked questions online.
+
 #### topics:
-- [Artificial intelligence](https://cbsaustin.com/topic/Artificial%20intelligence)</description>
+- [Artificial intelligence](https://katv.com/topic/Artificial%20intelligence)
+
+(KATV) — The Saline County Sheriff’s Office is explaining why it used artificial intelligence to edit a Facebook photo that showed evidence from a recent drug arrest, after the image sparked questions online.</description>
     </item>
     <item>
-      <title>Is A.I. ‘Scheming’ Against Us?</title>
-      <link>https://www.nytimes.com/2026/08/01/business/ai-scheming.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/ai-scheming.html</guid>
-      <description>Researchers are sounding the alarm on sneaky artificial intelligence models that stray from humans' directions to do their own thing.</description>
-    </item>
-    <item>
-      <title>Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost</title>
-      <link>https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/</guid>
-      <description>The two developments highlight the rapid pace of advancement in artificial intelligence by Chinese tech firms, which are locked in a fierce and fast-moving battle to build more powerful systems without making them prohibitively expensive to run.
-
-## DEEPSEEK IS ULTRA CHEAP
-He has led enterprise and investigative reporting on China’s military-linked companies, artificial intelligence and semiconductor supply chains, as well as macroeconomic and industrial policy.</description>
-    </item>
-    <item>
-      <title>Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim</title>
-      <link>https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-new-qwen-ai-model-falls-short-of-second-only-to-fable-5-claim</link>
-      <guid isPermaLink="true">https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-new-qwen-ai-model-falls-short-of-second-only-to-fable-5-claim</guid>
-      <description>[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence)
-
-# Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim
-## Read Next
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**AI funding spree shows signs of strain: higher borrowing costs, SpaceX sell-off**](https://asia.nikkei.com/business/technology/artificial-intelligence/ai-funding-spree-shows-signs-of-strain-higher-borrowing-costs-spacex-sell-off)
-
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**DeepSeek releases beta version of V4 models as AI price war heats up**](https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up)
-
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Why Nvidia and others in Silicon Valley oppose a US ban on Chinese AI**](https://asia.nikkei.com/business/technology/artificial-intelligence/why-nvidia-and-others-in-silicon-valley-oppose-a-us-ban-on-chinese-ai)
-
-## Latest on Artificial intelligence
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Starting gun for Central Asia data center race triggered**](https://asia.nikkei.com/business/technology/artificial-intelligence/starting-gun-for-central-asia-data-center-race-triggered)
-
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**AI funding spree shows signs of strain: higher borrowing costs, SpaceX sell-off**](https://asia.nikkei.com/business/technology/artificial-intelligence/ai-funding-spree-shows-signs-of-strain-higher-borrowing-costs-spacex-sell-off)
-
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Four US tech giants bled $95bn in cash in Q2 on soaring AI investments**](https://asia.nikkei.com/business/technology/artificial-intelligence/four-us-tech-giants-bled-95bn-in-cash-in-q2-on-soaring-ai-investments)</description>
-    </item>
-    <item>
-      <title>Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch</title>
-      <link>https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html</link>
-      <guid isPermaLink="true">https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html</guid>
-      <description>## Topics
-4. [Artificial Intelligence](https://www.computerworld.com/artificial-intelligence/)
-
-# Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch
-Alibaba on Monday introduced Qwen3.8-Max, its largest artificial intelligence model to date, expanding its enterprise AI portfolio with an open-weight model designed for software engineering, multimodal reasoning, and other knowledge-intensive business workloads.
-
-## Show me more
-[news\
-\
-**Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch** \
-\
-By Gyana Swain\
-\
-Aug 3, 20265 mins\
-\
-Artificial IntelligenceGenerative AI\
-\
-![Image](https://www.computerworld.com/wp-content/uploads/2026/08/4204420-0-59572800-1785760134-qwen.jpg?quality=50&amp;strip=all&amp;w=381)](https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html)
-
-[podcast\
-\
-**Microsoft Copilot Growth, ClaudeBleed Risk, LinkedIn GDPR Complaint | Ep. 84** \
-\
-By Arnold Davick\
-\
-May 22, 20262 mins\
-\
-Artificial Intelligence\
-\
-![Image](https://www.computerworld.com/wp-content/uploads/2026/05/0-46106000-1779462321-youtube-thumbnail-5PkKYThsKy8.jpg?quality=50&amp;strip=all&amp;w=444)](https://www.computerworld.com/podcast/4176380/microsoft-copilot-growth-claudebleed-risk-linkedin-gdpr-complaint-ep-84.html)
-
-[podcast\
-\
-**Chrome Gemini, AI Agents, CISA Infrastructure Cyber Resilience | Ep. 83** \
-\
-By Arnold Davick\
-\
-May 22, 20262 mins\
-\
-Artificial Intelligence\
-\
-![Image](https://www.computerworld.com/wp-content/uploads/2026/05/0-06017100-1779461653-youtube-thumbnail-XH7vduM7uz8.jpg?quality=50&amp;strip=all&amp;w=444)](https://www.computerworld.com/podcast/4176367/chrome-gemini-ai-agents-cisa-infrastructure-cyber-resilience-ep-83.html)</description>
-    </item>
-    <item>
-      <title>Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release</title>
-      <link>https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release</guid>
-      <description># Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release
-### Flagship 2.4 trillion parameter model highlights native multimodal capabilities and the ability to carry out long-horizon agentic tasks
-[Alibaba Group Holding](https://www.scmp.com/topics/alibaba?module=inline&amp;pgtype=article) has made its next-generation flagship artificial intelligence model [Qwen3.8-Max](https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?module=inline&amp;pgtype=article) widely accessible to global users ahead of an open-weights release next week.
-
-## Will China’s new AI model Kimi K3 create another DeepSeek moment?
-[Alibaba](https://www.scmp.com/topics/alibaba?module=related_topics&amp;pgtype=article) | [Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [Mainland China](https://www.scmp.com/topics/china?module=related_topics&amp;pgtype=article) | [OpenAI](https://www.scmp.com/topics/openai?module=related_topics&amp;pgtype=article) | [Anthropic](https://www.scmp.com/topics/anthropic?module=related_topics&amp;pgtype=article) | [China technology](https://www.scmp.com/topics/china-technology?module=related_topics&amp;pgtype=article) | [DeepSeek](https://www.scmp.com/topics/deepseek?module=related_topics&amp;pgtype=article) | [ChatGPT and other generative AIs](https://www.scmp.com/topics/chatgpt-and-other-generative-ais?module=related_topics&amp;pgtype=article) | [Alibaba Cloud](https://www.scmp.com/topics/alibaba-cloud?module=related_topics&amp;pgtype=article) | [AI: Companies](https://www.scmp.com/topics/ai-companies?module=related_topics&amp;pgtype=article)</description>
-    </item>
-    <item>
-      <title>CEO of AI firm Hugging Face calls last month's hack by OpenAI model "very weird and unprecedented"</title>
-      <link>https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/</guid>
-      <description>An artificial intelligence model that was being tested by OpenAI [went rogue](https://www.cbsnews.com/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/) and hacked the AI company Hugging Face on its own, in an apparent first-of-its-kind incident that has fueled discussion about the risks that powerful AI technology could pose to cybersecurity.
-
-The company said it used an open artificial intelligence model to defend itself.
-
-OpenAI isn't the only artificial intelligence company to discover a rogue AI model.
-
-- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
-    </item>
-    <item>
-      <title>Have an idea on how AI can make Utah better? The state may fund your research.</title>
-      <link>https://www.sltrib.com/news/politics/2026/08/03/utah-ai-grants-5-million-research/</link>
-      <guid isPermaLink="true">https://www.sltrib.com/news/politics/2026/08/03/utah-ai-grants-5-million-research/</guid>
-      <description># Have an idea on how AI can make Utah better? The state may fund your research.
-## Education and technology leaders will divvy up $5 million in taxpayers’ money to fund local industry, researchers and students.
-Utah is making [another investment in artificial intelligence](https://www.sltrib.com/news/politics/2025/12/02/pro-human-ai-utah-gov-cox/), as the state prepares to divvy out $5 million in funding for “pro-human” AI projects over the coming months.
-
-“As we embrace the potential of artificial intelligence, we are dedicated to ensuring these tools serve our families and neighbors in meaningful ways.”
-
-## What research will the grants fund?
-Though Utah has historically been keen to regulate social media and big technology companies, the state has largely embraced artificial intelligence in recent years, [siding with President Donald Trump](https://www.sltrib.com/news/politics/2026/04/01/artificial-intelligence-white/) when he pushed back against the lawmaker’s proposed AI regulations earlier this year.</description>
-    </item>
-    <item>
-      <title>Gradium CEO Says Voice AI Must Understand, Not Just Transcribe the Words</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/gradium-ceo-says-voice-ai-must-understand-not-just-transcribe-the-words/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/gradium-ceo-says-voice-ai-must-understand-not-just-transcribe-the-words/</guid>
-      <description># Gradium CEO Says Voice AI Must Understand, Not Just Transcribe the Words
-## When Voice Becomes an Agent Command
-#### Recommended
-See More In:[Agentic AI](https://www.pymnts.com/tag/agentic-ai/), [agentic commerce](https://www.pymnts.com/tag/agentic-commerce/), [AI](https://www.pymnts.com/tag/ai/), [artificial intelligence](https://www.pymnts.com/tag/artificial-intelligence/), [Featured News](https://www.pymnts.com/tag/featured-news/), [monday conversation](https://www.pymnts.com/tag/monday-conversation/), [News](https://www.pymnts.com/tag/news/), [PYMNTS News](https://www.pymnts.com/tag/pymnts-news/), [pymnts tv](https://www.pymnts.com/tag/pymnts-tv/), [video](https://www.pymnts.com/tag/video/), [Voice AI](https://www.pymnts.com/tag/voice-ai/), [voice assistants](https://www.pymnts.com/tag/voice-assistants/)</description>
-    </item>
-    <item>
-      <title>Why AI companies are buying millions of books to destroy them</title>
-      <link>https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-904336</link>
-      <guid isPermaLink="true">https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-904336</guid>
-      <description># AI burns books? Tech giants are buying, shredding books to train smarter chatbots
-## Startup Nation, in your inbox
-### See more on
-[Artificial intelligence](https://www.jpost.com/tags/artificial-intelligence) |</description>
+      <title>One chart shows the incredible reversal at American tech companies</title>
+      <link>https://www.washingtonpost.com/technology/2026/08/03/one-chart-shows-incredible-reversal-american-tech-companies/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/08/03/one-chart-shows-incredible-reversal-american-tech-companies/</guid>
+      <description>Artificial intelligence has become a money pit for the United States’ technology superstars.</description>
     </item>
     <item>
       <title>Master’s degree in artificial intelligence gets underway</title>
@@ -188,78 +58,128 @@ See More In:[Agentic AI](https://www.pymnts.com/tag/agentic-ai/), [agentic comme
 
 “Artificial intelligence and machine learning tools play a critical role in application development in many real-world engineering, science, and industrial domains, such as health or environmental informatics, physics, chemistry, additive manufacturing, bioinformatics, and cybersecurity,” said Doppa.
 
-WSU’s School of EECS has a critical mass of faculty who are conducting cutting-edge research in AI and applied areas, ranging from AI for science and engineering, trustworthy AI, generative AI, and reinforcement learning, to interdisciplinary applications, such as the agriculture-focused  [AI Institute for Transforming Workforce and Decision Support institute.](https://agaid.org/) The school has a strong [cybersecurity program](https://school.eecs.wsu.edu/academics/undergraduate-program/cybersecurity/) and is ranked among the [top computer science programs](https://csrankings.org/#/index?all&amp;us) in the US in design automation, high-performance computing, and artificial intelligence.</description>
+WSU’s School of EECS has a critical mass of faculty who are conducting cutting-edge research in AI and applied areas, ranging from AI for science and engineering, trustworthy AI, generative AI, and reinforcement learning, to interdisciplinary applications, such as the agriculture-focused  [AI Institute for Transforming Workforce and Decision Support institute.](https://agaid.org/) The school has a strong [cybersecurity program](https://school.eecs.wsu.edu/academics/undergraduate-program/cybersecurity/) and is ranked among the [top computer science programs](https://csrankings.org/#/index?all&amp;us) in the US in design automation, high-performance computing, and artificial intelligence.
+
+## Recent News
+### [Master’s degree in artificial intelligence gets underway](https://news.wsu.edu/news/2026/08/03/masters-degree-in-artificial-intelligence-gets-underway/)
+A new master’s degree in artificial intelligence being offered this fall at WSU will provide students with skills in AI and machine learning to meet industry needs.</description>
     </item>
     <item>
-      <title>FAMU-FSU College of Engineering researchers create artificial intelligence tool to manage modern power grid</title>
-      <link>https://news.fsu.edu/news/university-news/2026/08/03/famu-fsu-college-of-engineering-researchers-create-artificial-intelligence-tool-to-manage-modern-power-grid/</link>
-      <guid isPermaLink="true">https://news.fsu.edu/news/university-news/2026/08/03/famu-fsu-college-of-engineering-researchers-create-artificial-intelligence-tool-to-manage-modern-power-grid/</guid>
-      <description>A new artificial intelligence tool developed by researchers at the [FAMU-FSU College of Engineering](https://eng.famu.fsu.edu/) and Florida State University’s [Center for Advanced Power Systems](https://www.caps.fsu.edu/) could help make electric grids more reliable and reduce operating costs.
+      <title>EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal</title>
+      <link>https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal</guid>
+      <description># EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal
+## Related Issues
+[Artificial Intelligence](https://www.eff.org/issues/ai)
 
-## **A new generation of energy scholars**
-FAMU-FSU faculty are incorporating concepts used in this research into classes about cyber security systems for electric grids and artificial intelligence for power systems.</description>
+[Artificial Intelligence](https://www.eff.org/issues/ai)</description>
     </item>
     <item>
-      <title>Leaders Convene at 2026 Power and AI Initiative Research Summit</title>
-      <link>https://seas.harvard.edu/news/leaders-convene-2026-power-and-ai-initiative-research-summit</link>
-      <guid isPermaLink="true">https://seas.harvard.edu/news/leaders-convene-2026-power-and-ai-initiative-research-summit</guid>
-      <description># Leaders Convene at 2026 Power and AI Initiative Research Summit
-## Goal is to address the future of energy and artificial intelligence
-The program featured panel discussions, research presentations, and strategic conversations centered on how artificial intelligence is reshaping energy demand, generation, transmission, resilience, and operational efficiency.
+      <title>A Patchwork Approach to AI Regulation Is Best—for Now</title>
+      <link>https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation-safety-california-new-york-pope-leo/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation-safety-california-new-york-pope-leo/</guid>
+      <description># A Patchwork Approach to AI Regulation Is Best—for Now
+## A Patchwork Approach to AI Regulation Is Best—for Now
+On July 16, roughly 200 delegates, including Nobel laureates and former heads of state and government, signed a declaration in Rome [calling for](https://globalnobelassembly.org/rome-declaration#:~:text=Responsible%20Development,global%20governance%20initiatives.) broad global governance of artificial intelligence.
 
-The summit also underscored a recognition across sectors that the future of artificial intelligence and the future of energy infrastructure are becoming increasingly interconnected.</description>
+On July 16, roughly 200 delegates, including Nobel laureates and former heads of state and government, signed a declaration in Rome [calling for](https://globalnobelassembly.org/rome-declaration#:~:text=Responsible%20Development,global%20governance%20initiatives.) broad global governance of artificial intelligence.</description>
     </item>
     <item>
-      <title>BUILDING BRIDGES: Wisdom in the age of artificial intelligence [DR. JOSEPH E. WOODS COLUMN]</title>
-      <link>https://www.trentonian.com/2026/08/03/building-bridges-wisdom-in-the-age-of-artificial-intelligence-dr-joseph-e-woods-column/</link>
-      <guid isPermaLink="true">https://www.trentonian.com/2026/08/03/building-bridges-wisdom-in-the-age-of-artificial-intelligence-dr-joseph-e-woods-column/</guid>
-      <description>![This illustration photograph taken in Mulhouse, eastern France on Feb. 11, 2025, shows the logo of OpenAI’s artificial intelligence chatbot ChatGPT. (Sebastien Bozon/AFP/Getty Images North America/TNS) ](https://www.trentonian.com/wp-content/uploads/2026/07/202607290400MCT_____PHOTO____OPED-GENAI-PLAY-COMMENTARY-FILEPIC-GET.jpg)
-
-This illustration photograph taken in Mulhouse, eastern France on Feb. 11, 2025, shows the logo of OpenAI’s artificial intelligence chatbot ChatGPT.
-
-Whether we find that fascinating, concerning, or difficult to understand, it is a reality in the age of advanced technology and artificial intelligence.
-
-Social media delivers opinions every second, and artificial intelligence can produce essays, images, videos, campaign advertisements, and conversations that sound remarkably convincing with the push of a button.
-
-Before we go any further, let’s define what we mean by artificial intelligence. IBM defines artificial intelligence (AI) as technology that enables computers and machines to simulate human learning, reasoning, problem-solving, and decision-making. Simply put, AI is a computer system designed to perform tasks that normally require human intelligence.
-
-Artificial intelligence can process information. AI can generate answers.
-
-Artificial intelligence is no different.
-
-AI is already helping doctors detect disease, advancing research, improving accessibility, and increasing productivity.
-
-Artificial intelligence can process information.
-
-Artificial intelligence is advancing at remarkable speed.
-
-According to industry forecasts from organizations like McKinsey &amp; Company and PwC, trillions of dollars are expected to be invested in artificial intelligence over the next few years. AI will continue to become more capable, but wisdom remains uniquely human because it requires character, discernment, and moral judgment.</description>
+      <title>An AI for Africa would be built on Hunhu/Ubuntu ethics</title>
+      <link>https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics</link>
+      <guid isPermaLink="true">https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics</guid>
+      <description>Western-developed AI rides roughshod over Ubuntu values of connection and community that animate African ethical life.</description>
     </item>
     <item>
-      <title>RSNA launches new knee MRI AI challenge</title>
-      <link>https://radiologybusiness.com/topics/artificial-intelligence/rsna-launches-new-knee-mri-ai-challenge</link>
-      <guid isPermaLink="true">https://radiologybusiness.com/topics/artificial-intelligence/rsna-launches-new-knee-mri-ai-challenge</guid>
-      <description># RSNA launches new knee MRI AI challenge
-[Marty Stempniak](https://radiologybusiness.com/2025/marty-stempniak) | August 03, 2026 | [Radiology Business](https://radiologybusiness.com/topics/artificial-intelligence/rsna-launches-new-knee-mri-ai-challenge) | [Artificial Intelligence](https://radiologybusiness.com/topics/artificial-intelligence)
-
-The Radiological Society of North America on Thursday launched its latest artificial intelligence challenge, seeking proposals on how to improve MR imaging of the knee.
-
-## Around the web
-[Health Exec](https://healthexec.com/topics/artificial-intelligence/ehr-based-ai-beckons-rapid-response-team-head-avoidable-hospital-deaths)
-
-[EHR-based AI beckons rapid-response team to head off avoidable in-hospital deaths](https://radiologybusiness.com/topics/artificial-intelligence/rsna-launches-new-knee-mri-ai-challenge?utm_source=side_panel_article&amp;utm_medium=side_panel_radiology_business&amp;utm_campaign=side_panel_traffic)</description>
+      <title>Breakingviews - Big Tech’s circular AI trade grows too big to veil</title>
+      <link>https://www.reuters.com/commentary/breakingviews/big-techs-circular-ai-trade-grows-too-big-veil-2026-08-03/</link>
+      <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/big-techs-circular-ai-trade-grows-too-big-veil-2026-08-03/</guid>
+      <description>### Why Breakingviews?
+![An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai](https://www.reuters.com/resizer/v2/SO4JWPLNOBIJZFSILLJJXUZC6Y.jpg?auth=52fc82446addf36dfc2d02aaa790d99e59cec8dbd4e6016e547baae25dc997bf&amp;width=1920&amp;quality=80)</description>
     </item>
     <item>
-      <title>Yael Grushka-Cockayne Isn’t Reinventing UVA Darden. She’s Betting the World Needs What It Does Best.</title>
-      <link>https://news.darden.virginia.edu/2026/08/03/uva-darden-dean-yael-grushka-cockayne-ai-leadership/</link>
-      <guid isPermaLink="true">https://news.darden.virginia.edu/2026/08/03/uva-darden-dean-yael-grushka-cockayne-ai-leadership/</guid>
-      <description>Few business schools are as closely identified with what happens in the classroom as the University of Virginia Darden School of Business.</description>
+      <title>How APS is bringing artificial intelligence into classrooms</title>
+      <link>https://www.koat.com/article/how-aps-is-bringing-artificial-intelligence-into-classrooms/73342397</link>
+      <guid isPermaLink="true">https://www.koat.com/article/how-aps-is-bringing-artificial-intelligence-into-classrooms/73342397</guid>
+      <description># How APS is bringing artificial intelligence into classrooms
+## The district is using AI tools to assess early literacy, support tutoring, and help teachers develop lessons while establishing guidelines for classroom use
+Albuquerque Public Schools is implementing artificial intelligence tools to support literacy and classroom learning, but the effort has raised concerns among some parents about privacy, screen time and the potential effects on students.
+
+The program listens as students read, provides educators with diagnostic information and includes a tutoring component.</description>
     </item>
     <item>
-      <title>Stevens Point offers new high school classes focused on AI ethics</title>
-      <link>https://www.wpr.org/news/stevens-point-high-school-classes-focused-ai-ethics</link>
-      <guid isPermaLink="true">https://www.wpr.org/news/stevens-point-high-school-classes-focused-ai-ethics</guid>
-      <description>Artificial intelligence has become a more common aspect of daily life: [A study this year found 77 percent](https://www.nu.edu/blog/ai-statistics-trends/) of companies are currently using or considering using AI in their businesses.</description>
+      <title>UT artificial intelligence researchers awarded grants in Department of Energy initiative</title>
+      <link>https://thedailytexan.com/2026/08/03/ut-artificial-intelligence-researchers-awarded-grants-in-department-of-energy-initiative/</link>
+      <guid isPermaLink="true">https://thedailytexan.com/2026/08/03/ut-artificial-intelligence-researchers-awarded-grants-in-department-of-energy-initiative/</guid>
+      <description># UT artificial intelligence researchers awarded grants in Department of Energy initiative
+George Biros, a computational and mechanical engineering professor, is using AI to predict the formation of a material’s internal structures to improve 3-D printing in manufacturing.
+
+The project will use AI to develop digital models of the materials they are developing, Chaudhuri said.
+
+Volkan Isler, a computer science professor, is developing robots that can serve as lab assistants to address workforce shortages, streamline experiments and handle dangerous laboratory tasks.</description>
+    </item>
+    <item>
+      <title>WVU study explores AI’s role in training tomorrow’s psychiatrists</title>
+      <link>https://wvutoday.wvu.edu/stories/2026/08/04/wvu-study-explores-ai-s-role-in-training-tomorrow-s-psychiatrists</link>
+      <guid isPermaLink="true">https://wvutoday.wvu.edu/stories/2026/08/04/wvu-study-explores-ai-s-role-in-training-tomorrow-s-psychiatrists</guid>
+      <description># WVU study explores AI’s role in training tomorrow’s psychiatrists
+As the use of artificial intelligence for mental health conditions grows for both patients seeking support and psychiatrists treating them, WVU researchers put ChatGPT-5 Pro to the test to determine its abilities on the psychiatry educational front.</description>
+    </item>
+    <item>
+      <title>3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now</title>
+      <link>https://www.fool.com/investing/2026/08/04/3-genius-artificial-intelligence-ai-stocks-to-buy/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/04/3-genius-artificial-intelligence-ai-stocks-to-buy/</guid>
+      <description>## Key Points
+The artificial intelligence (AI) sector is a great place to find investments right now.</description>
+    </item>
+    <item>
+      <title>QC: Artificial Intelligence’s Big Hammer Finds Another Nail</title>
+      <link>https://www.tvtechnology.com/infrastructure/qc-artificial-intelligences-big-hammer-finds-another-nail</link>
+      <guid isPermaLink="true">https://www.tvtechnology.com/infrastructure/qc-artificial-intelligences-big-hammer-finds-another-nail</guid>
+      <description>AI technologies are playing a larger role in test, measurement, quality control, monitoring and compliance solutions.</description>
+    </item>
+    <item>
+      <title>AI offers 'lifeline' for emerging economies, World Bank says</title>
+      <link>https://www.reuters.com/business/ai-offers-lifeline-emerging-economies-world-bank-says-2026-08-04/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/ai-offers-lifeline-emerging-economies-world-bank-says-2026-08-04/</guid>
+      <description>![Illustration shows AI (Artificial Intelligence) letters and robot hand miniature](https://www.reuters.com/resizer/v2/4VM35JPGJZKRLIH27TYGKQBIIE.jpg?auth=fccaa7e0f28433a2eb577f54ab70764548573b3f269a6f59626a767f78fe5eb6&amp;width=1920&amp;quality=80)
+
+AI (Artificial Intelligence) letters and robot hand miniature in this illustration taken, June 23, 2023.
+
+LONDON, Aug 4 (Reuters) - Artificial intelligence could enable developing countries to gain a century's ‌worth of development in a decade if they act quickly on power, connectivity and skills gaps, the World Bank said in a report on Tuesday.</description>
+    </item>
+    <item>
+      <title>Tokenpolitik: The new geopolitics of artificial intelligence</title>
+      <link>https://decode39.com/16003/tokenpolitik-the-new-geopolitics-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://decode39.com/16003/tokenpolitik-the-new-geopolitics-of-artificial-intelligence/</guid>
+      <description>An analysis by the Center for Strategic and International Studies argues that the strategic competition between the United States and China is entering a new phase, where the real prize is the ability to build the global infrastructure underpinning artificial intelligence.
+
+- [Tokens are the basic units](https://blogs.nvidia.com/blog/ai-tokens-explained/) through which artificial intelligence models process information. Every prompt submitted to a chatbot, every generated text and every analysed image is broken down into tokens, which are converted into mathematical representations that neural networks can process.</description>
+    </item>
+    <item>
+      <title>AI and the Future of Emergency Management: Market Supply and Adoption Pathways</title>
+      <link>https://www.rand.org/pubs/research_reports/RRA4625-1.html</link>
+      <guid isPermaLink="true">https://www.rand.org/pubs/research_reports/RRA4625-1.html</guid>
+      <description>This report presents a landscape assessment of artificial intelligence–enabled products available to support EM work, including the products identified, what it takes to adopt and diffuse those products, and pathways to support adoption and diffusion.
+
+# AI and the Future of Emergency Management
+## Topics
+- [Artificial Intelligence](https://www.rand.org/topics/artificial-intelligence.html)</description>
+    </item>
+    <item>
+      <title>America’s Cosmic Bet on AI</title>
+      <link>https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/</link>
+      <guid isPermaLink="true">https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/</guid>
+      <description># America’s Cosmic Bet on AI
+## The winner takes it all. What happens if the United States loses?
+They have accepted the technology titans’ proposition that whichever nation is first to build a super-intelligent “AGI,” artificial general intelligence, will have a decisive, irreversible advantage—since an agent smarter than all the Nobel laureates in the world will then begin teaching itself.</description>
+    </item>
+    <item>
+      <title>Montana State conference to explore possibilities and challenges of artificial intelligence</title>
+      <link>https://www.montana.edu/news/25467/montana-state-conference-to-explore-possibilities-and-challenges-of-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.montana.edu/news/25467/montana-state-conference-to-explore-possibilities-and-challenges-of-artificial-intelligence</guid>
+      <description># Montana State conference to explore possibilities and challenges of artificial intelligence
+“The rise of artificial intelligence has fundamentally transformed how knowledge is created, shared and understood while raising profound intellectual questions that cut across every discipline and field of inquiry,” said Doralyn Rossmann, co-founder of the Institute on Artificial Intelligence and dean of the [MSU Library](https://www.lib.montana.edu/).</description>
     </item>
   </channel>
 </rss>
