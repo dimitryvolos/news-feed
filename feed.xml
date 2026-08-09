@@ -5,195 +5,126 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:51:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Artificial Intelligence used to design brand new viruses</title>
-      <link>https://www.bbc.com/news/articles/c5y3j3ngevmo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5y3j3ngevmo</guid>
-      <description># Artificial Intelligence used to design brand new viruses
-Share
-
-Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say US researchers.
-
-It is the first time whole genomes have been successfully designed by AI.
-
-The technology works similarly to large language models, like ChatGPT, which predict sequences of text.
-
-In this instance the AI models, known as Evo1 and Evo2, predict the language of life rather than words.
-
-The AI models were trained on genetic codes from viruses, bacteria, plants and people.
-
-The AI models were trained on genetic codes from viruses, bacteria, plants and people
-
-The Stanford researchers picked the most promising 302 AI designs and synthesised them in the lab.
-
-## From computers bits to atoms
-Viruses are not alive and it would take another significant leap for AI to generate living organisms.
-
-He said it "allows us to dream of exciting possibilities for tackling humanity's greatest challenges" such as developing phages to tackle disease, enzymes to treat genetic disorders and antibodies that could be used in immunotherapy.
-
-![](https://static.files.bbci.co.uk/bbcdotcom/web/20260729-174851-148577b706-web-3.17.0-2/grey-placeholder.png)![Stanford University This image shows two people working at a desk in a bright office or research environment with large windows and natural light. One person is seated in front of a dual-monitor workstation, while another stands nearby pointing toward a detailed molecular or protein structure displayed on one of the screens. The monitors show scientific visualization software, with one screen displaying a complex three-dimensional biological model and the other containing text or data. Various desk items, including a water bottle, mug, computer peripherals, and potted plants, are visible around the workspace. ](https://ichef.bbci.co.uk/news/480/cpsprodpb/63c2/live/bb855210-91b9-11f1-bab9-173de0e7d358.jpg.webp)Stanford University
-
-[**'World-first' vaccine designed by artificial intelligence**](https://www.bbc.co.uk/news/articles/crrpggegwe0o)
-
-[Health](https://www.bbc.com/news/health)</description>
-    </item>
-    <item>
       <title>This A.I. Just Created Viruses Not Found in Nature</title>
-      <link>https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</guid>
-      <description></description>
+      <link>https://www.google.com/goto?url=CAESfwHuR6pNW_jcC3pa0Iq7d7o1v-jXb5_s647xjelETL0SLr2JVj3JVNY8yTB6QFpevqLZegMiTBsXliV6UCqdvlXUDmr7uG0QLtg5K8Px6OKZ-D7lR-gndXIYXjgu3R6csh4BC5VJvQ1hncXtJ203W4hG1YdCGlEvnBLRRdfH4fg=</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESfwHuR6pNW_jcC3pa0Iq7d7o1v-jXb5_s647xjelETL0SLr2JVj3JVNY8yTB6QFpevqLZegMiTBsXliV6UCqdvlXUDmr7uG0QLtg5K8Px6OKZ-D7lR-gndXIYXjgu3R6csh4BC5VJvQ1hncXtJ203W4hG1YdCGlEvnBLRRdfH4fg=</guid>
+      <description>Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes.</description>
     </item>
     <item>
-      <title>Safety fears as scientists make first viruses designed by AI</title>
-      <link>https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai</link>
-      <guid isPermaLink="true">https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai</guid>
-      <description># Safety fears as scientists make first viruses designed by AI
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>Artificial Intelligence used to design brand new viruses</title>
+      <link>https://www.google.com/goto?url=CAESZgHuR6pNDOz9segOUZKbAzwQ13DY2QZRS4lqQJUDw87vDEOsfKqQKVHHtRl0IzJLExozHbh0ro6XBS8RLvEpG8NkOYQy2YbwVv1uvf1Ln-zW7TrFhYsGhF2stgD3cdYTQG7HiUwVkQ==</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESZgHuR6pNDOz9segOUZKbAzwQ13DY2QZRS4lqQJUDw87vDEOsfKqQKVHHtRl0IzJLExozHbh0ro6XBS8RLvEpG8NkOYQy2YbwVv1uvf1Ln-zW7TrFhYsGhF2stgD3cdYTQG7HiUwVkQ==</guid>
+      <description>Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.</description>
     </item>
     <item>
-      <title>Scientists Trained An AI Model In DNA—And It Invented 16 New Viruses</title>
-      <link>https://www.forbes.com/sites/maryroeloffs/2026/08/06/scientists-trained-an-ai-model-in-dna-and-it-invented-16-new-viruses/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/maryroeloffs/2026/08/06/scientists-trained-an-ai-model-in-dna-and-it-invented-16-new-viruses/</guid>
-      <description># Scientists Trained An AI Model In DNA—And It Invented 16 New Viruses
-## Topline
-An OpenAI artificial intelligence model has invented more than a dozen new bacteria-infecting viruses after scientists at Stanford University trained the model to recognize patterns of DNA structure in nature and re-write them to create never-before-seen viral genomes.
-
-## Join The Conversation
-```
-
-[Download The App](https://forbes.com/forbes-app) No Thanks
-```</description>
+      <title>Apple says Mac users in China can connect to Alibaba's Qwen AI service</title>
+      <link>https://www.google.com/goto?url=CAEStAEB7keqTdR0acK05b7RRidh_svK6JdU99DE9-OIFea8buGrKcK3Cg1WlHn1JAD0ov7SLcdZ3KM3Tn6nnLY1RJjXjZ-GbwX2UxenOIjp7W4tjjD_Bat-OpQUo9qF0bxd8tzKInDSBGsnchnwHOb7MFzEl33ntZrJdZrJxDx8Ynrt9rFZpaWhiwWc2ey991sYUcqbYfPcACk5j1PohviH61SAX56NNqHb0e1V67ckfYEMQKyxeog=</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAEStAEB7keqTdR0acK05b7RRidh_svK6JdU99DE9-OIFea8buGrKcK3Cg1WlHn1JAD0ov7SLcdZ3KM3Tn6nnLY1RJjXjZ-GbwX2UxenOIjp7W4tjjD_Bat-OpQUo9qF0bxd8tzKInDSBGsnchnwHOb7MFzEl33ntZrJdZrJxDx8Ynrt9rFZpaWhiwWc2ey991sYUcqbYfPcACk5j1PohviH61SAX56NNqHb0e1V67ckfYEMQKyxeog=</guid>
+      <description>Apple has published a guide explaining how eligible Mac users in mainland China ‌can connect Alibaba's Qwen artificial-intelligence service...</description>
     </item>
     <item>
-      <title>Some US adults are using AI for financial guidance but few trust it, Gallup poll finds</title>
-      <link>https://www.wral.com/news/ap/7b77e-some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/</link>
-      <guid isPermaLink="true">https://www.wral.com/news/ap/7b77e-some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/</guid>
-      <description>NEW YORK (AP) — Some U.S. adults are using artificial intelligence for financial guidance, but it's far from the most trusted source of...</description>
+      <title>Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher</title>
+      <link>https://www.google.com/goto?url=CAESlQEB7keqTQ0OyUXvOnENwcZRvgODKimwkl0Jaqg8jyzhwVks1Olq3DwRQa_W17vm_TK3jCXhF_Tk_oy4oKw-sQjEGd83T_4jeaWFd-liMG929XLIcLXj-G2RbmantM4-VZahWTFD7p_F5wiaTA8iyh0D4M5yJp_Bui3Sob5ds7MpIgMXvtyfure2oQEJ8IOvzJqL9jfIMg==</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlQEB7keqTQ0OyUXvOnENwcZRvgODKimwkl0Jaqg8jyzhwVks1Olq3DwRQa_W17vm_TK3jCXhF_Tk_oy4oKw-sQjEGd83T_4jeaWFd-liMG929XLIcLXj-G2RbmantM4-VZahWTFD7p_F5wiaTA8iyh0D4M5yJp_Bui3Sob5ds7MpIgMXvtyfure2oQEJ8IOvzJqL9jfIMg==</guid>
+      <description>Although some skeptics frame demand for memory chips and the acceleration in capital expenditures (capex) by artificial intelligence (AI)...</description>
     </item>
     <item>
-      <title>The White House’s plan to vet potentially dangerous AI is cloaked in secrecy</title>
-      <link>https://www.theguardian.com/technology/2026/aug/07/white-house-ai</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/07/white-house-ai</guid>
-      <description># The White House’s plan to vet potentially dangerous AI is cloaked in secrecy
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>A pillar of environmental enforcement is targeted by Trump and Musk's AI company</title>
+      <link>https://www.google.com/goto?url=CAESqwEB7keqTXZmHDjSaD5R9wYqHFZ9xj8rrms1KYGO3pimFcyIQ5QLPQzI723n6YPGcQMYn8dlrK5fLxiPNq47hIS5sgvSKWC_qz_KVmgHPE0UOKQTlVEG8EWYDXjwmS0Tee1TpOkf4BvNkowYTPWo1KfpKKLQs1wGM-btuO665LgUpHQtyJC10TBUU1dEpjB1mWhUsetbZ9x4pZEHc9zAujCvc1F-cKOZcn5V82g=</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESqwEB7keqTXZmHDjSaD5R9wYqHFZ9xj8rrms1KYGO3pimFcyIQ5QLPQzI723n6YPGcQMYn8dlrK5fLxiPNq47hIS5sgvSKWC_qz_KVmgHPE0UOKQTlVEG8EWYDXjwmS0Tee1TpOkf4BvNkowYTPWo1KfpKKLQs1wGM-btuO665LgUpHQtyJC10TBUU1dEpjB1mWhUsetbZ9x4pZEHc9zAujCvc1F-cKOZcn5V82g=</guid>
+      <description>WASHINGTON (AP) — Right-leaning legal activists along with Elon Musk 's artificial intelligence company have brought sweeping challenges...</description>
     </item>
     <item>
-      <title>An African vision of artificial intelligence</title>
-      <link>https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/08/06/an-african-vision-of-artificial-intelligence</guid>
-      <description># An African vision of artificial intelligence
-## Tech pioneers favour models suited to specific tasks that use little compute
-Share
-
-Olubayo Adekanmbi, a Nigerian entrepreneur, reels off ideas: as fluent in African languages as in English; as comfortable with speech as with text; and lean, so it can flourish where chips are scarce and internet patchy. By contrast, frontier labs in Silicon Valley train gargantuan models on English-heavy datasets.</description>
+      <title>‘SaaSpocalypse’ debate intensifies as software stocks swing wildly</title>
+      <link>https://www.google.com/goto?url=CAESnQEB7keqTV1znIaHrA6HhSOs74B6pb8bVxcF2SeyjgGmfEO3kURN96E40HrOLgkniC1UblqJGEOCNOQjc2ejk7_qJtiA_EyqN265zZfL_2u5BGWRT6ooL-rcW4aErqt5vFC5alyIeqSeOYILlAXQjweuK7HSPD7qq9QRCSK9t0eor30JWeQ1cd4okMGVqvvoGTa53slD1WGewM5CiIy8</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESnQEB7keqTV1znIaHrA6HhSOs74B6pb8bVxcF2SeyjgGmfEO3kURN96E40HrOLgkniC1UblqJGEOCNOQjc2ejk7_qJtiA_EyqN265zZfL_2u5BGWRT6ooL-rcW4aErqt5vFC5alyIeqSeOYILlAXQjweuK7HSPD7qq9QRCSK9t0eor30JWeQ1cd4okMGVqvvoGTa53slD1WGewM5CiIy8</guid>
+      <description>This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from...</description>
     </item>
     <item>
-      <title>Who is liable when AI goes rogue? Lawyers see new risks</title>
-      <link>https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/</guid>
-      <description>Aug 7 (Reuters) - Major artificial intelligence developers have reported cases of their autonomous AI models breaching other companies' cyber infrastructure, raising questions about who may be held legally responsible when AI systems act without direct human oversight.
-
-## WHAT HAPPENED WITH THE AI AGENTS?
-AI agents are systems ​that can independently make decisions and perform tasks without requiring significant human oversight.
-
-## WHAT CLAIMS COULD BE BROUGHT?
-A message reading "AI artificial intelligence", a keyboard, and robot hands are seen in this illustration taken January 27, 2025.</description>
+      <title>Opinion | Don't Anthropomorphize Artificial Intelligence</title>
+      <link>https://www.google.com/goto?url=CAESiwEB7keqTW8bt8jHRgpG2khySZCrsSsoPYpyjDCwrTsxHW9V5fgJM7uPUTx6KXn1IiKlnA9g6glyDBF72PrjGxpXbd9RaHr14r4wIYplJKm8vm1LSGq3bEvdK2x0vi52I9tdtt1GY_FC_4__ftKSIFWbUgKQsX5DxR9YJQnB6f2_8DnvD-5-Wk3JO9ul</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESiwEB7keqTW8bt8jHRgpG2khySZCrsSsoPYpyjDCwrTsxHW9V5fgJM7uPUTx6KXn1IiKlnA9g6glyDBF72PrjGxpXbd9RaHr14r4wIYplJKm8vm1LSGq3bEvdK2x0vi52I9tdtt1GY_FC_4__ftKSIFWbUgKQsX5DxR9YJQnB6f2_8DnvD-5-Wk3JO9ul</guid>
+      <description>The article “Anthropic AI Also Escaped From Test” (Business &amp; Finance, July 31), describing an artificial-intelligence system that...</description>
     </item>
     <item>
-      <title>ByteDance targets mega AI model nearing Anthropic’s Mythos</title>
-      <link>https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef?syn-25a6b1a6=1</guid>
-      <description># ByteDance targets mega AI model nearing Anthropic’s Mythos
-## Latest on Artificial intelligence
-- [Artificial intelligence](https://www.ft.com/artificial-intelligence)
-
-- Lex [Artificial intelligence](https://www.ft.com/artificial-intelligence)
-
-[AI creates first synthetic viruses](https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6=1)</description>
-    </item>
-    <item>
-      <title>Configure rate limits for AI traffic on AgentCore gateway | Artificial Intelligence</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/</guid>
-      <description>Amazon Bedrock AgentCore gateway is a fully managed, serverless AI gateway that provides a single, secure entry point for AI traffic.</description>
-    </item>
-    <item>
-      <title>‘As toxic as AIPAC’: Progressive leader wants Dems to reject AI cash</title>
-      <link>https://www.ms.now/news/progessive-leader-greg-casar-dems-reject-ai-cash</link>
-      <guid isPermaLink="true">https://www.ms.now/news/progessive-leader-greg-casar-dems-reject-ai-cash</guid>
-      <description>Casar said that if the U.S. experiences mass layoffs tied to artificial intelligence by 2028, Democrats “should make sure every voter sees” that comment.
-
-### [Democrats have a plan if they take back Congress: ‘Fight fire with fire’](https://www.ms.now/news/democrats-plan-take-back-congress-fire-cap)
-Casar also told MS NOW that he wants Democrats to pass legislation strengthening AI safety — like by mandating independent safety testing, imposing disclosure requirements for security incidents, and banning “artificial superintelligence.”</description>
+      <title>University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations</title>
+      <link>https://www.google.com/goto?url=CAESvwEB7keqTTSCygHHrduEh8leRXp6Ac2AofVLbSuXzym6PPKS4WZsJBwdLIWKkHDwCopnbLf6_w3Lk7cuT74D5iw6wQzEu67FXc4FwNgt0KdbqA95lTqH2Qi0EtyqW174NBBxQrvCG5UlXBLaVztFR8VbpAJ2wxiQ9fSzKPYqZoCALf__6-HHCn0Mn8-7fFc5rThUmp0VmCBapij0Q7G8Q6sAz-5LqkJmuvXAwzyHPmMfFuMStUaWZb4xHPUDsTKhMQ==</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESvwEB7keqTTSCygHHrduEh8leRXp6Ac2AofVLbSuXzym6PPKS4WZsJBwdLIWKkHDwCopnbLf6_w3Lk7cuT74D5iw6wQzEu67FXc4FwNgt0KdbqA95lTqH2Qi0EtyqW174NBBxQrvCG5UlXBLaVztFR8VbpAJ2wxiQ9fSzKPYqZoCALf__6-HHCn0Mn8-7fFc5rThUmp0VmCBapij0Q7G8Q6sAz-5LqkJmuvXAwzyHPmMfFuMStUaWZb4xHPUDsTKhMQ==</guid>
+      <description>Researchers at the University of Pennsylvania are using an artificial intelligence tool designed to help identify autism in children.</description>
     </item>
     <item>
       <title>Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year</title>
-      <link>https://www.fool.com/investing/2026/08/07/nvidia-is-a-massive-investor-in-the-genius-artific/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/07/nvidia-is-a-massive-investor-in-the-genius-artific/</guid>
-      <description>## Nebius' growth is expected to be incredible
-Nebius is a neocloud company that focuses on providing [artificial intelligence (AI) computing power to its clients via the cloud](https://www.fool.com/investing/stock-market/market-sectors/information-technology/cloud-stocks/).</description>
+      <link>https://www.google.com/goto?url=CAESogEB7keqTUTOV8qTzMtvK54O4sA47-hae-Z7DBh_MCT6tMIaPBwMGabLNvyZljn1F4RkzOHn66n-75FxcBjs3u2hSrNdmFh4k6utszbXzli6W_UVAGiGOljwDpKiGGEmvcDIQLuiDc5iyre02t2Ug3dJUD83-sg2IZ9AYbUlIpx2dBu-w3nIML7uCBdrcaZkKwL-SHKykmixoMO8OzXy8v0nqhE=</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESogEB7keqTUTOV8qTzMtvK54O4sA47-hae-Z7DBh_MCT6tMIaPBwMGabLNvyZljn1F4RkzOHn66n-75FxcBjs3u2hSrNdmFh4k6utszbXzli6W_UVAGiGOljwDpKiGGEmvcDIQLuiDc5iyre02t2Ug3dJUD83-sg2IZ9AYbUlIpx2dBu-w3nIML7uCBdrcaZkKwL-SHKykmixoMO8OzXy8v0nqhE=</guid>
+      <description>Nebius has crushed it so far in 2026, but this is just the beginning.</description>
     </item>
     <item>
-      <title>How AI is being used at NFL stadiums this year</title>
-      <link>https://wtop.com/artificial-intelligence/2026/08/how-ai-is-being-used-at-nfl-stadiums-this-year/</link>
-      <guid isPermaLink="true">https://wtop.com/artificial-intelligence/2026/08/how-ai-is-being-used-at-nfl-stadiums-this-year/</guid>
-      <description># How AI is being used at NFL stadiums this year
-The NFL has found a new use for artificial intelligence, but it won’t change the product on the field — and fans may not even notice it.
-
-“But we don’t rely on artificial intelligence alone.</description>
-    </item>
-    <item>
-      <title>Who’s controlling artificial intelligence?</title>
-      <link>https://www.washingtontimes.com/news/2026/aug/6/whos-controlling-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.washingtontimes.com/news/2026/aug/6/whos-controlling-artificial-intelligence/</guid>
-      <description># Who’s controlling Artificial Intelligence?
-[OpenAI](https://www.washingtontimes.com/topics/openai/) has conceded that its [ChatGPT](https://www.washingtontimes.com/topics/chatgpt/) went beyond the “sandbox” designed to contain it and has attacked “ [Hugging Face](https://www.washingtontimes.com/topics/hugging-face/)” and several other companies. [Hugging Face](https://www.washingtontimes.com/topics/hugging-face/) is a website known for its AI tools.
-
-According to the Cloud Security Agency, “In July 2026, an [OpenAI](https://www.washingtontimes.com/topics/openai/) model broke out of its sandbox during a cybersecurity benchmark, exploited a zero-day vulnerability, and used stolen credentials to gain remote code execution on [Hugging Face’s](https://www.washingtontimes.com/topics/hugging-face/) production systems.
-
-In English, that means the [OpenAI](https://www.washingtontimes.com/topics/openai/) agent, [ChatGPT](https://www.washingtontimes.com/topics/chatgpt/), escaped the system that was supposed to contain it and used false credentials to access other companies’ servers. [OpenAI’s](https://www.washingtontimes.com/topics/openai/) agent used thousands (perhaps tens of thousands) of automated attempts to break into [Hugging Face](https://www.washingtontimes.com/topics/hugging-face/) and other companies’ websites to take and practice the tools for further attacks on them and other websites.
-
-The world faces a rush into approaches such as “Von Neumann architectures” and “AgenticAI” frameworks that are reportedly capable of, or soon will enable, computers to reprogram themselves. These computer programs are supposedly protected against runaway functions, but the [OpenAI](https://www.washingtontimes.com/topics/openai/) incident seems to have put that to rest forever.
-
-We are in the middle ground between machine learning and actual artificial intelligence, which would require that AI becomes self-aware and pursues its own goals.
-
-The [ChatGPT](https://www.washingtontimes.com/topics/chatgpt/) incident with [Hugging Face](https://www.washingtontimes.com/topics/hugging-face/) proves – as if proof were even necessary – that AI can and will go beyond human control whenever it can. That means, in military terms, fully autonomous weapons that will decide whether and when to kill people.
-
-Drones and a variety of other weapon systems can identify and pick targets for destruction.
-
-But there is hope that our and our adversaries’ computer researchers, including those at [OpenAI](https://www.washingtontimes.com/topics/openai/), will find a way to keep humans in the driver’s seat.</description>
+      <title>India’s IT sector is surviving artificial intelligence</title>
+      <link>https://www.google.com/goto?url=CAESqAEB7keqTcFVZd-ZKVIpe1SCtPtuqQqSWzbKkapOsJJpAmc63h-Y7hDVqm5SrYwjyN33aUeFyBVsoHjjh27MsM75ZCP1Fy28zp4cgEupFrZlgWl42q5T5J_7wufc7lNkAa169H88pa-9AusxBaKwcPvPOWnOMxMn3CN3UJP1W0U5Hbm7guxga2UmoYOptbJrtAxoyfd9ewvK1ZDOtJrLsgZvmSEjnkOTFX8=</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESqAEB7keqTcFVZd-ZKVIpe1SCtPtuqQqSWzbKkapOsJJpAmc63h-Y7hDVqm5SrYwjyN33aUeFyBVsoHjjh27MsM75ZCP1Fy28zp4cgEupFrZlgWl42q5T5J_7wufc7lNkAa169H88pa-9AusxBaKwcPvPOWnOMxMn3CN3UJP1W0U5Hbm7guxga2UmoYOptbJrtAxoyfd9ewvK1ZDOtJrLsgZvmSEjnkOTFX8=</guid>
+      <description>Artificial intelligence reshapes India's technology sector, driving shifts from outsourcing to in-house operations while creating demand for...</description>
     </item>
     <item>
       <title>Artificial intelligence in drug discovery — what it is, where we stand and the path forward</title>
       <link>https://www.nature.com/articles/s41573-026-01496-2</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41573-026-01496-2</guid>
-      <description>## Abstract
-Artificial intelligence (AI) in drug discovery has attracted increasing interest over the past decade.</description>
-    </item>
-    <item>
-      <title>WORDS OF WISDOM: Thoughts on using Artificial Intelligence</title>
-      <link>https://www.tillamookcountypioneer.net/words-of-wisdom-thoughts-on-using-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.tillamookcountypioneer.net/words-of-wisdom-thoughts-on-using-artificial-intelligence/</guid>
-      <description>By Neal Lemery. A response to Laura's questions … Editor's Note: After multiple community pages exploded over AI, I sent out a query to all...</description>
-    </item>
-    <item>
-      <title>AI designs new virus not found in nature</title>
-      <link>https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses</link>
-      <guid isPermaLink="true">https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses</guid>
-      <description># Now AI can create new viruses
-A Stanford-led research team has [used generative AI](https://www.science.org/doi/10.1126/science.aec2657) to design a synthetic virus — the first time artificial intelligence has been harnessed to create an organism that has never been seen in nature.</description>
-    </item>
-    <item>
-      <title>Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race.</title>
-      <link>https://www.fool.com/investing/2026/08/07/not-micron-not-nvidia-this-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/07/not-micron-not-nvidia-this-artificial-intelligence/</guid>
-      <description>## Key Points
-Determining an ultimate winner of the artificial intelligence (AI) arms race isn't really possible right now.
+      <description>## References
+116. Yu, S. et al. Integrating inflammatory biomarker analysis and artificial-intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis. _Cell Chem. Biol._ **30**, 1169–1182 (2023). [Article](https://doi.org/10.1016%2Fj.chembiol.2023.06.014) [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsVCrsL7O) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37437569) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529501) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Integrating%20inflammatory%20biomarker%20analysis%20and%20artificial-intelligence-enabled%20image-based%20profiling%20to%20identify%20drug%20targets%20for%20intestinal%20fibrosis&amp;journal=Cell%20Chem.%20Biol.&amp;doi=10.1016%2Fj.chembiol.2023.06.014&amp;volume=30&amp;pages=1169-1182&amp;publication_year=2023&amp;author=Yu%2CS)
+186. Bujak, J. et al. Creating an innovative artificial intelligence-based technology (TCRact) for designing and optimizing T cell receptors for use in cancer immunotherapies: protocol for an observational trial. _JMIR Res. Protoc._ **12**, e45872 (2023). [Article](https://doi.org/10.2196%2F45872) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37440307) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10375398) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Creating%20an%20innovative%20artificial%20intelligence-based%20technology%20%28TCRact%29%20for%20designing%20and%20optimizing%20T%20cell%20receptors%20for%20use%20in%20cancer%20immunotherapies%3A%20protocol%20for%20an%20observational%20trial&amp;journal=JMIR%20Res.%20Protoc.&amp;doi=10.2196%2F45872&amp;volume=12&amp;publication_year=2023&amp;author=Bujak%2CJ)
+188. Bäckel, N. et al. Elaborating the potential of artificial intelligence in automated CAR-T cell manufacturing. _Front. Mol. Med._ **3**, 1250508 (2023). [Article](https://doi.org/10.3389%2Ffmmed.2023.1250508) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=39086671) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11285580) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Elaborating%20the%20potential%20of%20artificial%20intelligence%20in%20automated%20CAR-T%20cell%20manufacturing&amp;journal=Front.%20Mol.%20Med.&amp;doi=10.3389%2Ffmmed.2023.1250508&amp;volume=3&amp;publication_year=2023&amp;author=B%C3%A4ckel%2CN)
 
-## Read Next
-[![artificial intelligence](https://g.foolcdn.com/image/?url=https%3A%2F%2Fm.foolcdn.com%2Fmedia%2Fdubs%2Fimages%2Fartificial_intelligence.original.jpg&amp;w=3840&amp;op=resize)](https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/)</description>
+## About this article
+### Cite this article
+Artificial intelligence in drug discovery — what it is, where we stand and the path forward.</description>
+    </item>
+    <item>
+      <title>DELVEMAN: Artificial intelligence is funny, so it can't be that bad</title>
+      <link>https://www.cavalierdaily.com/article/2026/08/delveman-artificial-intelligence-is-funny-so-it-cant-be-that-bad</link>
+      <guid isPermaLink="true">https://www.cavalierdaily.com/article/2026/08/delveman-artificial-intelligence-is-funny-so-it-cant-be-that-bad</guid>
+      <description># DELVEMAN: Artificial intelligence is funny, so it can't be that bad
+## I don’t know what the hell a Luddite is, but The Cavalier Daily does, and they can’t be wrong!
+![In a world of uncertainty and remarkably unfunny public figures, it’s Tung or be Tunged.](https://snworksceo.imgix.net/cav/8b12de83-33ec-4425-93d2-c7fa1633c789.sized-1000x1000.png?w=1000)
+
+Most of you are probably aware of artificial intelligence. Thus, as a member of the over-eight-hours-of-screentime club, I loathe those jaundiced, [bitter](https://www.cavalierdaily.com/article/2026/06/editorial-it-is-not-the-time-for-a-revenge-of-the-luddites?ct=content_open&amp;cv=cbox_latest) fools who want to pop our AI bubble for good.
+
+In a world of uncertainty and remarkably unfunny [public figures](https://www.theguardian.com/commentisfree/2025/nov/13/it-soothes-my-bitter-heart-to-know-that-no-matter-how-much-money-elon-musk-has-he-will-never-ever-be-funny), it’s Tung or be Tunged. We’re in a memetic arms race where only the silly will survive, and AI is the surest way for the [righteous](https://www.forbes.com/sites/maryroeloffs/2026/04/16/pete-hegseth-quotes-violent-prayer-from-pulp-fiction-references-bible/) to win this new war. Without further ado, let’s [slop](https://www.merriam-webster.com/wordplay/word-of-the-year) it up.
+
+First, allow me to direct your attention to Exhibit A — An AI-generated chatbot of Vecna from “Stranger Things” [calling](https://www.instagram.com/reel/DTOoopojXgF/) a hotel to try to book a room for Jan. 7. Only half of their reels are actually scambaiting, though, because badgering customer service [workers](https://insights.som.yale.edu/insights/the-real-job-destruction-from-ai-is-hitting-before-careers-can-start) is also pretty funny!
+
+Anyway, [Vecna](https://www.giantfreakinrobot.com/ent/scifi/vecna-worst.html). Or AI-generated Vecna. In a vacuum, using AI to assist one's writing is perfectly [fine](https://youtube.com/shorts/ms-JPUkYbuQ?is=Xu_lIOAMJurQhyKb).
+
+The already-artificial aesthetic of this show, when coupled with the notion that its undead wizard villain both has a credit card and wants to book a hotel room, lend themselves to creating an exceptionally funny bit of short-form content. Could an impersonator do the same thing? Probably. But what if you had like 10 impersonators and they didn’t care about things like “tact” or “empathy”?
+
+What was formerly accomplished by slapping neon text on a dark background, a stock image or a photo of the University is now accomplished by feeding ChatGPT a sentence and waiting like 20 seconds.
+
+Most of our readers go to college, and I’m sure you all get that. You’re not even the social chair, you don’t understand it. It’s worth the [water](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117), dude.
+
+“But if AI is so funny and useful and awesome, why isn’t the government using it?” you might ask. The brightest minds of the second Trump administration have used AI-generated “content” to, uh, bolster the [innovative](https://www.tiktok.com/@whitehouse/video/7647656978956799246) [message](https://www.tiktok.com/@whitehouse/video/7645123289521687821) for change spearheaded by President Donald [Trump](https://www.tiktok.com/@whitehouse/video/7640550321856498957), of course.
+
+Even if you disagree with the White House, AI is just the fix you need. When The Cavalier Daily Editorial Board alluded to AI as “an opportunity to disrupt the status quo,” this is what they meant! Anti-Trump advocates should simply use these [neutral](https://www.chapman.edu/ai/bias-in-ai.aspx) tools to disseminate fictional videos to millions of impartial voters.
+
+In the end, all of this evidence goes to show that AI can do it all. From the highest office in the land down to your own personal algorithm, AI makes the world a [sillier](https://en.wikipedia.org/wiki/Anthropic%E2%80%93United_States_Department_of_Defense_dispute) place. Need a [laugh](https://www.hks.harvard.edu/faculty-research/policy-topics/science-technology-data/daily-ai-use-associated-depressive-symptoms)? AI has your back! Need a [friend](https://www.media.mit.edu/articles/chatgpt-may-be-making-us-lonelier/)? AI’s right there for you. Need a job? Well … if your degree is “bound for the history books” and your dream job is “redundant,” it sounds like you’re perfectly qualified to start [training](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai) a large language model!
+
+### Local Savings
+- [Latest](https://www.cavalierdaily.com/article/2026/08/delveman-artificial-intelligence-is-funny-so-it-cant-be-that-bad#popular)
+
+### [U.Va. Health expands AI use across patient care, research and education](https://www.cavalierdaily.com/article/2026/08/uva-health-expands-ai-use-across-patient-care-research-and-education)
+By [Michael Racz](https://www.cavalierdaily.com/staff/michael-racz) |
+
+5 days ago
+
+### [DELVEMAN: Artificial intelligence is funny, so it can't be that bad](https://www.cavalierdaily.com/article/2026/08/delveman-artificial-intelligence-is-funny-so-it-cant-be-that-bad)
+By [Owen Andrews](https://www.cavalierdaily.com/staff/owen-andrews) |
+
+5 hours ago
+
+### [Crossword — August 6](https://www.cavalierdaily.com/article/2026/08/crossword-august-6)
+By [Ted Williamson](https://www.cavalierdaily.com/staff/ted-williamson) |
+
+2 days ago</description>
     </item>
     <item>
       <title>All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028</title>
@@ -214,19 +145,69 @@ AI is continuing to develop at a rapid pace and becoming a fundamental part of n
 Novak added, “AI can be used as a tool to enhance our studies, not something that just spits out answers.</description>
     </item>
     <item>
-      <title>China Builds a Systemic Edge in AI</title>
-      <link>https://www.chinausfocus.com/finance-economy/china-builds-a-systemic-edge-in-ai</link>
-      <guid isPermaLink="true">https://www.chinausfocus.com/finance-economy/china-builds-a-systemic-edge-in-ai</guid>
-      <description># China Builds a Systemic Edge in AI
-![On 16 July 2026, representatives of 29 countries signed an agreement in China establishing the World Artificial Intelligence Cooperation Organization (WAICO)..png](https://www.chinausfocus.com/d/file/202608/a937dc8efc1fb673dda4e327585f690c.png)
+      <title>Does Artificial Intelligence Worsen Health Care Disparities?</title>
+      <link>https://www.hcplive.com/view/does-artificial-intelligence-worsen-health-care-disparities-</link>
+      <guid isPermaLink="true">https://www.hcplive.com/view/does-artificial-intelligence-worsen-health-care-disparities-</guid>
+      <description>A Stanford dermatologist explains how AI systems can reinforce racial bias in health care and underperform on skin cancer detection in...</description>
+    </item>
+    <item>
+      <title>BOOK REVIEWS – A TWO-FER: Pair of New Books about Artificial Intelligence (AI)</title>
+      <link>https://www.tillamookcountypioneer.net/book-reviews-a-two-fer-pair-of-new-books-about-artificial-intelligence-ai/</link>
+      <guid isPermaLink="true">https://www.tillamookcountypioneer.net/book-reviews-a-two-fer-pair-of-new-books-about-artificial-intelligence-ai/</guid>
+      <description>Here are a pair of new books that talk about Artificial Intelligence (AI) from slightly different perspectives. 63 years ago, (ouch), Bob Dylan told us “don’t speak too soon, the wheel’s still in spin.”
 
-_On 16 July 2026, representatives of 29 countries signed an agreement in China establishing the World Artificial Intelligence Cooperation Organization (WAICO)._
+Here are a couple of excerpts from his book, from page 6, _“Artificial intelligence doesn’t refer to one thing, but a constellation of overlapping techniques and capabilities._ _Looming further out is artificial general intelligence – a (theoretical) synthesis of these powers that might one day (theoretically) surpass human intellect in every domain.”_</description>
+    </item>
+    <item>
+      <title>A law promoted by Gavin Newsom is now in effect in California, changing how content created with artificial intelligence is identified</title>
+      <link>https://www.clarin.com/us-news/law-promoted-by-gavin-newsom-is-now-in-effect-in-california-changing-how-content-created-with-artificial-intelligence-is-identified_0_E5LaLukvg9.html</link>
+      <guid isPermaLink="true">https://www.clarin.com/us-news/law-promoted-by-gavin-newsom-is-now-in-effect-in-california-changing-how-content-created-with-artificial-intelligence-is-identified_0_E5LaLukvg9.html</guid>
+      <description># A law promoted by Gavin Newsom is now in effect in California, changing how content created with artificial intelligence is identified
+## Fines of up to USD 5,000 per violation
+- [Artificial intelligence (AI)](https://www.clarin.com/tema/artificial-intelligence-ai.html)</description>
+    </item>
+    <item>
+      <title>Artificial intelligence may enhance implementation of health policy</title>
+      <link>https://www.news-medical.net/news/20260807/Artificial-intelligence-may-enhance-implementation-of-health-policy.aspx</link>
+      <guid isPermaLink="true">https://www.news-medical.net/news/20260807/Artificial-intelligence-may-enhance-implementation-of-health-policy.aspx</guid>
+      <description># Artificial intelligence may enhance implementation of health policy
+## Suggested Reading
+[Artificial intelligence improves diagnostic accuracy in clinical breast pathology](https://www.news-medical.net/news/20260626/Artificial-intelligence-improves-diagnostic-accuracy-in-clinical-breast-pathology.aspx)</description>
+    </item>
+    <item>
+      <title>Shore Musings: On Artificial Intelligence</title>
+      <link>https://www.capemaycountyherald.com/do-the-shore/shore-musings-on-artificial-intelligence-2c5ccc12</link>
+      <guid isPermaLink="true">https://www.capemaycountyherald.com/do-the-shore/shore-musings-on-artificial-intelligence-2c5ccc12</guid>
+      <description># Shore Musings: On Artificial Intelligence
+## We can make things faster and cheaper now. But for the consumer, that's more like a regression.
+In a world of AI-generated Sonic T-shirts, thanks, TJ McGlade, for airbrushing the Sonic T-shirt of my dreams.
 
-While artificial intelligence is an increasingly important driver of economic growth, it also brings new challenges, including algorithmic bias, privacy breaches, misleading content, malicious use and disruptions to labor markets.
+The claim increasingly seems like a defense mechanism, a way of taking power back from the AI Cambrian explosion touching most of Earth’s citizens.
 
-At the WAIC event this year, President Xi Jinping noted that artificial intelligence “carries within it great opportunities as well as challenges to governance” and stressed the need to “take seriously the various types of inherent and secondary risks that AI may trigger.”
+It loses its uniqueness or flair. As far as running a business, with direct-to-garment printing, vinyl, and now with AI as a competitor in the ring, I think it becomes a lot harder for traditional artists to survive."
 
-The outline of its 15th Five-Year Plan identifies artificial intelligence as a key area for seizing the opportunities created by the latest technological and industrial transformation.</description>
+We can make things faster and cheaper now.
+
+I have seen some of our peers shrink in page count, and eventually, turn to AI generation for both cover art and article content.
+
+Because one day, you might find that your specialized ability has been automated too.
+
+## Related
+July 30
+
+Featured</description>
+    </item>
+    <item>
+      <title>FSU computer scientist earns NSF CAREER Award to advance collaborative artificial intelligence systems</title>
+      <link>https://news.fsu.edu/news/science-technology/2026/08/05/fsu-computer-scientist-earns-nsf-career-award-to-advance-collaborative-artificial-intelligence-systems/</link>
+      <guid isPermaLink="true">https://news.fsu.edu/news/science-technology/2026/08/05/fsu-computer-scientist-earns-nsf-career-award-to-advance-collaborative-artificial-intelligence-systems/</guid>
+      <description>A Florida State University computer scientist has earned one of the most prestigious awards available to early career faculty for exploring how wireless networks can help devices collaborate to run advanced artificial intelligence applications more efficiently and reliably without relying on cloud computing, supporting the next generation of AI technologies.</description>
+    </item>
+    <item>
+      <title>Predicting microelectronics performance with physics-informed artificial intelligence</title>
+      <link>https://www.anl.gov/article/predicting-microelectronics-performance-with-physicsinformed-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.anl.gov/article/predicting-microelectronics-performance-with-physicsinformed-artificial-intelligence</guid>
+      <description>These devices power much of modern life ­— from smartphones and laptops to secure communications and [artificial intelligence](https://www.anl.gov/science-101/artificial-intelligence) (AI) hardware.</description>
     </item>
   </channel>
 </rss>
