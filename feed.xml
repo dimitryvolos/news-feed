@@ -5,214 +5,328 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:01:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This A.I. Just Created Viruses Not Found in Nature</title>
-      <link>https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</guid>
-      <description>Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes.</description>
+      <title>Tech leaders say AI means less work - their staff say they work up to 90 hours a week</title>
+      <link>https://www.bbc.com/news/articles/cvgx4yd1gl2o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cvgx4yd1gl2o</guid>
+      <description># Tech leaders say AI means less work - their staff say they work up to 90 hours a week
+For years now, executives at companies that are pouring hundreds of billions of dollars a year into developing various artificial intelligence tools have insisted that the technology will ultimately mean people will spend less of their time working.
+
+## Time savings 'sucked up'
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Artificial intelligence in drug discovery — what it is, where we stand and the path forward</title>
-      <link>https://www.nature.com/articles/s41573-026-01496-2</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s41573-026-01496-2</guid>
-      <description>## References
-116. Yu, S. et al. Integrating inflammatory biomarker analysis and artificial-intelligence-enabled image-based profiling to identify drug targets for intestinal fibrosis. _Cell Chem. Biol._ **30**, 1169–1182 (2023). [Article](https://doi.org/10.1016%2Fj.chembiol.2023.06.014) [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhsVCrsL7O) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37437569) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10529501) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Integrating%20inflammatory%20biomarker%20analysis%20and%20artificial-intelligence-enabled%20image-based%20profiling%20to%20identify%20drug%20targets%20for%20intestinal%20fibrosis&amp;journal=Cell%20Chem.%20Biol.&amp;doi=10.1016%2Fj.chembiol.2023.06.014&amp;volume=30&amp;pages=1169-1182&amp;publication_year=2023&amp;author=Yu%2CS)
-186. Bujak, J. et al. Creating an innovative artificial intelligence-based technology (TCRact) for designing and optimizing T cell receptors for use in cancer immunotherapies: protocol for an observational trial. _JMIR Res. Protoc._ **12**, e45872 (2023). [Article](https://doi.org/10.2196%2F45872) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37440307) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10375398) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Creating%20an%20innovative%20artificial%20intelligence-based%20technology%20%28TCRact%29%20for%20designing%20and%20optimizing%20T%20cell%20receptors%20for%20use%20in%20cancer%20immunotherapies%3A%20protocol%20for%20an%20observational%20trial&amp;journal=JMIR%20Res.%20Protoc.&amp;doi=10.2196%2F45872&amp;volume=12&amp;publication_year=2023&amp;author=Bujak%2CJ)
-188. Bäckel, N. et al. Elaborating the potential of artificial intelligence in automated CAR-T cell manufacturing. _Front. Mol. Med._ **3**, 1250508 (2023). [Article](https://doi.org/10.3389%2Ffmmed.2023.1250508) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=39086671) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC11285580) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Elaborating%20the%20potential%20of%20artificial%20intelligence%20in%20automated%20CAR-T%20cell%20manufacturing&amp;journal=Front.%20Mol.%20Med.&amp;doi=10.3389%2Ffmmed.2023.1250508&amp;volume=3&amp;publication_year=2023&amp;author=B%C3%A4ckel%2CN)
-
-## About this article
-### Cite this article
-Artificial intelligence in drug discovery — what it is, where we stand and the path forward.</description>
+      <title>Opinion | I’ve Seen How A.I. Changes Young People’s Social Lives</title>
+      <link>https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html</guid>
+      <description>A.I. has become a kind of social sealant, filling the gaps in young people's relationships.</description>
     </item>
     <item>
-      <title>Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-arm-comparing-192901271.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-arm-comparing-192901271.html</guid>
-      <description>Arista Networks (NYSE:ANET) primarily generates revenue by designing, promoting, and distributing advanced cloud networking hardware and...</description>
+      <title>Zuckerberg lays out vision to put superintelligent AI in everyone's hands</title>
+      <link>https://www.foxbusiness.com/technology/zuckerberg-meta-superintelligence-open-source-ai</link>
+      <guid isPermaLink="true">https://www.foxbusiness.com/technology/zuckerberg-meta-superintelligence-open-source-ai</guid>
+      <description>### Recommended Videos
+- [![Investor argues artificial intelligence is the ‘new oil’](https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/920f46f2-d73e-4837-bf8a-89d9833bebac/0b189314-7f2c-4ae5-b799-02770dee5370/1280x720/match/320/180/image.jpg?ve=1&amp;tl=1)](https://www.foxbusiness.com/video/6403012979112)
+
+[**Investor argues artificial intelligence is the ‘new oil’**](https://www.foxbusiness.com/video/6403012979112)</description>
     </item>
     <item>
-      <title>How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta</title>
-      <link>https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</guid>
-      <description>Founded three years ago and based in Tel Aviv, Irregular is a niche player in artificial intelligence, backed with $80 million from Sequoia and Redpoint Ventures and valued [last year](https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/) at $450 million.</description>
+      <title>Meta Unveils an Open Version of Its Most Powerful A.I. Model</title>
+      <link>https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>Opinion | Universities are fighting AI cheating. But there’s a deeper problem.</title>
-      <link>https://www.washingtonpost.com/opinions/2026/08/09/university-fight-against-ai-cheating-doesnt-go-far-enough/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/08/09/university-fight-against-ai-cheating-doesnt-go-far-enough/</guid>
-      <description>[Colleges are reviving](https://www.washingtonpost.com/education/2026/07/15/even-elite-colleges-are-scrambling-root-out-ai-cheating/) proctored exams, blue books and oral assessments as they try to determine whether students are learning or merely using artificial intelligence to generate finished work.</description>
+      <title>Meta releases open-source AI model as Zuckerberg warns on concentrated control</title>
+      <link>https://www.10tv.com/article/news/nation-world/meta-launches-new-ai-model-artificial-intelligence-mark-zuckerberg/507-a6fead0e-2848-452b-b650-d10d190ed29a</link>
+      <guid isPermaLink="true">https://www.10tv.com/article/news/nation-world/meta-launches-new-ai-model-artificial-intelligence-mark-zuckerberg/507-a6fead0e-2848-452b-b650-d10d190ed29a</guid>
+      <description># Meta releases open-source AI model as Zuckerberg warns on concentrated control
+WASHINGTON — Meta Platforms on Monday announced the release of a new artificial intelligence model that's open for other software developers to use, as CEO Mark Zuckerberg warned of the risks if control of advanced AI is concentrated under a select few companies, institutions or governments.</description>
     </item>
     <item>
-      <title>As Colorado universities align with AI, students take a stand against ‘plagiarism machine’</title>
-      <link>https://www.detroitnews.com/story/news/nation/2026/08/08/colorado-students-resist-artificial-intelligence-plagiarism/91228891007/</link>
-      <guid isPermaLink="true">https://www.detroitnews.com/story/news/nation/2026/08/08/colorado-students-resist-artificial-intelligence-plagiarism/91228891007/</guid>
-      <description># As Colorado universities align with AI, students take a stand against ‘plagiarism machine’
-During the last academic year, the University of Colorado system announced a $2 million partnership with OpenAI to roll out a CU-specific ChatGPT.
-
-With generative AI platforms like ChatGPT, users can pose questions or give prompts, and the chatbots draw information gathered from the internet or programmed into their networks to create text responses, images and sounds to fulfill the queries.</description>
+      <title>Zuckerberg warns against centralizing AI power</title>
+      <link>https://www.politico.com/news/2026/08/10/mark-zuckerberg-ai-power-01030904</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/08/10/mark-zuckerberg-ai-power-01030904</guid>
+      <description># Zuckerberg warns against centralizing AI power
+Meta CEO Mark Zuckerberg on Monday passionately defended the use of artificial intelligence, as the rapid advancement of the technology faces increased scrutiny — and calls for regulation — in the U.S. and globally.</description>
     </item>
     <item>
-      <title>OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)</title>
-      <link>https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns</guid>
-      <description># OpenAI to pause some work on AI model Astra due to security concerns
-OpenAI will pause [some](https://openai.com/news/safety-alignment/) work on an artificial intelligence model because of security concerns, the company stated on Friday, following a series of incidents in which AI agents have escaped containment.
+      <title>Artificial Intelligence in Dermoscopy: Why Expert Oversight Still Matters</title>
+      <link>https://www.medscape.com/viewarticle/artificial-intelligence-dermoscopy-why-expert-oversight-2026a1000qtb</link>
+      <guid isPermaLink="true">https://www.medscape.com/viewarticle/artificial-intelligence-dermoscopy-why-expert-oversight-2026a1000qtb</guid>
+      <description># References
+## References
+11. Walton M, Llewellyn A, Uphoff E, et al. Artificial Intelligence technologies for assessing skin lesions for referral on the urgent suspected cancer pathway to detect benign lesions and reduce secondary care specialist appointments: early value assessment. _Health Technol Assess_. 2026;30:1-96. doi:10.3310/gjms0317
 
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+### What to Read Next on Medscape
+Artificial Intelligence technologies for assessing skin lesions for referral on the urgent suspected cancer pathway to detect benign lesions and reduce secondary care specialist appointments: early value assessment.
+
+Artificial intelligence in dermatology: advancements and challenges in skin of color.
+
+Artificial Intelligence technologies for assessing skin lesions for referral on the urgent suspected cancer pathway to detect benign lesions and reduce secondary care specialist appointments: early value assessment.
+
+Artificial intelligence in dermatology: advancements and challenges in skin of color.</description>
     </item>
     <item>
-      <title>India’s IT sector is surviving artificial intelligence</title>
-      <link>https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence</guid>
-      <description>Artificial intelligence reshapes India's technology sector, driving shifts from outsourcing to in-house operations while creating demand for...</description>
+      <title>With a feel for physics, AI models simulate a wider range of real-world scenarios</title>
+      <link>https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810</link>
+      <guid isPermaLink="true">https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810</guid>
+      <description># With a feel for physics, AI models simulate a wider range of real-world scenarios
+## Related Topics
+- [Artificial intelligence](https://news.mit.edu/topic/artificial-intelligence2)</description>
     </item>
     <item>
-      <title>Can you tell when content is made by artificial intelligence?</title>
-      <link>https://www.wfmj.com/news/can-you-tell-when-content-is-made-by-artificial-intelligence/article_3a8e818b-3eb3-4d3a-973f-c78de824c394.html</link>
-      <guid isPermaLink="true">https://www.wfmj.com/news/can-you-tell-when-content-is-made-by-artificial-intelligence/article_3a8e818b-3eb3-4d3a-973f-c78de824c394.html</guid>
-      <description>###### Columbiana County crash splits car in two, one injured
-An AI -generated poster for the Ohio State Fair is at the center of a growing debate over the use of artificial intelligence in art.
-
-#### Tags
-- [Artificial Intelligence](https://www.wfmj.com/search/?k=%22artificial%20intelligence%22#tncms-source=keyword)</description>
+      <title>Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push</title>
+      <link>https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</guid>
+      <description>[Nvidia](https://www.cnbc.com/quotes/NVDA/) is attempting to turn its artificial intelligence chips into Wall Street’s newest asset class, partnering with six large asset managers on a $500 billion financing push designed to treat compute infrastructure much like commercial real estate, toll roads or other assets to borrow against.</description>
     </item>
     <item>
-      <title>3 Artificial Intelligence (AI) Stocks to Load Up On in August</title>
-      <link>https://www.fool.com/investing/2026/08/09/3-artificial-intelligence-ai-stocks-to-load-up-on/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/09/3-artificial-intelligence-ai-stocks-to-load-up-on/</guid>
-      <description>## Key Points
-August has just begun, but the events in late July and early August have really shaken up the artificial intelligence (AI) investing landscape.</description>
+      <title>EY Launching Unit to Keep a Lid on Artificial Intelligence Costs</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-10/ey-launching-unit-to-keep-a-lid-on-artificial-intelligence-costs</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-10/ey-launching-unit-to-keep-a-lid-on-artificial-intelligence-costs</guid>
+      <description>AI</description>
     </item>
     <item>
-      <title>University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations</title>
-      <link>https://6abc.com/post/university-pennsylvania-researchers-develop-artificial-intelligence-tool-help-speed-autism-evaluations/19642585/</link>
-      <guid isPermaLink="true">https://6abc.com/post/university-pennsylvania-researchers-develop-artificial-intelligence-tool-help-speed-autism-evaluations/19642585/</guid>
-      <description># University of Pennsylvania researchers develop AI tool to help speed autism evaluations
-PHILADELPHIA (WPVI) -- Researchers at the University of Pennsylvania are using an artificial intelligence tool designed to help identify autism in children, with the goal of providing a faster and more objective assessment process.</description>
+      <title>Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?</title>
+      <link>https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/</guid>
+      <description>## WHY ARE ROBOT MAKERS SEEKING LISTINGS?
+He covers artificial intelligence, semiconductors and emerging technologies.</description>
     </item>
     <item>
-      <title>Bridging the Resource Gap: Why Artificial Intelligence is the Next Vital Infrastructure for Tillamook County</title>
-      <link>https://www.tillamookcountypioneer.net/bridging-the-resource-gap-why-artificial-intelligence-is-the-next-vital-infrastructure-for-tillamook-county/</link>
-      <guid isPermaLink="true">https://www.tillamookcountypioneer.net/bridging-the-resource-gap-why-artificial-intelligence-is-the-next-vital-infrastructure-for-tillamook-county/</guid>
-      <description>We use AI for GPS systems, package routing, streaming recommendations, social media feeds, and even Canva uses AI while we create “custom, man-made” flyers.
-
-### Smoothing the Summer Cliff
-We already trust artificial intelligence in our everyday life.</description>
+      <title>Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity</title>
+      <link>https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter</guid>
+      <description># Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
+Senator [Bernie Sanders](https://www.theguardian.com/us-news/bernie-sanders) has called on Meta, OpenAI and Anthropic executives to halt their development of artificial intelligence, warning that the US Senate will implement regulation if the companies continue deploying AI at their current pace.</description>
     </item>
     <item>
-      <title>Artificial Intelligence for Nuclear Deterrence Strategy 2023</title>
-      <link>https://www.energy.gov/articles/artificial-intelligence-nuclear-deterrence-strategy-2023</link>
-      <guid isPermaLink="true">https://www.energy.gov/articles/artificial-intelligence-nuclear-deterrence-strategy-2023</guid>
-      <description>Artificial Intelligence for Nuclear Deterrence Strategy 2023. The National Nuclear Security Administration's Advanced Simulation and Computing...</description>
+      <title>Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure</title>
+      <link>https://www.gov.ca.gov/2026/08/10/governor-newsom-announces-new-ai-cyber-defense-program-to-protect-californias-critical-infrastructure/</link>
+      <guid isPermaLink="true">https://www.gov.ca.gov/2026/08/10/governor-newsom-announces-new-ai-cyber-defense-program-to-protect-californias-critical-infrastructure/</guid>
+      <description># Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure
+#### _New actions build on Governor Newsom’s executive order on artificial intelligence as cyber incidents reinforce cybersecurity preparedness_
+These actions build on Governor Newsom’s [2023](https://www.gov.ca.gov/2023/09/06/governor-newsom-signs-executive-order-to-prepare-california-for-the-progress-of-artificial-intelligence/) and [2026](https://www.gov.ca.gov/2026/03/30/as-trump-rolls-back-protections-governor-newsom-signs-first-of-its-kind-executive-order-to-strengthen-ai-protections-and-responsible-use/) Executive Orders establishing California’s comprehensive framework for the responsible, ethical, and transparent use of artificial intelligence.
+
+“Artificial intelligence is transforming both the opportunities and the risks in government cybersecurity.
+
+As artificial intelligence rapidly evolves, California remains committed to fostering innovation while protecting public safety, strengthening cybersecurity, and ensuring the benefits of AI are realized responsibly.</description>
     </item>
     <item>
-      <title>Big Sky coaches, players move forward cautiously in age of artificial intelligence</title>
-      <link>https://www.spokesman.com/stories/2026/aug/08/big-sky-coaches-players-move-forward-cautiously-in/</link>
-      <guid isPermaLink="true">https://www.spokesman.com/stories/2026/aug/08/big-sky-coaches-players-move-forward-cautiously-in/</guid>
-      <description>According to reporting, published first by The Athletic, MLB teams may have been using the league-issued devices to access generative artificial intelligence platforms and to consult them about in-game pitch-calling decisions.
+      <title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</title>
+      <link>https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</link>
+      <guid isPermaLink="true">https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</guid>
+      <description># The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes
+### Interact with this article
+Artificial intelligence (AI) has been utilized in a variety of capacities to fundamentally transform oncology care since its inception.
 
-AI, as an evolution of analytics and as a timesaver in finding and organizing information, has already reshaped the way college football teams spend Sunday through Friday.</description>
+## **Exploring the Application of AI for Specialized Use in Clinical Workflows**
+Regarding LLMs, Matasar highlighted OpenEvidence, an LLM that purports to draw from journals such as the _New England Journal of Medicine_ and the _JAMA_ Network, as well as NCCN guidelines, to deliver AI-generated insights for clinicians.2 Their mission is doctor-centered and markets itself as an “AI copilot” to help inform high-stakes, point-of-care decisions.
+
+## **2026: The Year of AI Industrialization in Oncology**
+6. Sparano JA, Lama N, Gray RJ, et al. Multimodal artificial intelligence (AI) models integrating image, clinical, and molecular data for predicting early and late breast cancer recurrence in TAILORx. Presented at: 2025 San Antonio Breast Cancer Symposium; December 9-12, 2025; San Antonio, TX. Abstract 1601.</description>
     </item>
     <item>
-      <title>Open call for proposals and reporting practices on artificial intelligence</title>
-      <link>https://www.madamasr.com/en/2026/08/09/feature/society/open-call-for-proposals-and-reporting-practices-on-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.madamasr.com/en/2026/08/09/feature/society/open-call-for-proposals-and-reporting-practices-on-artificial-intelligence/</guid>
-      <description>An open call for those who are interested in critically engaging with artificial intelligence.</description>
+      <title>Artificial Intelligence: Moving up the Investment Value Chain</title>
+      <link>https://www.ai-cio.com/news/artificial-intelligence-moving-up-the-investment-value-chain/</link>
+      <guid isPermaLink="true">https://www.ai-cio.com/news/artificial-intelligence-moving-up-the-investment-value-chain/</guid>
+      <description>As mentioned in previous columns, I believe the surge in artificial intelligence is unstoppable.
+
+## **Grappling With Complexity**
+_He recently launched Brave Foresight, an investment management consultancy company focusing on innovation and artificial intelligence._
+
+Tags: [Arizona Public Safety Personnel Retirement System](https://www.ai-cio.com/tag/arizona-public-safety-personnel-retirement-system/), [Artificial Intelligence](https://www.ai-cio.com/tag/artificial-intelligence/), [disruption](https://www.ai-cio.com/tag/disruption/), [initial public offering](https://www.ai-cio.com/tag/initial-public-offering/), [investment decisionmaking](https://www.ai-cio.com/tag/investment-decisionmaking/), [Mark Steed](https://www.ai-cio.com/tag/mark-steed/), [productivity](https://www.ai-cio.com/tag/productivity/), [SpaceX](https://www.ai-cio.com/tag/spacex/)</description>
     </item>
     <item>
-      <title>All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028</title>
-      <link>https://miamioh.edu/news/2026/08/all-academic-departments-at-miami-to-integrate-artificial-intelligence-into-the-curriculum-by-2027-2028.html</link>
-      <guid isPermaLink="true">https://miamioh.edu/news/2026/08/all-academic-departments-at-miami-to-integrate-artificial-intelligence-into-the-curriculum-by-2027-2028.html</guid>
-      <description># All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028
-The goal of Miami University’s AI in the Majors, a discipline-specific, faculty-led curriculum initiative, is for every undergraduate student to graduate with artificial intelligence (AI) competencies aligned with their professional fields.
+      <title>AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools</title>
+      <link>https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-parents-teachers-and-students-grapple-with-artificial-intelligence-in-schools/</link>
+      <guid isPermaLink="true">https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-parents-teachers-and-students-grapple-with-artificial-intelligence-in-schools/</guid>
+      <description># AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools
+#### Listen To This Story
+She said she found out Omaha Public Schools, where her daughter is enrolled, uses a fluency-grading AI tool called Amira.
 
-They led sessions in Miami’s annual AI Symposium in recent years, and Yezierski led a session on helping faculty improve their teaching using ChatGPT or other generative AI tools.
+The use of artificial intelligence is growing in classrooms, with national data showing more teachers and students are using it. According to a Center for Democracy &amp; Technology [survey](https://cdt.org/wp-content/uploads/2024/03/2024-03-21-CDT-Civic-Tech-Generative-AI-Survey-Research-final.pdf), 83% of teachers reported using ChatGPT or another generative AI tool in the 2023-24 school year. Results from a Pew Research Center [survey](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) showed more than half of teenagers say they used an AI chatbot to find information or get help with schoolwork.
 
-## **Student views**
-AI in the Majors is the latest of several steps Miami has taken in recent years to integrate artificial intelligence across the university.
+She noticed when students were using Grammarly, an AI editing software, they weren’t learning how to properly write.
 
-There is a new [bachelor’s degree in Artificial Intelligence](https://miamioh.edu/news/2025/10/new-degree-in-artificial-intelligence-will-prepare-miami-students-for-growing-field.html) as well as a self-paced, five-module [AI Fundamentals](https://programs.miamioh.edu/programs/ai-fundamentals/) microlearning course that is free for all students, faculty, and staff to build basic and advanced tech literacy.
+## **Ethics, inaccuracies raise questions**
+Jordan Martin, who will start his first year as the high school business teacher at Wilber-Clatonia Public Schools, said artificial intelligence is helping him develop some of his materials, like coming up with wrong answers for multiple-choice questions on tests.
 
-AI is continuing to develop at a rapid pace and becoming a fundamental part of nearly every industry.
+There’s also a systemwide policy on ways faculty can [utilize](https://nebraska.edu/offices/information-technology-services/technology-support/artificial-intelligence/responsible-use#faculty) AI tools, which includes using it to “enhance or improve assignments.”
 
-Novak added, “AI can be used as a tool to enhance our studies, not something that just spits out answers.</description>
+## **Avoiding artificial intelligence**
+“Whether it's physical medium or digital or whatever it may be, you're partaking in the act of creation.
+
+“Someone, instead of doing the work themselves, they just typed it into ChatGPT or whatever they used and had it generate all of their looks for them,” Traxler said.</description>
     </item>
     <item>
-      <title>Experts in artificial intelligence coming to Cameron for its 13th academic festival</title>
-      <link>https://www.duncanbanner.com/community/experts-in-artificial-intelligence-coming-to-cameron-for-its-13th-academic-festival/article_5a1979cb-ba3e-4991-9065-e8a26f5eb230.html</link>
-      <guid isPermaLink="true">https://www.duncanbanner.com/community/experts-in-artificial-intelligence-coming-to-cameron-for-its-13th-academic-festival/article_5a1979cb-ba3e-4991-9065-e8a26f5eb230.html</guid>
-      <description>#### Weather Alert
-###### Less wheels, more thrills: The Dehydrator draws unicyclists …
-The impressive roster includes experts and researchers whose work examines the benefits and perils of artificial intelligence.
+      <title>CCC&amp;TI Launches New Artificial Intelligence Degree Program</title>
+      <link>https://wataugaonline.com/cccti-launches-new-artificial-intelligence-degree-program/</link>
+      <guid isPermaLink="true">https://wataugaonline.com/cccti-launches-new-artificial-intelligence-degree-program/</guid>
+      <description>Caldwell Community College and Technical Institute is expanding its technology offerings with the launch of a new Artificial Intelligence Associate in Applied Science (A.A.S.) degree program, providing students with an affordable pathway into one of the nation's fastest-growing career fields.
 
-Speakers presentations will cover everything from how artificial intelligence is changing the face of modern warfare to how Oklahoma government is using AI to modernize the operations of state agencies, as well as the ethics of artificial intelligence and safety and security risks it poses.
+The program is designed to prepare students for careers in artificial intelligence by combining classroom instruction with practical, hands-on learning.
 
-Tai Phan, the first Chief Artificial Intelligence and Technology Officer for the State of Oklahoma, will open Festival XIII on Thursday, Aug. 27, on a topic tentatively titled, “Using Artificial Intelligence to Amplify Human Potential.” Phan leads state government’s strategy for deploying artificial intelligence and digital modernization across more than 125 agencies, boards and commissions.
+“Artificial intelligence is transforming how businesses operate, and employers need professionals who understand how to apply these technologies responsibly and effectively,” said Dr.
 
-The first is by former Oklahoma Congressman Brad Carson, who now is president of Americans for Responsible Innovation, an advocacy group promoting thoughtful governance and safety guardrails for technologies such as artificial intelligence.
+Demand for AI-skilled professionals continues to grow as businesses incorporate artificial intelligence into manufacturing, healthcare, finance, education, logistics, agriculture, government, and other sectors.
 
-His works include The Most Human Human, which explores what communication and language tests reveal about human nature and The Alignment Problem, which investigates the ethics, safety challenges, and moral questions surrounding artificial intelligence.
-
-Wrapping up Festival XIII will be computer scientist, author and professor Roman Yampolskiy, who is best known as a leading expert in artificial intelligence safety, security and cybersecurity. He is well-known for arguing that artificial superintelligence is fundamentally uncontrollable. His works include Artificial Superintelligence: A Futuristic Approach, Artificial Intelligence Safety and Security and AI: Unexplainable, Unpredictable, Uncontrollable.
-
-#### Tags
-- [Artificial Intelligence](https://www.duncanbanner.com/search/?k=%22artificial%20intelligence%22#tncms-source=keyword)</description>
+### [Sun Belt Announces 2026-27 Men’s Basketball Conference Schedule](https://wataugaonline.com/sun-belt-announces-2026-27-mens-basketball-conference-schedule/)
+[Back to top button](https://wataugaonline.com/cccti-launches-new-artificial-intelligence-degree-program/#go-to-tie-body)</description>
     </item>
     <item>
-      <title>Artificial Intelligence used to design brand new viruses</title>
-      <link>https://www.bbc.com/news/articles/c5y3j3ngevmo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5y3j3ngevmo</guid>
-      <description># Artificial Intelligence used to design brand new viruses
-Share
+      <title>How artificial intelligence is changing periodontal assessment: Enhancing diagnostic accuracy in dental hygiene practice</title>
+      <link>https://www.rdhmag.com/patient-care/article/55396926/how-artificial-intelligence-is-changing-periodontal-assessment-enhancing-diagnostic-accuracy-in-dental-hygiene-practice</link>
+      <guid isPermaLink="true">https://www.rdhmag.com/patient-care/article/55396926/how-artificial-intelligence-is-changing-periodontal-assessment-enhancing-diagnostic-accuracy-in-dental-hygiene-practice</guid>
+      <description># How artificial intelligence is changing periodontal assessment: Enhancing diagnostic accuracy in dental hygiene practice
+Artificial intelligence is transforming periodontal care by helping dental hygienists detect subtle radiographic findings, improve patient education, and support more consistent treatment planning.
 
-Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say US researchers.
+## Key Highlights
+Artificial intelligence is one of the latest advancements reshaping dentistry, and periodontal assessment is an area where it has great potential.
 
-It is the first time whole genomes have been successfully designed by AI.
-
-The technology works similarly to large language models, like ChatGPT, which predict sequences of text.
-
-In this instance the AI models, known as Evo1 and Evo2, predict the language of life rather than words.
-
-The AI models were trained on genetic codes from viruses, bacteria, plants and people.
-
-The AI models were trained on genetic codes from viruses, bacteria, plants and people
-
-The Stanford researchers picked the most promising 302 AI designs and synthesised them in the lab.
-
-## From computers bits to atoms
-Viruses are not alive and it would take another significant leap for AI to generate living organisms.
-
-He said it "allows us to dream of exciting possibilities for tackling humanity's greatest challenges" such as developing phages to tackle disease, enzymes to treat genetic disorders and antibodies that could be used in immunotherapy.
-
-![](https://static.files.bbci.co.uk/bbcdotcom/web/20260729-174851-148577b706-web-3.17.0-2/grey-placeholder.png)![Stanford University This image shows two people working at a desk in a bright office or research environment with large windows and natural light. One person is seated in front of a dual-monitor workstation, while another stands nearby pointing toward a detailed molecular or protein structure displayed on one of the screens. The monitors show scientific visualization software, with one screen displaying a complex three-dimensional biological model and the other containing text or data. Various desk items, including a water bottle, mug, computer peripherals, and potted plants, are visible around the workspace. ](https://ichef.bbci.co.uk/news/480/cpsprodpb/63c2/live/bb855210-91b9-11f1-bab9-173de0e7d358.jpg.webp)Stanford University
-
-[**'World-first' vaccine designed by artificial intelligence**](https://www.bbc.co.uk/news/articles/crrpggegwe0o)
-
-[Health](https://www.bbc.com/news/health)</description>
+Helping patients understand the seriousness of a condition they cannot see or feel is one of the most difficult yet most important parts of periodontal care. [Artificial intelligence](https://www.rdhmag.com/career-profession/article/55293064/9-things-every-hygienist-should-know-about-dental-ai) offers another tool to support earlier detection, monitor progression, enhance patient education and understanding, and strengthen the periodontal care we provide every day.2</description>
     </item>
     <item>
-      <title>Another View: Artificial-intelligence technology must be regulated now before it’s too late</title>
-      <link>https://www.marinij.com/2026/08/08/another-view-artificial-intelligence-technology-must-be-regulated-now-before-its-too-late/</link>
-      <guid isPermaLink="true">https://www.marinij.com/2026/08/08/another-view-artificial-intelligence-technology-must-be-regulated-now-before-its-too-late/</guid>
-      <description>This illustration photograph taken in Mulhouse, eastern France on Feb. 11, 2025, shows the logo of OpenAI’s artificial intelligence chatbot ChatGPT.
+      <title>Experts say artificial intelligence is not coming for your job just yet</title>
+      <link>https://vegasinc.lasvegassun.com/business/2026/aug/10/why-experts-say-artificial-intelligence-is-not-com/</link>
+      <guid isPermaLink="true">https://vegasinc.lasvegassun.com/business/2026/aug/10/why-experts-say-artificial-intelligence-is-not-com/</guid>
+      <description># Experts say artificial intelligence is not coming for your job just yet
+AI has been adopted across most industries, but experts say it’s largely playing an assistive role rather than replacing jobs outright.
 
-Artificial intelligence deserves the same serious oversight.</description>
+The increasingly routine use of artificial intelligence in the workplace is virtually undeniable, though experts say there’s no need to panic about it overtaking jobs — at least not yet.
+
+Google’s new AI &amp; Economy ATLAS report, released July 23, finds that AI is mostly playing an assistive role — helping with ideas, strategy and similar tasks — while fully automating work remains rare.
+
+The study, based on 15 million interactions with Google’s AI products including the Gemini app and AI Mode, found that while AI has been adopted across all industry sectors and 68% of all occupations, it is being used selectively and for only approximately 21% of tasks.
+
+“To be able to use it strategically, where it doesn’t seem like they are a robot, but they’re really using it as a resource and a tool.”
+
+He encouraged people to start talking to AI platforms like “a friend at the water cooler,” and let it change the way they think about problem-solving.
+
+Here is how I want to do it,’ and then do it.”
+
+“It’s like a snowball going down a hill once you start … They literally will change the way you think and change the way you work, and your output will be elevated beyond what anybody thinks. AI by itself is actually pretty stupid. It’s the human creative mind that really is the multiplier.”
+
+UNLV is working to ensure that faculty and its departments are integrating AI training and resources into courses and operations so that students are ahead of the curve, said Moore, whose office offers a resource on using AI collaboratively in job searches.
+
+That doesn’t mean letting AI write your cover letter, Moore made clear, but using it to get tips and tricks on a cover letter based on a job’s description.
+
+Another example, Moore said, is using AI to explore job opportunities — letting it work alongside you instead of overtaking you.
+
+“They are and will be using more and more (AI) in their functioning now,” Miller said.
+
+When you reinvest it, then you’ll create a demand for more people.”
+
+[AI](https://vegasinc.lasvegassun.com/news/tagged/ai/)</description>
     </item>
     <item>
-      <title>Oneida County hosts Artificial Intelligence Awareness course for youth</title>
-      <link>https://www.uticaod.com/story/news/local/2026/08/09/oneida-county-hosts-ai-awareness-course-for-youth/91215460007/</link>
-      <guid isPermaLink="true">https://www.uticaod.com/story/news/local/2026/08/09/oneida-county-hosts-ai-awareness-course-for-youth/91215460007/</guid>
-      <description># Oneida County hosts Artificial Intelligence Awareness course for youth
-- The curriculum explored both the benefits and risks of artificial intelligence, including the importance of using AI as a learning tool rather than a shortcut for completing schoolwork.
+      <title>Artificial Intelligence at Lowes</title>
+      <link>https://emerj.com/artificial-intelligence-at-lowes/</link>
+      <guid isPermaLink="true">https://emerj.com/artificial-intelligence-at-lowes/</guid>
+      <description># Artificial Intelligence at Lowes
+We begin by examining how Lowe’s applies its generative AI assistant, Mylow Companion, to address the knowledge and consistency gap created by frontline retail turnover.
 
-"Artificial intelligence is transforming nearly every industry, and it is important that our Summer Youth Employment participants understand how to use it responsibly, recognize its limitations and embrace the opportunities it will create throughout their careers.
+## Recommended from Emerj
+[![Artificial Intelligence at Lowes](https://emerj.com/wp-content/uploads/2026/08/Artificial-Intelligence-at-Lowes.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Lowes** \
+\
+Lowe's Companies operates as a Fortune 100 home improvement retailer, with fiscal year 2025 sales that exceeded $86 billion. The company employs approximately 300,000 associates and operates more than 1,750 stores, 540 branches, and 120 distribution centers across the United States. Lowe's reported 16 million customers weekly across an omnichannel network that spans in-store, online,…\
+\
+![](https://secure.gravatar.com/avatar/6e1848b782da2bb68399a60399be7255e0ff961b463825af31e6401c4fe862eb?s=55&amp;d=mm&amp;r=g)\
+\
+Marilie Fouche\
+\
+•\
+\
+August 10, 2026](https://emerj.com/artificial-intelligence-at-lowes/)
 
-## More on the classes
-The curriculum explored both the benefits and risks of artificial intelligence, including the importance of using AI as a learning tool rather than a shortcut for completing schoolwork.
+[![Artificial Intelligence at Caterpillar](https://emerj.com/wp-content/uploads/2026/08/Sponsored-by-40.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Caterpillar** \
+\
+Caterpillar ranks as the world's largest construction equipment manufacturer and also produces off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives, headquartered in Irving, Texas. The company employed 118,000 people worldwide at the end of 2025 and posted $67.6 billion in sales and revenues for the year, the highest full-year total in…\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+August 3, 2026](https://emerj.com/artificial-intelligence-at-caterpillar/)
 
-Participants also explored practical applications for AI, including research, problem-solving and everyday tasks, while learning that effective use of AI depends on asking the right questions and carefully evaluating the information it provides.</description>
+[![](https://emerj.com/wp-content/uploads/2026/07/Mayo-clinic-header-1.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Mayo Clinic** \
+\
+Mayo Clinic is a nonprofit academic medical center headquartered in Rochester, Minnesota, with additional campuses in Arizona and Florida and a regional health system spanning three Upper Midwest states. The organization employed nearly 85,000 people in 2025 and posted $473 million in operating income. Mayo committed $9 billion in capital investment through its "Bold. Forward.…\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+July 27, 2026](https://emerj.com/artificial-intelligence-at-mayo-clinic/)
+
+[![Artificial Intelligence at Lowes](https://emerj.com/wp-content/uploads/2026/08/Artificial-Intelligence-at-Lowes.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Lowes** \
+\
+Lowe's Companies operates as a Fortune 100 home improvement retailer, with fiscal year 2025 sales that exceeded $86 billion. The company employs approximately 300,000 associates and operates more than 1,750 stores, 540 branches, and 120 distribution centers across the United States. Lowe's reported 16 million customers weekly across an omnichannel network that spans in-store, online,…\
+\
+![](https://secure.gravatar.com/avatar/6e1848b782da2bb68399a60399be7255e0ff961b463825af31e6401c4fe862eb?s=55&amp;d=mm&amp;r=g)\
+\
+Marilie Fouche\
+\
+•\
+\
+August 10, 2026](https://emerj.com/artificial-intelligence-at-lowes/)
+
+[![Artificial Intelligence at Caterpillar](https://emerj.com/wp-content/uploads/2026/08/Sponsored-by-40.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Caterpillar** \
+\
+Caterpillar ranks as the world's largest construction equipment manufacturer and also produces off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives, headquartered in Irving, Texas. The company employed 118,000 people worldwide at the end of 2025 and posted $67.6 billion in sales and revenues for the year, the highest full-year total in…\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+August 3, 2026](https://emerj.com/artificial-intelligence-at-caterpillar/)
+
+[![](https://emerj.com/wp-content/uploads/2026/07/Mayo-clinic-header-1.jpg)\
+\
+Read more\
+\
+**Artificial Intelligence at Mayo Clinic** \
+\
+Mayo Clinic is a nonprofit academic medical center headquartered in Rochester, Minnesota, with additional campuses in Arizona and Florida and a regional health system spanning three Upper Midwest states. The organization employed nearly 85,000 people in 2025 and posted $473 million in operating income. Mayo committed $9 billion in capital investment through its "Bold. Forward.…\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+July 27, 2026](https://emerj.com/artificial-intelligence-at-mayo-clinic/)
+
+[Twitter](https://twitter.com/intent/tweet?url=https://emerj.com/artificial-intelligence-at-lowes/&amp;text=Artificial%20Intelligence%20at%20Lowes)[Instagram](https://www.linkedin.com/shareArticle?mini=true&amp;url=https://emerj.com)[Facebook](https://www.facebook.com/sharer/sharer.php?u=https://emerj.com/artificial-intelligence-at-lowes/&amp;picture={acf_background_image}&amp;title=Artificial%20Intelligence%20at%20Lowes)</description>
     </item>
   </channel>
 </rss>
