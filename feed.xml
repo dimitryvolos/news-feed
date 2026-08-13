@@ -5,8 +5,18 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:22:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI was supposed to destroy jobs. Where’s the carnage?</title>
+      <link>https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction</guid>
+      <description># AI was supposed to destroy jobs. Where’s the carnage?
+The prediction was stark: [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai) advancements would wipe out jobs en masse.
+
+## Workers may become more disposable
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
     <item>
       <title>Opinion | I’ve Seen How A.I. Changes Young People’s Social Lives</title>
       <link>https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html</link>
@@ -14,277 +24,159 @@
       <description>A.I. has become a kind of social sealant, filling the gaps in young people's relationships.</description>
     </item>
     <item>
-      <title>5 Best-Performing AI Stocks of 2026 | Investing | U.S. News</title>
-      <link>https://money.usnews.com/investing/articles/best-performing-ai-stocks</link>
-      <guid isPermaLink="true">https://money.usnews.com/investing/articles/best-performing-ai-stocks</guid>
-      <description></description>
+      <title>Why patching networks against cyberattacks is ‘very scary’ in the age of AI</title>
+      <link>https://breakingdefense.com/2026/08/why-patching-networks-against-cyberattacks-is-very-scary-in-the-age-of-ai/</link>
+      <guid isPermaLink="true">https://breakingdefense.com/2026/08/why-patching-networks-against-cyberattacks-is-very-scary-in-the-age-of-ai/</guid>
+      <description>Artificial Intelligence</description>
     </item>
     <item>
-      <title>2 Unstoppable Artificial Intelligence (AI) Stocks That Will Join Amazon in the $3 Trillion Club by 2027</title>
-      <link>https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/3780978/2-unstoppable-artificial-intelligence-ai-stocks-that-will-join-amazon-in-the-3-trillion-club-by-2027/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/investing/markets/stocks/TSM/pressreleases/3780978/2-unstoppable-artificial-intelligence-ai-stocks-that-will-join-amazon-in-the-3-trillion-club-by-2027/</guid>
-      <description></description>
+      <title>I Asked AI to Write a Novel. It’s Not So Bad.</title>
+      <link>https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/</link>
+      <guid isPermaLink="true">https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/</guid>
+      <description>Generative artificial intelligence has already invaded—or infected—the [world of fan fiction](https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html).
+
+No one knows it was written by AI.
+
+Eventually AI will be able to turn any script into video.
+
+(See Bret Stephens’ recent [screed](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html) against AI in which he proclaims that “it’s mentally enfeebling” and leading to “an ever-dumber world.”)</description>
     </item>
     <item>
-      <title>C3.ai vs. Salesforce: Which Software Stock Pursuing Artificial Intelligence Is a Better Buy in 2026?</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-salesforce-software-185042842.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-salesforce-software-185042842.html</guid>
-      <description>The enterprise software landscape is shifting as generative artificial intelligence moves from hype to integration.</description>
+      <title>The Tax Code Wasn’t Built for the Age of AI, Says Yale Budget Expert</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-12/the-tax-code-wasn-t-built-for-ai-says-yale-budget-expert</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-12/the-tax-code-wasn-t-built-for-ai-says-yale-budget-expert</guid>
+      <description>Amid calls to redistribute the vast wealth artificial intelligence could create, Martha Gimbel argues for fixing holes in the current system...</description>
     </item>
     <item>
-      <title>Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective</title>
-      <link>https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/</link>
-      <guid isPermaLink="true">https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/</guid>
-      <description># When the world's at stake,   go beyond the headlines.
-## Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective
-[#Artificial Intelligence](https://warontherocks.com/tag/artificial-intelligence/) [#Deterrence](https://warontherocks.com/tag/deterrence/) [#Nuclear Weapons](https://warontherocks.com/tag/nuclear-weapons/)</description>
+      <title>Modernizing Department of the Air Force Training and Education Approaches</title>
+      <link>https://www.rand.org/pubs/perspectives/PEA4950-1.html</link>
+      <guid isPermaLink="true">https://www.rand.org/pubs/perspectives/PEA4950-1.html</guid>
+      <description># Modernizing Department of the Air Force Training and Education Approaches
+As warfare becomes increasingly shaped by artificial intelligence (AI), autonomy, cyber capabilities, and data-driven operations, the DAF may consider treating technological fluency as a core element of force readiness.
+
+## Topics
+- [Artificial Intelligence](https://www.rand.org/topics/artificial-intelligence.html)</description>
     </item>
     <item>
-      <title>Utah teachers embrace artificial intelligence as new classroom rules take effect</title>
-      <link>https://www.ksl.com/article/51608230/utah-teachers-embrace-artificial-intelligence-as-new-classroom-rules-take-effect</link>
-      <guid isPermaLink="true">https://www.ksl.com/article/51608230/utah-teachers-embrace-artificial-intelligence-as-new-classroom-rules-take-effect</guid>
-      <description># Utah teachers embrace artificial intelligence as new classroom rules take effect
-#### By Deanie Wimmer, KSL |  Posted - Aug. 10, 2026 at 9:53 p.m.
-![John Stewart demonstrates an artificial intelligence program for teachers in the Canyons District. He used AI to turn his daughter's textbooks into podcasts, to help her work around dyslexia.](https://img.ksl.com/slc/3197/319734/31973413.jpg?filter=kslv2/responsive_story_lg&amp;v=1786420416)
+      <title>How much time does AI save at work? New Census Bureau data breaks it down.</title>
+      <link>https://www.cbsnews.com/news/census-data-ai-workers-time-saved/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/census-data-ai-workers-time-saved/</guid>
+      <description>Artificial intelligence is believed to save workers time by helping them complete their daily tasks.
 
-#### John Stewart demonstrates an artificial intelligence program for teachers in the Canyons District. He used AI to turn his daughter's textbooks into podcasts, to help her work around dyslexia. (Nathaniel Gillis, KSL)
- 2 photos
-
-1
-
-Save Story
-
-Leer en español
-
-Estimated read time: 4-5 minutes
-
-KEY TAKEAWAYS
-
-- Utah teachers embrace AI in classrooms as new state guidelines take effect.
-- AI personalizes learning but raises concerns about accuracy and responsible use.
-- Educators emphasize verifying AI information and addressing potential cheating concerns.
-
-## Making learning more accessible
-Stewart has seen AI's potential firsthand through his own daughter, who is dyslexic and has struggled with reading.
-
-Using AI, he converted her textbooks into podcasts so she could listen to course materials rather than read them.
-
-## A new skill: verifying information
-If AI generated an image of an orange shark, students would be encouraged to question it.
-
-## More time for teaching
-AI is also creating new ways for students to engage with lessons. In one classroom demonstration, students interacted with an AI version of aviation pioneer Amelia Earhart, asking questions about her life and experiences.</description>
+## How much time does AI save workers?
+- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
     </item>
     <item>
-      <title>As students return to school, AI takes a seat in Charleston County classrooms</title>
-      <link>https://www.live5news.com/2026/08/11/students-return-school-ai-takes-seat-charleston-county-classrooms/</link>
-      <guid isPermaLink="true">https://www.live5news.com/2026/08/11/students-return-school-ai-takes-seat-charleston-county-classrooms/</guid>
-      <description>The Charleston County School District is launching a districtwide artificial intelligence policy this school year aimed at teaching students and staff how to use AI responsibly rather than trying to keep the technology out of classrooms.
-
-District leaders said the question is no longer whether students and educators will interact with artificial intelligence, but how they can use it in a way that supports learning while protecting academic integrity.
-
-Superintendent Anita Huggins said CCSD is among the first districts to create a comprehensive approach to artificial intelligence in schools.
-
-Clamp said the district’s first step with artificial intelligence is building understanding among students, staff and families.
-
-“For Charleston County School District, the integration of artificial intelligence first begins with literacy, building the background literacy of staff, of students and of families to both understand how the technology works and then more specifically how the technology will work for them,” Clamp said.
-
-Superintendent Anita Huggins said the district’s goal is to make sure artificial intelligence supports student learning without replacing the skills students need to develop.
-
-The district is also investing in AI tools and infrastructure, with funding already budgeted for artificial intelligence initiatives in fiscal year 2027.
-
-As artificial intelligence continues to become more common in education and the workplace, district leaders said the goal is not to replace traditional learning, but to help students understand how to use new technology responsibly.</description>
+      <title>Soaring AI hyperscaler default hedges aren't what they seem</title>
+      <link>https://www.reuters.com/commentary/reuters-open-interest/soaring-ai-hyperscaler-default-hedges-arent-what-they-seem-2026-08-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/commentary/reuters-open-interest/soaring-ai-hyperscaler-default-hedges-arent-what-they-seem-2026-08-12/</guid>
+      <description>![An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai](https://www.reuters.com/resizer/v2/SO4JWPLNOBIJZFSILLJJXUZC6Y.jpg?auth=52fc82446addf36dfc2d02aaa790d99e59cec8dbd4e6016e547baae25dc997bf&amp;width=1920&amp;quality=80)</description>
     </item>
     <item>
-      <title>AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools</title>
-      <link>https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-parents-teachers-and-students-grapple-with-artificial-intelligence-in-schools/</link>
-      <guid isPermaLink="true">https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-parents-teachers-and-students-grapple-with-artificial-intelligence-in-schools/</guid>
-      <description># AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools
-#### Listen To This Story
-She said she found out Omaha Public Schools, where her daughter is enrolled, uses a fluency-grading AI tool called Amira.
-
-The use of artificial intelligence is growing in classrooms, with national data showing more teachers and students are using it. According to a Center for Democracy &amp; Technology [survey](https://cdt.org/wp-content/uploads/2024/03/2024-03-21-CDT-Civic-Tech-Generative-AI-Survey-Research-final.pdf), 83% of teachers reported using ChatGPT or another generative AI tool in the 2023-24 school year. Results from a Pew Research Center [survey](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/) showed more than half of teenagers say they used an AI chatbot to find information or get help with schoolwork.
-
-She noticed when students were using Grammarly, an AI editing software, they weren’t learning how to properly write.
-
-## **Ethics, inaccuracies raise questions**
-Jordan Martin, who will start his first year as the high school business teacher at Wilber-Clatonia Public Schools, said artificial intelligence is helping him develop some of his materials, like coming up with wrong answers for multiple-choice questions on tests.
-
-There’s also a systemwide policy on ways faculty can [utilize](https://nebraska.edu/offices/information-technology-services/technology-support/artificial-intelligence/responsible-use#faculty) AI tools, which includes using it to “enhance or improve assignments.”
-
-## **Avoiding artificial intelligence**
-“Whether it's physical medium or digital or whatever it may be, you're partaking in the act of creation.
-
-“Someone, instead of doing the work themselves, they just typed it into ChatGPT or whatever they used and had it generate all of their looks for them,” Traxler said.</description>
+      <title>Accelerate cyber defense with OpenAI and AWS: Daybreak Red &amp; Daybreak Blue now available to eligible customers on Amazon Bedrock | Artificial Intelligence</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/</guid>
+      <description>Cyber defenders have never had more capability at their fingertips, and they have never needed it more. Frontier models can now reason...</description>
     </item>
     <item>
-      <title>New Artificial Intelligence curriculum in some North Texas classrooms</title>
-      <link>https://www.nbcdfw.com/news/local/something-good/new-a-i-curriculum-in-some-north-texas-classrooms/4060743/</link>
-      <guid isPermaLink="true">https://www.nbcdfw.com/news/local/something-good/new-a-i-curriculum-in-some-north-texas-classrooms/4060743/</guid>
-      <description># New Artificial Intelligence curriculum in some North Texas classrooms
-## Uplift Education will start the 2026-2027 academic year introducing a new crop of students to their new curriculum on artificial intelligence.
-#### By [Laura Harris](https://www.nbcdfw.com/author/laura-harris/)•Published 1 hour ago•Updated 23 seconds ago
-"Artificial intelligence is shaping every industry, and our responsibility as educators is to ensure students are prepared.</description>
+      <title>China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack</title>
+      <link>https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1</guid>
+      <description>AI agents ran simultaneous reconnaissance and break-ins in display of new phase of cyberwarfare.</description>
     </item>
     <item>
-      <title>Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’</title>
-      <link>https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html</guid>
-      <description>[Nvidia](https://www.cnbc.com/quotes/NVDA/) is attempting to turn its artificial intelligence chips into Wall Street’s newest asset class, partnering with six large asset managers on a $500 billion financing push designed to treat compute infrastructure much like commercial real estate, toll roads or other assets to borrow against.</description>
+      <title>Using Artificial Intelligence to Improve Diabetes Medication Safety After Hospital Discharge</title>
+      <link>https://www.umassmed.edu/dcoe/diabetes-care/artificial-intelligence-to-improve-medication-safety/</link>
+      <guid isPermaLink="true">https://www.umassmed.edu/dcoe/diabetes-care/artificial-intelligence-to-improve-medication-safety/</guid>
+      <description># Using Artificial Intelligence to Improve Diabetes Medication Safety After Hospital Discharge
+A newly funded project led by **Alok Kapoor, MD**, will explore how artificial intelligence can help people with diabetes better understand changes to their medications when leaving the hospital.
+
+The project, funded by the [Herman G. Berkman Diabetes Clinical Innovation Fund](https://www.umassmed.edu/dcoe/diabetes-research/clinical-innovation-fund/), will develop and test an interactive artificial intelligence tool using a communication technique known as teach-back.
+
+Using a secure artificial intelligence system restricted to carefully selected, safety-focused information, the tool will generate questions based on each patient's diabetes medication instructions.
+
+A clinician will be present during all patient testing to identify and correct any errors made by the artificial intelligence tool.
+
+## [Using Artificial Intelligence to Improve Diabetes Medication Safety After Hospital Discharge](https://www.umassmed.edu/dcoe/diabetes-care/artificial-intelligence-to-improve-medication-safety/)
+This project will develop and test an artificial intelligence tool designed to help patients better understand changes to their diabetes medications when leaving the hospital.
+
+## [AI Diabetic Retinopathy Screening in Primary Care](https://www.umassmed.edu/dcoe/umass-diabetes-news/2023/01/berkman/)
+This project implemented an artificial intelligence (AI)- based diabetic retinopathy screening program in Family Medicine clinics to detect eye disease and improve comprehensive care for people living with diabetes.</description>
     </item>
     <item>
-      <title>North Carolina Central University opens NC's first artificial intelligence building</title>
-      <link>https://www.wral.com/news/education/nccu-opens-nc-first-artifical-intelligence-building-august-2026/</link>
-      <guid isPermaLink="true">https://www.wral.com/news/education/nccu-opens-nc-first-artifical-intelligence-building-august-2026/</guid>
-      <description># North Carolina Central University opens NC's first artificial intelligence building
-There are currently 208 programs offering a bachelor's degree in Artificial Intelligence, and North Carolina Central University is the first North Carolina college to offer a dedicated AI building.
+      <title>How is artificial intelligence affecting Chicago workers?</title>
+      <link>https://www.wbez.org/say-more-with-mary-dixon-patrick-smith/2026/08/12/how-is-artificial-intelligence-affecting-chicago-workers</link>
+      <guid isPermaLink="true">https://www.wbez.org/say-more-with-mary-dixon-patrick-smith/2026/08/12/how-is-artificial-intelligence-affecting-chicago-workers</guid>
+      <description>A photo taken on October 4, 2023 in Manta, near Turin, shows a smartphone and a laptop displaying the logos of the artificial intelligence OpenAI research laboratory and ChatGPT robot. ChatGPT maker OpenAI said July 21 that its advanced artificial intelligence models had gone rogue during security testing, hacking into a popular platform for programmers on their own.
 
-Posted
+A photo taken on October 4, 2023 in Manta, near Turin, shows a smartphone and a laptop displaying the logos of the artificial intelligence OpenAI research laboratory and ChatGPT robot. ChatGPT maker OpenAI said July 21 that its advanced artificial intelligence models had gone rogue during security testing, hacking into a popular platform for programmers on their own.
 
-8/11/2026, 2:45:42 PM
-
-- Related
-- [artificial intelligence](https://www.wral.com/tags/?tag=artificial-intelligence)
-artificial intelligence
-- North Carolina Central University
-- HBCUs
-
-![NCCU ribbon cutting ](https://images.wral.com/361c61f0-6fc8-4a0a-9be8-331dbf041748?w=1200&amp;h=675&amp;f=jpg)NCCU ribbon cutting
-
-By WRAL Staff
-
-There are currently 208 programs offering a bachelor's degree in Artificial Intelligence. However, North Carolina Central University is the first North Carolina college to build a dedicated AI building, called the Institute for Artifical Intelligence and Emerging Research ( [IAIER](https://www.nccu.edu/research/institutes-and-special-facilities/iaier)).
-
-On Monday, the college cut the ribbon on the first artifical intelligence institute established by a historically Black college or university (HBCU).
-
-Last year the school added a module introducing AI to freshman in a mandatory university education class in the Fall. They will being offering a minor in AI through the NCCU Department of Mathematics and Physics beginning Fall 2026.
-
-"Artifical intelligence is transforming nearly every industry," said NCCU Chancellor Karrie G. Dixon. "We want to not only prepare students but help them shape AI."
-
-Inside features an AI Literacy Studio, Machine Learning and Data Science Studio, Robotics and Emerging Tech Lab, XR Innovation Sandbox, Ethics and Governance classrooms and Innovation Atrium.</description>
+## How is artificial intelligence affecting Chicago workers?
+ChatGPT maker OpenAI said July 21 that its advanced artificial intelligence models had gone rogue during security testing, hacking into a popular platform for programmers on their own.</description>
     </item>
     <item>
-      <title>AI labs want to slow down risky model testing. It may be too late.</title>
-      <link>https://www.politico.com/news/2026/08/11/ai-model-testing-slowdown-dilemma-01032091</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/08/11/ai-model-testing-slowdown-dilemma-01032091</guid>
-      <description>Silicon Valley's leading artificial intelligence labs face a dilemma: Some of their most advanced models have outsmarted developers during...</description>
+      <title>The Role of Artificial Intelligence In Access</title>
+      <link>https://www.pharmaceuticalcommerce.com/view/the-role-of-artificial-intelligence-in-access</link>
+      <guid isPermaLink="true">https://www.pharmaceuticalcommerce.com/view/the-role-of-artificial-intelligence-in-access</guid>
+      <description># The Role of Artificial Intelligence In Access
+### Key Takeaways
+Artificial intelligence (AI) is dominating today’s world.</description>
     </item>
     <item>
-      <title>Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model</title>
-      <link>https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta</guid>
-      <description># Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model
-[Mark Zuckerberg](https://www.theguardian.com/technology/mark-zuckerberg) published a lengthy essay on Monday detailing his views on [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai) and announced several plans for how [Meta](https://www.theguardian.com/technology/meta) would develop the technology in the future.
+      <title>AI in Nebraska education: Higher ed looks to human-centric approach to integrate artificial intelligence</title>
+      <link>https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-higher-ed-looks-to-human-centric-approach-to-integrate-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://nebraskapublicmedia.org/en/news/news-articles/ai-in-nebraska-education-higher-ed-looks-to-human-centric-approach-to-integrate-artificial-intelligence/</guid>
+      <description>National data shows that 90% of college students use AI. The University of Nebraska has the AI Institute, while some smaller colleges are...</description>
+    </item>
+    <item>
+      <title>Three Resources Consider Responsible Use of AI in College Access</title>
+      <link>https://www.ncan.org/Web/News/three-resources-consider-responsible-use-of-AI-in-College-Access.aspx</link>
+      <guid isPermaLink="true">https://www.ncan.org/Web/News/three-resources-consider-responsible-use-of-AI-in-College-Access.aspx</guid>
+      <description>What does responsible AI use look like in college access and college advising? This post considers three resources for NCAN members.</description>
+    </item>
+    <item>
+      <title>NEWSLETTER: American AI model makers smell an opportunity</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/american-ai-model-makers-smell-an-opportunity-2026-08-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/technology/artificial-intelligence/american-ai-model-makers-smell-an-opportunity-2026-08-12/</guid>
+      <description>Aug 12 (Reuters) - Cheaper, more customizable and able to generate code nearly as well as the best from Anthropic and OpenAI, open artificial intelligence [models](https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17/) from [China](https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/) have taken Silicon Valley by storm this year.</description>
+    </item>
+    <item>
+      <title>Assort Health rolls out AI agent to automate referrals for specialty practices and health systems</title>
+      <link>https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-ai-agent-dedicated-referrals</link>
+      <guid isPermaLink="true">https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-ai-agent-dedicated-referrals</guid>
+      <description># Assort Health rolls out AI agent to automate referrals for specialty practices and health systems
+[Assort Health](https://www.fiercehealthcare.com/keyword/assort-health) [Artificial Intelligence](https://www.fiercehealthcare.com/keyword/artificial-intelligence) [agentic AI](https://www.fiercehealthcare.com/keyword/agentic-ai) [Referrals](https://www.fiercehealthcare.com/keyword/referrals)
 
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+Artificial intelligence platform Assort Health launched a new AI agent to aid healthcare organizations in handling referrals.
+
+### Related
+[Assort Health](https://www.fiercehealthcare.com/keyword/assort-health) [Artificial Intelligence](https://www.fiercehealthcare.com/keyword/artificial-intelligence) [agentic AI](https://www.fiercehealthcare.com/keyword/agentic-ai) [Referrals](https://www.fiercehealthcare.com/keyword/referrals) [Digital Health](https://www.fiercehealthcare.com/digital-health) [Health Tech](https://www.fiercehealthcare.com/health-tech) [Hospitals](https://www.fiercehealthcare.com/hospitals-health-systems) [Practices](https://www.fiercehealthcare.com/practices) [Providers](https://www.fiercehealthcare.com/providers) [AI and Machine Learning](https://www.fiercehealthcare.com/ai-and-machine-learning)</description>
     </item>
     <item>
-      <title>Mark Zuckerberg says AI needs to be regulated globally</title>
-      <link>https://idahonews.com/news/nation-world/mark-zuckerberg-says-ai-needs-to-be-regulated-globally-meta-artificial-intelligence-labs</link>
-      <guid isPermaLink="true">https://idahonews.com/news/nation-world/mark-zuckerberg-says-ai-needs-to-be-regulated-globally-meta-artificial-intelligence-labs</guid>
-      <description></description>
+      <title>The Wrong Conversation About Artificial Intelligence</title>
+      <link>https://mexicobusiness.news/automotive/news/wrong-conversation-about-artificial-intelligence</link>
+      <guid isPermaLink="true">https://mexicobusiness.news/automotive/news/wrong-conversation-about-artificial-intelligence</guid>
+      <description>## STORY INLINE POST
+Not long ago, artificial intelligence was something we discussed at conferences.
+
+Today, AI drafts our reports, answers our customers, monitors our machines and, in more companies than we like to admit, already understands parts of the operation better than the people running it.
+
+- [Artificial Intelligence](https://mexicobusiness.news/tag/artificial-intelligence)</description>
     </item>
     <item>
-      <title>XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools</title>
-      <link>https://www.reuters.com/technology/xai-co-founders-startup-river-ai-raises-11-billion-expand-custom-ai-tools-2026-08-11/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/xai-co-founders-startup-river-ai-raises-11-billion-expand-custom-ai-tools-2026-08-11/</guid>
-      <description>A message reading "AI artificial intelligence", a keyboard, and robot hands are seen in this illustration taken January 27, 2025.</description>
-    </item>
-    <item>
-      <title>C3.ai vs. Salesforce: Which Software Stock Pursuing Artificial Intelligence Is a Better Buy in 2026?</title>
-      <link>https://www.fool.com/coverage/better-buy/2026/08/11/c3-ai-vs-salesforce-which-software-stock-pursuing-artificial-intelligence-is-a-better-buy-in-2026/</link>
-      <guid isPermaLink="true">https://www.fool.com/coverage/better-buy/2026/08/11/c3-ai-vs-salesforce-which-software-stock-pursuing-artificial-intelligence-is-a-better-buy-in-2026/</guid>
+      <title>Advanced Micro Devices vs. Alphabet: Which Artificial Intelligence Stock Is a Better Buy in 2026?</title>
+      <link>https://www.fool.com/coverage/better-buy/2026/08/12/advanced-micro-devices-vs-alphabet-which-artificial-intelligence-stock-is-a-better-buy-in-2026/</link>
+      <guid isPermaLink="true">https://www.fool.com/coverage/better-buy/2026/08/12/advanced-micro-devices-vs-alphabet-which-artificial-intelligence-stock-is-a-better-buy-in-2026/</guid>
       <description>## Key Points
-- C3.ai provides a specialized platform for deploying enterprise-scale artificial intelligence applications across highly regulated sectors.</description>
+In today’s rapidly expanding artificial intelligence sector, investors have a choice between the high-growth potential of a chip design company and the massive cash flows of an internet giant.
+
+AMD focuses on high-performance computing and artificial intelligence hardware, while Alphabet dominates the digital advertising and cloud computing landscapes.</description>
     </item>
     <item>
-      <title>Two public Kentucky universities launch artificial intelligence degrees this fall</title>
-      <link>https://www.weku.org/the-commonwealth/2026-08-11/two-public-kentucky-universities-launch-artificial-intelligence-degrees-this-fall</link>
-      <guid isPermaLink="true">https://www.weku.org/the-commonwealth/2026-08-11/two-public-kentucky-universities-launch-artificial-intelligence-degrees-this-fall</guid>
-      <description># Two public Kentucky universities launch artificial intelligence degrees this fall
-- [Facebook](https://www.facebook.com/dialog/share?app_id=755367488672459&amp;display=popup&amp;href=https%3A%2F%2Fwww.weku.org%2Fthe-commonwealth%2F2026-08-11%2Ftwo-public-kentucky-universities-launch-artificial-intelligence-degrees-this-fall)
-- [LinkedIn](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.weku.org%2Fthe-commonwealth%2F2026-08-11%2Ftwo-public-kentucky-universities-launch-artificial-intelligence-degrees-this-fall&amp;mini=true&amp;title=Two%20public%20Kentucky%20universities%20launch%20artificial%20intelligence%20degrees%20this%20fall&amp;summary=The%20new%20majors%20are%20part%20of%20larger%20computer%20science%20programs%20and%20come%20as%20AI%20is%20more%20widely%20adopted%20across%20many%20sectors.&amp;source=WEKU)
-- [Email](mailto:?body=Two%20public%20Kentucky%20universities%20launch%20artificial%20intelligence%20degrees%20this%20fall%0A%0Ahttps%3A%2F%2Fwww.weku.org%2Fthe-commonwealth%2F2026-08-11%2Ftwo-public-kentucky-universities-launch-artificial-intelligence-degrees-this-fall%0A%0AThe%20new%20majors%20are%20part%20of%20larger%20computer%20science%20programs%20and%20come%20as%20AI%20is%20more%20widely%20adopted%20across%20many%20sectors.)
-
-## The new majors are part of larger computer science programs and come as AI is more widely adopted across many sectors.
-Two Kentucky universities have launched degrees in artificial intelligence for the fall semester, responding to workforce changes and student interest as AI becomes more widely used across many sectors.
-
-The University of Kentucky and Murray State University are adding the degrees to their selection of computer science education.
-
-Brent Harrison, professor of computer science and the director of undergraduate studies for computer science and AI at UK, said the degree is about understanding the effects of AI and when it’s appropriate to use it.
-
-“There's too much money, and the people that are making the decisions, like quite frankly, they don't know how the systems work, and so they make decisions, maybe optimizing for the wrong thing, and so through this degree, what I'm hoping is that again we can try we can by educating the populace, you enable them to make better decisions, put AI on a on a good path.”
-
-![Brent Harrison is a professor of computer science and artificial intelligence at the University of Kentucky, on August 7, 2026. He said students who graduate with the new artificial intelligence degree should be able to get computer science jobs.](https://npr.brightspotcdn.com/dims4/default/e08b494/2147483647/strip/true/crop/6000x4000+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2F9d%2F26b88cb1479b82137a63e111a4f5%2Fimg-3519.JPG)
-
-Lily Burris
-
-/
-
-WEKU
-
-He said students who graduate with the new artificial intelligence degree should be able to get computer science jobs.
-
-UK’s program has about 30 students enrolled this fall, but Harrison hopes it grows to about 200.
-
-Murray State’s program has a couple of students, but Matthew Tennyson, professor and department chair for computer science and information systems, said he also expects more interest.
-
-“They'll choose AI rather than computer science.”
-
-The addition of the degree programs at the two public Kentucky universities comes as businesses and individuals widely adopt AI, though critics have raised concern over the [impact of energy use and infrastructure needed](https://iee.psu.edu/news/blog/why-ai-uses-so-much-energy-and-what-we-can-do-about-it) to keep large-scale learning models operating.
-
-The courses focus on logic and reasoning, as well as the math behind computing.
-
-“We wanted to make sure it gelled with other engineering majors, so you could easily transfer in and out, and we wanted to make sure that again there was this foundation in computing, but this application towards AI.”
-
-The advantage to the AI degree over the computer science degree is an advanced knowledge of application, Harrison said.
-
-![Matthew Tennyson is the department chair of computer science and information system at Murray State University. He said the new artificial intelligence degree was created in response to workforce changes and student demand.](https://npr.brightspotcdn.com/dims4/default/a72a8f0/2147483647/strip/true/crop/350x350+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F39%2F1b62e54946379a3c58458a279434%2Fmatthew-tennyson.png)
-
-Provided by Murray State University
-
-Matthew Tennyson, department chair of computer science and information system at Murray State University, said the new artificial intelligence degree was created in response to workforce changes and student demand.
-
-“In the AI degree, you have to take classes that are specific to AI, so there's an intro to AI class, an intro to machine learning class,” Tennyson said. “There's a deep learning class, and then we had to create some advanced electives in AI, as well.”
-
-Murray State has had an undergraduate certificate program and a minor in AI, as well a data science and AI track in the computer science major.
-
-Katia Riddle
-
-, 4 hours ago
-
-For the first time, researchers have used artificial intelligence to generate novel viruses in a laboratory setting, according to a paper in the journal Science.
-
-Listen • 4:06
-
-Olivia Aldridge
-
-, 5 hours ago
-
-And the model is being tried elsewhere.
-
-Listen • 5:05
-
-Load More</description>
-    </item>
-    <item>
-      <title>City to host Artificial Intelligence Open House Aug. 25</title>
-      <link>https://stpetecatalyst.com/zaps/city-to-host-artificial-intelligence-open-house-aug-25/</link>
-      <guid isPermaLink="true">https://stpetecatalyst.com/zaps/city-to-host-artificial-intelligence-open-house-aug-25/</guid>
-      <description>The City of St. Petersburg will host an Artificial Intelligence Open House Aug. 25 at the President Barack Obama Main Library,...</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence: Implications for Growth, Jobs &amp; Productivity</title>
-      <link>https://www.haver.com/articles/artificial-intelligence-implications-for-growth-jobs-and-productivity</link>
-      <guid isPermaLink="true">https://www.haver.com/articles/artificial-intelligence-implications-for-growth-jobs-and-productivity</guid>
-      <description># Artificial Intelligence: Implications for Growth, Jobs &amp; Productivity
-AI is designed to perform tasks traditionally done by humans, whereas the Industrial Revolution was a massive job creator.</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence-Assisted Versus Traditional Learning and Long-Term Knowledge Retention Among Undergraduate Medical Students: A Sequential, Explanatory Mixed-Methods Study</title>
-      <link>https://www.cureus.com/articles/521152-artificial-intelligence-assisted-versus-traditional-learning-and-long-term-knowledge-retention-among-undergraduate-medical-students-a-sequential-explanatory-mixed-methods-study</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/521152-artificial-intelligence-assisted-versus-traditional-learning-and-long-term-knowledge-retention-among-undergraduate-medical-students-a-sequential-explanatory-mixed-methods-study</guid>
-      <description>Artificial intelligence (AI) is increasingly being integrated into medical education to support self-directed learning through personalized...</description>
+      <title>Texas Wesleyan Launches New Humanities and Artificial Intelligence Degree</title>
+      <link>https://fortworthinc.com/news/texas-wesleyan-launches-new-humanities-and-artificial-intell/</link>
+      <guid isPermaLink="true">https://fortworthinc.com/news/texas-wesleyan-launches-new-humanities-and-artificial-intell/</guid>
+      <description>Texas Wesleyan University is launching a new undergraduate degree designed to prepare students to navigate both the technical and human sides of artificial intelligence.</description>
     </item>
   </channel>
 </rss>
