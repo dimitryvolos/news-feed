@@ -5,147 +5,157 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:52:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A battle over ‘Italian brainrot’ could shape who owns AI art</title>
-      <link>https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur</guid>
-      <description># A battle over 'Italian brainrot' could shape who owns AI art
-### Copyright vs. trademark
-- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
-    </item>
-    <item>
-      <title>Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html</guid>
-      <description>Amazon, Alphabet, and Taiwan Semiconductor remain well positioned to keep winning amid the AI infrastructure build-out.</description>
-    </item>
-    <item>
-      <title>Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not</title>
-      <link>https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology</guid>
-      <description># Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not
-Here in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence.
+      <title>Does this image show creepy 'spider' on Mars?</title>
+      <link>https://www.snopes.com/fact-check/image-mars-spider/</link>
+      <guid isPermaLink="true">https://www.snopes.com/fact-check/image-mars-spider/</guid>
+      <description># Does this image show creepy 'spider' on Mars?
+## Artificial intelligence had a hand in creating the image of the eight-armed "rock formation" on Mars.
+### Published Aug. 23, 2026
+An image authentically showed a “spider-shaped rock formation” on the surface of Mars.
 
-Now, maybe they’re all wrong – in which case, prepare for a crash in US financial markets, which are massively invested in a few big-spending tech companies gambling on a great leap forward to artificial general intelligence, a theoretical state of AI where systems gain human levels of intelligence.
+Reputable media outlets might also have reported on it.
+
+It was created using artificial intelligence tools.
+
+However, Facebook marked [both](https://www.facebook.com/61554330324919/photos/a-strange-rock-on-mars-sparked-curiosity-after-its-leg-like-shape-resembled-a-gi/122261297732144344/) [postings](https://www.facebook.com/61563144540652/posts/a-bizarre-spider-like-rock-spotted-by-nasas-curiosity-rover-quickly-sparked-spec/122199182858438151/) we found on the platform as "AI Content." According to the platform, this is a label Facebook [applies to items](https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX_MLoZK4LnMLGAfM_aem_FNE-9bb6osjmF5PBrZE-rg) when it identifies a signal added by the AI tool used to create the content. This could be digital watermarks like Google or OpenAI's [SynthID](https://deepmind.google/models/synthid/).
+
+We uploaded the image into [Meta's AI identification tool](https://meta.ai/identification), which said it was created using its generative AI tools, further supporting our conclusion that it was fake.
+
+For example, the image showed that the bottom of the "rover" in the image did not cast a shadow.
+
+Additionally, the image text incorrectly translated Sols, meaning solar days on Mars.
+
+#### Sources
+Meta, [https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX\_MLoZK4LnMLGAfM\_aem\_FNE-9bb6osjmF5PBrZE-rg](https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX\_MLoZK4LnMLGAfM\_aem\_FNE-9bb6osjmF5PBrZE-rg).</description>
+    </item>
+    <item>
+      <title>Where livestock once grazed, Inner Mongolia now feeds China’s AI ambitions</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel</guid>
+      <description>[US-China relations](https://www.scmp.com/topics/us-china-relations?module=hamburger_menu&amp;pgtype=article) [Artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=hamburger_menu&amp;pgtype=article) [Donald Trump’s China policy](https://www.scmp.com/topics/donald-trumps-china-policy?module=hamburger_menu&amp;pgtype=article) [SpaceX](https://www.scmp.com/topics/spacex?module=hamburger_menu&amp;pgtype=article) [Fifa World Cup 2026](https://www.scmp.com/topics/fifa-world-cup-2026?module=hamburger_menu&amp;pgtype=article) [Nvidia](https://www.scmp.com/topics/nvidia?module=hamburger_menu&amp;pgtype=article) [Hong Kong’s Tai Po fire tragedy](https://www.scmp.com/topics/hong-kongs-tai-po-fire-tragedy?module=hamburger_menu&amp;pgtype=article) [Iran](https://www.scmp.com/topics/iran?module=hamburger_menu&amp;pgtype=article) [China’s military](https://www.scmp.com/topics/china-military?module=hamburger_menu&amp;pgtype=article) [Trending in China](https://www.scmp.com/topics/trending-in-china?module=hamburger_menu&amp;pgtype=article)
+
+[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=breadcrumb&amp;pgtype=article)</description>
+    </item>
+    <item>
+      <title>Alibaba sets price in US$10.2 billion new share offer to fuel AI expansion</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?module=top_story&amp;pgtype=homepage</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?module=top_story&amp;pgtype=homepage</guid>
+      <description>The firm is set to issue 710 million shares in one of China's largest AI fundraising efforts.</description>
+    </item>
+    <item>
+      <title>Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/billionaires-stanley-druckenmiller-dan-loeb-183500485.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/billionaires-stanley-druckenmiller-dan-loeb-183500485.html</guid>
+      <description>Stanley Druckenmiller and Dan Loeb are two of Wall Street's most closely watched investors. Druckenmiller is a macro specialist who...</description>
+    </item>
+    <item>
+      <title>Dr. Dre Says He Uses AI to Produce Songs</title>
+      <link>https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009</link>
+      <guid isPermaLink="true">https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009</guid>
+      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+
+# Dr. Dre Says He Uses AI to Produce Songs
+Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac’s “California Love” and Eminem’s “The Real Slim Shady,” is very much pro using artificial intelligence tools to make music.
+
+Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence’s recent foray into music production, with the producer characterizing those who oppose AI song generation tools as “afraid of learning new things.”
+
+[Dr. Dre](https://gizmodo.com/tag/dr-dre) [generative artificial intelligence](https://gizmodo.com/tag/generative-artificial-intelligence) [music industry](https://gizmodo.com/tag/music-industry)
+
+## Related Articles
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
+    </item>
+    <item>
+      <title>‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks</title>
+      <link>https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane</guid>
+      <description># ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks
+A senior leader at [OpenAI](https://www.theguardian.com/technology/openai) has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.
 
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>AI decodes DNA initiator sequence found in about 60% of human genes</title>
-      <link>https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html</link>
-      <guid isPermaLink="true">https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html</guid>
-      <description># AI decodes DNA initiator sequence found in about 60% of human genes
-##### Andrew Zinin
-With this information, they employed machine learning, a type of artificial intelligence, to create an AI model that decoded the initiator's signature DNA pattern.
+      <title>A hidden “on switch” in human DNA has finally been decoded</title>
+      <link>https://www.sciencedaily.com/releases/2026/08/260823014943.htm</link>
+      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/08/260823014943.htm</guid>
+      <description># A hidden “on switch” in human DNA has finally been decoded
+## AI cracked an important piece of the genetic code that helps determine when human genes switch on.
+The researchers then used those results to train a machine learning system, a form of artificial intelligence, to identify the characteristic DNA pattern associated with the initiator.
 
-##### [Andrew Zinin](https://sciencex.com/help/editorial-team/andrew-zinin/)
-[Artificial intelligence catalyzes gene activation research and uncovers rare DNA sequences](https://phys.org/news/2023-05-artificial-intelligence-catalyzes-gene-uncovers.html)</description>
+- [RELATED TOPICS](https://www.sciencedaily.com/releases/2026/08/260823014943.htm#)  - [Health &amp; Medicine](https://www.sciencedaily.com/news/health_medicine/)    - [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+  - [Computers &amp; Math](https://www.sciencedaily.com/news/computers_math/)    - [Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+    - [Artificial Intelligence](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)</description>
     </item>
     <item>
-      <title>Apple cuts more than 200 jobs as it scales back work on its $3,499 Vision Pro headset</title>
-      <link>https://www.sfchronicle.com/tech/article/apple-layoffs-vision-pro-22399481.php</link>
-      <guid isPermaLink="true">https://www.sfchronicle.com/tech/article/apple-layoffs-vision-pro-22399481.php</guid>
-      <description>Apple is scaling back work on its Vision Pro headset as it shifts resources toward artificial intelligence and smart glasses.</description>
+      <title>The Results of Middle and High School Students Using AI Are Extremely Ominous</title>
+      <link>https://futurism.com/artificial-intelligence/results-high-school-students-ai</link>
+      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/results-high-school-students-ai</guid>
+      <description>## Sign up to see the future, today
+An MIT study published earlier this year found that students who used AI to help write an essay [showed lower brain activity](https://futurism.com/artificial-intelligence/concern-grows-ai-damaging-think) compared to the students who didn’t.</description>
     </item>
     <item>
-      <title>Artificial intelligence could push up inflation - SNB's Tschudin says</title>
-      <link>https://www.reuters.com/business/finance/artificial-intelligence-could-push-up-inflation-snbs-tschudin-says-2026-08-21/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/finance/artificial-intelligence-could-push-up-inflation-snbs-tschudin-says-2026-08-21/</guid>
-      <description>ZURICH, Aug 21 (Reuters) - Artificial intelligence can push inflation higher in the short term although the overall effect of the technology remains unclear, Swiss National Bank governing board member ​Petra Tschudin said in an interview published on Friday.
-
-In the longer term artificial intelligence could also lower prices by increasing productivity ​and making goods cheaper, she said.</description>
+      <title>Why is AI going on a hacking spree?</title>
+      <link>https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree</link>
+      <guid isPermaLink="true">https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree</guid>
+      <description>Artificial intelligence (AI) has been making headlines for all the wrong reasons in recent weeks. In July, OpenAI revealed that one of its...</description>
     </item>
     <item>
-      <title>Protesters bring petition to Trahan’s office to oppose Frontier Act section</title>
-      <link>https://www.lowellsun.com/2026/08/21/protesters-bring-petition-to-trahans-office-to-oppose-frontier-act-section/</link>
-      <guid isPermaLink="true">https://www.lowellsun.com/2026/08/21/protesters-bring-petition-to-trahans-office-to-oppose-frontier-act-section/</guid>
-      <description>“The FRONTIER Act does not ban states from regulating artificial intelligence.</description>
+      <title>Wyoming Police Departments Testing AI To Generate Reports, Look At Evidence</title>
+      <link>https://cowboystatedaily.com/2026/08/23/wyoming-police-departments-test-using-ai-to-generate-reports-look-at-evidence/</link>
+      <guid isPermaLink="true">https://cowboystatedaily.com/2026/08/23/wyoming-police-departments-test-using-ai-to-generate-reports-look-at-evidence/</guid>
+      <description>Wyoming police are testing artificial intelligence to write reports and analyze evidence, but the rules of how that happens haven't caught...</description>
     </item>
     <item>
-      <title>Israeli scientists: AI can make personality tests, predict responses</title>
-      <link>https://www.jpost.com/science/article-906137</link>
-      <guid isPermaLink="true">https://www.jpost.com/science/article-906137</guid>
-      <description># Is AI clairvoyant? ChatGPT can make personality tests and predict responses, Israeli study finds
-## Hebrew University of Jerusalem (HUJI) scientists have developed a method for generating personality assessment questionnaires with ChatGPT from any source text in English.
-All users of ChatGPT, Gemini, and other artificial intelligence platforms know that these large language models (LLMs) are usually very “smart” and analyze texts and answer questions very well.
-
-### See more on
-[Artificial intelligence](https://www.jpost.com/tags/artificial-intelligence) |</description>
+      <title>UCSB receives four-year, $20M federal grant for artificial intelligence cloud laboratory</title>
+      <link>https://www.newspress.com/2026/08/23/ucsb-receives-four-year-federal-grant-for-artificial-intelligence-cloud-laboratory/</link>
+      <guid isPermaLink="true">https://www.newspress.com/2026/08/23/ucsb-receives-four-year-federal-grant-for-artificial-intelligence-cloud-laboratory/</guid>
+      <description>A federally funded artificial intelligence program will give researchers from anywhere in the country access to equipment at OASIS, a technology and science hub for UC Santa Barbara students and startup companies.</description>
     </item>
     <item>
-      <title>Anthropic Is Reportedly Being Upfront With Would-Be Investors About AI Backlash</title>
-      <link>https://gizmodo.com/anthropic-is-reportedly-being-upfront-with-would-be-investors-about-ai-backlash-2000801944</link>
-      <guid isPermaLink="true">https://gizmodo.com/anthropic-is-reportedly-being-upfront-with-would-be-investors-about-ai-backlash-2000801944</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+      <title>Commentary: A modern Tower of Babylon? The rise of job displacement by AI.</title>
+      <link>https://www.postandcourier.com/opinion/commentary/artificial-initelligence-demise-human-race/article_d13f72e3-c078-464c-a106-2f7fab69aa06.html</link>
+      <guid isPermaLink="true">https://www.postandcourier.com/opinion/commentary/artificial-initelligence-demise-human-race/article_d13f72e3-c078-464c-a106-2f7fab69aa06.html</guid>
+      <description>## [Opinion](https://www.postandcourier.com/opinion/)
+In 2014, Stephen Hawking warned, "The development of full artificial intelligence could spell the end of the human race."
 
-# Anthropic Is Reportedly Being Upfront With Would-Be Investors About AI Backlash
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+I build automated systems, and artificial intelligence is a great and awesome tool.
 
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)
+So the underlying question is why artificial intelligence is now the answer to save our human society.
 
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)</description>
-    </item>
-    <item>
-      <title>Protecting Digital Privacy In The Artificial Intelligence Era</title>
-      <link>https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</guid>
-      <description>The technological acceleration era has started, and it is gaining steam in innovation and capability almost weekly. Artificial intelligence...</description>
-    </item>
-    <item>
-      <title>Protecting Digital Privacy In The Artificial Intelligence Era</title>
-      <link>https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</guid>
-      <description>The technological acceleration era has started, and it is gaining steam in innovation and capability almost weekly. Artificial intelligence...</description>
-    </item>
-    <item>
-      <title>Pope Leo XIV: In age of AI, the family is the first school of humanity</title>
-      <link>https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-international-catholic-legislators-network-2026.html</link>
-      <guid isPermaLink="true">https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-international-catholic-legislators-network-2026.html</guid>
-      <description># Pope Leo XIV: In age of AI, the family is the first school of humanity
-At the same time, the Holy Father underscored, the rapid development of artificial intelligence risks creating new forms of technological dependence, with poorer nations increasingly reliant on wealthier ones.
-
-## The family as the first school of humanity
-With this in mind, he said that artificial intelligence "must never be allowed to erode this primary cell of society — whether by reducing persons and relationships to data and simulations, by flooding young minds with content that distorts desire, or by economic models that make family life economically precarious."
-
-## Strengthen marriage and families
-"Dear friends, the world does not need an artificial intelligence that diminishes humanity; rather," Pope Leo insisted, "it needs human intelligence enlightened by wisdom, political authority guided by conscience and technological innovation directed by charity."
-
-Only then, he said, will artificial intelligence become not a rival to humanity but a servant of the common good.
-
-- [artificial intelligence](https://www.vaticannews.va/en/taglist.cultura-e-societa.Cultura.scienza.intelligenza-artificiale.html)</description>
+AI is logical — following a prescribed code initiated by a human being that boils down to a dichotomy of 0’s and 1’s.</description>
     </item>
     <item>
       <title>Co-packaged optics for high-performance computing and artificial intelligence</title>
       <link>https://www.nature.com/articles/s41928-026-01681-6</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41928-026-01681-6</guid>
-      <description>The large data movement required in high-performance computing and artificial intelligence workloads has exposed the fundamental limits of...</description>
+      <description>## About this article
+### Cite this article
+Co-packaged optics for high-performance computing and artificial intelligence.</description>
     </item>
     <item>
-      <title>Prescription Analysis in the Digital Era: Comparing Artificial Intelligence-Based Versus Manual Approaches</title>
-      <link>https://www.cureus.com/articles/528075-prescription-analysis-in-the-digital-era-comparing-artificial-intelligence-based-versus-manual-approaches</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/528075-prescription-analysis-in-the-digital-era-comparing-artificial-intelligence-based-versus-manual-approaches</guid>
-      <description>Background Prescription auditing using the World Health Organization (WHO) core prescribing indicators is a standard method to evaluate...</description>
-    </item>
-    <item>
-      <title>UT Knoxville is now home to the only undergraduate artificial intelligence program in the country</title>
-      <link>https://www.wbir.com/video/news/education/ut-knoxville-is-now-home-to-the-only-undergraduate-artificial-intelligence-program-in-the-country/51-bf6cd07d-1861-411e-b195-c9c68c2a34a6</link>
-      <guid isPermaLink="true">https://www.wbir.com/video/news/education/ut-knoxville-is-now-home-to-the-only-undergraduate-artificial-intelligence-program-in-the-country/51-bf6cd07d-1861-411e-b195-c9c68c2a34a6</guid>
-      <description>UT Knoxville is now home to the only undergraduate artificial intelligence program in the country. x. WBIR. To stream WBIR on your phone,...</description>
-    </item>
-    <item>
-      <title>Apple vs. Meta Platforms: Which "Magnificent Seven" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?</title>
-      <link>https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/</guid>
-      <description>## Key Points
-In the artificial intelligence (AI) arms race among the big tech firms, there have been two major laggards: **Apple**( [AAPL](https://www.fool.com/quote/nasdaq/aapl/)-0.63%) and **Meta Platforms**( [META](https://www.fool.com/quote/nasdaq/meta/) +0.75%).
+      <title>Artificial Intelligence Collides with FDA Bureaucracy: News Article</title>
+      <link>https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</link>
+      <guid isPermaLink="true">https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</guid>
+      <description># Artificial Intelligence Collides with FDA Bureaucracy
+A recent peer-reviewed [review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/) of the field finds it already detects tumors on scans as accurately as radiologists, designs new antibiotics in weeks, tailors cancer treatment to a patient’s genome, and forecasts outbreaks before they crest. A separate look at some [200 studies](https://www.washingtonpost.com/opinions/2025/08/22/hhs-artificial-intelligence-kennedy-fda/) in the journal Healthcare reached the same conclusion: used well, AI lowers costs and improves outcomes.
 
-## Read Next
-[Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks](https://www.fool.com/investing/2026/08/18/warren-buffetts-successor-greg-abel-has-347-of-ber/)</description>
+AI is no exception.
+
+Telehealth and weight-loss companies use AI to tailor doses, flag complications, and guide patients in real time.</description>
+    </item>
+    <item>
+      <title>1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond</title>
+      <link>https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/</guid>
+      <description>The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.</description>
     </item>
     <item>
       <title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</title>
@@ -162,51 +172,58 @@ Regarding LLMs, Matasar highlighted OpenEvidence, an LLM that purports to draw f
 6. Sparano JA, Lama N, Gray RJ, et al. Multimodal artificial intelligence (AI) models integrating image, clinical, and molecular data for predicting early and late breast cancer recurrence in TAILORx. Presented at: 2025 San Antonio Breast Cancer Symposium; December 9-12, 2025; San Antonio, TX. Abstract 1601.</description>
     </item>
     <item>
-      <title>Artificial Intelligence Collides with FDA Bureaucracy: News Article</title>
-      <link>https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</link>
-      <guid isPermaLink="true">https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</guid>
-      <description># Artificial Intelligence Collides with FDA Bureaucracy
-A recent peer-reviewed [review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/) of the field finds it already detects tumors on scans as accurately as radiologists, designs new antibiotics in weeks, tailors cancer treatment to a patient’s genome, and forecasts outbreaks before they crest. A separate look at some [200 studies](https://www.washingtonpost.com/opinions/2025/08/22/hhs-artificial-intelligence-kennedy-fda/) in the journal Healthcare reached the same conclusion: used well, AI lowers costs and improves outcomes.
+      <title>Are We Thinking Correctly About AI Intelligence?</title>
+      <link>https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/</link>
+      <guid isPermaLink="true">https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/</guid>
+      <description># Are We Thinking Correctly About AI Intelligence?
+## Introduction
+[Melanie Mitchell (opens a new tab)](https://www.santafe.edu/people/profile/melanie-mitchell) at the Santa Fe Institute argues that we lack adequate methods for measuring machine cognition, and that AI is a form of “alien intelligence” that operates through non-human cognitive mechanisms.
 
-AI is no exception.
-
-Telehealth and weight-loss companies use AI to tailor doses, flag complications, and guide patients in real time.</description>
+## Comment on this article
+The idea that artificial intelligence can “reason” is more intuitive than ever.</description>
     </item>
     <item>
-      <title>The Artificial Intelligence Arms Race: America Is Spending Billions, But China May Have Found a Cheaper Way to Win</title>
-      <link>https://thepeopleseconomist.substack.com/p/the-artificial-intelligence-arms</link>
-      <guid isPermaLink="true">https://thepeopleseconomist.substack.com/p/the-artificial-intelligence-arms</guid>
-      <description># The Artificial Intelligence Arms Race: America Is Spending Billions, But China May Have Found a Cheaper Way to Win
-### Former JPMorgan Chase Global Chief Economist (Ph.D. in Economics) &amp; Global Keynote Public Speaker for Hire
-The competition between the United States and China to build the world’s most capable artificial intelligence models has evolved from an American-led race into an effective two-horse contest.
-
-For example, the latest [Kimi K3 model,](https://broadbandbreakfast.com/chinese-ai-model-takes-u-s-by-surprise-with-abilities-rivaling-claude-and-chatgpt/) developed by the Beijing-based startup Moonshot, has earned respect from the best versions of Anthropic’s Claude and OpenAI’s ChatGPT.
-
-###### Source: [Artificial Analysis](https://www.google.com/url?sa=i&amp;source=web&amp;rct=j&amp;url=https://tech-insider.org/llama-4-vs-qwen-vs-mistral-2026/&amp;ved=2ahUKEwiekIvO9bOWAxUEq4kEHVxSKNAQy_kOegYIAAgHEAE&amp;opi=89978449&amp;cd&amp;psig=AOvVaw2nVfirUtwSUFerUxoYTYms&amp;ust=1787477200970000)
-The underlying philosophy is straightforward: if more computing power can produce better reasoning, greater reliability, and more capable AI agents, then build more computing power. This is an expensive strategy, but it allows American companies to keep pushing the technological ceiling.
-
-DeepSeek’s sparse mixture-of-experts architecture exemplifies this philosophy. Rather than activating every parameter for every task, sparse models selectively use portions of the network.
-
-This initiative seeks to upgrade China’s physical and digital infrastructure and spans six areas, including electricity, water, telecommunications, computing, logistics, and underground pipe networks.
-
-###### Source: [Time Magazine](https://time.com/7358519/ai-china-us-race-graphs/)
-This has eased concerns about data sovereignty by giving companies greater control over their AI infrastructure at an affordable price.
-
-That infrastructure provides an important foundation for training and deploying increasingly computationally intensive AI systems.
-
-Stanford reports that China leads the United States in industrial robot installations.
-
-At the same time, China is likely to focus on efficient models embedded in robotics, manufacturing, edge devices, and enterprise applications.
-
-Meanwhile, China might lead as the primary source of affordable, open-weight, locally deployable AI, especially in manufacturing-heavy economies and parts of the Global South.
-
-In the coming years, the key question may not be which nation creates the most advanced model, but which one successfully combines intelligence, cost-effectiveness, computing infrastructure, talent, and global reach.</description>
+      <title>Protecting Digital Privacy In The Artificial Intelligence Era</title>
+      <link>https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</guid>
+      <description>The technological acceleration era has started, and it is gaining steam in innovation and capability almost weekly. Artificial intelligence...</description>
     </item>
     <item>
-      <title>Reality Check: A Guide to Navigating the AI Information Flood</title>
-      <link>https://theweektoday.com/affiliate-post/reality-check-guide-navigating-ai-information-flood/159080</link>
-      <guid isPermaLink="true">https://theweektoday.com/affiliate-post/reality-check-guide-navigating-ai-information-flood/159080</guid>
-      <description>Join the Friends of the Dartmouth Libraries on Thursday, August 27, at 6:30 p.m. to hear Laura Gardner, Teacher Librarian at Dartmouth Middle School,...</description>
+      <title>Artificial intelligence agents spontaneously conform to the majority opinion</title>
+      <link>https://www.psypost.org/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/</link>
+      <guid isPermaLink="true">https://www.psypost.org/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/</guid>
+      <description># Artificial intelligence agents spontaneously conform to the majority opinion
+Advanced artificial intelligence programs can spontaneously form a consensus by adopting the popular opinion, according to research published in the journal _Science Advances_.
+
+Each agent received one of two random, neutral opinions.
+
+The scientists found that advanced models like GPT-4 Turbo and Claude 3 Opus fully coordinated.
+
+Just as atomic spins in a magnetic material tend to align with the majority of surrounding atoms, the artificial intelligence agents tended to align with the majority opinion.
+
+“Our setup is deliberately minimal: two arbitrary options, no memory, no stakes, no correct answer,” De Marzo said.
+
+Comments are open to members</description>
+    </item>
+    <item>
+      <title>AI is an assistant, not an automator</title>
+      <link>https://www.firerescue1.com/artificial-intelligence/ai-is-an-assistant-not-an-automator</link>
+      <guid isPermaLink="true">https://www.firerescue1.com/artificial-intelligence/ai-is-an-assistant-not-an-automator</guid>
+      <description>[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+
+# AI is an assistant, not an automator
+## Flip the hierarchy of work
+[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+
+[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+
+[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+
+[![AI chatbot: Programmer using artificial intelligence for software development inside office. Virtual chat Bot technology trend](https://lexipol.brightspotcdn.com/dims4/default/5fd96c4/2147483647/strip/true/crop/3840x2158+0+1/resize/500x281!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F98%2F08%2F93477f8d42979246e0b20a976384%2Fgettyimages-2151931568.jpg)](https://www.firerescue1.com/artificial-intelligence/the-great-ai-lie-the-data-confirms-our-fears)
+
+[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+
+[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence) [Fire-Rescue International](https://www.firerescue1.com/fri) [Leadership](https://www.firerescue1.com/leadership) [Technology](https://www.firerescue1.com/technology)</description>
     </item>
   </channel>
 </rss>
