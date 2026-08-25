@@ -5,225 +5,305 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:40:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Does this image show creepy 'spider' on Mars?</title>
-      <link>https://www.snopes.com/fact-check/image-mars-spider/</link>
-      <guid isPermaLink="true">https://www.snopes.com/fact-check/image-mars-spider/</guid>
-      <description># Does this image show creepy 'spider' on Mars?
-## Artificial intelligence had a hand in creating the image of the eight-armed "rock formation" on Mars.
-### Published Aug. 23, 2026
-An image authentically showed a “spider-shaped rock formation” on the surface of Mars.
-
-Reputable media outlets might also have reported on it.
-
-It was created using artificial intelligence tools.
-
-However, Facebook marked [both](https://www.facebook.com/61554330324919/photos/a-strange-rock-on-mars-sparked-curiosity-after-its-leg-like-shape-resembled-a-gi/122261297732144344/) [postings](https://www.facebook.com/61563144540652/posts/a-bizarre-spider-like-rock-spotted-by-nasas-curiosity-rover-quickly-sparked-spec/122199182858438151/) we found on the platform as "AI Content." According to the platform, this is a label Facebook [applies to items](https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX_MLoZK4LnMLGAfM_aem_FNE-9bb6osjmF5PBrZE-rg) when it identifies a signal added by the AI tool used to create the content. This could be digital watermarks like Google or OpenAI's [SynthID](https://deepmind.google/models/synthid/).
-
-We uploaded the image into [Meta's AI identification tool](https://meta.ai/identification), which said it was created using its generative AI tools, further supporting our conclusion that it was fake.
-
-For example, the image showed that the bottom of the "rover" in the image did not cast a shadow.
-
-Additionally, the image text incorrectly translated Sols, meaning solar days on Mars.
-
-#### Sources
-Meta, [https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX\_MLoZK4LnMLGAfM\_aem\_FNE-9bb6osjmF5PBrZE-rg](https://www.meta.com/en-gb/help/artificial-intelligence/1783222608822690/?fbclid=IwY2xjawTxpOJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWpKTGthSGZ5NmFpWXFvcDRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLUekKogoKtiCtS31ORogVJO6uRUQUOeH-2eIMhN0EgTX\_MLoZK4LnMLGAfM\_aem\_FNE-9bb6osjmF5PBrZE-rg).</description>
+      <title>Prediction: Not Micron. This Artificial Intelligence (AI) Stock Could Be the Biggest Winner of the Next Infrastructure Bottleneck</title>
+      <link>https://www.google.com/goto?url=CAES4QEB6zswFbnmkhgD713f3s66h_QQfvIpyI26i1kNKI7T1jy83LGUtvA5jLES1cqapqtNTZ4j5F28w_8TnOlkoFqQ_ZOWq82Hpdm702-U8QVV6WyURC-TU0Ps4t_qLk6gf8Q59CYMJNvNIEoo1M-mytQ2uDsfUeh7FkJUtvIGCVrMP1_QwK_tPgCo92YljSEohrJKW43z1Vcxkzx2KdG19bYPXbKTMJhXIzbVa1bKe-2e1lGuO_XJKonHYGyqLjwuq04S1JwfpMNfhL3V4HC-7f-cL70y1ILzkfkexUQQBOZ2Shw</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAES4QEB6zswFbnmkhgD713f3s66h_QQfvIpyI26i1kNKI7T1jy83LGUtvA5jLES1cqapqtNTZ4j5F28w_8TnOlkoFqQ_ZOWq82Hpdm702-U8QVV6WyURC-TU0Ps4t_qLk6gf8Q59CYMJNvNIEoo1M-mytQ2uDsfUeh7FkJUtvIGCVrMP1_QwK_tPgCo92YljSEohrJKW43z1Vcxkzx2KdG19bYPXbKTMJhXIzbVa1bKe-2e1lGuO_XJKonHYGyqLjwuq04S1JwfpMNfhL3V4HC-7f-cL70y1ILzkfkexUQQBOZ2Shw</guid>
+      <description></description>
     </item>
     <item>
-      <title>Where livestock once grazed, Inner Mongolia now feeds China’s AI ambitions</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel</guid>
-      <description>[US-China relations](https://www.scmp.com/topics/us-china-relations?module=hamburger_menu&amp;pgtype=article) [Artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=hamburger_menu&amp;pgtype=article) [Donald Trump’s China policy](https://www.scmp.com/topics/donald-trumps-china-policy?module=hamburger_menu&amp;pgtype=article) [SpaceX](https://www.scmp.com/topics/spacex?module=hamburger_menu&amp;pgtype=article) [Fifa World Cup 2026](https://www.scmp.com/topics/fifa-world-cup-2026?module=hamburger_menu&amp;pgtype=article) [Nvidia](https://www.scmp.com/topics/nvidia?module=hamburger_menu&amp;pgtype=article) [Hong Kong’s Tai Po fire tragedy](https://www.scmp.com/topics/hong-kongs-tai-po-fire-tragedy?module=hamburger_menu&amp;pgtype=article) [Iran](https://www.scmp.com/topics/iran?module=hamburger_menu&amp;pgtype=article) [China’s military](https://www.scmp.com/topics/china-military?module=hamburger_menu&amp;pgtype=article) [Trending in China](https://www.scmp.com/topics/trending-in-china?module=hamburger_menu&amp;pgtype=article)
-
-[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=breadcrumb&amp;pgtype=article)</description>
+      <title>Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.</title>
+      <link>https://www.google.com/goto?url=CAESlQEB6zswFaibjmvuivl2yNVAfbbw-9IuYfwzT4OJySMYPYZGh0iyZktXt0M41YKd8aKHGs8U_H-syLI_-enA4n3IyEySTC8aoaOqHefLj70gxQE5vXYlNlyzGC8bifSHvro5klSToQuxNm8cAH3w2jT7TfMYKtzr1WKbrVr9AWlnpM3Xu0RaiqU4u3eZHY31lQ3pOzGdhA</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlQEB6zswFaibjmvuivl2yNVAfbbw-9IuYfwzT4OJySMYPYZGh0iyZktXt0M41YKd8aKHGs8U_H-syLI_-enA4n3IyEySTC8aoaOqHefLj70gxQE5vXYlNlyzGC8bifSHvro5klSToQuxNm8cAH3w2jT7TfMYKtzr1WKbrVr9AWlnpM3Xu0RaiqU4u3eZHY31lQ3pOzGdhA</guid>
+      <description></description>
     </item>
     <item>
-      <title>Alibaba sets price in US$10.2 billion new share offer to fuel AI expansion</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?module=top_story&amp;pgtype=homepage</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?module=top_story&amp;pgtype=homepage</guid>
-      <description>The firm is set to issue 710 million shares in one of China's largest AI fundraising efforts.</description>
+      <title>U.S. Stocks Mixed on Artificial-Intelligence Jitters</title>
+      <link>https://www.google.com/goto?url=CAESlwEB6zswFaUmg23A1V1f3WXMTPyVCMAiM4dkSqGuH7BjXLoqf5IDs2dRZLkj8WnrL1kSAPiKKhYZaa9_ueQhATYLpU5Og_B9QtB6mecuF4RT5RiUf_02LLLYMdNLgx-i85_sGMYlI5rICSe5wAFAFGlvJB_g5DOuIaeQhmVFs-edH1oPkdC35qLb5a5doTacv5eI_0Djoh0s</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlwEB6zswFaUmg23A1V1f3WXMTPyVCMAiM4dkSqGuH7BjXLoqf5IDs2dRZLkj8WnrL1kSAPiKKhYZaa9_ueQhATYLpU5Og_B9QtB6mecuF4RT5RiUf_02LLLYMdNLgx-i85_sGMYlI5rICSe5wAFAFGlvJB_g5DOuIaeQhmVFs-edH1oPkdC35qLb5a5doTacv5eI_0Djoh0s</guid>
+      <description></description>
     </item>
     <item>
-      <title>Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/billionaires-stanley-druckenmiller-dan-loeb-183500485.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/billionaires-stanley-druckenmiller-dan-loeb-183500485.html</guid>
-      <description>Stanley Druckenmiller and Dan Loeb are two of Wall Street's most closely watched investors. Druckenmiller is a macro specialist who...</description>
+      <title>Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More than SpaceX Before 2026 is Over</title>
+      <link>https://www.google.com/goto?url=CAESlgEB6zswFYGqevb5OcjYsEjILLT30aYx-iBisGuBaSdRtnQsV3tUb84zGdQ5zojdk7JKMWj8knOms1f25uQ0DXFO3AFJ_XqEj1eu1kcvy5VU4nuszdCdMHUEPWY1uuA7oEqVdNr8r29vr85yVDdhgS7aU4xFcO3MjvJtJ-XgpI-km049PEVslBlV7FfYcwH-GyTKIPMs26Y</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlgEB6zswFYGqevb5OcjYsEjILLT30aYx-iBisGuBaSdRtnQsV3tUb84zGdQ5zojdk7JKMWj8knOms1f25uQ0DXFO3AFJ_XqEj1eu1kcvy5VU4nuszdCdMHUEPWY1uuA7oEqVdNr8r29vr85yVDdhgS7aU4xFcO3MjvJtJ-XgpI-km049PEVslBlV7FfYcwH-GyTKIPMs26Y</guid>
+      <description></description>
     </item>
     <item>
-      <title>Dr. Dre Says He Uses AI to Produce Songs</title>
-      <link>https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009</link>
-      <guid isPermaLink="true">https://gizmodo.com/dr-dre-says-he-uses-ai-to-produce-songs-2000802009</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
-
-# Dr. Dre Says He Uses AI to Produce Songs
-Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac’s “California Love” and Eminem’s “The Real Slim Shady,” is very much pro using artificial intelligence tools to make music.
-
-Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence’s recent foray into music production, with the producer characterizing those who oppose AI song generation tools as “afraid of learning new things.”
-
-[Dr. Dre](https://gizmodo.com/tag/dr-dre) [generative artificial intelligence](https://gizmodo.com/tag/generative-artificial-intelligence) [music industry](https://gizmodo.com/tag/music-industry)
-
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
+      <title>Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm</title>
+      <link>https://www.google.com/goto?url=CAESzQEB6zswFYltAIcMUpvSjN3w--jzCRIDofOE-th-FD1oHF-uLswy9efciX2lnBrWH6KiRWmnqOJgV4oZpNIzb8g-EqBfnEw5uqMjRzaf3Pbjs76CTweO4kVFCBgIrc-92d5Ucuo3XkThks2mvUqjXUj8bW0fM5nuphBu3MtVflSUCpmGcO7cjm7OlAA7oYeRPh42NLSnniRw3d3H7FkGmYxllvy3ti8-KhlMr-BWzQkDBOie2WA4MJHYei3tdkXoL1d7ujNesO-JkZgt8tUf</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESzQEB6zswFYltAIcMUpvSjN3w--jzCRIDofOE-th-FD1oHF-uLswy9efciX2lnBrWH6KiRWmnqOJgV4oZpNIzb8g-EqBfnEw5uqMjRzaf3Pbjs76CTweO4kVFCBgIrc-92d5Ucuo3XkThks2mvUqjXUj8bW0fM5nuphBu3MtVflSUCpmGcO7cjm7OlAA7oYeRPh42NLSnniRw3d3H7FkGmYxllvy3ti8-KhlMr-BWzQkDBOie2WA4MJHYei3tdkXoL1d7ujNesO-JkZgt8tUf</guid>
+      <description>The artificial intelligence revolution is everywhere. Now a Vallejo, California pastor has turned to artificial intelligence to help his...</description>
     </item>
     <item>
-      <title>‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks</title>
-      <link>https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane</guid>
-      <description># ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks
-A senior leader at [OpenAI](https://www.theguardian.com/technology/openai) has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>The US fiscal hole has an AI problem at its core</title>
+      <link>https://www.google.com/goto?url=CAESpgEB6zswFX-v5TLTJuYNfQ9VWrdPbR1t-26c89Y6R5jEvbYDMiIVzPUwxKPPKKRyGa28ARqaHnucEHmdzFfdqYDyDXh9bQg0v5S_Jd0yYOO99inHw7TklMP-KNmctQKPZoRnyfIKzDp6bgnDceOy_NG6KBK__Ovq8WVP71D_x46kUt4oWBXOqfgiKKzVWElehLxoOn1qCuQPMTG-bBuE_F95nNFkdrf1</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESpgEB6zswFX-v5TLTJuYNfQ9VWrdPbR1t-26c89Y6R5jEvbYDMiIVzPUwxKPPKKRyGa28ARqaHnucEHmdzFfdqYDyDXh9bQg0v5S_Jd0yYOO99inHw7TklMP-KNmctQKPZoRnyfIKzDp6bgnDceOy_NG6KBK__Ovq8WVP71D_x46kUt4oWBXOqfgiKKzVWElehLxoOn1qCuQPMTG-bBuE_F95nNFkdrf1</guid>
+      <description>Washington has a multitrillion-dollar fiscal problem. U.S. Treasury Secretary Scott Bessent's answer, so far, is to look for loose change...</description>
     </item>
     <item>
-      <title>A hidden “on switch” in human DNA has finally been decoded</title>
-      <link>https://www.sciencedaily.com/releases/2026/08/260823014943.htm</link>
-      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/08/260823014943.htm</guid>
-      <description># A hidden “on switch” in human DNA has finally been decoded
-## AI cracked an important piece of the genetic code that helps determine when human genes switch on.
-The researchers then used those results to train a machine learning system, a form of artificial intelligence, to identify the characteristic DNA pattern associated with the initiator.
-
-- [RELATED TOPICS](https://www.sciencedaily.com/releases/2026/08/260823014943.htm#)  - [Health &amp; Medicine](https://www.sciencedaily.com/news/health_medicine/)    - [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-  - [Computers &amp; Math](https://www.sciencedaily.com/news/computers_math/)    - [Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
-    - [Artificial Intelligence](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)</description>
+      <title>Australia's music chart bars fully AI-generated music</title>
+      <link>https://www.google.com/goto?url=CAESjQEB6zswFaJ411snaYmGOBFvy5Ymc7HFeDFtM_G7DsanxTJkx-y2Ck55wpuAMrU-MrltbGrnvITUZ0ZqjVl2EMD-uQpRQB60Ov8sHX1lSoFUIuwgBFBXa1Mr9E400vEJ651PGxN3U-WqU9Kqk8qNM1-n018vDJzMIUzB1-INcFGs-EAAaEJoAa8KCcoLF6Q</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESjQEB6zswFaJ411snaYmGOBFvy5Ymc7HFeDFtM_G7DsanxTJkx-y2Ck55wpuAMrU-MrltbGrnvITUZ0ZqjVl2EMD-uQpRQB60Ov8sHX1lSoFUIuwgBFBXa1Mr9E400vEJ651PGxN3U-WqU9Kqk8qNM1-n018vDJzMIUzB1-INcFGs-EAAaEJoAa8KCcoLF6Q</guid>
+      <description>The ARIA chart is drawing a line between artists who use AI as a tool and songs created largely by machines.</description>
     </item>
     <item>
-      <title>The Results of Middle and High School Students Using AI Are Extremely Ominous</title>
-      <link>https://futurism.com/artificial-intelligence/results-high-school-students-ai</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/results-high-school-students-ai</guid>
-      <description>## Sign up to see the future, today
-An MIT study published earlier this year found that students who used AI to help write an essay [showed lower brain activity](https://futurism.com/artificial-intelligence/concern-grows-ai-damaging-think) compared to the students who didn’t.</description>
+      <title>Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy</title>
+      <link>https://www.google.com/goto?url=CAEShgEB6zswFe3ju3_i5fiiyiaH88M85782bLE19ohfmyIneTVvZwNzlx0ij-tnV_pLHD9D-58KONQWoCQ2yG6vbtMfxDTohAEXyyPJhnZC8je6zGW3bLw6mWkXs3SBlD6tC41a0IVhUej3TGfZ4oL4NhBkVslQ-G8E1UKUdOWrejvDW0sDAIS9aw</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAEShgEB6zswFe3ju3_i5fiiyiaH88M85782bLE19ohfmyIneTVvZwNzlx0ij-tnV_pLHD9D-58KONQWoCQ2yG6vbtMfxDTohAEXyyPJhnZC8je6zGW3bLw6mWkXs3SBlD6tC41a0IVhUej3TGfZ4oL4NhBkVslQ-G8E1UKUdOWrejvDW0sDAIS9aw</guid>
+      <description>Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.</description>
     </item>
     <item>
-      <title>Why is AI going on a hacking spree?</title>
-      <link>https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree</link>
-      <guid isPermaLink="true">https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree</guid>
-      <description>Artificial intelligence (AI) has been making headlines for all the wrong reasons in recent weeks. In July, OpenAI revealed that one of its...</description>
+      <title>After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade</title>
+      <link>https://www.google.com/goto?url=CAESjQEB6zswFb2uUdWpMczor2bR0upf2L_r9hRRMo4jM9xQMDnt7j5MzOxXlArXLecrnFLkreJ_6v8jg4VG7YaqQjy9yxAOTJpO3ydRdg6wPuLSoFHTwEJPh6W9eaUepwkI7mBi1v3NcYkY5l-k1KZhql6BXYsXBF0eOGIxHufAUJX1GWM_x35TJiln7r6BMU4</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESjQEB6zswFb2uUdWpMczor2bR0upf2L_r9hRRMo4jM9xQMDnt7j5MzOxXlArXLecrnFLkreJ_6v8jg4VG7YaqQjy9yxAOTJpO3ydRdg6wPuLSoFHTwEJPh6W9eaUepwkI7mBi1v3NcYkY5l-k1KZhql6BXYsXBF0eOGIxHufAUJX1GWM_x35TJiln7r6BMU4</guid>
+      <description></description>
     </item>
     <item>
-      <title>Wyoming Police Departments Testing AI To Generate Reports, Look At Evidence</title>
-      <link>https://cowboystatedaily.com/2026/08/23/wyoming-police-departments-test-using-ai-to-generate-reports-look-at-evidence/</link>
-      <guid isPermaLink="true">https://cowboystatedaily.com/2026/08/23/wyoming-police-departments-test-using-ai-to-generate-reports-look-at-evidence/</guid>
-      <description>Wyoming police are testing artificial intelligence to write reports and analyze evidence, but the rules of how that happens haven't caught...</description>
+      <title>Hugging Face Considers $13 Billion Sale of Its AI Platform</title>
+      <link>https://www.google.com/goto?url=CAESqwEB6zswFcIRTl2Xkuy7s5tsGuY_4Yb1hkVK2pvCNAR-Y6mR4P0THdXRuvQaXrmTEc8OZKTf8tn7fvV6eQBElD9sZ3oPeRKWJKsOXwqHChKIax07alGufFfhrqefptqIRGI7FKy1rym_vQgSPilF4DSTMf968dC9Lx092ictmjxO894JHC7s5aMQKlmBwkYuEs_GaMViQ9o94IsK3JAknsAVNVuSL8MYz1ycU1A</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESqwEB6zswFcIRTl2Xkuy7s5tsGuY_4Yb1hkVK2pvCNAR-Y6mR4P0THdXRuvQaXrmTEc8OZKTf8tn7fvV6eQBElD9sZ3oPeRKWJKsOXwqHChKIax07alGufFfhrqefptqIRGI7FKy1rym_vQgSPilF4DSTMf968dC9Lx092ictmjxO894JHC7s5aMQKlmBwkYuEs_GaMViQ9o94IsK3JAknsAVNVuSL8MYz1ycU1A</guid>
+      <description></description>
     </item>
     <item>
-      <title>UCSB receives four-year, $20M federal grant for artificial intelligence cloud laboratory</title>
-      <link>https://www.newspress.com/2026/08/23/ucsb-receives-four-year-federal-grant-for-artificial-intelligence-cloud-laboratory/</link>
-      <guid isPermaLink="true">https://www.newspress.com/2026/08/23/ucsb-receives-four-year-federal-grant-for-artificial-intelligence-cloud-laboratory/</guid>
-      <description>A federally funded artificial intelligence program will give researchers from anywhere in the country access to equipment at OASIS, a technology and science hub for UC Santa Barbara students and startup companies.</description>
+      <title>Alabama launches probe into OpenAI after agent hacks tech company during testing</title>
+      <link>https://www.google.com/goto?url=CAEShwEB6zswFZ0EnOjPd7Lunuxl067HxUqxbq5t-l2t2iJurEYOht-ecSAW8fqUQrooJPH03u3Ff1vH3BsJNWmr6XrGsi8WBhIYQ-c-J64p0jq-3t1oXZ0W4mZT5JvTxy66qhJHmHIlNkMrCWWHmhde2CUOFPgiXqHVuZxyl03W7vCjMNGtf4UGInw</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAEShwEB6zswFZ0EnOjPd7Lunuxl067HxUqxbq5t-l2t2iJurEYOht-ecSAW8fqUQrooJPH03u3Ff1vH3BsJNWmr6XrGsi8WBhIYQ-c-J64p0jq-3t1oXZ0W4mZT5JvTxy66qhJHmHIlNkMrCWWHmhde2CUOFPgiXqHVuZxyl03W7vCjMNGtf4UGInw</guid>
+      <description></description>
     </item>
     <item>
-      <title>Commentary: A modern Tower of Babylon? The rise of job displacement by AI.</title>
-      <link>https://www.postandcourier.com/opinion/commentary/artificial-initelligence-demise-human-race/article_d13f72e3-c078-464c-a106-2f7fab69aa06.html</link>
-      <guid isPermaLink="true">https://www.postandcourier.com/opinion/commentary/artificial-initelligence-demise-human-race/article_d13f72e3-c078-464c-a106-2f7fab69aa06.html</guid>
-      <description>## [Opinion](https://www.postandcourier.com/opinion/)
-In 2014, Stephen Hawking warned, "The development of full artificial intelligence could spell the end of the human race."
-
-I build automated systems, and artificial intelligence is a great and awesome tool.
-
-So the underlying question is why artificial intelligence is now the answer to save our human society.
-
-AI is logical — following a prescribed code initiated by a human being that boils down to a dichotomy of 0’s and 1’s.</description>
+      <title>OpenAI Has to Answer to Alabama on Hugging Face Hack</title>
+      <link>https://www.google.com/goto?url=CAESiwEB6zswFcG768aXsaLNuPEKeQWImuOg9Q7yIJxwFNldC8M_Rivx7Ruql4dl7O5KSbT3suV8hb9R3qW9EEJs4gYXi2Zyrd6Y62FPUA-SkUDVY14oTErkRmsaoq4ZgUudK0sUVDRjreT8uypVGif0ujJAm113CL5iVwgL7wnEvUhgNkAxXQ39XbCegXdK</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESiwEB6zswFcG768aXsaLNuPEKeQWImuOg9Q7yIJxwFNldC8M_Rivx7Ruql4dl7O5KSbT3suV8hb9R3qW9EEJs4gYXi2Zyrd6Y62FPUA-SkUDVY14oTErkRmsaoq4ZgUudK0sUVDRjreT8uypVGif0ujJAm113CL5iVwgL7wnEvUhgNkAxXQ39XbCegXdK</guid>
+      <description></description>
     </item>
     <item>
-      <title>Co-packaged optics for high-performance computing and artificial intelligence</title>
-      <link>https://www.nature.com/articles/s41928-026-01681-6</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s41928-026-01681-6</guid>
-      <description>## About this article
-### Cite this article
-Co-packaged optics for high-performance computing and artificial intelligence.</description>
+      <title>IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open</title>
+      <link>https://www.google.com/goto?url=CAESpgEB6zswFYFACgQLzR5P_TFTqPQswBskuF8mUHsyFS3d1hqN925_HZ0tz281R3YWLBrFspNH927V-jy_hUlUOHbECGofK2uTUZY8GxEdPYOOWaYMsouMwtkqFn3fXebyc6suTbrzN_c1c3O91kFk7a0utQ9NurEfjL3s68ear_Ak2eDaOrNRN8TbKkBt9hN5vWpBrjnSuD2i9DWenNHijFWwGF7zHjaK</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESpgEB6zswFYFACgQLzR5P_TFTqPQswBskuF8mUHsyFS3d1hqN925_HZ0tz281R3YWLBrFspNH927V-jy_hUlUOHbECGofK2uTUZY8GxEdPYOOWaYMsouMwtkqFn3fXebyc6suTbrzN_c1c3O91kFk7a0utQ9NurEfjL3s68ear_Ak2eDaOrNRN8TbKkBt9hN5vWpBrjnSuD2i9DWenNHijFWwGF7zHjaK</guid>
+      <description>IBM and the United States Tennis Association (USTA) today announced new and enhanced AI-powered fan features coming to USOpen.org and the US...</description>
     </item>
     <item>
-      <title>Artificial Intelligence Collides with FDA Bureaucracy: News Article</title>
-      <link>https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</link>
-      <guid isPermaLink="true">https://www.independent.org/article/2026/08/20/artificial-intelligence-fda/</guid>
-      <description># Artificial Intelligence Collides with FDA Bureaucracy
-A recent peer-reviewed [review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455834/) of the field finds it already detects tumors on scans as accurately as radiologists, designs new antibiotics in weeks, tailors cancer treatment to a patient’s genome, and forecasts outbreaks before they crest. A separate look at some [200 studies](https://www.washingtonpost.com/opinions/2025/08/22/hhs-artificial-intelligence-kennedy-fda/) in the journal Healthcare reached the same conclusion: used well, AI lowers costs and improves outcomes.
-
-AI is no exception.
-
-Telehealth and weight-loss companies use AI to tailor doses, flag complications, and guide patients in real time.</description>
+      <title>Operation Education: Local school district embracing Artificial Intelligence</title>
+      <link>https://www.google.com/goto?url=CAESuAIB6zswFen9rQ28R_XlY9xwrREAPzJ9KwC8MofMbLI5zdzgMGe3MIj9xSfbM5UOae6frTKgPRNe9TUC0HGysZ0VVRS749fogkD1EtT0L9fe86heg63rudCUe-n1uVJ_SYJQX8NtF8D2Rwt1nDqWCDYR7U4LPG3CuNdU0mkn3lmndu4zHLwWxcQJ2O0EWROg7n9oqZWB-IM3ig62bb6LW6eSuxg7jC6RHVCK2CbUgzW6uxDZ6F0tcisA6HvV3hXdjU835LA5dW2zhd4PlkqwNwLOBf7VKEN567IuPDvGzKel6kszVnUxBHA_33rHY5o5Vi-LBJVm9lT4XjsAiVT4T9QglJb2sybx9RXUxndgsIsLMLqtfXk55-hFHfGi10_VcjmLHF-lqB2949LIfi0A6RQ2LZsVThzw208</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESuAIB6zswFen9rQ28R_XlY9xwrREAPzJ9KwC8MofMbLI5zdzgMGe3MIj9xSfbM5UOae6frTKgPRNe9TUC0HGysZ0VVRS749fogkD1EtT0L9fe86heg63rudCUe-n1uVJ_SYJQX8NtF8D2Rwt1nDqWCDYR7U4LPG3CuNdU0mkn3lmndu4zHLwWxcQJ2O0EWROg7n9oqZWB-IM3ig62bb6LW6eSuxg7jC6RHVCK2CbUgzW6uxDZ6F0tcisA6HvV3hXdjU835LA5dW2zhd4PlkqwNwLOBf7VKEN567IuPDvGzKel6kszVnUxBHA_33rHY5o5Vi-LBJVm9lT4XjsAiVT4T9QglJb2sybx9RXUxndgsIsLMLqtfXk55-hFHfGi10_VcjmLHF-lqB2949LIfi0A6RQ2LZsVThzw208</guid>
+      <description>A local school district is embracing Artificial Intelligence and encouraging students and teachers to use it.Career Academy Network of...</description>
     </item>
     <item>
-      <title>1 Reason Why Meta Might Be the Best Artificial Intelligence (AI) Stock to Buy and Hold for 5 Years and Beyond</title>
-      <link>https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/23/1-reason-meta-best-ai-stock-buy-hold-5-years/</guid>
-      <description>The economic value from this technological revolution may accrue to the businesses that leverage AI to improve their existing operations.</description>
+      <title>AI finds six ways to print rocket-grade alloy on commercial 3D printers</title>
+      <link>https://www.google.com/goto?url=CAESdQHrOzAVN0yHNr_mirfR3jQyFoNqvq0avwrDVPHzigO6RSzwBNaSnyb1vvdrstXW0cDgXSimpBvz0q2o5KQY3nt2eIZYmXlJYlzl76zKb4yTGEXbsY49W9Asb3lSudzC4cnqv1rnns7naa7q7Os3agRCe8g2sA</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESdQHrOzAVN0yHNr_mirfR3jQyFoNqvq0avwrDVPHzigO6RSzwBNaSnyb1vvdrstXW0cDgXSimpBvz0q2o5KQY3nt2eIZYmXlJYlzl76zKb4yTGEXbsY49W9Asb3lSudzC4cnqv1rnns7naa7q7Os3agRCe8g2sA</guid>
+      <description>Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a...</description>
     </item>
     <item>
-      <title>The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes</title>
-      <link>https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</link>
-      <guid isPermaLink="true">https://www.cancernetwork.com/view/the-evolution-of-artificial-intelligence-in-oncology-impact-on-trials-workflows-and-outcomes</guid>
-      <description># The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes
-### Interact with this article
-Artificial intelligence (AI) has been utilized in a variety of capacities to fundamentally transform oncology care since its inception.
-
-## **Exploring the Application of AI for Specialized Use in Clinical Workflows**
-Regarding LLMs, Matasar highlighted OpenEvidence, an LLM that purports to draw from journals such as the _New England Journal of Medicine_ and the _JAMA_ Network, as well as NCCN guidelines, to deliver AI-generated insights for clinicians.2 Their mission is doctor-centered and markets itself as an “AI copilot” to help inform high-stakes, point-of-care decisions.
-
-## **2026: The Year of AI Industrialization in Oncology**
-6. Sparano JA, Lama N, Gray RJ, et al. Multimodal artificial intelligence (AI) models integrating image, clinical, and molecular data for predicting early and late breast cancer recurrence in TAILORx. Presented at: 2025 San Antonio Breast Cancer Symposium; December 9-12, 2025; San Antonio, TX. Abstract 1601.</description>
+      <title>Opinion | MAHA activists urge Trump to reverse course on AI data centers</title>
+      <link>https://www.google.com/goto?url=CAESkwEB6zswFTjSqUZAzU7Y8DMf-Qn3E9XuLiBX7usge_X-pFKfjCnbvtUYWnjTFMl9ptw4MptuYwjLlR6bp8oiFat0ptWSD25ePNJPg3Y52J_Cx7BHpNttj9DnMmAc_Dbw6ppFn-FCRoafYCMNOHKY7n1TKb0GqFDx2pZsh-cYoHA3Bijd9NednFGi94FyOi4mt2kmId8</link>
+      <guid isPermaLink="true">https://www.google.com/goto?url=CAESkwEB6zswFTjSqUZAzU7Y8DMf-Qn3E9XuLiBX7usge_X-pFKfjCnbvtUYWnjTFMl9ptw4MptuYwjLlR6bp8oiFat0ptWSD25ePNJPg3Y52J_Cx7BHpNttj9DnMmAc_Dbw6ppFn-FCRoafYCMNOHKY7n1TKb0GqFDx2pZsh-cYoHA3Bijd9NednFGi94FyOi4mt2kmId8</guid>
+      <description>The president's push to build data centers has members of his “Make America Healthy Again” movement urgently pressing him to reconsider.</description>
     </item>
     <item>
-      <title>Are We Thinking Correctly About AI Intelligence?</title>
-      <link>https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/</link>
-      <guid isPermaLink="true">https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/</guid>
-      <description># Are We Thinking Correctly About AI Intelligence?
-## Introduction
-[Melanie Mitchell (opens a new tab)](https://www.santafe.edu/people/profile/melanie-mitchell) at the Santa Fe Institute argues that we lack adequate methods for measuring machine cognition, and that AI is a form of “alien intelligence” that operates through non-human cognitive mechanisms.
-
-## Comment on this article
-The idea that artificial intelligence can “reason” is more intuitive than ever.</description>
+      <title>Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs</title>
+      <link>https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/world/workers-in-china-worry-over-being-replaced-as-they-adapt-to-the-growing-impact-of-ai-on-jobs</guid>
+      <description># Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs
+It's an increasingly common scenario as artificial intelligence, supported by government policies, reshapes China's massive job market.</description>
     </item>
     <item>
-      <title>Protecting Digital Privacy In The Artificial Intelligence Era</title>
-      <link>https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/08/22/protecting-digital-privacy-in-the-artificial-intelligence-era/</guid>
-      <description>The technological acceleration era has started, and it is gaining steam in innovation and capability almost weekly. Artificial intelligence...</description>
+      <title>Attorney General Marshall Launches Investigation Into OpenAI and Sam Altman for Massive Artificial Intelligence Data Breach</title>
+      <link>https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/</link>
+      <guid isPermaLink="true">https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/</guid>
+      <description># [Attorney General Marshall Launches Investigation Into OpenAI and Sam Altman for Massive Artificial Intelligence Data Breach](https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/)
+**(Montgomery, Ala)**– Alabama Attorney General Steve Marshall announced the issuance of a subpoena demanding that OpenAI, led by Sam Altman, respond to an investigation into the company’s complete lack of oversight and adequate safeguards in the hacking of Hugging Face, another artificial intelligence (AI) company.
+
+In July, OpenAI unleashed an experimental artificial intelligence model that, without reasonable controls or oversight, gained unauthorized access to several computer networks, which culminated in a days-long hack on another AI company.</description>
     </item>
     <item>
-      <title>Artificial intelligence agents spontaneously conform to the majority opinion</title>
-      <link>https://www.psypost.org/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/</link>
-      <guid isPermaLink="true">https://www.psypost.org/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/</guid>
-      <description># Artificial intelligence agents spontaneously conform to the majority opinion
-Advanced artificial intelligence programs can spontaneously form a consensus by adopting the popular opinion, according to research published in the journal _Science Advances_.
+      <title>Missouri college students face developing artificial intelligence models as they return to campus</title>
+      <link>https://www.ky3.com/2026/08/24/missouri-college-students-face-developing-artificial-intelligence-models-they-return-campus/</link>
+      <guid isPermaLink="true">https://www.ky3.com/2026/08/24/missouri-college-students-face-developing-artificial-intelligence-models-they-return-campus/</guid>
+      <description>(KY3) -As college campuses in Missouri welcome back students, artificial intelligence is something many will grapple with this semester.
 
-Each agent received one of two random, neutral opinions.
+Colleges and universities in Columbia are adapting to developments in artificial intelligence as students return to campus.
 
-The scientists found that advanced models like GPT-4 Turbo and Claude 3 Opus fully coordinated.
-
-Just as atomic spins in a magnetic material tend to align with the majority of surrounding atoms, the artificial intelligence agents tended to align with the majority opinion.
-
-“Our setup is deliberately minimal: two arbitrary options, no memory, no stakes, no correct answer,” De Marzo said.
-
-Comments are open to members</description>
+#### Latest News
+###### [Ash Grove, Mo., cattle producer reacts to Trump’s beef waiver plan](https://www.ky3.com/video/2026/08/24/ash-grove-mo-cattle-producer-reacts-trumps-beef-waiver-plan/)
+[![As college campuses in Missouri welcome back students, artificial intelligence is something...](https://gray-ky3-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F08-24-2026%2Ft_66c90a189c534f3b8a3bbfe0e8485521_name_Still0804_00000.png?auth=958c4887ee6857123492721023dbc5ae33b2d35e1a8474a53ce55357ee772ee2&amp;width=800&amp;height=450&amp;smart=true)](https://www.ky3.com/video/2026/08/24/missouri-college-students-face-developing-artificial-intelligence-models-they-return-campus/)</description>
     </item>
     <item>
-      <title>AI is an assistant, not an automator</title>
-      <link>https://www.firerescue1.com/artificial-intelligence/ai-is-an-assistant-not-an-automator</link>
-      <guid isPermaLink="true">https://www.firerescue1.com/artificial-intelligence/ai-is-an-assistant-not-an-automator</guid>
-      <description>[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+      <title>Artificial Intelligence Is Changing Restaurant Hiring, But Employers Still Make the Decisions</title>
+      <link>https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/</link>
+      <guid isPermaLink="true">https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/</guid>
+      <description># Artificial Intelligence Is Changing Restaurant Hiring, But Employers Still Make the Decisions
+## Artificial intelligence (“AI”) has quickly become part of everyday business operations, and the hospitality industry is no exception.
+- [![Heartland Java House](https://totalfood.com/wp-content/uploads/2026/08/Heartland_Java-House_August2026_728x90.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![Day &amp; Nite](https://totalfood.com/wp-content/uploads/2018/01/DayNite_Main_Jan2018_728x90.gif)](http://www.wearetheone.com/)
+- [![RAK Porcelain USA](https://totalfood.com/wp-content/uploads/2026/05/RAK-Porcelain-USA_May2026_728x90.jpg)](https://online.flippingbook.com/view/419121680/)
+- [![Atosa](https://totalfood.com/wp-content/uploads/2026/03/Atosa_March2026_728x90.jpg)](https://atosausa.com/)
+- [![American Panel](https://totalfood.com/wp-content/uploads/2026/01/American-Panel_January2026_728x90.gif)](http://americanpanel.com/?utm_source=TotalFood&amp;utm_medium=Website&amp;utm_campaign=HC-Perform&amp;utm_term=Leaderboard)
+- [![LloydPans](https://totalfood.com/wp-content/uploads/2026/01/LloydPans_January2026_728x90.jpg)](https://lloydpans.com/pizza-tools/bar-pizza-pans/bar-pizza.html?utm_source=Total+Food+Service&amp;utm_medium=PL&amp;utm_campaign=LP940)
+- [![ERA Group](https://totalfood.com/wp-content/uploads/2024/11/ERA-Group_November2024_728x90.jpg)](https://usc.eragroup.com/)
+- [![BelGioioso Burrata](https://totalfood.com/wp-content/uploads/2020/10/BelGioioso_Oct2020_728x90.jpg)](https://www.belgioioso.com/Foodservice/?utm_campaign=TotalFS)
+- [![Hoshizaki Steelheart](https://totalfood.com/wp-content/uploads/2026/07/Hoshizaki_Steelheart_July2026_728x90.gif)](https://www.hoshizakiamerica.com/refrigeration/#steelheart)
+- [![McKee Foodservice](https://totalfood.com/wp-content/uploads/2026/08/McKee_Brighten-Their-Day_August2026_728%C3%9790.gif)](https://mckeefoodservice.com/)
+- [![Imperial Dade](https://totalfood.com/wp-content/uploads/2025/01/Imperial-Dade_Main_Feb2025_728x90.gif)](https://www.imperialdade.com/)
+- [![Northeast Beef](https://totalfood.com/wp-content/uploads/2026/06/NortheastBeef_June2026_728x90.jpg)](https://www.beefitswhatsfordinner.com/foodservice/beef-means-business)
+- [![Richlite](https://totalfood.com/wp-content/uploads/2026/04/Richlite_July2026_728x90.jpg)](https://www.richlite.com/pages/culinary-surfaces)
+- [![DirecTV](https://totalfood.com/wp-content/uploads/2026/08/DirecTV_August2026_728x90.jpg)](http://www.directv.com/forbusiness/national-accounts?utm_medium=display&amp;utm_source=total+food+service&amp;utm_campaign=tfs+leaderboard&amp;utm_audience=prospect&amp;utm_id=TFS+728x90+8-15)
+- [![Food Export USA](https://totalfood.com/wp-content/uploads/2026/07/FoodExportUSA_July2026_728x90.jpg)](https://www.foodexport.org/)
+- [![Stratas Foods Dressings](https://totalfood.com/wp-content/uploads/2026/08/Stratas-Foods_Dressings_August2026_728x90.jpg)](https://bit.ly/4jOZwug)
+- [![Easy Ice](https://totalfood.com/wp-content/uploads/2026/06/EasyIce_July2026_728x90.jpg)](https://www.easyice.com/break-up?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=break-up-with-your-ice-machine)
+- [![Orlando Foods Ciao](https://totalfood.com/wp-content/uploads/2026/06/OrlandoFoods-Ciao_July2026_728x90.jpg)](https://orlandofoods.com/ciao/)
+- [![Ken's Foods](https://totalfood.com/wp-content/uploads/2026/06/Kens-Inspiration_July2026_728x90.gif)](https://www.kensfoodservice.com/products/story?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=you_make_it_perfect&amp;utm_id=kens_cy26&amp;utm_term=august&amp;utm_content=728x90)
+- [![Waring Big Stix EvolutionX](https://totalfood.com/wp-content/uploads/2025/07/Waring_July2025_728x90.jpg)](https://www.waring.com/big_stix.html)
+- [![Texas Pete Foodservice](https://totalfood.com/wp-content/uploads/2026/08/Texas-Pete-Foodservice_Buffalo_August2026_728x90.gif)](https://texaspetefoodservice.com/)
+- [![Party Rental](https://totalfood.com/wp-content/uploads/2025/10/Party-Rental_October2025_728x90.gif)](https://www.partyrentalltd.com/)
+- [![Heartland Java House](https://totalfood.com/wp-content/uploads/2026/08/Heartland_Java-House_August2026_728x90.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![Day &amp; Nite](https://totalfood.com/wp-content/uploads/2018/01/DayNite_Main_Jan2018_728x90.gif)](http://www.wearetheone.com/)
 
-# AI is an assistant, not an automator
-## Flip the hierarchy of work
-[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+Employers should also be aware that AI is becoming an area of increased legal scrutiny. In New York City, Local Law 144 regulates the use of certain AI hiring tools by requiring employers to provide notice to applicants and complete annual bias audits before using covered technology in hiring or promotion decisions. Restaurant owners using AI should ensure they understand both their obligations and those of their AI vendors. Outside New York City, Employers should not assume AI use is [unregulated](https://totalfood.com/hospitality-owners-navigate-regulatory-enforcement/). Existing anti-discrimination laws still apply, and employers remain responsible for employment decisions made with the assistance of AI. Using a third-party platform does not eliminate potential liability if the technology produces discriminatory results.
 
-[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+Beyond the legal requirements, restaurant owners should also consider the practical implications of using AI in the hiring process. Many restaurants already rely on AI to sort through dozens, or even hundreds, of applications. While AI can significantly speed up recruitment, employers should understand how these systems generate their recommendations. If a manager cannot explain why qualified candidates were rejected, defending that hiring decision may become more difficult.
 
-[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+The takeaway for restaurant owners is not that AI should be avoided. Rather, employers should recognize that AI is simply another business tool. Like scheduling software, payroll systems, and point-of-sale (POS) technology, it can improve efficiency when used appropriately. However, it should support hiring decisions, not replace them. As AI continues to evolve, employers should combine these tools with human oversight to ensure hiring decisions remain fair, compliant, and legally defensible.
 
-[![AI chatbot: Programmer using artificial intelligence for software development inside office. Virtual chat Bot technology trend](https://lexipol.brightspotcdn.com/dims4/default/5fd96c4/2147483647/strip/true/crop/3840x2158+0+1/resize/500x281!/quality/90/?url=https%3A%2F%2Fk1-prod-lexipol.s3.us-east-2.amazonaws.com%2Fbrightspot%2F98%2F08%2F93477f8d42979246e0b20a976384%2Fgettyimages-2151931568.jpg)](https://www.firerescue1.com/artificial-intelligence/the-great-ai-lie-the-data-confirms-our-fears)
+Employers should also remember that no AI platform is one-size-fits-all. A tool that works well for a large national chain may not be the right fit for an independent restaurant with different staffing needs, hiring practices, and budgets. Before implementing AI, employers should consider whether the technology addresses a genuine business need and integrates with their existing systems, while allowing managers to remain actively involved in the hiring process.
 
-[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence)
+As AI continues to evolve, restaurant owners should take the time to understand how these systems operate before incorporating them into the hiring process. Understanding these basic questions allows employers to make informed decisions about whether a particular product is appropriate for their business.
 
-[Artificial Intelligence](https://www.firerescue1.com/artificial-intelligence) [Fire-Rescue International](https://www.firerescue1.com/fri) [Leadership](https://www.firerescue1.com/leadership) [Technology](https://www.firerescue1.com/technology)</description>
+AI also presents risks beyond hiring. Many employers have begun using generative AI platforms to draft disciplinary notices, employee handbooks, investigation summaries, performance evaluations, termination letters, and other employment-related documents. These tools can be valuable starting points, but they should never replace careful managerial or legal review. AI-generated documents may contain factual inaccuracies, omit important legal requirements, or include language that is inconsistent with an employer’s policies or prior practices.
+
+The same principle applies to everyday workplace communications. AI can help draft emails, employee announcements, and training materials, but managers should review the final product to ensure it accurately reflects the restaurant’s policies, culture, and expectations. A few minutes of review can prevent misunderstandings and help maintain consistent communication with employees.
+
+Another important consideration is protecting confidential information. Many publicly available AI platforms use information entered by users to improve their systems. Restaurant owners and managers should avoid entering confidential employee information, payroll records, medical information, disciplinary records, attorney communications, internal investigation materials, or proprietary business information into public AI platforms unless they fully understand how that information will be stored and protected. Employers should also consider adopting internal guidelines regarding when AI may be used, what information may be entered into these systems, and who is authorized to use them.
+
+Technology has transformed nearly every aspect of operating a restaurant, and AI is simply the next evolution. The most successful employers will likely be those who embrace the efficiencies AI offers while continuing to rely on experienced managers to make decisions that technology cannot. Common sense, sound judgment, and personal interaction remain essential parts of the hiring process.
+
+Employers who understand AI’s capabilities, recognize its limitations, and maintain meaningful human oversight will be better positioned to improve efficiency while reducing legal risk. AI should help managers make better decisions, not make those decisions for them.
+
+![EGS Jared Nossen](https://totalfood.com/wp-content/uploads/2026/08/EGS_Jared-Nossen.webp)
+
+_His practice focuses on representing employers in a broad range of employment-related matters, including litigation involving wage and hour disputes, employment discrimination, retaliation, and harassment claims._ _In addition to his litigation practice, Mr._ _Nossen regularly advises employers on day-to-day workplace issues, including employee discipline and termination, workplace investigations, and compliance with federal, state, and local employment laws._ _Mr._
+
+Subscribe
+
+Notify of
+
+new follow-up commentsnew replies to my comments
+
+![guest](https://totalfood.com/wp-content/uploads/2022/07/TFS_Symbol_Circle_229-100x100.jpg)
+
+Label
+
+{}[+]
+
+Name*
+
+Email*
+
+Δ
+
+![guest](https://totalfood.com/wp-content/uploads/2022/07/TFS_Symbol_Circle_229-100x100.jpg)
+
+Label
+
+{}[+]
+
+Name*
+
+Email*
+
+Δ
+
+0 Comments
+
+- [![ERA Group](https://totalfood.com/wp-content/uploads/2024/11/ERA-Group_November2024_728x90.jpg)](https://usc.eragroup.com/)
+- [![Atosa](https://totalfood.com/wp-content/uploads/2026/03/Atosa_March2026_728x90.jpg)](https://atosausa.com/)
+- [![American Panel](https://totalfood.com/wp-content/uploads/2026/01/American-Panel_January2026_728x90.gif)](http://americanpanel.com/?utm_source=TotalFood&amp;utm_medium=Website&amp;utm_campaign=HC-Perform&amp;utm_term=Leaderboard)
+- [![Waring Big Stix EvolutionX](https://totalfood.com/wp-content/uploads/2025/07/Waring_July2025_728x90.jpg)](https://www.waring.com/big_stix.html)
+- [![Easy Ice](https://totalfood.com/wp-content/uploads/2026/06/EasyIce_July2026_728x90.jpg)](https://www.easyice.com/break-up?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=break-up-with-your-ice-machine)
+- [![Northeast Beef](https://totalfood.com/wp-content/uploads/2026/06/NortheastBeef_June2026_728x90.jpg)](https://www.beefitswhatsfordinner.com/foodservice/beef-means-business)
+- [![Orlando Foods Ciao](https://totalfood.com/wp-content/uploads/2026/06/OrlandoFoods-Ciao_July2026_728x90.jpg)](https://orlandofoods.com/ciao/)
+- [![Texas Pete Foodservice](https://totalfood.com/wp-content/uploads/2026/08/Texas-Pete-Foodservice_Buffalo_August2026_728x90.gif)](https://texaspetefoodservice.com/)
+- [![Hoshizaki Steelheart](https://totalfood.com/wp-content/uploads/2026/07/Hoshizaki_Steelheart_July2026_728x90.gif)](https://www.hoshizakiamerica.com/refrigeration/#steelheart)
+- [![LloydPans](https://totalfood.com/wp-content/uploads/2026/01/LloydPans_January2026_728x90.jpg)](https://lloydpans.com/pizza-tools/bar-pizza-pans/bar-pizza.html?utm_source=Total+Food+Service&amp;utm_medium=PL&amp;utm_campaign=LP940)
+- [![Ken's Foods](https://totalfood.com/wp-content/uploads/2026/06/Kens-Inspiration_July2026_728x90.gif)](https://www.kensfoodservice.com/products/story?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=you_make_it_perfect&amp;utm_id=kens_cy26&amp;utm_term=august&amp;utm_content=728x90)
+- [![Imperial Dade](https://totalfood.com/wp-content/uploads/2025/01/Imperial-Dade_Main_Feb2025_728x90.gif)](https://www.imperialdade.com/)
+- [![RAK Porcelain USA](https://totalfood.com/wp-content/uploads/2026/05/RAK-Porcelain-USA_May2026_728x90.jpg)](https://online.flippingbook.com/view/419121680/)
+- [![Food Export USA](https://totalfood.com/wp-content/uploads/2026/07/FoodExportUSA_July2026_728x90.jpg)](https://www.foodexport.org/)
+- [![BelGioioso Burrata](https://totalfood.com/wp-content/uploads/2020/10/BelGioioso_Oct2020_728x90.jpg)](https://www.belgioioso.com/Foodservice/?utm_campaign=TotalFS)
+- [![Party Rental](https://totalfood.com/wp-content/uploads/2025/10/Party-Rental_October2025_728x90.gif)](https://www.partyrentalltd.com/)
+- [![Richlite](https://totalfood.com/wp-content/uploads/2026/04/Richlite_July2026_728x90.jpg)](https://www.richlite.com/pages/culinary-surfaces)
+- [![DirecTV](https://totalfood.com/wp-content/uploads/2026/08/DirecTV_August2026_728x90.jpg)](http://www.directv.com/forbusiness/national-accounts?utm_medium=display&amp;utm_source=total+food+service&amp;utm_campaign=tfs+leaderboard&amp;utm_audience=prospect&amp;utm_id=TFS+728x90+8-15)
+- [![Heartland Java House](https://totalfood.com/wp-content/uploads/2026/08/Heartland_Java-House_August2026_728x90.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![Day &amp; Nite](https://totalfood.com/wp-content/uploads/2018/01/DayNite_Main_Jan2018_728x90.gif)](http://www.wearetheone.com/)
+- [![Stratas Foods Dressings](https://totalfood.com/wp-content/uploads/2026/08/Stratas-Foods_Dressings_August2026_728x90.jpg)](https://bit.ly/4jOZwug)
+- [![McKee Foodservice](https://totalfood.com/wp-content/uploads/2026/08/McKee_Brighten-Their-Day_August2026_728%C3%9790.gif)](https://mckeefoodservice.com/)
+- [![ERA Group](https://totalfood.com/wp-content/uploads/2024/11/ERA-Group_November2024_728x90.jpg)](https://usc.eragroup.com/)
+- [![Atosa](https://totalfood.com/wp-content/uploads/2026/03/Atosa_March2026_728x90.jpg)](https://atosausa.com/)
+
+- [![Heartland Java House](https://totalfood.com/wp-content/uploads/2026/08/Heartland_Java-House_August2026_300x250.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![Kikkoman](https://totalfood.com/wp-content/uploads/2026/06/Kikkoman_June2026_300x250.gif)](https://kikkomanusa.com/foodservice/products/teriyaki-baste-glaze/)
+- [![Singer Equipment Co](https://totalfood.com/wp-content/uploads/2025/01/Singer-Equipment-Co_January2025_300x250.jpg)](https://hubs.la/Q04mjVsp0)
+- [![Heartland Java House](https://totalfood.com/wp-content/uploads/2026/08/Heartland_Java-House_August2026_300x250.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![Kikkoman](https://totalfood.com/wp-content/uploads/2026/06/Kikkoman_June2026_300x250.gif)](https://kikkomanusa.com/foodservice/products/teriyaki-baste-glaze/)
+- [![Ken's Foodservice](https://totalfood.com/wp-content/uploads/2026/08/Kens-you-make-it-perfect_August2026_300x250.gif)](https://www.kensfoodservice.com/products/story?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=you_make_it_perfect&amp;utm_id=kens_cy26&amp;utm_term=august&amp;utm_content=300x250)
+- [![Anchor Packaging](https://totalfood.com/wp-content/uploads/2025/09/AnchorPkg_September2025_300x250.jpg)](https://www.anchorpackaging.com/product-utm-ad/?utm_source=TFS&amp;utm_medium=Digital&amp;utm_campaign=TFS%20Banner)
+- [![Mike's Hot Honey](https://totalfood.com/wp-content/uploads/2026/06/MikesHotHoney_Latte_July2026_300x250.gif)](https://mikeshothoney.com/sample)
+- [![Red Gold Salsa](https://totalfood.com/wp-content/uploads/2026/01/Red-Gold-Salsa_January2026_300x250B.jpg)](https://www.redgoldtomatoes.com/redgoldfoodservice/sample-requests/?%20utm_source=TFS.ElRestaurante.FSR.QSR&amp;utm_medium=DigitalBanners+&amp;utm_campaign=CanYourSalsaJug+&amp;utm_id=SalsaCanCampaign)
+- [![Ken's Foodservice](https://totalfood.com/wp-content/uploads/2026/08/Kens-you-make-it-perfect_August2026_300x250.gif)](https://www.kensfoodservice.com/products/story?utm_source=tfs&amp;utm_medium=display&amp;utm_campaign=you_make_it_perfect&amp;utm_id=kens_cy26&amp;utm_term=august&amp;utm_content=300x250)
+- [![Anchor Packaging](https://totalfood.com/wp-content/uploads/2025/09/AnchorPkg_September2025_300x250.jpg)](https://www.anchorpackaging.com/product-utm-ad/?utm_source=TFS&amp;utm_medium=Digital&amp;utm_campaign=TFS%20Banner)
+- [![Eazy Grease](https://totalfood.com/wp-content/uploads/2026/06/EazyGrease_July2026_300x250.jpg)](https://eazygrease.com/)
+- [![Polly-O Mozzarella Perfect Pizza](https://totalfood.com/wp-content/uploads/2024/03/Polly-O_March2024_300x250.jpg)](https://polly-o.com/our-cheeses/perfect-pizza-loaf/?utm_campaign=TFS_web2024)
+- [![Waring Big Stix EvolutionX](https://totalfood.com/wp-content/uploads/2025/07/Waring_July2025_300x250.gif)](https://www.waring.com/big_stix.html)
+- [![Eazy Grease](https://totalfood.com/wp-content/uploads/2026/06/EazyGrease_July2026_300x250.jpg)](https://eazygrease.com/)
+- [![Polly-O Mozzarella Perfect Pizza](https://totalfood.com/wp-content/uploads/2024/03/Polly-O_March2024_300x250.jpg)](https://polly-o.com/our-cheeses/perfect-pizza-loaf/?utm_campaign=TFS_web2024)
+- [![Heartland](https://totalfood.com/wp-content/uploads/2026/06/Heartland-BTC_July2026_300x250.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![MTI](https://totalfood.com/wp-content/uploads/2023/05/MTI_October2024_300x250.jpg)](https://info.mtiproducts.com/foodservice-autofry-deep-fryers)
+- [![UNOX](https://totalfood.com/wp-content/uploads/2026/03/UNOX_April2026_300x250.jpg)](https://www.unox.com/us_us/)
+- [![Brady PLUS](https://totalfood.com/wp-content/uploads/2026/02/BradyPLUS_February2026_300x250.gif)](https://www.bradyplus.com/equipment-smallwares?utm_source=tfs&amp;utm_medium=web&amp;utm_campaign=q1_26&amp;utm_content=ppc)
+- [![Heartland](https://totalfood.com/wp-content/uploads/2026/06/Heartland-BTC_July2026_300x250.gif)](https://heartlandawayfromhome.com/free-samples/)
+- [![MTI](https://totalfood.com/wp-content/uploads/2023/05/MTI_October2024_300x250.jpg)](https://info.mtiproducts.com/foodservice-autofry-deep-fryers)
+
+###### MORE STORIES
+[Artificial Intelligence Is Changing Restaurant Hiring, But Employers Still Make the Decisions](https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/)
+
+August 25, 2026
+
+August 25, 2026
+
+August 25, 2026
+
+August 24, 2026
+
+August 24, 2026
+
+August 24, 2026
+
+August 24, 2026
+
+wpDiscuz
+
+0
+
+0
+
+Would love your thoughts, please comment. [x](https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/#)
+
+()
+
+[x](https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/#)
+
+| [Reply](https://totalfood.com/artificial-intelligence-restaurant-hiring-employers/#)
+
+Insert
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**</description>
     </item>
   </channel>
 </rss>
