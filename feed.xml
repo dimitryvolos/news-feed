@@ -5,7 +5,7 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:13:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</title>
@@ -27,10 +27,7 @@ Amazon founder [Jeff Bezos](https://www.cnbc.com/jeff-bezos/) described the serv
       <title>The Fed confronts a powerful new economic force</title>
       <link>https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/</link>
       <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/</guid>
-      <description>Federal Reserve Chair Kevin Warsh promised to bust inflation in his [first major speech](https://www.washingtonpost.com/business/2026/08/28/fed-chair-warsh-speaks-jackson-hole-conference/) since his nomination by President Donald Trump, but he also lavished attention on a new focus for the Fed: artificial intelligence.
-
-## Spicy AI debates
-Shira Ovide covers how artificial intelligence affects the economy, jobs and American institutions.</description>
+      <description>Federal Reserve Chair Kevin Warsh promised to bust inflation in his [first major speech](https://www.washingtonpost.com/business/2026/08/28/fed-chair-warsh-speaks-jackson-hole-conference/) since his nomination by President Donald Trump, but he also lavished attention on a new focus for the Fed: artificial intelligence.</description>
     </item>
     <item>
       <title>Sharp rise in incidents of AI escaping users’ control, research finds</title>
@@ -84,10 +81,9 @@ Nilesh Christopher is a technology reporter for the Los Angeles Times, focusing 
       <title>Navigating regulatory fragmentation in the convergence of synthetic biology, artificial intelligence, and automation</title>
       <link>https://www.nature.com/articles/s41467-026-77338-x</link>
       <guid isPermaLink="true">https://www.nature.com/articles/s41467-026-77338-x</guid>
-      <description>## References
-8. Eslami, M. Z. et al. Artificial intelligence for synthetic biology. _Commun. ACM_ **65**, 88–97 [[https://doi.org/10.1145/3500922](https://doi.org/10.1145/3500922)](https://doi.org/10.1145/3500922) (2022). [Article](https://doi.org/10.1145%2F3500922) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Artificial%20intelligence%20for%20synthetic%20biology&amp;journal=Commun.%20ACM&amp;doi=10.1145%2F3500922&amp;volume=65&amp;pages=88-97&amp;publication_year=2022&amp;author=Eslami%2CMZ)
-28. Recommendation of the Council on Artificial Intelligence (OECD AI Principles). OECD. [[https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449).
-29. Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (EU AI Act). European Parliament and Council. [[http://data.europa.eu/eli/reg/2024/1689/oj](http://data.europa.eu/eli/reg/2024/1689/oj)](http://data.europa.eu/eli/reg/2024/1689/oj).</description>
+      <description>## Introduction
+### Methodology
+The analysis focused on four regulatory domains that are increasingly converging in advanced biotechnology research and innovation: biosecurity and biosafety regulation (including pathogen oversight, dual-use research governance, DNA synthesis screening and laboratory biorisk management); artificial intelligence governance (including AI-specific legislation, policy frameworks, standards and regulatory guidance); export control and technology protection regimes (including dual-use controls, technology transfer restrictions, advanced computing controls and research security measures); and data governance and sovereignty requirements.</description>
     </item>
     <item>
       <title>Cleveland Clinic AI Summit Highlights Growing Role of Artificial Intelligence in Healthcare</title>
@@ -124,7 +120,7 @@ While investors may think of **Alphabet**( [GOOG](https://www.fool.com/quote/nas
       <title>Public can testify Monday at AI and data center committee</title>
       <link>https://northdakotamonitor.com/2026/08/29/public-can-testify-monday-at-ai-and-data-center-committee/</link>
       <guid isPermaLink="true">https://northdakotamonitor.com/2026/08/29/public-can-testify-monday-at-ai-and-data-center-committee/</guid>
-      <description>People share their opinions on data centers and artificial intelligence when a North Dakota legislative committee meets again Monday to address those topics.
+      <description>People can share their opinions on data centers and artificial intelligence when a North Dakota legislative committee meets again Monday to address those topics.
 
 The Artificial Intelligence and Data Center Committee meets at 9 a.m.
 
@@ -166,9 +162,7 @@ These tools include Fourier-transform infrared spectroscopy (FT-IR), Raman and s
       <title>ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers</title>
       <link>https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/</link>
       <guid isPermaLink="true">https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/</guid>
-      <description># ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers
-## What this means
-[AI](https://fortune.com/section/artificial-intelligence/)</description>
+      <description>Do artificial intelligence tools such as ChatGPT eliminate jobs, create new ones, or both? There's a lot of speculation regarding this...</description>
     </item>
     <item>
       <title>How Artificial Intelligence can improve crop performance</title>
