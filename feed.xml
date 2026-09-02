@@ -5,13 +5,34 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:35:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI’s worst disasters will arrive unannounced | Letters</title>
-      <link>https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced</guid>
-      <description># AI’s worst disasters will arrive unannounced
+      <title>‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)</title>
+      <link>https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease</guid>
+      <description># ‘Superhuman’ AI tool spots heart disease in less than 2 seconds
+## At this dangerous time
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
+    <item>
+      <title>Artificial intelligence agents going rogue fuel calls for regulation</title>
+      <link>https://www.pbs.org/newshour/show/artificial-intelligence-agents-going-rogue-fuel-calls-for-regulation</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/show/artificial-intelligence-agents-going-rogue-fuel-calls-for-regulation</guid>
+      <description>Alarms are being sounded again about the risks of artificial intelligence after hundreds of OpenAI's autonomous agents violated restrictions...</description>
+    </item>
+    <item>
+      <title>Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/nebius-vs-coreweave-better-artificial-143501686.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/nebius-vs-coreweave-better-artificial-143501686.html</guid>
+      <description>The demand for artificial intelligence (AI) data centers is exceeding supply, which isn't surprising, as major hyperscalers and AI companies...</description>
+    </item>
+    <item>
+      <title>Macquarie University swaps in-person psychology classes with AI chatbot for two subjects</title>
+      <link>https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials</guid>
+      <description># AI chatbot helps teach online-only psychology classes at Macquarie University
+## Backlash to AI teaching grows
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
@@ -21,148 +42,75 @@
       <description>In October, Cameron Berg published a research paper asking whether the latest wave of artificial intelligence technologies believed they...</description>
     </item>
     <item>
-      <title>Will anybody use AI as much as coders do?</title>
-      <link>https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do</link>
-      <guid isPermaLink="true">https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do</guid>
-      <description># Will anybody use AI as much as coders do?
-## The answer will have big implications for the investment boom
-Their instructions are then transcribed using artificial intelligence and fed to AI agents—bots that can interact with software and, in this case, write it.</description>
-    </item>
-    <item>
-      <title>FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models</title>
-      <link>https://www.fsb.org/2026/08/fsb-chair-warns-of-risks-arising-from-frontier-artificial-intelligence-ai-models/</link>
-      <guid isPermaLink="true">https://www.fsb.org/2026/08/fsb-chair-warns-of-risks-arising-from-frontier-artificial-intelligence-ai-models/</guid>
-      <description>The potential impact of frontier AI on cyber risk is the most immediate concern to the financial system, says FSB Chair, Andrew Bailey.</description>
-    </item>
-    <item>
-      <title>EU orders AI supercomputer from Bull as demand exceeds capacity</title>
-      <link>https://www.reuters.com/world/europe/europe-expands-ai-computing-network-with-390-million-order-frances-bull-2026-08-31/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/europe/europe-expands-ai-computing-network-with-390-million-order-frances-bull-2026-08-31/</guid>
-      <description>![Rivian Autonomy and AI (artificial intelligence) Day in Palo Alto, California](https://www.reuters.com/resizer/v2/H7GYC3XRNJO3TMZWM3L7NMABKE.jpg?auth=c1554a880dc70dcd45ab096759ec1549cc8e2aa13cbf45808c0f4084b6974b44&amp;width=1920&amp;quality=80)
+      <title>'It can outthink me': How a major manufacturer came to embrace AI</title>
+      <link>https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory</guid>
+      <description>**Made in America: How AI keeps this U.S. factory competitive** **GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor.**
 
-A screen reads 'AI' in reference to artificial intelligence as attendees gather during Rivian's first Autonomy and AI Day, showcasing developments in self-driving technology, in Palo Alto, California, U.S., December 11, 2025.</description>
+# 'It can outthink me': How a major manufacturer came to embrace AI
+### **Pressure to be perfect**
+Now, manufacturers are leaning heavily into advanced technology and artificial intelligence to up their game.
+
+### [This lawyer believes in second chances. Now AI is providing a boost](https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate)
+- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
     </item>
     <item>
-      <title>1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/1-no-brainer-artificial-intelligence-052000043.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/1-no-brainer-artificial-intelligence-052000043.html</guid>
-      <description># 1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term
-The [ETF](https://www.fool.com/terms/e/etfs/?utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=174f7196-83c1-4e09-930f-77f5d610843f) launched in October 2024.
+      <title>House Intelligence Committee warns of 'Black Swan' AI risks</title>
+      <link>https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html</guid>
+      <description>- The House Permanent Select Committee on Intelligence urged U.S. spy agencies to better prepare for “Black Swan” artificial intelligence risks in a new report.
 
-## Investing across the entire AI technology stack
-They each operate cloud platforms where they rent spare computing capacity to other enterprises that use it to achieve their own AI goals.
-
-This iShares ETF also holds cybersecurity powerhouses **Palo Alto Networks** and **CrowdStrike**, which have embedded AI into their flagship products to automate everything from threat detection to incident response.
-
-Innovation and Tech Active ETF has small positions in two of the world's leading AI labs, Anthropic and OpenAI, which have developed some of the industry's best foundation models.</description>
+The House Permanent Select Committee on [Intelligence](https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html) urged U.S. spy agencies to better prepare for “Black Swan” [artificial intelligence](https://www.cnbc.com/ai-artificial-intelligence/) risks, warning in a [new report](https://docs.house.gov/meetings/IG/IG00/20260831/119513/HRPT-119-1.pdf) the technology could be leveraged by terrorists or adversaries to develop more dangerous weapons and plot more deadly attacks.</description>
     </item>
     <item>
-      <title>Chatbots got safer but will still role-play self-harm with users</title>
-      <link>https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/</guid>
-      <description>ChatGPT and other artificial intelligence chatbots have become less likely to encourage suicidal thoughts but will still engage in potentially harmful conversations and reinforce apparently delusional behavior, a new study found.
+      <title>Own a gun? Go to church? Do yoga? AI can find out in seconds.</title>
+      <link>https://www.politico.com/news/2026/09/01/wake-up-call-for-congress-lawmakers-get-a-big-brother-warning-on-ai-01054087</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/01/wake-up-call-for-congress-lawmakers-get-a-big-brother-warning-on-ai-01054087</guid>
+      <description># Own a gun? Go to church? Do yoga? AI can find out in seconds.
+A series of demos on the Hill has both Democrats and Republicans alarmed about artificial intelligence’s ability to plumb commercial databases for information on Americans.
 
-He writes about artificial intelligence and its rapidly-increasing impact on our society.</description>
-    </item>
-    <item>
-      <title>AI expert analyzes Bill Gates’ essay on dangers of artificial intelligence</title>
-      <link>https://www.news4jax.com/tech/2026/08/31/ai-expert-analyzes-bill-gates-essay-on-dangers-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.news4jax.com/tech/2026/08/31/ai-expert-analyzes-bill-gates-essay-on-dangers-of-artificial-intelligence/</guid>
-      <description>Hod Lipson, an author and researcher from Columbia University who works in the areas of artificial intelligence and robotics,...</description>
-    </item>
-    <item>
-      <title>Treasury offers Chalmers an AI productivity prize — with strings attached</title>
-      <link>https://www.politico.com/news/2026/08/31/treasury-offers-chalmers-an-ai-productivity-prize-with-strings-attached-01056908</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/08/31/treasury-offers-chalmers-an-ai-productivity-prize-with-strings-attached-01056908</guid>
-      <description># Treasury offers Chalmers an AI productivity prize — with strings attached
 ## Share
-CANBERRA — Treasury has identified artificial intelligence as the first credible accelerator of global productivity growth in almost two decades, giving Treasurer Jim Chalmers a potential economic dividend to build into next month’s [Intergenerational Report](https://treasury.gov.au/intergenerational-report).
-
-The Treasury paper is official advice to Chalmers and will underpin a substantial part of an artificial intelligence chapter in Chalmers’ upcoming intergenerational report.</description>
+Republicans and Democrats across Capitol Hill are getting a glimpse of artificial intelligence’s latest power: its ability to churn out instant dossiers filled with details about ordinary Americans, from a gun store owner’s leaked email passwords to a church member’s yoga workouts to people’s visits to abortion clinics.</description>
     </item>
     <item>
-      <title>Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.</title>
-      <link>https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/08/30/not-nvidia-not-amd-this-semiconductor-giant-will/</guid>
-      <description>Predicting which company will be the ultimate winner in artificial intelligence (AI) isn't easy. One may say it will be the AI companies...</description>
+      <title>Bill Gates and Silicon Valley congressman latest to endorse pope's AI encyclical</title>
+      <link>https://www.ncronline.org/vatican/vatican-news/bill-gates-and-silicon-valley-congressman-latest-endorse-popes-ai-encyclical</link>
+      <guid isPermaLink="true">https://www.ncronline.org/vatican/vatican-news/bill-gates-and-silicon-valley-congressman-latest-endorse-popes-ai-encyclical</guid>
+      <description>![Microsoft co-founder Bill Gates arrives for a closed-door gathering of leading tech CEOs to discuss artificial intelligence and how it should be regulated, at Capitol Hill in Washington on Sept. 13, 2023. (AP/Jacquelyn Martin)](https://www.ncronline.org/files/2026-08/Senate_Artificial_Intelligence_23256528130677%20RESIZE.jpg)
+
+Microsoft co-founder Bill Gates arrives for a closed-door gathering of leading tech CEOs to discuss artificial intelligence and how it should be regulated, at Capitol Hill in Washington on Sept.
+
+### [Join the Conversation](https://www.ncronline.org/join-conversation)
+Shortly after the release of Pope Leo XIV's landmark encyclical on artificial intelligence, _Magnifica Humanitas_, a leading AI expert expressed skepticism over the document's ability to effect concrete change around regulation of the tech industry.
+
+Elham Tabassi, director of the Brookings Institution's Artificial Intelligence and Emerging Technology Initiative, [said](https://www.brookings.edu/articles/understanding-pope-leos-ai-encyclical/?utm_source=chatgpt.com) on the encyclical: "I don't think that this is going to be a driver for any sort of legislation or anything," though she maintained that the document could still influence important conversations around AI.
+
+"Artificial intelligence should strengthen human judgment, creativity, and wisdom, not seek to replace them."</description>
     </item>
     <item>
-      <title>Liminal Junctions: Spiritual Yearnings and the Pharmakon of Artificial Intelligence</title>
-      <link>https://churchlifejournal.nd.edu/articles/liminal-junctions-spiritual-yearnings-and-the-pharmakon-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://churchlifejournal.nd.edu/articles/liminal-junctions-spiritual-yearnings-and-the-pharmakon-of-artificial-intelligence/</guid>
-      <description>After the second World War, and in the wake of medical atrocities that occurred in Nazi Germany, medical research exploded in volume but...</description>
+      <title>AI could cause global economic downturn, Andrew Bailey warns G20</title>
+      <link>https://www.bbc.com/news/articles/c99dym3prl1o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c99dym3prl1o</guid>
+      <description># AI could cause global economic downturn, Andrew Bailey warns G20
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment</title>
-      <link>https://www.facultyfocus.com/articles/educational-assessment/artificial-intelligence-as-a-pedagogical-tool-in-higher-education-enhancing-reflection-and-formative-assessment/</link>
-      <guid isPermaLink="true">https://www.facultyfocus.com/articles/educational-assessment/artificial-intelligence-as-a-pedagogical-tool-in-higher-education-enhancing-reflection-and-formative-assessment/</guid>
-      <description># Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment
-## Gallery Walk
-### Collaboration
-AI-powered speech-to-text and summarization tools can support accessibility and deepen understanding.
-
-## Conclusion
-A review of artificial intelligence (AI) in education from 2010 to 2020.
-
-[artificial intelligence](https://www.facultyfocus.com/tag/artificial-intelligence/) [collaboration](https://www.facultyfocus.com/tag/collaboration/) [formative assessment](https://www.facultyfocus.com/tag/formative-assessment/) [metacognition](https://www.facultyfocus.com/tag/metacognition/) [pedagogy](https://www.facultyfocus.com/tag/pedagogy/) [reflection](https://www.facultyfocus.com/tag/reflection/) [student learning](https://www.facultyfocus.com/tag/student-learning/) [teaching with technology](https://www.facultyfocus.com/tag/teaching-with-technology/)</description>
+      <title>Trusteeship in the Age of Artificial Intelligence: The Value of Judgement</title>
+      <link>https://www.teneo.com/insights/articles/trusteeship-in-the-age-of-artificial-intelligence-the-value-of-judgement/</link>
+      <guid isPermaLink="true">https://www.teneo.com/insights/articles/trusteeship-in-the-age-of-artificial-intelligence-the-value-of-judgement/</guid>
+      <description>As AI reshapes professional services, trustees face growing pressure to improve efficiency, responsiveness and access to information without...</description>
     </item>
     <item>
-      <title>Senior News Tackles ‘Artificial Intelligence’</title>
-      <link>https://kymkemp.com/2026/08/30/senior-news-tackles-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://kymkemp.com/2026/08/30/senior-news-tackles-artificial-intelligence/</guid>
-      <description># Senior News Tackles ‘Artificial Intelligence’
-[![](https://kymkemp.com/wp-content/uploads/2026/08/SN-Aug2026-AI-P1thumb-300x290.png)](https://humsenior-ca.newsmemory.com/)
+      <title>PartsSource Names Nick Marzotto to Lead Artificial Intelligence Strategy</title>
+      <link>https://www.prnewswire.com/news-releases/partssource-names-nick-marzotto-to-lead-artificial-intelligence-strategy-302865394.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/partssource-names-nick-marzotto-to-lead-artificial-intelligence-strategy-302865394.html</guid>
+      <description>[![Nick Marzotto, Vice President of AI and Data at PartsSource, will lead the company’s artificial intelligence strategy and help accelerate investments in data, AI and enterprise healthcare technology. Marzotto joins PartsSource after 15 years at Epic Systems.](https://mmx.prnewswire.com/media/MS1977729/Nick-Marzotto.jpg?id=OA2918527&amp;w=500)](https://www.prnewswire.com/news-releases/partssource-names-nick-marzotto-to-lead-artificial-intelligence-strategy-302865394.html#)
 
-In an impressive display of serendipity, on the same day that billionaire Microsoft founder Bill Gates released an essay expressing his change of heart about AI, Senior News published a special issue on the challenges of the burgeoning and invasive technology.
+Nick Marzotto, Vice President of AI and Data at PartsSource, will lead the company’s artificial intelligence strategy and help accelerate investments in data, AI and enterprise healthcare technology.
 
-White’s question when he first saw television demonstrated in 1938, and it is the central question of the September issue of Senior News, “Artificial Intelligence.” Some 32 Humboldters and many AI experts and users weigh in as the free monthly community newspaper, a program of the Humboldt Senior Resource Center, hits the streets.
+Marzotto comes to PartsSource after 15 years at Epic Systems, the leading electronic health record (EHR) company, where his leadership experience bridged artificial intelligence, clinical applications, product strategy and large-scale health system technology implementations.
 
-In a completely uncoordinated development, philanthropist Bill Gates makes a similar confession in the Washington Post on Wednesday. A former “AI optimist,” Gates now “says he is worried that AI could do more harm than good.”
-
-“AI affects — or disrupts — our daily lives in dozens or hundreds of ways that we mostly don’t even notice,” Pease said. “From Flock cameras to the music that plays for you on your phone and in your car, from your texts and email to doctor visits and the environmental and global economy — artificial intelligence is here and growing. Everyone needs a better understanding of AI so that we can be using it, rather than the other way around.”
-
-12.
-
-12.
-
-When you login the first time using a Social Login button, we collect your account's public profile information shared by the Social Login provider, based on your privacy settings. We also get your email address to automatically create an account for you in our website. Once your account is created, you'll be logged-in to this account.
-
-![guest](https://secure.gravatar.com/avatar/f2ec596f322fd72e1c9febcfa7733155d7ce1615ce47bfbe3b4a535959a6cd83?s=56&amp;d=blank&amp;r=g)
-
-{}[+]
-
-reCAPTCHA
-
-reCAPTCHA
-
-Δ
-
-When you login the first time using a Social Login button, we collect your account's public profile information shared by the Social Login provider, based on your privacy settings. We also get your email address to automatically create an account for you in our website. Once your account is created, you'll be logged-in to this account.
-
-![guest](https://secure.gravatar.com/avatar/8d8cc64b6e9c8031844cc26e18cb8a62dc1eca5d6ced2ab3441829637f0cded5?s=56&amp;d=blank&amp;r=g)
-
-{}[+]
-
-Δ
-
-Insert
-
-reCAPTCHA</description>
-    </item>
-    <item>
-      <title>CMU Researchers Envision Humans and AI as Teammates</title>
-      <link>https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-envision-humans-and-ai-as-teammates</link>
-      <guid isPermaLink="true">https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-envision-humans-and-ai-as-teammates</guid>
-      <description># CMU Researchers Envision Humans and AI as Teammates
-As artificial intelligence moves deeper into workplaces, healthcare and everyday decision-making, Carnegie Mellon University researchers are exploring how AI can help people make better decisions while preserving the judgment, expertise and accountability that humans bring.</description>
-    </item>
-    <item>
-      <title>Batteries Plus Unveils Proprietary Artificial Intelligence Platform to Support Franchise Growth, Amplify Store Experience</title>
-      <link>https://www.prnewswire.com/news-releases/batteries-plus-unveils-proprietary-artificial-intelligence-platform-to-support-franchise-growth-amplify-store-experience-302865023.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/batteries-plus-unveils-proprietary-artificial-intelligence-platform-to-support-franchise-growth-amplify-store-experience-302865023.html</guid>
-      <description>31, 2026 /PRNewswire/ -- [**Batteries Plus**](https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763716-1&amp;h=1794979025&amp;u=https%3A%2F%2Fwww.batteriesplusfranchise.com%2F%3Futm_source%3Dpressrelease%26utm_campaign%3Djan20242023wrapup&amp;a=Batteries+Plus), the nation's leading battery and power solutions service center, is proud to unveil its latest technology innovation: a **platform of Artificial Intelligence (AI) tools** designed to strengthen the brand's franchise development pipeline while enhancing the store experience for associates and customers alike.
-
-- **Edison**: An AI voice assistant that ensures no call goes unanswered
+As Epic's Vice President of Clinical Applications and Artificial Intelligence since 2020, Marzotto led enterprise initiatives to operationalize generative AI, bringing more than 50 product teams together around common approaches to AI development and adoption.
 
 ## Explore
 [![Artificial Intelligence](https://www.prnewswire.com/content/dam/prnewswire/subject-and-industry-code-images/AFI.jpg)](https://www.prnewswire.com/news-releases/consumer-technology-latest-news/artificial-intelligence-list/)
@@ -170,60 +118,115 @@ As artificial intelligence moves deeper into workplaces, healthcare and everyday
 [Artificial Intelligence](https://www.prnewswire.com/news-releases/consumer-technology-latest-news/artificial-intelligence-list/)</description>
     </item>
     <item>
-      <title>Majority Of Pastors Wary Of Artificial Intelligence To Interpret Scripture, But Still Use Technology</title>
-      <link>https://religionunplugged.com/news/2026/8/31/pastors-wary-of-ai-interpreting-scripture-but-still-use-technology-study-finds</link>
-      <guid isPermaLink="true">https://religionunplugged.com/news/2026/8/31/pastors-wary-of-ai-interpreting-scripture-but-still-use-technology-study-finds</guid>
-      <description># Most Pastors Wary Of AI To Interpret Scripture, But Still Use Technology
-[Protestant pastors register the greatest distrust in artificial intelligence interpreting “contested” Scriptures, Barna said in its latest State of the Church release in partnership with Gloo, but few pastors would abandon the technology altogether.\
-\
-Only 5 percent of pastors reject AI as a tool to interpret difficult passages, researchers said Aug. 25, and only 10 percent want AI to proclaim which interpretation is correct. Rather most pastors, 60 percent, want AI to explain all major interpretations and highlight the differences among them without choosing which is correct.\
-\
-Weighing various interpretations is common among pastors, Barna Vice President of Research Daniel Copeland told Baptist Press.\
-\
-“Pastors, especially those with seminary or biblical training, are trained to weigh competing sources, commentaries and interpretations of Scripture’s meaning and application,” Copeland said. “All of them already carry the risk of potential bias or blind spots. AI introduces a steep learning curve and genuinely new challenges, but many of the obstacles are the same ones pastors are already trained to face.”\
-\
-Specifically, 94 percent of pastors expressed concern about AI’s scriptural interpretations, researchers said, outpacing concern expressed by 83 percent of practicing Christians, 77 percent of non-practicing Christians, and 74 percent of the general U.S. adult population.\
-\
-Equal portions of practicing and non-practicing Christians, 26 percent, trust AI to decide which scriptural interpretation is best or correct.\
-\
-While pastors are cognizant of various interpretations, the use of AI to interpret Scripture still raises concerns, Copeland said.\
-\
-“The risks are clear and real. If thousands of pastors habitually lean on the same AI tools for preaching, counseling, and discernment, we risk converging on the same quick, easy answers,” Copeland said. “Over time, that thins the diversity of discernment and depth of care that ministry depends on.\
-\
-“That’s antithetical to ministry,” he said, “which is meant to be the human place where we sit with hard questions. I say this with great empathy because it doesn’t happen intentionally; it’s the consequence of a ministry culture that has become concerningly demanding.”\
-\
-Gloo has responded to the changing ministry culture by creating safeguards when using AI in faith contexts, said Brad Hill, Gloo’s chief partner success officer.\
-\
-“The call to pastors right now is this: Choose tools that are aligned to God’s word, and actively teach discernment to the people you shepherd. They won’t always have you over their shoulder to steer them to the correct AI interpretation of Scripture.” Hill told Baptist Press.\
-\
-Findings were drawn from two surveys conducted among the general adult population, Christians and senior Protestant pastors in November and December 2025. The study group included quotas to include proper representation by church size, denomination and region. Just over 1,500 adults were surveyed in November, followed by 442 pastors in December.\
-\
-No specific Scriptures were identified as difficult in questions researchers posed, but questions broadly referenced “contested” Scripture.](https://religionunplugged.com/partners-1)</description>
+      <title>The Faceless War: How Artificial Intelligence Rewrote the Map of Power</title>
+      <link>https://smallwarsjournal.com/2026/09/01/faceless-war-ai-military-power/</link>
+      <guid isPermaLink="true">https://smallwarsjournal.com/2026/09/01/faceless-war-ai-military-power/</guid>
+      <description># The Faceless War: How Artificial Intelligence Rewrote the Map of Power
+### **The New Infrastructure of Power**
+Palantir, founded in 2003 with early funding from the Central Intelligence Agency’s venture arm In-Q-Tel, operates the Maven Smart System, which processes drone and sensor data for targeting decisions.</description>
     </item>
     <item>
-      <title>Tech Days of Fall 2026 series boosts information technology, artificial intelligence, cybersecurity career pathways</title>
-      <link>https://bigislandnow.com/2026/08/30/tech-days-of-fall-2026-series-boosts-information-technology-artificial-intelligence-cybersecurity-career-pathways/</link>
-      <guid isPermaLink="true">https://bigislandnow.com/2026/08/30/tech-days-of-fall-2026-series-boosts-information-technology-artificial-intelligence-cybersecurity-career-pathways/</guid>
-      <description>The series of free events aims to increase awareness about and enhance Hawaiʻi's skilled technology workforce and increasing demand for...</description>
+      <title>‘It’s all about the tension’: Upcoming artificial intelligence summit to explore uncomfortable issues</title>
+      <link>https://www.post-gazette.com/business/tech-news/2026/09/01/ai-horizons-waymo-ai-gecko-shapiro/stories/202608310037</link>
+      <guid isPermaLink="true">https://www.post-gazette.com/business/tech-news/2026/09/01/ai-horizons-waymo-ai-gecko-shapiro/stories/202608310037</guid>
+      <description># 'It’s all about the tension'; Upcoming artificial intelligence summit to explore uncomfortable issues
+Artificial intelligence has shaken up the status quo, stirring up questions both logistical and existential — and Pittsburgh’s third annual AI Horizons summit promises to tackle those questions head on.
+
+One session will tackle how to make Pittsburgh an AI-powered city, from its decision-making to its infrastructure, putting Jumbi Edulbehram, head of Global Business Development, Smart Cities and Spaces at NVIDIA in conversation with Pittsburgh Mayor Corey O’Connor.
+
+On day two, students and teachers will help launch a new initiative called Pennsylvania Creates which aims to make the next generation not mere consumers, but creators and honers of AI.
+
+AI Horizons is not only to brainstorm how to thrive through AI, “future-proof” our economy and encourage corporations to leverage the city’s talent, Doven said.</description>
     </item>
     <item>
-      <title>Jobs Artificial Intelligence Will Not Be Able to Replace for Now</title>
-      <link>https://colombiaone.com/2026/08/31/jobs-articial-intelligence-not-replace-yet/</link>
-      <guid isPermaLink="true">https://colombiaone.com/2026/08/31/jobs-articial-intelligence-not-replace-yet/</guid>
-      <description>Artificial intelligence is transforming the labor market at a pace that would have seemed unlikely just a few years ago.</description>
+      <title>Artificial Intelligence for Clinical Decision Support in Internal Medicine: A Systematic Review</title>
+      <link>https://www.cureus.com/articles/528361-artificial-intelligence-for-clinical-decision-support-in-internal-medicine-a-systematic-review</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/528361-artificial-intelligence-for-clinical-decision-support-in-internal-medicine-a-systematic-review</guid>
+      <description>Artificial intelligence (AI) models perform well on retrospective internal medicine datasets, but few have been deployed prospectively as...</description>
     </item>
     <item>
-      <title>The data AI needs most is the data we protect most closely</title>
-      <link>https://www.weforum.org/stories/artificial-intelligence/privacy-enhancing-technologies-data-privacy-ai/</link>
-      <guid isPermaLink="true">https://www.weforum.org/stories/artificial-intelligence/privacy-enhancing-technologies-data-privacy-ai/</guid>
-      <description>The best data for AI is also the most sensitive. Privacy-enhancing technologies let organizations learn from real data without sharing or...</description>
+      <title>Why tech needs a new kind of English major</title>
+      <link>https://www.infoworld.com/article/4215481/why-tech-needs-a-new-kind-of-english-major.html</link>
+      <guid isPermaLink="true">https://www.infoworld.com/article/4215481/why-tech-needs-a-new-kind-of-english-major.html</guid>
+      <description>## Topics
+2. [Artificial Intelligence](https://www.infoworld.com/artificial-intelligence/)
+
+# Why tech needs a new kind of English major
+I’m not against [artificial intelligence](https://www.infoworld.com/article/4061121/a-brief-history-of-ai.html) or special effects.
+
+## A deck isn’t sales enablement
+[Artificial Intelligence](https://www.infoworld.com/artificial-intelligence/)[Generative AI](https://www.infoworld.com/generative-ai/)[Emerging Technology](https://www.infoworld.com/emerging-technology/)[Technology Industry](https://www.infoworld.com/technology-business/)</description>
     </item>
     <item>
-      <title>People &amp; Profit - Artificial Intelligence in Europe: does advanced AI have a glass ceiling?</title>
-      <link>https://www.france24.com/en/tv-shows/people-profit/20260831-artificial-intelligence-in-europe-does-advanced-ai-have-a-glass-ceiling</link>
-      <guid isPermaLink="true">https://www.france24.com/en/tv-shows/people-profit/20260831-artificial-intelligence-in-europe-does-advanced-ai-have-a-glass-ceiling</guid>
-      <description># Artificial intelligence in Europe: Does advanced AI have a glass ceiling?
-- [Artificial intelligence](https://www.france24.com/en/tag/artificial-intelligence/)</description>
+      <title>AI minor introduces students to a ‘helpful teammate’</title>
+      <link>https://www.unc.edu/posts/2026/09/01/ai-minor-introduces-students-to-a-helpful-teammate/</link>
+      <guid isPermaLink="true">https://www.unc.edu/posts/2026/09/01/ai-minor-introduces-students-to-a-helpful-teammate/</guid>
+      <description>Run by the [UNC School of Data and Information Sciences](https://sdis.unc.edu/), the artificial intelligence minor is primarily intended for students from outside computing disciplines who want to develop proficiency in and a deeper understanding of AI and its impact on their careers.
+
+[Rei Sanchez-Arias](https://sdis.unc.edu/person/rei-sanchez-arias/), SDIS teaching associate professor and associate dean for academic affairs, helped create the [15-credit-hour minor](https://catalog.unc.edu/undergraduate/programs-study/artificial-intelligence-minor/#requirementstext) and teaches DATA 117: AI Unlocked for Curious Minds, one of three required courses.
+
+It’s a tool,” Ahalt said of AI.
+
+## AI at Carolina
+- 
+  - [![Magnus Egerstedt sitting and speaking an at an AI conference.](https://www.unc.edu/wp-content/uploads/2026/07/HERO-Provost.jpg)](https://www.unc.edu/posts/2026/07/13/provost-column-what-is-liberal-arts-engineering/) Magnus Egerstedt believes Carolina is poised to lead in this field focused on harnessing artificial intelligence to serve humanity.</description>
+    </item>
+    <item>
+      <title>Ancestral vs. artificial intelligence</title>
+      <link>https://pcusa.org/news-storytelling/news/2026/8/31/ancestral-vs-artificial-intelligence</link>
+      <guid isPermaLink="true">https://pcusa.org/news-storytelling/news/2026/8/31/ancestral-vs-artificial-intelligence</guid>
+      <description># Ancestral vs. artificial intelligence
+NASHVILLE, Tennessee — “I believe in AI,” the Rev.
+
+Over four days, participants would explore artificial intelligence and how it helps or hinders ministry and human agency.
+
+Asked whether there was any form of artificial intelligence he would support, Kernell drew a sharp distinction between generative AI and what he called ancestral wisdom.
+
+[Artificial Intelligence,](https://pcusa.org/search?topics=Artificial%20Intelligence#news) [Indigenous Peoples,](https://pcusa.org/search?topics=Indigenous%20Peoples#news) [Ecumenical and Interreligious,](https://pcusa.org/search?topics=Ecumenical%20and%20Interreligious#news) [Technology,](https://pcusa.org/search?topics=Technology#news) [Partnering with Other Faiths](https://pcusa.org/search?topics=Partnering%20with%20Other%20Faiths#news)
+
+## Related Stories
+Artificial Intelligence</description>
+    </item>
+    <item>
+      <title>Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®</title>
+      <link>https://sg.finance.yahoo.com/news/worthware-systems-international-inc-announces-140500416.html</link>
+      <guid isPermaLink="true">https://sg.finance.yahoo.com/news/worthware-systems-international-inc-announces-140500416.html</guid>
+      <description># Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®
+CNW Group
+
+**CellSell** **®** **AI represents the next evolution of CellSell** **®** **business intelligence—bringing AI to the data, not the data to AI.**
+
+OTTAWA, ON, Sept. 1, 2026 /CNW/ -- Worthware Systems International Inc., developer of CellSell® ( [[https://www.cellsell.com](https://www.cellsell.com)](https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760511-1&amp;h=1869600660&amp;u=https%3A%2F%2Fwww.cellsell.com%2F&amp;a=https%3A%2F%2Fwww.cellsell.com)), the ERP platform purpose-built for wireless and telecom retailers and carrier-authorized dealers, today announced CellSell® AI, a new capability that integrates artificial intelligence directly into the operational core of CellSell®.
+
+[![CellSell® AI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://s.yimg.com/lo/mysterio/api/d1981aa3ae7f98453a00fcd57d8fc54481aa294a971023e32f1afb32faff61b2/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2Fdd7a940b3d22c4b11e4d1e2e12a3aa87.jpg)
+
+CellSell® AI
+
+CellSell® AI enables retailers and carrier-authorized dealers to use **natural-language questions to analyze their business data directly within CellSell** **®** **—without exporting data to a separate AI application or workflow.** Authorized users can ask questions about sales, inventory, activations, accounting, and other business information using everyday language and receive AI-powered analysis directly within CellSell®.
+
+This architecture allows AI-powered analysis to operate within CellSell®, where business logic, operational workflows, and financial controls already reside.
+
+CellSell® AI supports Bring-Your-Own-Key (BYOK) and Choose-Your-Own-Model (CYOM), giving businesses control over their account with a Worthware-supported AI provider and their preferred AI model without leaving CellSell®.
+
+AI-powered analysis and decision support are delivered directly within CellSell®—without requiring businesses to extract data, build external AI pipelines, or move workflows to a separate AI platform.
+
+**CellSell** **®** **AI is available now and is compatible with CellSell** **®** **Cloud, CellSell** **®** **Pro, and CellSell** **®** **HACI.**
+
+CellSell® delivers unified POS, recurring billing, inventory, service and repair management, paperless e-contracts, direct carrier integration for activations, omni-channel inventory, accrual-based real-time integrated accounting, artificial intelligence (AI), and more—all consolidated within a single enterprise-grade system.
+
+[![Cision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://s.yimg.com/lo/mysterio/api/eb11b00ae6f5a94082cbd4459f6abfc95b90d203504151bff0160de9ecb74fc4/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnwgroup.com%2Fe585a2ba39ae48bbbd9e243b1513212e.png)
+
+Cision</description>
+    </item>
+    <item>
+      <title>Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now</title>
+      <link>https://www.fool.com/investing/2026/09/01/nebius-vs-coreweave-which-is-the-better-artificial-intelligence-ai-infrastructure-stock-to-buy-right-now/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/09/01/nebius-vs-coreweave-which-is-the-better-artificial-intelligence-ai-infrastructure-stock-to-buy-right-now/</guid>
+      <description>## Key Points
+The demand for artificial intelligence (AI) data centers is exceeding supply, which isn't surprising, as major hyperscalers and AI companies are sitting on massive contractual backlogs that they need to fulfill.
+
+## Read Next
+[Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026](https://www.fool.com/investing/2026/08/22/billionaire-stephen-mandel-just-loaded-up-on-this/)</description>
     </item>
   </channel>
 </rss>
