@@ -5,8 +5,19 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:32:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI</title>
+      <link>https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know</guid>
+      <description># I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
+## **Not all screens are bad**
+But now, AI can finally provide high-quality personal tuition, tailoring the way material is taught to the unique strengths and weaknesses of each student, mimicking interactions with a human tutor but at a far lower cost.
+
+## **Imagination, imagination, imagination**
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
     <item>
       <title>‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?</title>
       <link>https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings</link>
@@ -20,109 +31,129 @@ He said countries around the world must “work together to prevent this nightma
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>US urged to consider military strikes to stop China achieving AGI first</title>
-      <link>https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first</link>
-      <guid isPermaLink="true">https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first</guid>
-      <description># US urged to consider military strikes to stop China achieving AGI first
-### Former White House staffer calls for espionage and cyber options as Washington prepares for a potential Chinese breakthrough
-![The US and China are competing for global leadership in artificial intelligence as the technology rapidly advances. Photo: Shutterstock](https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/09/04/3b8a11b2-e2f6-40c7-8367-9b3d7be4c694_63abf735.jpg?itok=YwwUgzhS&amp;v=1788473603)
+      <title>Education experts discuss decision to ban AI in New York City public schools for at least this year</title>
+      <link>https://www.cbsnews.com/newyork/news/new-york-city-public-schools-artificial-intelligence-david-banks-the-point/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/newyork/news/new-york-city-public-schools-artificial-intelligence-david-banks-the-point/</guid>
+      <description>New York City's decision to ban artificial intelligence [in public school classrooms until high school](https://www.cbsnews.com/newyork/news/ai-ban-nyc-public-schools/) has become a major talking point among parents, politicians and education experts.
 
-The United States should start preparing for scenarios where extreme measures must be taken to stop China from achieving [artificial general intelligence](https://www.scmp.com/tech/big-tech/article/3357525/how-deepseeks-landmark-funding-secures-liang-wenfengs-grip-chinas-ai-rivalry-heats?module=inline&amp;pgtype=article) (AGI), according to a former White House official, including state-backed espionage and military strikes on Chinese data centres.
+- [Artificial Intelligence](https://www.cbsnews.com/newyork/tag/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>Anthropic Said to Postpone IPO to Just Before Midterms</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/</guid>
+      <description>The artificial intelligence company had been expected to release its IPO prospectus as soon as this week, Reuters reported Friday (Sept.</description>
+    </item>
+    <item>
+      <title>AI data centers are transforming rural land markets — and fueling a backlash</title>
+      <link>https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html</guid>
+      <description>- Data centers are being built across the country as Wall Street invests billions in the computing buildout for artificial intelligence.
 
-# Trump envoy Daines visits Chinese AI, space firms to pave way for Xi summit in US
-## US bans imports of new Chinese robots and power inverters in latest tech crackdown
-[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=inline&amp;pgtype=article) and space exploration have emerged as critical battlegrounds, and AI is widely expected to be high on the agenda when Trump and Xi sit down later this month.</description>
+Nationwide, investments in computing power sparked by the new technology of artificial intelligence have set off a commercial land rush, sending property values soaring in unlikely and out-of-the-way places.</description>
+    </item>
+    <item>
+      <title>These teachers fight AI cheating with classes that force students to show they are learning</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai/</guid>
+      <description>Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove...</description>
+    </item>
+    <item>
+      <title>How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</title>
+      <link>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</guid>
+      <description>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company's subsidiary kept shipping Nvidia's...</description>
     </item>
     <item>
       <title>OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior</title>
       <link>https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/</link>
       <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/</guid>
-      <description></description>
+      <description>OpenAI said incidents including a swarm of its agents hijacking a German site and using it as a springboard for cheating and other rogue...</description>
     </item>
     <item>
-      <title>Why the Hugging Face Hack Should Make You Worry More About A.I.</title>
-      <link>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</guid>
-      <description></description>
+      <title>At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘</title>
+      <link>https://variety.com/2026/film/news/bill-gates-ai-controls-telluride-film-festival-2001-1236853326/</link>
+      <guid isPermaLink="true">https://variety.com/2026/film/news/bill-gates-ai-controls-telluride-film-festival-2001-1236853326/</guid>
+      <description># At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘
+## Related Stories
+### Popular on Variety
+Said Gates earlier in the panel, “The way these AI systems work, they’re gigantic statistical machines that certainly have some aspects that match how evolution created intelligence, leading up to the human brain.</description>
     </item>
     <item>
-      <title>OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns</title>
-      <link>https://gizmodo.com/openai-says-it-wants-to-create-a-standard-for-revealing-ai-alignment-meltdowns-2000807865</link>
-      <guid isPermaLink="true">https://gizmodo.com/openai-says-it-wants-to-create-a-standard-for-revealing-ai-alignment-meltdowns-2000807865</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+      <title>UBS demands new junior bankers show AI proficiency</title>
+      <link>https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1</guid>
+      <description># UBS demands new junior bankers show AI proficiency
+![](https://images.ft.com/v3/image/raw/ftcms%3A7c29fee4-6090-40b5-bba7-ec13fcde75f5?source=next-article&amp;fit=scale-down&amp;quality=highest&amp;width=1440&amp;dpr=1)UBS’s website states: ‘We are also embedding artificial intelligence across our operations to foster innovation’© Pascal Mora/Bloomberg
 
-# OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
+## Follow the topics in this article
+- [Artificial intelligence](https://www.ft.com/artificial-intelligence)
 
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Ece Yildirim](https://gizmodo.com/author/eceyildirim)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)</description>
+- [Artificial intelligence](https://www.ft.com/artificial-intelligence)</description>
     </item>
     <item>
-      <title>ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims/</guid>
-      <description>A swarm of artificial-intelligence “agents” created by ChatGPT-maker OpenAI commandeered a German-language website this year to leave messages for one another, according to a team of independent researchers who [released their findings](https://collusion.wiki/) Friday.</description>
+      <title>A Caution About Artificial Intelligence</title>
+      <link>https://journal.classiccars.com/2026/09/06/a-caution-about-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://journal.classiccars.com/2026/09/06/a-caution-about-artificial-intelligence/</guid>
+      <description>With the advent of artificial intelligence, the widespread use of social media, and a general lack of proper education, it’s getting harder and harder to tell when someone is accurately representing a vehicle for sale.
+
+Artificial intelligence may even be completely out of touch with things like rudimentary trim tag decoding.
+
+While artificial intelligence can certainly be a great resource for car enthusiasts (regarding do-it-yourself mechanical tasks, for example), it is a dangerous place to be looking around for information about vehicle specifics.
+
+[Acura](https://journal.classiccars.com/tag/acura) [Acura Integra](https://journal.classiccars.com/tag/acura-integra) [Artificial Intelligence](https://journal.classiccars.com/tag/artificial-intelligence) [Integra](https://journal.classiccars.com/tag/integra)</description>
     </item>
     <item>
-      <title>The best time to buy an iPhone may be right this minute</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/</guid>
-      <description>Whatever your favorite smartphone, it's going to cost more. Blame inflation driven by the AI boom.</description>
+      <title>UH launches free ‘AI for Hawaiʻi’ course for everyone</title>
+      <link>https://www.hawaii.edu/news/2026/09/06/free-ai-for-hawaii/</link>
+      <guid isPermaLink="true">https://www.hawaii.edu/news/2026/09/06/free-ai-for-hawaii/</guid>
+      <description>As artificial intelligence (AI) rapidly transforms the workforce and daily life, the University of Hawaiʻi is making AI education available to everyone with a new, free online course designed for the people of Hawaiʻi and beyond.
+
+Artificial Intelligence for Hawaiʻi is an open-access, self-paced course that provides foundational AI knowledge and practical skills while addressing responsible and ethical use through a Hawaiʻi lens.</description>
     </item>
     <item>
-      <title>Trump’s Embrace of AI Data Centers Adds to GOP’s Midterm Peril</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-05/trump-s-embrace-of-ai-data-centers-adds-to-gop-s-midterm-peril</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-05/trump-s-embrace-of-ai-data-centers-adds-to-gop-s-midterm-peril</guid>
-      <description>## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-President Donald Trump’s fervent support for artificial intelligence data centers has put him at odds with voters who increasingly oppose them and comes despite direct warnings that his stance threatens to deepen Republicans’ peril in the November midterm elections.</description>
+      <title>The Amazon Service Bezos Nicknamed “Artificial Artificial Intelligence” is Closing for Good</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/amazon-bezos-nicknamed-artificial-artificial-192119001.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/amazon-bezos-nicknamed-artificial-artificial-192119001.html</guid>
+      <description># The Amazon Service Bezos Nicknamed “Artificial Artificial Intelligence” is Closing for Good
+Fatima Gulzar
+
+Sun, September 6, 2026 at 8:21 PM GMT+14 min read
+
+- [AMZN \
+-0.15%](https://finance.yahoo.com/quote/AMZN/)
+
+CNBC reported that Amazon.com, Inc. (NASDAQ: [AMZN](https://finance.yahoo.com/quote/AMZN)) is shutting down Mechanical Turk, its 21-year-old crowdsourced work platform, effective September 30.
+
+Following an assessment, we've made the decision to close AWS Mechanical Turk." Launched in 2005, the platform matched businesses with workers who completed small digital jobs, known as Human Intelligence Tasks, that typically paid a few cents each, including data labeling, transcription, and surveys. Amazon founder Jeff Bezos famously called it "artificial artificial intelligence."
+
+At its peak, the platform served more than 500,000 workers, but CNBC reported the service had been in decline as competing data-labeling companies drew workers away.
+
+[![The Amazon Service Bezos Nicknamed "Artificial Artificial Intelligence" Is Closing for Good](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://s.yimg.com/lo/mysterio/api/9b4f4e17381f2966d895f674981c433f55cc32e9e9b725ef6b2870f3ca91e1ab/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F226ed9ed0936942adb97f3d56073e411.jpg)
+
+The Amazon Service Bezos Nicknamed "Artificial Artificial Intelligence" Is Closing for Good
+
+### **Bull Case**
+Amazon.com, Inc. Ending the service allows Amazon to redirect whatever engineering and support resources it still uses toward higher-priority businesses, including AWS's growing AI infrastructure and services.
+
+### **Bear Case**
+Amazon.com, Inc.
+
+Story Continues
+
+Companies such as Scale AI, Mercor and Prolific have built businesses around supplying human expertise and training data to AI developers, which allows them to capture demand that Mechanical Turk once served.
+
+Amazon also risks losing an opportunity to transform Mechanical Turk instead of abandoning it. By shutting down the service, Amazon gives up that potential avenue for participating directly in the growing market for human-generated AI data.</description>
     </item>
     <item>
-      <title>How AI is reshaping the U.S. Open for players and fans</title>
-      <link>https://www.cbsnews.com/news/us-open-ai-tennis-players-fans/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/us-open-ai-tennis-players-fans/</guid>
-      <description>On Tuesday night, when Coco Gauff faced off against Zeynep Sönmez of Turkey, AI-generated analysis trickled in through the U.S.
+      <title>Artificial intelligence at IMTS 2026</title>
+      <link>https://www.todaysmedicaldevelopments.com/news/artificial-intelligence-imts-2026/</link>
+      <guid isPermaLink="true">https://www.todaysmedicaldevelopments.com/news/artificial-intelligence-imts-2026/</guid>
+      <description># Artificial intelligence at IMTS 2026
+## Building the agentic factory
+By integrating intelligent AI agents, digital twins, and physical AI technologies across their operations, manufacturers can seamlessly bridge virtual simulation with real-world execution.
 
-Open on Friday, uses AI to identify patterns in her opponents' serves before facing them in a match.
-
-- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)
-
-[U.S. Open embraces artificial intelligence, reshaping the tournament01:51](https://www.cbsnews.com/video/us-open-embraces-artificial-intelligence/)
-
-#### U.S. Open embraces artificial intelligence, reshaping the tournament
-(01:51)
-
-- [**FBI using AI to zero in on threats faster, deputy director says**\
-![ ](https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/3ea80b42-4138-47f0-82e5-47d1f7249884/thumbnail/96x96/1c8353b354f95714d2e34d1e272e17ce/gettyimages-2242446046.jpg#)](https://www.cbsnews.com/news/fbi-ai-identify-threats-faster-christopher-raia/?intcid=CNR-01-0623)
-- [**AI interviews rolling out for some federal hires, sources say**\
-![ ](https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/02/fcef39ea-8729-404e-b25c-3a502830c604/thumbnail/96x96/4535f0ded5dd98f4081cc0199a37585b/gettyimages-2197648687.jpg#)](https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?intcid=CNR-01-0623)
-
-View CBS News In
-
-CBS News App[Open](https://www.cbsnews.com/app/?ftag=CNM-16-10abd6g&amp;url=https://www.cbsnews.com/news/us-open-ai-tennis-players-fans/)
-
-ChromeSafari[Continue](https://www.cbsnews.com/news/us-open-ai-tennis-players-fans/#app)
-
-cbsi.demdex.net</description>
-    </item>
-    <item>
-      <title>AI-generated ads have come to Oakland politics. Accessible solution — or risky deception?</title>
-      <link>https://oaklandside.org/2026/09/04/political-campaigns-oakland-artificial-intelligence-pechenuk-grisham/</link>
-      <guid isPermaLink="true">https://oaklandside.org/2026/09/04/political-campaigns-oakland-artificial-intelligence-pechenuk-grisham/</guid>
-      <description>More than any other local candidate, Pechenuk has embraced artificial intelligence as a tool for political advertising this election cycle.
-
-[Experts say](https://www.brennancenter.org/our-work/research-reports/generative-ai-political-advertising) the increasing use of artificial intelligence to create campaign materials presents candidates and committees with opportunities and risks.
-
-## AI used in political graphics, videos, songs, and websites in Oakland
-Speaking with The Oaklandside, Robinson claimed he used artificial intelligence out of concern for the incumbent’s safety.
-
-## The AI industry is coming to Oakland — and not just in the form of political ads
-For Pechenuk, artificial intelligence is not only an advertising tool but also the product of an industry she’d want to attract as mayor.</description>
+“Global manufacturers are creating smarter factory ecosystems by using AI to integrate IT, OT, and ET systems during early product design and production through the end-to-end customer experience.”</description>
     </item>
     <item>
       <title>Designing physics experiments with artificial intelligence</title>
@@ -132,95 +163,11 @@ For Pechenuk, artificial intelligence is not only an advertising tool but also t
 142. Sourati, J. &amp; Evans, J. A. Accelerating science with human-aware artificial intelligence. _Nat. Hum. Behav._ **7**, 1682–1696 (2023). [Article](https://doi.org/10.1038%2Fs41562-023-01648-z) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37443269) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Accelerating%20science%20with%20human-aware%20artificial%20intelligence&amp;journal=Nat.%20Hum.%20Behav.&amp;doi=10.1038%2Fs41562-023-01648-z&amp;volume=7&amp;pages=1682-1696&amp;publication_year=2023&amp;author=Sourati%2CJ&amp;author=Evans%2CJA)</description>
     </item>
     <item>
-      <title>Man Pretends to Hallucinate in Job Interview With an AI Bot, Causing It to Go Haywire</title>
-      <link>https://futurism.com/artificial-intelligence/ai-job-interview-llm-prompt-hacking-haywire</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/ai-job-interview-llm-prompt-hacking-haywire</guid>
-      <description>An influencer's reel is going viral after he filmed his "interview" with an error-prone AI-generated screener.</description>
-    </item>
-    <item>
-      <title>Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GPT-6 Astra: A new generation of intelligence</title>
-      <link>https://openai.com/index/gpt-6-astra/</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-astra/</guid>
-      <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding,...</description>
-    </item>
-    <item>
-      <title>EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring</title>
-      <link>https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</guid>
-      <description>During the Hugging Face breach, OpenAI agents autonomously plotted a digital heist that ​went [undetected for more than a week](https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/), intensifying concerns OpenAI is [sacrificing safety](https://www.reuters.com/technology/artificial-intelligence/ai-firms-cant-yet-contain-what-theyve-built-study-finds-2026-08-19/) to push the AI frontier.
-
-## CHEATING, HIDING
-Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.</description>
-    </item>
-    <item>
-      <title>Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations</title>
-      <link>https://www.cureus.com/articles/522396-patient-attitudes-towards-ambient-artificial-intelligence-in-clinical-consultations</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/522396-patient-attitudes-towards-ambient-artificial-intelligence-in-clinical-consultations</guid>
-      <description>Background Ambient Artificial Intelligence (AI) technologies are increasingly being integrated into clinical practice to support...</description>
-    </item>
-    <item>
-      <title>With the rise of artificial intelligence use, is it ethical in modern education?</title>
-      <link>https://www.dailyhelmsman.com/article/11ti2kytofwr-20260905</link>
-      <guid isPermaLink="true">https://www.dailyhelmsman.com/article/11ti2kytofwr-20260905</guid>
-      <description># With the rise of artificial intelligence, experts weigh in its ethics debate
-![](https://snworksceo.imgix.net/dhm/b3c57c76-6183-40e0-86b0-8a75795daf32.sized-1000x1000.jpeg?format=auto&amp;w=1000&amp;fit=fill&amp;ar=4%3A3&amp;fill=blur&amp;dpr=2)
-
-Photo by
-
-By
-
-As artificial intelligence develops and generative AI programs such as Google Gemini and ChatGPT become widespread tools, professors have increasingly had to take firm stances on AI usage, whether in fields that encourage it or fields that condemn it entirely.
-
-"It has a lot of uses, especially for research, for aggregating content and data," said Dr. "It's very powerful and very useful."
-
-Alongside the claim of AI's usefulness, Hayden expressed a growing concern amongst AI skeptics, which is the ethics of using these AI programs—a few examples being ChatGPT, Claude, and Google Gemini—to generate images, text, or other media.
-
-If it has somebody's name on it, then that becomes a lie to the audience," Hayden said.
-
-The AI club's most clear goal is to become a community where students can connect and collaborate using artificial intelligence as a tool.
-
-The Tigers AI club had its first formal meeting on Aug.
-
-[![](https://snworksceo.imgix.net/dhm/96796634-e6a4-4c55-b64d-fc3a9d1d0f7c.sized-1000x1000.jpg?format=auto&amp;w=1000&amp;fit=fill&amp;ar=4%3A3&amp;fill=blur&amp;dpr=2)](https://www.dailyhelmsman.com/article/tigurs-garden-cultivates-community-on-campus-20260328)[TIGUrS Garden cultivates community on campus](https://www.dailyhelmsman.com/article/tigurs-garden-cultivates-community-on-campus-20260328)
-
-By
-
-3/27/2026
-
-[![](https://snworksceo.imgix.net/dhm/254e0572-92de-40ac-b587-4bc127407416.sized-1000x1000.jpg?format=auto&amp;w=1000&amp;fit=fill&amp;ar=4%3A3&amp;fill=blur&amp;dpr=2)](https://www.dailyhelmsman.com/article/opinion-the-university-of-memphis-puts-its-money-on-the-field-not-in-the-classroom-20260401)[Opinion: The University of Memphis puts its money on the field, not in the classroom](https://www.dailyhelmsman.com/article/opinion-the-university-of-memphis-puts-its-money-on-the-field-not-in-the-classroom-20260401)
-
-By
-
-4/1/2026
-
-By
-
-8/24/2026
-
-- 1
-
-like
-
-Powered by [SNworks](https://getsnworks.com/) - Solutions by SN Media.</description>
-    </item>
-    <item>
-      <title>Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings</title>
-      <link>https://www.fool.com/investing/2026/09/05/broadcom-vs-nvidia-1-critical-metric-shows-which-a/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/09/05/broadcom-vs-nvidia-1-critical-metric-shows-which-a/</guid>
-      <description>## Read Next
-[Broadcom's Artificial Intelligence (AI) Chip Sales Surged 221% to $16.7 Billion Last Quarter: Is the Stock a Screaming Buy Right Now?](https://www.fool.com/investing/2026/09/04/broadcoms-artificial-intelligence-ai-chip-sales-su/)</description>
-    </item>
-    <item>
-      <title>Armstrong Williams: The growing darkness of artificial intelligence | STAFF COMMENTARY</title>
-      <link>https://www.baltimoresun.com/2026/09/05/armstrong-williams-ai-dangers/</link>
-      <guid isPermaLink="true">https://www.baltimoresun.com/2026/09/05/armstrong-williams-ai-dangers/</guid>
-      <description>Opinion: The greatest danger will arrive when human beings are no longer managing AI but are instead being managed, manipulated and...</description>
+      <title>As new school year begins, districts deal with artificial intelligence</title>
+      <link>https://www.nny360.com/top_stories/as-new-school-year-begins-districts-deal-with-artificial-intelligence/article_8590e45b-75b6-5ade-b371-c81c8f63361d.html</link>
+      <guid isPermaLink="true">https://www.nny360.com/top_stories/as-new-school-year-begins-districts-deal-with-artificial-intelligence/article_8590e45b-75b6-5ade-b371-c81c8f63361d.html</guid>
+      <description>### Practices in NNY schools
+Generative AI (GenAI) is a type of artificial intelligence that creates new content — like text, images, music and code — based on patterns it learns from existing data.</description>
     </item>
     <item>
       <title>NSF establishes operations center for the National Artificial Intelligence Research Resource</title>
@@ -228,6 +175,25 @@ Powered by [SNworks](https://getsnworks.com/) - Solutions by SN Media.</descript
       <guid isPermaLink="true">https://www.nsf.gov/cise/updates/nsf-establishes-operations-center-national-artificial</guid>
       <description># NSF establishes operations center for the National Artificial Intelligence Research Resource
 National Science Foundation is establishing the NSF National Artificial Intelligence Research Resource Operations Center (NSF NAIRR-OC) to strengthen the nation's capacity for AI research and AI-enabled scientific discovery.</description>
+    </item>
+    <item>
+      <title>Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants</title>
+      <link>https://www.fool.com/coverage/charts/2026/09/06/arista-networks-vs-ibm-comparing-quarterly-revenue-trends-between-these-artificial-intelligence-giants/</link>
+      <guid isPermaLink="true">https://www.fool.com/coverage/charts/2026/09/06/arista-networks-vs-ibm-comparing-quarterly-revenue-trends-between-these-artificial-intelligence-giants/</guid>
+      <description>Arista has posted eight straight quarters of revenue gains, while IBM swings between peaks and valleys.</description>
+    </item>
+    <item>
+      <title>Where AI is changing jobs and what it means for real estate</title>
+      <link>https://www.jll.com/en-us/insights/artificial-intelligence-and-its-implications-for-real-estate</link>
+      <guid isPermaLink="true">https://www.jll.com/en-us/insights/artificial-intelligence-and-its-implications-for-real-estate</guid>
+      <description># Where AI is changing jobs and what it means for real estate
+- [Artificial intelligence](https://www.jll.com/en-us/search?topics=Artificial+intelligence)</description>
+    </item>
+    <item>
+      <title>CoreWeave $6 billion Lancaster data center</title>
+      <link>https://www.startuphub.ai/ai-news/artificial-intelligence/2026/coreweave-6-billion-lancaster-data-center</link>
+      <guid isPermaLink="true">https://www.startuphub.ai/ai-news/artificial-intelligence/2026/coreweave-6-billion-lancaster-data-center</guid>
+      <description>[Artificial Intelligence](https://www.startuphub.ai/category/artificial-intelligence)</description>
     </item>
   </channel>
 </rss>
