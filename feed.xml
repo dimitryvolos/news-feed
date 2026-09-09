@@ -5,198 +5,259 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:44:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI</title>
-      <link>https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know</guid>
-      <description># I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
-## **Not all screens are bad**
-But now, AI can finally provide high-quality personal tuition, tailoring the way material is taught to the unique strengths and weaknesses of each student, mimicking interactions with a human tutor but at a far lower cost.
-
-## At this dangerous time
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’</title>
+      <link>https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>Corporate America Is Getting Hooked on Open-Source A.I.</title>
-      <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</guid>
-      <description>Companies like AT&amp;T are increasingly using cheap, freely available artificial intelligence models over expensive ones from Anthropic and...</description>
-    </item>
-    <item>
-      <title>‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning</title>
-      <link>https://www.smh.com.au/technology/no-one-is-prepared-chatgpt-maker-s-top-scientist-sends-an-ai-warning-20260908-p60v9v.html</link>
-      <guid isPermaLink="true">https://www.smh.com.au/technology/no-one-is-prepared-chatgpt-maker-s-top-scientist-sends-an-ai-warning-20260908-p60v9v.html</guid>
-      <description>OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, and said he expects AI labs to voluntarily slow development for safety reasons.
+      <title>OpenAI says it cracked 90-year-old maths problem in 88 hours</title>
+      <link>https://www.bbc.com/news/articles/cy7zygy3rl2o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cy7zygy3rl2o</guid>
+      <description># OpenAI says it cracked 90-year-old maths problem in 88 hours
+OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.
 
-Nvidia CEO Jensen Huang posted on X that “AGI has arrived,” in response to the release of OpenAI’s latest model, a reference to artificial intelligence that is more capable than humans.
-
-Investors are flooding into recursive self-improvement, betting that this is the route to artificial intelligence that is truly human-like, or more impressive.
-
-- [AI](https://www.smh.com.au/topic/artificial-intelligence-5ui)</description>
-    </item>
-    <item>
-      <title>Breakingviews - COMMENTARY: How to make the world safer for AI</title>
-      <link>https://www.reuters.com/commentary/breakingviews/how-make-world-safer-ai-2026-09-07/</link>
-      <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/how-make-world-safer-ai-2026-09-07/</guid>
-      <description>### Why Breakingviews?
-Illustration shows words "Artificial Intelligence AI]([https://www.reuters.com/resizer/v2/IYE4NFC5SNPADBV5JSO3Z2RUGM.jpg?auth=5fdb7a5cb24e1a2816f9ecc0c378119184ab04b74f60b877634c5f4097aa772f&amp;width=1920&amp;quality=80](https://www.reuters.com/resizer/v2/IYE4NFC5SNPADBV5JSO3Z2RUGM.jpg?auth=5fdb7a5cb24e1a2816f9ecc0c378119184ab04b74f60b877634c5f4097aa772f&amp;width=1920&amp;quality=80))
-
-TINOS, Greece, Sept 7 (Reuters Breakingviews) - Artificial intelligence may already be running out of control.</description>
-    </item>
-    <item>
-      <title>Exclusive: Ineffable Intelligence adds 6 "cofounders," hiring from Google DeepMind and InstaDeep</title>
-      <link>https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish/</link>
-      <guid isPermaLink="true">https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish/</guid>
-      <description># Exclusive: Ineffable Intelligence adds six ‘cofounders,’ hiring veterans from Google DeepMind, InstaDeep and venture firm Flying Fish
-Ineffable is one of the so-called “neolabs”—the next generation of frontier AI companies that have been launched in the past two years, many started by veterans of the three older generation of companies whose goal was the creation of advanced artificial intelligence: Google DeepMind, OpenAI, and Anthropic.
-
-## Subscribe to Fortune today for unlimited access
-Jeremy Kahn is the AI editor at _Fortune_, spearheading the publication's coverage of artificial intelligence.</description>
-    </item>
-    <item>
-      <title>Victim loses £250k after scammers use AI video of 'well-known' celebrity</title>
-      <link>https://www.bbc.com/news/articles/cx2zkp8vx9jo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2zkp8vx9jo</guid>
-      <description># Victim loses £250k after scammers use AI video of 'well-known' celebrity
-They added that fraudsters could create "extremely convincing" advertisements, websites and communications, with artificial intelligence also being used to fabricate videos, voices and apparent endorsements.
+The ChatGPT-maker [said on Tuesday](https://openai.com/index/navier-stokes-solution/) that by focusing a group of roughly 10,000 AI agents, or AI bots that undertake tasks somewhat autonomously, it solved a notoriously difficult maths problem in just 88 hours.
 
 [Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>With AI Remarks, Deming Dismisses Integrity at Harvard</title>
-      <link>https://www.thecrimson.com/article/2026/9/7/chiocco-harvard-deming-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.thecrimson.com/article/2026/9/7/chiocco-harvard-deming-artificial-intelligence/</guid>
-      <description>In an email to undergraduates on Wednesday, Harvard College Dean David J. Deming shared his priorities for the coming year, including both...</description>
+      <title>AI may have just solved a million-dollar math problem. The field will never be the same</title>
+      <link>https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/</link>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/</guid>
+      <description># AI may have just solved a million-dollar math problem. The field will never be the same
+Artificial Intelligence
+
+In a development that crystallizes an existential shift in humankind’s oldest intellectual discipline, artificial intelligence has reportedly solved one of the six open [“million-dollar” problems](https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/) in mathematics.</description>
     </item>
     <item>
-      <title>It took 74 years, but this lifelong Luddite learned to stop worrying and love AI</title>
-      <link>https://www.sfchronicle.com/opinion/openforum/article/ai-work-aging-survival-of-the-fittest-22417771.php</link>
-      <guid isPermaLink="true">https://www.sfchronicle.com/opinion/openforum/article/ai-work-aging-survival-of-the-fittest-22417771.php</guid>
-      <description>Opinion: Communications expert Bob Brody has finally put aside his technophobia. Why? Darwin has the answer.</description>
+      <title>World in Brief: OpenAI claims to solve a maths mystery; Oil prices rise</title>
+      <link>https://www.economist.com/the-world-in-brief/2026/09/08/7dd97167-50d8-432c-86f9-1dfadeee0785</link>
+      <guid isPermaLink="true">https://www.economist.com/the-world-in-brief/2026/09/08/7dd97167-50d8-432c-86f9-1dfadeee0785</guid>
+      <description># World in Brief: OpenAI claims to solve a maths mystery; Oil prices rise
+**OpenAI** said it used an unreleased artificial intelligence model to crack one of **mathematics’** trickiest problems.</description>
     </item>
     <item>
-      <title>Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html</guid>
-      <description>Broadcom (NASDAQ: AVGO) and Nvidia (NASDAQ: NVDA) are two of the biggest names in the chipmaking business. While AMD is sometimes mentioned...</description>
+      <title>The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No</title>
+      <link>https://theintercept.com/2026/09/08/pentagon-openai-military-contract/</link>
+      <guid isPermaLink="true">https://theintercept.com/2026/09/08/pentagon-openai-military-contract/</guid>
+      <description>The Department of Defense asked OpenAI to provide the U.S. military with a special version of its artificial intelligence technology designed to turn down the military commands as infrequently as possible, according to documents obtained by The Intercept.</description>
     </item>
     <item>
-      <title>OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-6-astra-model-autonomously-completes-portal-in-24-hours-feat-cost-just-usd571-in-tokens</guid>
-      <description>Astra had to map 3D game spaces and understand the puzzles before it could plan solutions and succeed.</description>
+      <title>How one hedge-fund manager built his firm to be powered entirely by AI agents</title>
+      <link>https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html</guid>
+      <description>That’s because Kelly — who previously ran a cryptocurrency hedge fund — created his new trading firm, Bracket22, to be powered entirely by agentic artificial intelligence.
+
+Later that year, he began testing out uses of artificial intelligence.
+
+Brian Kelly founded Bracket22, a trading firm powered entirely by agentic AI.</description>
     </item>
     <item>
-      <title>Why New York City Is Restricting Artificial Intelligence in Public Schools</title>
-      <link>https://wnyc.org/browse/shows/episode/simplecast/f5794230-aa49-4b0e-8273-e9b26763c5a6</link>
-      <guid isPermaLink="true">https://wnyc.org/browse/shows/episode/simplecast/f5794230-aa49-4b0e-8273-e9b26763c5a6</guid>
-      <description>New York City is restricting AI across public schools, including a one year ban for students through eighth grade and new limits on screen...</description>
+      <title>Opinion | Why hiding is getting harder — even for the most vulnerable</title>
+      <link>https://www.washingtonpost.com/opinions/2026/09/08/artificial-intelligence-facial-recognition-threaten-anonymity/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/08/artificial-intelligence-facial-recognition-threaten-anonymity/</guid>
+      <description>You're reading Superintelligent, a newsletter about AI. Click here to get the full edition in your inbox. James Harkin is the director of...</description>
     </item>
     <item>
-      <title>Tough choices ahead as the US pushes a global artificial-intelligence divide</title>
-      <link>https://www.bruegel.org/first-glance/tough-choices-ahead-us-pushes-global-artificial-intelligence-divide</link>
-      <guid isPermaLink="true">https://www.bruegel.org/first-glance/tough-choices-ahead-us-pushes-global-artificial-intelligence-divide</guid>
-      <description>In December 2025, seven countries signed up to [Pax Silica](https://www.atlanticcouncil.org/dispatches/three-elements-trumps-pax-silica-needs-to-succeed/), a United States-led coalition intended to secure the supply chains underpinning artificial-intelligence technologies.
-
-China seeks to claim this ground through the World Artificial Intelligence Cooperation Organization ( [WAICO](https://thediplomat.com/2026/07/chinas-new-ai-club-the-world-artificial-intelligence-cooperation-organization/)): a Shanghai-based body pitched to the Global South, offering training, open models and a governance template.
-
-## Authors
-### [Alicia García-Herrero](https://www.bruegel.org/people/alicia-garcia-herrero)
-Keyword[artificial intelligence](https://www.bruegel.org/keyword/artificial-intelligence) [digital economy](https://www.bruegel.org/keyword/digital-economy) [geopolitics](https://www.bruegel.org/keyword/geopolitics) [technology](https://www.bruegel.org/keyword/technology) [trade policy](https://www.bruegel.org/keyword/trade-policy)
-
-### [Programmable sovereignty: coordinated specialisation as a response to the N-2 problem in artificial intelligence](https://www.bruegel.org/working-paper/programmable-sovereignty-coordinated-specialisation-response-n-2-problem-artificial)
-[artificial intelligence](https://www.bruegel.org/keyword/artificial-intelligence) [technology](https://www.bruegel.org/keyword/technology)</description>
+      <title>Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-just-bought-125001570.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-just-bought-125001570.html</guid>
+      <description>Billionaire David Tepper, the founder and president of the hedge fund Appaloosa Management, is particularly bullish on technology and...</description>
     </item>
     <item>
-      <title>Artificial Intelligence and Jesuit Formation</title>
-      <link>https://www.jesuits.global/2026/09/07/artificial-intelligence-and-jesuit-formation/</link>
-      <guid isPermaLink="true">https://www.jesuits.global/2026/09/07/artificial-intelligence-and-jesuit-formation/</guid>
-      <description>## Artificial Intelligence and Jesuit Formation
-Artificial Intelligence (AI) and other virtual technologies into Jesuit
+      <title>US accuses Chinese AI firms of 'malicious' copying of AI technology</title>
+      <link>https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/</link>
+      <guid isPermaLink="true">https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/</guid>
+      <description>WASHINGTON, Sept 8 (Reuters) - The U.S. government on Tuesday accused Chinese artificial intelligence companies of maliciously ​copying technology from American AI firms, potentially complicating relations ahead of a planned ‌meeting between leaders of the world's two biggest economies later this month.
 
-AI, especially Large Language Models (LLM’s) such as ChatGPT and Claude, have entered our world and rapidly transformed it. They are changing the way we think, write, create, learn, communicate, and They are forcing us to ask questions about what it means to be human,
-
-AI and virtual
-
-access to generative AI).
-
-from mines to data centres to smartphones.
-
-AI is not just an app on our phone - it is cobalt labellers, algorithms, smartphones and e-waste.
-
-capable of concept abstraction and seem to be developing character traits. They</description>
+"As major powers in artificial intelligence, China and the U.S. should strengthen cooperation."</description>
     </item>
     <item>
-      <title>Artificial Intelligence in Healthcare: How doctors at Mercy Hospital use it and protect patient information</title>
-      <link>https://www.ky3.com/video/2026/09/07/artificial-intelligence-healthcare-how-doctors-mercy-hospital-use-it-protect-patient-information/</link>
-      <guid isPermaLink="true">https://www.ky3.com/video/2026/09/07/artificial-intelligence-healthcare-how-doctors-mercy-hospital-use-it-protect-patient-information/</guid>
-      <description>Artificial Intelligence in Healthcare: How doctors at Mercy Hospital use it and protect patient information. Published: Sep.</description>
+      <title>OpenAI launches new Astra model with warning that it may attempt to evade human monitoring</title>
+      <link>https://www.cbsnews.com/video/openai-launches-new-astra-model-after-july-breach/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/openai-launches-new-astra-model-after-july-breach/</guid>
+      <description># OpenAI launches new Astra model with warning that it may attempt to evade human monitoring
+OpenAI has launched it's new artificial intelligence model, Astra.</description>
     </item>
     <item>
-      <title>Scientific literacy must keep pace with artificial intelligence</title>
-      <link>https://www.researchinformation.info/analysis-opinion/scientific-literacy-must-keep-pace-with-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.researchinformation.info/analysis-opinion/scientific-literacy-must-keep-pace-with-artificial-intelligence/</guid>
-      <description>## AI is making science easier to access but harder to trust. Scientific literacy must catch up, writes Giulia Stefenelli
-Artificial Intelligence (AI) can help explain that evidence, but does the explanation accurately reflect the research, and is the research itself reliable?</description>
+      <title>Alpha Chicago opens as first AI school in city without teachers; created by Mackenzie Price</title>
+      <link>https://abc7chicago.com/post/alpha-chicago-opens-first-ai-school-city-teachers-created-mackenzie-price/19805778/</link>
+      <guid isPermaLink="true">https://abc7chicago.com/post/alpha-chicago-opens-first-ai-school-city-teachers-created-mackenzie-price/19805778/</guid>
+      <description># Alpha Chicago opens as city's first AI, teacher-free school
+CHICAGO (WLS) -- Alpha opened the first school in Chicago that uses artificial intelligence and has no teachers on Tuesday.
+
+## Related Topics
+- [ARTIFICIAL INTELLIGENCE](https://abc7chicago.com/tag/artificial-intelligence/)</description>
     </item>
     <item>
-      <title>Saint-Gobain appoints Annica Hagen as Chief Artificial Intelligence Officer and accelerates AI deployment</title>
-      <link>https://www.saint-gobain.com/en/news/saint-gobain-appoints-annica-hagen-chief-artificial-intelligence-officer-and-accelerates-ai</link>
-      <guid isPermaLink="true">https://www.saint-gobain.com/en/news/saint-gobain-appoints-annica-hagen-chief-artificial-intelligence-officer-and-accelerates-ai</guid>
-      <description># Saint-Gobain appoints Annica Hagen as Chief Artificial Intelligence Officer and accelerates AI deployment
-09/07/2026
+      <title>Meta bets on AI agent Muse to catch up in AI race</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race</guid>
+      <description>- AI
 
-![Annica Hagen](https://www.saint-gobain.com/sites/saint-gobain.com/files/styles/wysiwyg_halfwidth/public/media/image/2026-09/Annica-Hagen.jpg?itok=TsrfE1Xr)
+# Meta bets on AI agent Muse to catch up in AI race
+Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone.
 
-Annica Hagen has been appointed Chief Artificial Intelligence Officer (CAIO) and member of the Group Executive Committee, effective September 1, 2026.
+## Add Verge on Google
+Most tools are indeed aimed at businesses or technically-minded individuals — notably OpenAI’s [ChatGPT Work](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work), Anthropic’s [Claude Cowork](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web), Microsoft’s [Copilot Tasks](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai), SpaceXAI’s [Grok Bot](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch), and the [viral open-source agent Moltbot](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent) — though Google does appear to be targeting a similar audience with its recently-announced [Gemini Spark](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning) assistant.
 
-In this newly created role, Annica Hagen will lead the Group’s AI ambitions in support of the strategic objectives of “Lead &amp; Grow”.
+## More in [AI](https://www.theverge.com/ai-artificial-intelligence)
+[ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
 
-She will oversee the structuring, prioritization and scaling up of existing local AI initiatives across countries and businesses.
+[AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
 
-This appointment illustrates Saint-Gobain’s ambition to position AI as a strategic enabler to accelerate sustainable growth, enhance innovation, optimize operations and improve value creation for customers, in line with the “Lead &amp; Grow” priorities.
+[Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
 
-Its integrated and innovative solutions provide sustainability, performance and well-being for its customers.
+[ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
 
-Patricia Marie     (+33) 1 88 54 26 83
+[AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
 
-Laure Bencheikh (+33) 1 88 54 26 38
-
-Yanice Biyogo     (+33) 1 88 54 27 96
-
-+33 1 88 54 00 00 • [[www.saint-gobain.com](http://www.saint-gobain.com)](https://www.saint-gobain.com/)</description>
+[Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)</description>
     </item>
     <item>
-      <title>Designing physics experiments with artificial intelligence</title>
-      <link>https://www.nature.com/articles/s41586-026-10898-6</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10898-6</guid>
-      <description>## References
-142. Sourati, J. &amp; Evans, J. A. Accelerating science with human-aware artificial intelligence. _Nat. Hum. Behav._ **7**, 1682–1696 (2023). [Article](https://doi.org/10.1038%2Fs41562-023-01648-z) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=37443269) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Accelerating%20science%20with%20human-aware%20artificial%20intelligence&amp;journal=Nat.%20Hum.%20Behav.&amp;doi=10.1038%2Fs41562-023-01648-z&amp;volume=7&amp;pages=1682-1696&amp;publication_year=2023&amp;author=Sourati%2CJ&amp;author=Evans%2CJA)</description>
+      <title>Global consultations on education in the age of AI</title>
+      <link>https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</link>
+      <guid isPermaLink="true">https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</guid>
+      <description>UNESCO is publishing a compilation of policy briefs, offering analytical tools and AI governance strategies, grounded in emerging evidence.</description>
     </item>
     <item>
-      <title>Cheap Tricks</title>
-      <link>https://www.commonwealmagazine.org/reynolds-ai-posters-susan-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.commonwealmagazine.org/reynolds-ai-posters-susan-artificial-intelligence</guid>
-      <description>AI is, in an obvious sense, a technology of the immediate. AI conjures images without backstories and pretends them into life.</description>
+      <title>Artificial Intelligence</title>
+      <link>https://abcnews.com/alerts/ArtificialIntelligence</link>
+      <guid isPermaLink="true">https://abcnews.com/alerts/ArtificialIntelligence</guid>
+      <description>How AI is affecting our kids. ABC News' Rebecca Jarvis has a first look at the new documentary “Screenagers: Generation AI,” which examines the...</description>
     </item>
     <item>
-      <title>Leading AI journalist gives free UH talk on artificial intelligence</title>
-      <link>https://www.hawaii.edu/news/2026/09/04/leading-ai-journalist-free-talk/</link>
-      <guid isPermaLink="true">https://www.hawaii.edu/news/2026/09/04/leading-ai-journalist-free-talk/</guid>
-      <description>![artificial intelligence graphic](https://www.hawaii.edu/news/wp-content/uploads/2025/11/system-ai-generic.jpg)
+      <title>HHS Announces Key Leadership Selections at FDA to Promote Innovation, Reform, and National Health Priorities</title>
+      <link>https://www.hhs.gov/press-room/hhs-announces-key-fda-leadership-selections.html</link>
+      <guid isPermaLink="true">https://www.hhs.gov/press-room/hhs-announces-key-fda-leadership-selections.html</guid>
+      <description>The U.S. Department of Health and Human Services today announced the selection of four senior leaders at the U.S. Food and Drug...</description>
+    </item>
+    <item>
+      <title>How DiDi built intelligent contact center QA with Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</guid>
+      <description># How DiDi built intelligent contact center QA with Amazon Bedrock
+## Evaluation pipeline: Dynamic assembly for multilingual, multi-business-line coverage
+```python
+import boto3
 
-![artificial intelligence graphic](https://www.hawaii.edu/news/wp-content/uploads/2025/11/system-ai-generic.jpg)</description>
+bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
+
+MODEL_ID = "&lt;your-bedrock-model-id&gt;"
+
+def build_output_schema(num_criteria):
+    """Derive the JSON schema from the checklist size — adding a new
+    compliance item requires only a config change, not a code change."""
+    criteria = {
+        f"criteria_{i}": {
+            "type": "object",
+            "properties": {
+                "reasoning": {"type": "string"},
+                "score": {"type": "integer"},  # 0 = pass, 1 = fail
+            },
+            "required": ["reasoning", "score"],
+        }
+        for i in range(1, num_criteria + 1)
+    }
+    return {
+        "type": "object",
+        "properties": {"scoring": {"type": "object", "properties": criteria}},
+        "required": ["scoring"],
+    }
+
+def assemble_prompt(criteria_config, language, business_line):
+    """Dynamic assembly: one template covers every language x business-line
+    combination. Context lives in external config, injected at call time."""
+    criteria_block = "\n".join(
+        f"CRITERIA_{i}:\n- {c['parameter']}\n- PASS: {c['pass']}\n- FAIL: {c['fail']}"
+        for i, c in enumerate(criteria_config, 1)
+    )
+    return (
+        f"You are a customer service quality auditor for DiDi.\n"
+        f"LANGUAGE CONTEXT: the conversation is in {language}.\n"
+        f"BUSINESS CONTEXT: this is a {business_line} service interaction.\n\n"
+        f"SCORING CRITERIA TO EVALUATE:\n{criteria_block}"
+    )
+
+def evaluate(transcript, criteria_config, language, business_line):
+    system_prompt = assemble_prompt(criteria_config, language, business_line)
+    schema = build_output_schema(len(criteria_config))
+    response = bedrock.converse(
+        modelId=MODEL_ID,
+        system=[{"text": system_prompt}],
+        messages=[{"role": "user", "content": [{"text": transcript}]}],
+        # Tool Use with a forced tool choice constrains the model to emit
+        # schema-valid JSON — every score carries its own reasoning chain.
+        toolConfig={
+            "tools": [{\
+                "toolSpec": {\
+                    "name": "output_result",\
+                    "description": "Output the structured evaluation result",\
+                    "inputSchema": {"json": schema},\
+                }\
+            }],
+            "toolChoice": {"tool": {"name": "output_result"}},
+        },
+        inferenceConfig={"maxTokens": 8192, "temperature": 0.0},
+    )
+    for block in response["output"]["message"]["content"]:
+        if "toolUse" in block:
+            return block["toolUse"]["input"]
+```</description>
     </item>
     <item>
-      <title>Leonardo Brunetti Receives Inaugural Fellowship in Artificial Intelligence and Oncology - ESMO</title>
-      <link>https://oncodaily.com/voices/leonardo-brunetti-581761</link>
-      <guid isPermaLink="true">https://oncodaily.com/voices/leonardo-brunetti-581761</guid>
-      <description># Leonardo Brunetti Receives Inaugural Fellowship in Artificial Intelligence and Oncology – ESMO
-This two-year fellowship supports talented young oncologists in developing innovative AI-driven solutions that bridge data science and patient care.
+      <title>DAF accelerates joint C2 with AI, Space Force integration in latest DASH experiment</title>
+      <link>https://www.afrc.af.mil/News/Article/4592564/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/</link>
+      <guid isPermaLink="true">https://www.afrc.af.mil/News/Article/4592564/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/</guid>
+      <description># AFRC News
+In a fast-paced, two-week experiment, the Department of the Air Force continued to demonstrate that human-machine teaming, integrating artificial intelligence to handle heavy data processing so human operators can make faster and smarter decisions, can significantly accelerate the joint kill chain.</description>
+    </item>
+    <item>
+      <title>Global consultations on education in the age of AI</title>
+      <link>https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</link>
+      <guid isPermaLink="true">https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</guid>
+      <description>UNESCO is publishing a compilation of policy briefs, offering analytical tools and AI governance strategies, grounded in emerging evidence.</description>
+    </item>
+    <item>
+      <title>Artificial intelligence and the future of maternal and child health</title>
+      <link>https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/</link>
+      <guid isPermaLink="true">https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/</guid>
+      <description>## Contributors from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) discuss the growing role of artificial intelligence (AI) in maternal and child health, highlighting its applications in research, clinical decision-making, and public health
+### AI embedded in clinical care
+AI-mediated approaches are increasingly being integrated directly into interventions and clinical care. They are expected to shorten the diagnostic odyssey, accelerate access to specialized care, and facilitate the development of personalized medicine approaches. Such applications are wide-ranging – for example, using AI in conjunction with other assistive technologies to improve intuitive control of prosthetic limbs, creating an AI-driven total parenteral nutritional composition platform for dietary care of premature infants, AI-assisted assessment of gamete and embryo quality for in vitro fertilization, chatbots that aid in the diagnosis of and patient education for congenital anomalies or rare diseases, and predictive modeling to help identify patients at risk for developing gynecological, infectious, maternal, and pediatric conditions. Across these applications, research priorities include prospective validation, assessment of real-world performance and safety, and understanding how AI outputs influence clinical decision-making and patient outcomes.
 
-[cancer](https://oncodaily.com/tag/cancer) [ESMO Artificial Intelligence](https://oncodaily.com/tag/esmo-artificial-intelligence) [European Society for Medical Oncology](https://oncodaily.com/tag/european-society-for-medical-oncology) [Leonardo Brunetti](https://oncodaily.com/tag/leonardo-brunetti) [OncoDaily](https://oncodaily.com/tag/oncodaily) [Oncology](https://oncodaily.com/tag/oncology) [Precision Medicine](https://oncodaily.com/tag/precision-medicine)</description>
+### AI in everyday life and workforce development
+- [Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;t=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
+- [Twitter](https://twitter.com/share?text=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health&amp;url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F)
+- [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;title=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
+- [Print](http://www.printfriendly.com/print?url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;title=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
+
+### [The NHS is urging young people to get a second MenB jab before university](https://www.openaccessgovernment.org/the-nhs-is-urging-young-people-to-get-a-second-menb-jab-before-university/213888/)
+[![Scientist use ai technology, biotechnology for Medical research and development of scientific lab. Medical Research Laboratory for Test and analysis chromosome DNA genetic.](https://www.openaccessgovernment.org/wp-content/uploads/2026/09/iStock-2213157127-218x150.jpg)](https://www.openaccessgovernment.org/manchester-nhs-and-mhra-launch-health-innovation-sandbox-to-test-ai-and-new-technologies/213843/)
+
+### [Manchester NHS and MHRA launch health innovation sandbox to test AI and new technologies](https://www.openaccessgovernment.org/manchester-nhs-and-mhra-launch-health-innovation-sandbox-to-test-ai-and-new-technologies/213843/)
+[prev-page](https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/#)[next-page](https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/#)
+
+### [AI for child and adolescent mental health: Fairness and bias education](https://www.openaccessgovernment.org/article/ai-for-child-and-adolescent-mental-health-fairness-and-bias-education/214012/)
+September 8, 2026
+
+[![Close up of green canabis plant](https://www.openaccessgovernment.org/wp-content/uploads/2026/09/iStock-1810815903-100x70.jpg)](https://www.openaccessgovernment.org/article/substance-use-behavior-in-teens-living-with-chronic-pain/213813/)
+
+### [Feeding the preterm brain: Prometeus Project and the future of real-time...](https://www.openaccessgovernment.org/article/feeding-the-preterm-brain-prometeus-project-and-the-future-of-real-time-metabolic-neuro-sensing/213760/)
+September 2, 2026</description>
+    </item>
+    <item>
+      <title>NSA looks to AI to help analysts sift through vast data troves</title>
+      <link>https://www.nextgov.com/artificial-intelligence/2026/09/nsa-looks-ai-help-analysts-sift-through-vast-data-troves/415835/</link>
+      <guid isPermaLink="true">https://www.nextgov.com/artificial-intelligence/2026/09/nsa-looks-ai-help-analysts-sift-through-vast-data-troves/415835/</guid>
+      <description>## The tools can speed up work that takes days or weeks, the agency’s cybersecurity chief said.
+The National Security Agency is leaning into artificial intelligence tools to process mass volumes of data it collects, allowing analysts to sort through tasks and find anomalies faster, a top official said Tuesday.
+
+Late last month, NSA deputy director Tim Kosiba said that the agency wants access to a wide range of models and is [engaging](https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/) heavily with frontier AI companies.</description>
     </item>
   </channel>
 </rss>
