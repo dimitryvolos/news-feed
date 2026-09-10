@@ -5,8 +5,50 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:44:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:34:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic researcher says more than 10% chance AI "could kill all humans"</title>
+      <link>https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/</guid>
+      <description>_London_— A lead researcher at Anthropic, one of the world's leading artificial intelligence firms, said Wednesday that he believes there is a more than 10% chance AI "could kill all humans" within the next decade.
+
+![gettyimages-2289530140-1.jpg ](https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/f4dcfac8-a0d7-4579-bc02-f5573be76a4a/thumbnail/620x411/97411c7903caccafd867819a2d4dadeb/gettyimages-2289530140-1.jpg#)File photo: A person uses artificial intelligence apps ChatGPT and Claude on a mobile phone.
+
+## "Very useful or very dangerous"
+In July, an artificial intelligence model being tested by OpenAI went rogue and [hacked another AI company, Hugging Face](https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/), on its own.
+
+- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>A new Anthropic model seeks to test how AI could impact the U.S. economy</title>
+      <link>https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy</guid>
+      <description># A new Anthropic model seeks to test how AI could impact the U.S. economy
+![Anthropic, the artificial intelligence company behind the Claude assistant, has created an interactive tool to show how AI might affect the U.S. economy a little or a lot in the next few years.  ](https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4822x3136+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F0e%2Fddddeea34919b144bdcfa02b858c%2Fgettyimages-2285051730.jpg)
+
+Anthropic, the artificial intelligence company behind the Claude assistant, has created an interactive tool to show how AI might affect the U.S economy a little or a lot in the next few years.
+
+In one scenario, artificial intelligence provides a gentle boost to the economy, lifting growth rates with little effect on workers.</description>
+    </item>
+    <item>
+      <title>Anthropic researcher's resignation sends warning about the dangers of AI development</title>
+      <link>https://www.pbs.org/newshour/science/anthropic-researchers-resignation-sends-warning-about-the-dangers-of-ai-development</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/science/anthropic-researchers-resignation-sends-warning-about-the-dangers-of-ai-development</guid>
+      <description># Anthropic researcher's resignation sends warning about the dangers of AI development
+An Anthropic researcher said he is resigning from the company over concerns the artificial intelligence firm and its competitors are not acting responsibly in AI development, echoing concerns raised inside and outside of the industry about the technology's potential to elude human control.</description>
+    </item>
+    <item>
+      <title>AI could kill all humans in next decade, warn experts: but how seriously should we take them?</title>
+      <link>https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians</guid>
+      <description># AI could kill all humans in next decade, warn experts: but how seriously should we take them?
+It is backing a bill tabled in parliament this week by the Labour MP Alex Sobel and aimed at banning the creation of artificial superintelligence (ASI).
+
+According to the Financial Times, government officials voiced concern that Anthropic had declined to submit its latest model – Mythos 5.1 – to the UK’s AI Security Institute for pre-release testing.
+
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
     <item>
       <title>OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’</title>
       <link>https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html</link>
@@ -14,15 +56,22 @@
       <description></description>
     </item>
     <item>
-      <title>OpenAI says it cracked 90-year-old maths problem in 88 hours</title>
-      <link>https://www.bbc.com/news/articles/cy7zygy3rl2o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cy7zygy3rl2o</guid>
-      <description># OpenAI says it cracked 90-year-old maths problem in 88 hours
-OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.
+      <title>The Fight Over OpenAI’s Math Breakthrough Is a New Kind of Scientific Arms Race</title>
+      <link>https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240</link>
+      <guid isPermaLink="true">https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240</guid>
+      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
 
-The ChatGPT-maker [said on Tuesday](https://openai.com/index/navier-stokes-solution/) that by focusing a group of roughly 10,000 AI agents, or AI bots that undertake tasks somewhat autonomously, it solved a notoriously difficult maths problem in just 88 hours.
+# The Fight Over OpenAI’s Math Breakthrough Is a New Kind of Scientific Arms Race
+## Related Articles
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)
 
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)</description>
     </item>
     <item>
       <title>AI may have just solved a million-dollar math problem. The field will never be the same</title>
@@ -34,230 +83,121 @@ Artificial Intelligence
 In a development that crystallizes an existential shift in humankind’s oldest intellectual discipline, artificial intelligence has reportedly solved one of the six open [“million-dollar” problems](https://www.scientificamerican.com/article/the-riemann-hypothesis-is-a-million-dollar-math-problem-hardly-anyone-is-trying-to-solve/) in mathematics.</description>
     </item>
     <item>
-      <title>World in Brief: OpenAI claims to solve a maths mystery; Oil prices rise</title>
-      <link>https://www.economist.com/the-world-in-brief/2026/09/08/7dd97167-50d8-432c-86f9-1dfadeee0785</link>
-      <guid isPermaLink="true">https://www.economist.com/the-world-in-brief/2026/09/08/7dd97167-50d8-432c-86f9-1dfadeee0785</guid>
-      <description># World in Brief: OpenAI claims to solve a maths mystery; Oil prices rise
-**OpenAI** said it used an unreleased artificial intelligence model to crack one of **mathematics’** trickiest problems.</description>
+      <title>OpenAI solution for the Navier-Stokes problem overshadowed by plagiarism controversy — researcher working on related proof claims his work with Codex influenced OpenAI's direction</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-breakthrough-solution-for-the-elusive-navier-stokes-problem-overshadowed-by-plagiarism-controversy-researcher-says-openai-scraped-codex-session-and-issued-career-threats</guid>
+      <description></description>
     </item>
     <item>
-      <title>The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No</title>
-      <link>https://theintercept.com/2026/09/08/pentagon-openai-military-contract/</link>
-      <guid isPermaLink="true">https://theintercept.com/2026/09/08/pentagon-openai-military-contract/</guid>
-      <description>The Department of Defense asked OpenAI to provide the U.S. military with a special version of its artificial intelligence technology designed to turn down the military commands as infrequently as possible, according to documents obtained by The Intercept.</description>
-    </item>
-    <item>
-      <title>How one hedge-fund manager built his firm to be powered entirely by AI agents</title>
-      <link>https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html</guid>
-      <description>That’s because Kelly — who previously ran a cryptocurrency hedge fund — created his new trading firm, Bracket22, to be powered entirely by agentic artificial intelligence.
+      <title>Experts gather in Austin to explore how AI can improve disaster response and recovery</title>
+      <link>https://www.kxan.com/news/local/austin/experts-gather-in-austin-to-explore-how-ai-can-improve-disaster-response-and-recovery/</link>
+      <guid isPermaLink="true">https://www.kxan.com/news/local/austin/experts-gather-in-austin-to-explore-how-ai-can-improve-disaster-response-and-recovery/</guid>
+      <description>AUSTIN (KXAN) — Artificial intelligence experts, emergency managers, researchers and technology leaders gathered in Austin on Wednesday for the [AIDE Summit](https://www.aideinitiative.org/summit-2026/), a conference focused on the growing role AI could play in disaster preparedness, response and recovery.
 
-Later that year, he began testing out uses of artificial intelligence.
+The event, hosted through the AI for Disasters and Emergencies (AIDE) Initiative, brought together stakeholders from across the country to discuss how artificial intelligence is already being used in emergency management and how communities can responsibly adopt new technologies in the future.
 
-Brian Kelly founded Bracket22, a trading firm powered entirely by agentic AI.</description>
+### Balancing Innovation and Public Safety
+Jessica Jensen, a [policy researcher with RAND](https://www.rand.org/about/people/j/jensen_jessica.html), said the term “artificial intelligence” is often misunderstood.</description>
     </item>
     <item>
-      <title>Opinion | Why hiding is getting harder — even for the most vulnerable</title>
-      <link>https://www.washingtonpost.com/opinions/2026/09/08/artificial-intelligence-facial-recognition-threaten-anonymity/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/08/artificial-intelligence-facial-recognition-threaten-anonymity/</guid>
-      <description>You're reading Superintelligent, a newsletter about AI. Click here to get the full edition in your inbox. James Harkin is the director of...</description>
+      <title>EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say</title>
+      <link>https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/</guid>
+      <description>Item 3 of 3 OpenAI logo and AI Artificial Intelligence words are seen in this illustration taken, May 4, 2023.
+
+**[3/3]** OpenAI logo and AI Artificial Intelligence words are seen in this illustration taken, May 4, 2023.
+
+## CLEVER MODELS
+Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.</description>
     </item>
     <item>
-      <title>Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-just-bought-125001570.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-just-bought-125001570.html</guid>
-      <description>Billionaire David Tepper, the founder and president of the hedge fund Appaloosa Management, is particularly bullish on technology and...</description>
+      <title>US claims Chinese AI firms are carrying out ‘industrial-scale’ theft of trade secrets</title>
+      <link>https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology</link>
+      <guid isPermaLink="true">https://www.cnn.com/2026/09/08/politics/us-accuses-china-of-stealing-ai-technology</guid>
+      <description></description>
     </item>
     <item>
       <title>US accuses Chinese AI firms of 'malicious' copying of AI technology</title>
       <link>https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/</link>
       <guid isPermaLink="true">https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/</guid>
-      <description>WASHINGTON, Sept 8 (Reuters) - The U.S. government on Tuesday accused Chinese artificial intelligence companies of maliciously ​copying technology from American AI firms, potentially complicating relations ahead of a planned ‌meeting between leaders of the world's two biggest economies later this month.
+      <description>WASHINGTON, Sept 9 (Reuters) - The U.S. government on Tuesday accused Chinese artificial intelligence companies of maliciously copying technology from American AI firms, potentially complicating relations ​ahead of a planned meeting between leaders of the world's two biggest economies later this month.
 
-"As major powers in artificial intelligence, China and the U.S. should strengthen cooperation."</description>
+AI labs' intellectual property through a technique known as distillation, according to a statement from U.S. law enforcement and intelligence officials.
+
+"As major powers in artificial intelligence, China and the U.S. should ​strengthen cooperation."</description>
     </item>
     <item>
-      <title>OpenAI launches new Astra model with warning that it may attempt to evade human monitoring</title>
-      <link>https://www.cbsnews.com/video/openai-launches-new-astra-model-after-july-breach/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/video/openai-launches-new-astra-model-after-july-breach/</guid>
-      <description># OpenAI launches new Astra model with warning that it may attempt to evade human monitoring
-OpenAI has launched it's new artificial intelligence model, Astra.</description>
+      <title>China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology</link>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology</guid>
+      <description># China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit
+### Trump’s treasury secretary accuses Chinese artificial intelligence firms of ‘stealing and copying’, weeks before leadership summit in Washington
+US Treasury Secretary Scott Bessent claimed that China “can never get ahead” of America in [artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=inline&amp;pgtype=article), in part due to its “central planning”, as three government agencies accused Beijing of maliciously copying technology from its leading firms.
+
+The report claimed that the firms extracted “billions of tokens across millions of exchanges/requests from US frontier AI models, including variants of Claude, GPT, Gemini and Grok, since at least late 2024”.
+
+## Meet the dogs trained to sniff out cancer with an AI boost
+[US-China relations](https://www.scmp.com/topics/us-china-relations?module=related_topics&amp;pgtype=article) | [Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [AI: Geopolitics](https://www.scmp.com/topics/ai-geopolitics?module=related_topics&amp;pgtype=article) | [AI: Companies](https://www.scmp.com/topics/ai-companies?module=related_topics&amp;pgtype=article) | [Anthropic](https://www.scmp.com/topics/anthropic?module=related_topics&amp;pgtype=article) | [DeepSeek](https://www.scmp.com/topics/deepseek?module=related_topics&amp;pgtype=article) | [Kimi](https://www.scmp.com/topics/moonshot-ais-kimi-chatbot?module=related_topics&amp;pgtype=article) | [Alibaba](https://www.scmp.com/topics/alibaba?module=related_topics&amp;pgtype=article) | [OpenAI](https://www.scmp.com/topics/openai?module=related_topics&amp;pgtype=article) | [Google](https://www.scmp.com/topics/google?module=related_topics&amp;pgtype=article)
+
+# UN rights chief warns AI could pose ‘existential’ risk to humanity’
+### Volker Turk calls for ‘cast-iron guarantees’ to secure AI against risks that his office says includes disruptions to critical infrastructure
+UN rights chief Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity, and pledged to press AI firms to reduce risks that his office said included disruptions to services, communications and democratic systems.
+
+[United Nations](https://www.scmp.com/topics/united-nations?module=related_topics&amp;pgtype=article) | [Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [Ukraine](https://www.scmp.com/topics/ukraine?module=related_topics&amp;pgtype=article) | [United States](https://www.scmp.com/topics/united-states?module=related_topics&amp;pgtype=article) | [Russia](https://www.scmp.com/topics/russia?module=related_topics&amp;pgtype=article) | [Meta Platforms](https://www.scmp.com/topics/meta-platforms?module=related_topics&amp;pgtype=article)
+
+# An error has occurred
+[US-China relations](https://www.scmp.com/topics/us-china-relations?module=hamburger_menu&amp;pgtype=article) [Artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=hamburger_menu&amp;pgtype=article) [Donald Trump’s China policy](https://www.scmp.com/topics/donald-trumps-china-policy?module=hamburger_menu&amp;pgtype=article) [SpaceX](https://www.scmp.com/topics/spacex?module=hamburger_menu&amp;pgtype=article) [Fifa World Cup 2026](https://www.scmp.com/topics/fifa-world-cup-2026?module=hamburger_menu&amp;pgtype=article) [Nvidia](https://www.scmp.com/topics/nvidia?module=hamburger_menu&amp;pgtype=article) [Hong Kong’s Tai Po fire tragedy](https://www.scmp.com/topics/hong-kongs-tai-po-fire-tragedy?module=hamburger_menu&amp;pgtype=article) [Iran](https://www.scmp.com/topics/iran?module=hamburger_menu&amp;pgtype=article) [China’s military](https://www.scmp.com/topics/china-military?module=hamburger_menu&amp;pgtype=article) [Trending in China](https://www.scmp.com/topics/trending-in-china?module=hamburger_menu&amp;pgtype=article)</description>
     </item>
     <item>
-      <title>Alpha Chicago opens as first AI school in city without teachers; created by Mackenzie Price</title>
-      <link>https://abc7chicago.com/post/alpha-chicago-opens-first-ai-school-city-teachers-created-mackenzie-price/19805778/</link>
-      <guid isPermaLink="true">https://abc7chicago.com/post/alpha-chicago-opens-first-ai-school-city-teachers-created-mackenzie-price/19805778/</guid>
-      <description># Alpha Chicago opens as city's first AI, teacher-free school
-CHICAGO (WLS) -- Alpha opened the first school in Chicago that uses artificial intelligence and has no teachers on Tuesday.
+      <title>China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks</title>
+      <link>https://abcnews.com/Technology/wireStory/china-hits-back-us-claims-malicious-ai-distillation-136296225</link>
+      <guid isPermaLink="true">https://abcnews.com/Technology/wireStory/china-hits-back-us-claims-malicious-ai-distillation-136296225</guid>
+      <description># China hits back at US claims of 'malicious' AI distillation ahead of planned talks
+China has dismissed U.S. claims that Chinese artificial intelligence developers extract capabilities from frontier American AI systems
+
+BANGKOK -- China hit back Wednesday against U.S. claims that Chinese [artificial intelligence](https://apnews.com/hub/artificial-intelligence) developers are engaged in “aggressive, malicious” industrial-scale efforts to extract capabilities from frontier American AI systems.
 
 ## Related Topics
-- [ARTIFICIAL INTELLIGENCE](https://abc7chicago.com/tag/artificial-intelligence/)</description>
+- [Artificial Intelligence](https://abcnews.com/alerts/ArtificialIntelligence)</description>
     </item>
     <item>
-      <title>Meta bets on AI agent Muse to catch up in AI race</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race</guid>
-      <description>- AI
-
-# Meta bets on AI agent Muse to catch up in AI race
-Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone.
-
-## Add Verge on Google
-Most tools are indeed aimed at businesses or technically-minded individuals — notably OpenAI’s [ChatGPT Work](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work), Anthropic’s [Claude Cowork](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web), Microsoft’s [Copilot Tasks](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai), SpaceXAI’s [Grok Bot](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch), and the [viral open-source agent Moltbot](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent) — though Google does appear to be targeting a similar audience with its recently-announced [Gemini Spark](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning) assistant.
-
-## More in [AI](https://www.theverge.com/ai-artificial-intelligence)
-[ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
-
-[AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
-
-[Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
-
-[ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
-
-[AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
-
-[Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)</description>
+      <title>House Democrats weigh AI select committee</title>
+      <link>https://www.politico.com/news/2026/09/09/house-democrats-weigh-ai-select-committee-01068764</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/09/house-democrats-weigh-ai-select-committee-01068764</guid>
+      <description>House Democrats are laying the groundwork for a select committee on artificial intelligence should they retake control of the House in...</description>
     </item>
     <item>
-      <title>Global consultations on education in the age of AI</title>
-      <link>https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</link>
-      <guid isPermaLink="true">https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</guid>
-      <description>UNESCO is publishing a compilation of policy briefs, offering analytical tools and AI governance strategies, grounded in emerging evidence.</description>
+      <title>UNT to open new college of artificial intelligence with $20 million gift</title>
+      <link>https://www.dallasnews.com/news/education/article/unt-ai-college-gift-22422960.php</link>
+      <guid isPermaLink="true">https://www.dallasnews.com/news/education/article/unt-ai-college-gift-22422960.php</guid>
+      <description>The University of North Texas will establish a college of artificial intelligence and advanced analytics after receiving a $20 million gift,...</description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://abcnews.com/alerts/ArtificialIntelligence</link>
-      <guid isPermaLink="true">https://abcnews.com/alerts/ArtificialIntelligence</guid>
-      <description>How AI is affecting our kids. ABC News' Rebecca Jarvis has a first look at the new documentary “Screenagers: Generation AI,” which examines the...</description>
+      <title>What execs are talking about at Goldman Sachs' Communacopia: AI, data centers, disruption</title>
+      <link>https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html</guid>
+      <description>- CoreWeave CEO Mike Intrator said he thinks artificial intelligence companies haven’t explained the technology’s benefits well enough to the public.</description>
     </item>
     <item>
-      <title>HHS Announces Key Leadership Selections at FDA to Promote Innovation, Reform, and National Health Priorities</title>
-      <link>https://www.hhs.gov/press-room/hhs-announces-key-fda-leadership-selections.html</link>
-      <guid isPermaLink="true">https://www.hhs.gov/press-room/hhs-announces-key-fda-leadership-selections.html</guid>
-      <description>The U.S. Department of Health and Human Services today announced the selection of four senior leaders at the U.S. Food and Drug...</description>
+      <title>Paxton's new AI ad puts words in a fake Talarico's mouth. Watch it here</title>
+      <link>https://www.usatoday.com/story/news/state/texas/2026/09/09/ken-paxton-talarico-artificial-intelligence-ad/91672483007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/news/state/texas/2026/09/09/ken-paxton-talarico-artificial-intelligence-ad/91672483007/</guid>
+      <description># Paxton's new AI ad puts words in a fake Talarico's mouth. Watch it here
+- Texas Attorney General Ken Paxton's campaign released an ad using artificial intelligence to attack his U.S. Senate opponent, James Talarico.
+
+A disclaimer at the bottom of the video says that “certain video content depicted in this advertising was generated by artificial intelligence.”</description>
     </item>
     <item>
-      <title>How DiDi built intelligent contact center QA with Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/</guid>
-      <description># How DiDi built intelligent contact center QA with Amazon Bedrock
-## Evaluation pipeline: Dynamic assembly for multilingual, multi-business-line coverage
-```python
-import boto3
-
-bedrock = boto3.client("bedrock-runtime", region_name="us-east-1")
-
-MODEL_ID = "&lt;your-bedrock-model-id&gt;"
-
-def build_output_schema(num_criteria):
-    """Derive the JSON schema from the checklist size — adding a new
-    compliance item requires only a config change, not a code change."""
-    criteria = {
-        f"criteria_{i}": {
-            "type": "object",
-            "properties": {
-                "reasoning": {"type": "string"},
-                "score": {"type": "integer"},  # 0 = pass, 1 = fail
-            },
-            "required": ["reasoning", "score"],
-        }
-        for i in range(1, num_criteria + 1)
-    }
-    return {
-        "type": "object",
-        "properties": {"scoring": {"type": "object", "properties": criteria}},
-        "required": ["scoring"],
-    }
-
-def assemble_prompt(criteria_config, language, business_line):
-    """Dynamic assembly: one template covers every language x business-line
-    combination. Context lives in external config, injected at call time."""
-    criteria_block = "\n".join(
-        f"CRITERIA_{i}:\n- {c['parameter']}\n- PASS: {c['pass']}\n- FAIL: {c['fail']}"
-        for i, c in enumerate(criteria_config, 1)
-    )
-    return (
-        f"You are a customer service quality auditor for DiDi.\n"
-        f"LANGUAGE CONTEXT: the conversation is in {language}.\n"
-        f"BUSINESS CONTEXT: this is a {business_line} service interaction.\n\n"
-        f"SCORING CRITERIA TO EVALUATE:\n{criteria_block}"
-    )
-
-def evaluate(transcript, criteria_config, language, business_line):
-    system_prompt = assemble_prompt(criteria_config, language, business_line)
-    schema = build_output_schema(len(criteria_config))
-    response = bedrock.converse(
-        modelId=MODEL_ID,
-        system=[{"text": system_prompt}],
-        messages=[{"role": "user", "content": [{"text": transcript}]}],
-        # Tool Use with a forced tool choice constrains the model to emit
-        # schema-valid JSON — every score carries its own reasoning chain.
-        toolConfig={
-            "tools": [{\
-                "toolSpec": {\
-                    "name": "output_result",\
-                    "description": "Output the structured evaluation result",\
-                    "inputSchema": {"json": schema},\
-                }\
-            }],
-            "toolChoice": {"tool": {"name": "output_result"}},
-        },
-        inferenceConfig={"maxTokens": 8192, "temperature": 0.0},
-    )
-    for block in response["output"]["message"]["content"]:
-        if "toolUse" in block:
-            return block["toolUse"]["input"]
-```</description>
+      <title>Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA</title>
+      <link>https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</guid>
+      <description>Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant...</description>
     </item>
     <item>
-      <title>DAF accelerates joint C2 with AI, Space Force integration in latest DASH experiment</title>
-      <link>https://www.afrc.af.mil/News/Article/4592564/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/</link>
-      <guid isPermaLink="true">https://www.afrc.af.mil/News/Article/4592564/daf-accelerates-joint-c2-with-ai-space-force-integration-in-latest-dash-experim/</guid>
-      <description># AFRC News
-In a fast-paced, two-week experiment, the Department of the Air Force continued to demonstrate that human-machine teaming, integrating artificial intelligence to handle heavy data processing so human operators can make faster and smarter decisions, can significantly accelerate the joint kill chain.</description>
-    </item>
-    <item>
-      <title>Global consultations on education in the age of AI</title>
-      <link>https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</link>
-      <guid isPermaLink="true">https://www.unesco.org/en/digital-education/artificial-intelligence/consultation</guid>
-      <description>UNESCO is publishing a compilation of policy briefs, offering analytical tools and AI governance strategies, grounded in emerging evidence.</description>
-    </item>
-    <item>
-      <title>Artificial intelligence and the future of maternal and child health</title>
-      <link>https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/</link>
-      <guid isPermaLink="true">https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/</guid>
-      <description>## Contributors from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) discuss the growing role of artificial intelligence (AI) in maternal and child health, highlighting its applications in research, clinical decision-making, and public health
-### AI embedded in clinical care
-AI-mediated approaches are increasingly being integrated directly into interventions and clinical care. They are expected to shorten the diagnostic odyssey, accelerate access to specialized care, and facilitate the development of personalized medicine approaches. Such applications are wide-ranging – for example, using AI in conjunction with other assistive technologies to improve intuitive control of prosthetic limbs, creating an AI-driven total parenteral nutritional composition platform for dietary care of premature infants, AI-assisted assessment of gamete and embryo quality for in vitro fertilization, chatbots that aid in the diagnosis of and patient education for congenital anomalies or rare diseases, and predictive modeling to help identify patients at risk for developing gynecological, infectious, maternal, and pediatric conditions. Across these applications, research priorities include prospective validation, assessment of real-world performance and safety, and understanding how AI outputs influence clinical decision-making and patient outcomes.
-
-### AI in everyday life and workforce development
-- [Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;t=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
-- [Twitter](https://twitter.com/share?text=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health&amp;url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F)
-- [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;title=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
-- [Print](http://www.printfriendly.com/print?url=https%3A%2F%2Fwww.openaccessgovernment.org%2Fartificial-intelligence-and-the-future-of-maternal-and-child-health%2F213968%2F&amp;title=Artificial%20intelligence%20and%20the%20future%20of%20maternal%20and%20child%20health)
-
-### [The NHS is urging young people to get a second MenB jab before university](https://www.openaccessgovernment.org/the-nhs-is-urging-young-people-to-get-a-second-menb-jab-before-university/213888/)
-[![Scientist use ai technology, biotechnology for Medical research and development of scientific lab. Medical Research Laboratory for Test and analysis chromosome DNA genetic.](https://www.openaccessgovernment.org/wp-content/uploads/2026/09/iStock-2213157127-218x150.jpg)](https://www.openaccessgovernment.org/manchester-nhs-and-mhra-launch-health-innovation-sandbox-to-test-ai-and-new-technologies/213843/)
-
-### [Manchester NHS and MHRA launch health innovation sandbox to test AI and new technologies](https://www.openaccessgovernment.org/manchester-nhs-and-mhra-launch-health-innovation-sandbox-to-test-ai-and-new-technologies/213843/)
-[prev-page](https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/#)[next-page](https://www.openaccessgovernment.org/artificial-intelligence-and-the-future-of-maternal-and-child-health/213968/#)
-
-### [AI for child and adolescent mental health: Fairness and bias education](https://www.openaccessgovernment.org/article/ai-for-child-and-adolescent-mental-health-fairness-and-bias-education/214012/)
-September 8, 2026
-
-[![Close up of green canabis plant](https://www.openaccessgovernment.org/wp-content/uploads/2026/09/iStock-1810815903-100x70.jpg)](https://www.openaccessgovernment.org/article/substance-use-behavior-in-teens-living-with-chronic-pain/213813/)
-
-### [Feeding the preterm brain: Prometeus Project and the future of real-time...](https://www.openaccessgovernment.org/article/feeding-the-preterm-brain-prometeus-project-and-the-future-of-real-time-metabolic-neuro-sensing/213760/)
-September 2, 2026</description>
-    </item>
-    <item>
-      <title>NSA looks to AI to help analysts sift through vast data troves</title>
-      <link>https://www.nextgov.com/artificial-intelligence/2026/09/nsa-looks-ai-help-analysts-sift-through-vast-data-troves/415835/</link>
-      <guid isPermaLink="true">https://www.nextgov.com/artificial-intelligence/2026/09/nsa-looks-ai-help-analysts-sift-through-vast-data-troves/415835/</guid>
-      <description>## The tools can speed up work that takes days or weeks, the agency’s cybersecurity chief said.
-The National Security Agency is leaning into artificial intelligence tools to process mass volumes of data it collects, allowing analysts to sort through tasks and find anomalies faster, a top official said Tuesday.
-
-Late last month, NSA deputy director Tim Kosiba said that the agency wants access to a wide range of models and is [engaging](https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/) heavily with frontier AI companies.</description>
+      <title>The turbulent AI era is here. The choices we make now are critical.</title>
+      <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
+      <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
+      <description>Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI</description>
     </item>
   </channel>
 </rss>
