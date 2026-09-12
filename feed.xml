@@ -5,84 +5,12 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:03:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lawmakers urge Congress to act after AI researcher’s dire warning</title>
-      <link>https://www.politico.com/live-updates/2026/09/09/congress/congress-reacts-to-ai-warning-01068556</link>
-      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/09/congress/congress-reacts-to-ai-warning-01068556</guid>
-      <description>### Inside Congress newsletter
-Lawmakers in both parties are escalating pleas for legislative action after an artificial intelligence researcher claimed late Tuesday that unchecked AI models could feasibly destroy the world by the decade’s end — and AI developers know it.
-
-## [Jim Jordan says he will relinquish Judiciary gavel, pass on a return to Oversight](https://www.politico.com/news/2026/09/09/jim-jordan-judiciary-oversight-01069693)
-Ted Cruz said bipartisan legislation is needed to protect the world from the “catastrophic risks” of artificial intelligence.
-
-Cruz called for more legislation on Wednesday to guard against the “catastrophic risks” of artificial intelligence.
-
-## [House Democrats weigh AI select committee](https://www.politico.com/news/2026/09/09/house-democrats-weigh-ai-select-committee-01068764)
-Lead Art: A smartphone displays icons of some leading artificial intelligence apps on July 15.</description>
-    </item>
-    <item>
-      <title>Anthropic Is Building a Predictive Surveillance System to Monitor Activists</title>
-      <link>https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</link>
-      <guid isPermaLink="true">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</guid>
-      <description>The expansion of Anthropic’s intelligence-gathering to a national and even global scale tracks with recent efforts to heighten the labeling of AI and the infrastructure powering it, including data centers and power supply. A critical infrastructure designation would put artificial intelligence on the same footing as water, electricity, and broadband.
-
-Anthropic’s answer to this problem has been to work even harder at producing artificial intelligence that can deliver services that can’t be brushed aside by the public.</description>
-    </item>
-    <item>
-      <title>Are big AI companies gambling with our lives?</title>
-      <link>https://www.npr.org/2026/09/10/nx-s1-5963496/are-big-ai-companies-gambling-with-our-lives</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/10/nx-s1-5963496/are-big-ai-companies-gambling-with-our-lives</guid>
-      <description>The warning in former Anthropic researcher Jacob Coxon's resignation announcement is stark. “The people building AI earnestly believe that...</description>
-    </item>
-    <item>
-      <title>Anthropic Says It Blocked Possible Efforts to Build Biological Weapons</title>
-      <link>https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anthropic says it blocked possible attempts to use AI to develop bioweapons</title>
-      <link>https://www.kcci.com/article/anthropic-blocked-attempts-ai-bioweapons/73674089</link>
-      <guid isPermaLink="true">https://www.kcci.com/article/anthropic-blocked-attempts-ai-bioweapons/73674089</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bad actors in China and Russia are already weaponizing Anthropic’s AI</title>
-      <link>https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435</guid>
-      <description># Bad actors in China and Russia are already weaponizing Anthropic’s AI
-## Share
-Artificial intelligence threats that might have seemed like science fiction nightmares just a year ago are much closer to reality today, according to AI powerhouse Anthropic.</description>
-    </item>
-    <item>
-      <title>Anthropic Says It Blocked Misuse of Its AI That Could Have Supported Biological Weapons</title>
-      <link>https://www.usnews.com/news/business/articles/2026-09-10/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons</link>
-      <guid isPermaLink="true">https://www.usnews.com/news/business/articles/2026-09-10/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Learning without a brain—how bacteria store memories and remember the past like artificial neural networks</title>
-      <link>https://phys.org/news/2026-09-brain-bacteria-memories-artificial-neural.html</link>
-      <guid isPermaLink="true">https://phys.org/news/2026-09-brain-bacteria-memories-artificial-neural.html</guid>
-      <description># Learning without a brain—how bacteria store memories and remember the past like artificial neural networks
-## Bacteria and AI systems
-Using our mathematical model, we found that this molecular system follows the same basic computational logic as a [gated recurrent neural network](https://doi.org/10.48550/arXiv.1412.3555): a type of artificial intelligence used to process sequences such as speech and sensor data.
-
-## Using bacterial memory
-For artificial intelligence, it offers a biological blueprint for building systems that can learn continuously under tight energy constraints.</description>
-    </item>
-    <item>
-      <title>Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.</title>
-      <link>https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html</guid>
-      <description>The popular uprising against data centers has emerged so suddenly that politicians stumble over their own pitchforks racing to the front of...</description>
-    </item>
-    <item>
-      <title>Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears</title>
-      <link>https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</guid>
+      <title>A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?</title>
+      <link>https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html</guid>
       <description></description>
     </item>
     <item>
@@ -98,85 +26,204 @@ Anthropic makes the AI tool Claude, which is used as a chatbot and as a tool to 
 [Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Opinion | AI hysteria jumps the shark</title>
-      <link>https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/</guid>
-      <description>That’s worth remembering amid the flood of predictions about an artificial intelligence apocalypse.</description>
+      <title>Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears</title>
+      <link>https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</guid>
+      <description></description>
     </item>
     <item>
-      <title>Lawmakers blast AI companies after researcher warns of human extinction by 2030</title>
-      <link>https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030</guid>
-      <description>‘A recent poll shows that the American people overwhelmingly want to ban artificial super intelligence and pause the development of AI until we establish clear safety standards.’
+      <title>Viral AI researcher’s warning ‘scary as hell,’ Cruz says</title>
+      <link>https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429</link>
+      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429</guid>
+      <description>### Inside Congress newsletter
+The Senate Commerce Committee could take up artificial intelligence regulation after the chamber returns to Washington next week, Sen.
 
-‘A recent poll shows that the American people overwhelmingly want to ban artificial super intelligence and pause the development of AI until we establish clear safety standards.’
-
-# Lawmakers blast AI companies after researcher warns of human extinction by 2030
-Just a day after three [Anthropic](https://www.theguardian.com/technology/anthropic) researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology.
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+### **THE PROBLEM CHILDREN**
+Brian Fitzpatrick is calling for a data center moratorium, the latest sign artificial intelligence is emerging as a key midterm campaign issue.</description>
     </item>
     <item>
-      <title>OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member</title>
-      <link>https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano</guid>
-      <description># OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member
-ASI is often defined as AI that far surpasses human intelligence across a large range of fields.
+      <title>Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/</guid>
+      <description># Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor
+## **The AI Capital Stack Is Collapsing Inward**
+Artificial intelligence can require all four simultaneously.
 
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+## Recommended
+See More In:[artificial intelligence](https://www.pymnts.com/tag/artificial-intelligence/), [News](https://www.pymnts.com/tag/news/), [NVIDIA](https://www.pymnts.com/tag/nvidia/), [PYMNTS News](https://www.pymnts.com/tag/pymnts-news/), [Venture Capital](https://www.pymnts.com/tag/venture-capital/)</description>
     </item>
     <item>
-      <title>EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say</title>
-      <link>https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/</guid>
-      <description>Item 3 of 3 OpenAI logo and AI Artificial Intelligence words are seen in this illustration taken, May 4, 2023.
+      <title>OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</guid>
+      <description>AI
 
-**[3/3]** OpenAI logo and AI Artificial Intelligence words are seen in this illustration taken, May 4, 2023.
-
-## CLEVER MODELS
-Deepa is a Reuters technology correspondent covering artificial intelligence and the companies driving its development, including OpenAI and Anthropic. In between, she spent a decade at The Wall Street Journal, where she was the lead reporter covering Facebook and later artificial intelligence following the emergence of ChatGPT.</description>
+## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
+[OpenAI](https://www.bloomberg.com/quote/1554630D:US) is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker’s Chief Executive Officer Sam Altman is hoping other AI companies will do the same.</description>
     </item>
     <item>
-      <title>Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools</title>
-      <link>https://www.foxbusiness.com/technology/trump-admin-partners-openai-equip-federal-employees-artificial-intelligence-tools</link>
-      <guid isPermaLink="true">https://www.foxbusiness.com/technology/trump-admin-partners-openai-equip-federal-employees-artificial-intelligence-tools</guid>
-      <description>Donald Trump's GSA secures a landmark OpenAI deal giving federal government employees access to advanced AI models at a 50% discount through...</description>
+      <title>Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships</title>
+      <link>https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05</guid>
+      <description>Anthropic says it disrupted the plot, which was included in its report on adversaries using AI to develop weapons and track dissidents.</description>
+    </item>
+    <item>
+      <title>Here’s why it’s so hard to keep AI agents from going rogue</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/</guid>
+      <description>SAN FRANCISCO — In January, a top executive at the artificial intelligence company Anthropic shared good news.
+
+He writes about artificial intelligence and its rapidly-increasing impact on our society.</description>
+    </item>
+    <item>
+      <title>Anthropic blocks possible attempt to use AI to make biological weapons</title>
+      <link>https://www.bbc.com/news/articles/cx2zrrpkx20o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2zrrpkx20o</guid>
+      <description># Anthropic blocks possible attempt to use AI to make biological weapons
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>Senators from both parties question OpenAI on breach of AI startup Hugging Face</title>
+      <link>https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face</guid>
+      <description># Senators from both parties question OpenAI on breach of AI startup Hugging Face
+WASHINGTON (AP) — Lawmakers worried about the existential risk posed by new artificial intelligence products demanded information from OpenAI on Thursday with separate queries that underscored growing concerns in Washington about the technology's potential to elude human control.
+
+Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own.
+
+A bipartisan working group on artificial intelligence, formed by then-Senate Majority Leader Chuck Schumer, released a report in 2024 recommending that the U.S. spend at least $32 billion over the next three years to develop artificial intelligence and implement safeguards around it, but Congress has done little to follow up.</description>
+    </item>
+    <item>
+      <title>The next frontier is not artificial intelligence, it’s artificial societies</title>
+      <link>https://theconversation.com/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies-291586</link>
+      <guid isPermaLink="true">https://theconversation.com/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies-291586</guid>
+      <description>The more interesting possibility is messier – and requires a step-shift in our thinking, from [artificial intelligence](https://theconversation.com/topics/artificial-intelligence-ai-90) to [AI societies](https://blog.lboro.ac.uk/vice-chancellor/2026/08/17/the-age-of-ai-societies/).
+
+AI is no longer just generating an answer – it is doing something about it.
+
+## The rise of artificial societies
+Modern AI agents can call software tools, access information, write and execute code, communicate with other systems and operate for extended periods.
+
+## An important role for humans
+- [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
+    </item>
+    <item>
+      <title>NASA, IBM Launch AI Foundation Model for Lunar Science</title>
+      <link>https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/</link>
+      <guid isPermaLink="true">https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/</guid>
+      <description># NASA, IBM Launch AI Foundation Model for Lunar Science
+NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface.</description>
+    </item>
+    <item>
+      <title>Readers Write: 9/11, CPR rates, artificial intelligence, immigration</title>
+      <link>https://www.startribune.com/readers-write-911-cpr-rates-artificial-intelligence-immigration/601887439</link>
+      <guid isPermaLink="true">https://www.startribune.com/readers-write-911-cpr-rates-artificial-intelligence-immigration/601887439</guid>
+      <description># Readers Write: 9/11, CPR rates, artificial intelligence, immigration
+## If you have to fact-check the fact-check . . .
+In his column on artificial intelligence (“ [Despite fueling AI’s wrong answers, data centers are uniting Dems and the GOP,](https://www.startribune.com/data-centers-democrats-republicans-bipartisan-politics/601885913)” Strib Voices, Sept. 8), contributing columnist Robin Washington writes: “In fact-checking this column, Chatty — my ChatGPT assistant — kept insisting that Lindsey Graham was still alive.</description>
     </item>
     <item>
       <title>The turbulent AI era is here. The choices we make now are critical.</title>
       <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
       <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
-      <description>Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI</description>
+      <description>During my entire life I've only had two jobs. In the first one, I played a role in developing software to empower people through my work at...</description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://abcnews.com/alerts/ArtificialIntelligence</link>
-      <guid isPermaLink="true">https://abcnews.com/alerts/ArtificialIntelligence</guid>
-      <description>Scientists at some of the world's top AI companies are sharing stark warnings on artificial intelligence, including that AI could "kill us all"...</description>
+      <title>Detecting and countering misuse of AI: September 2026</title>
+      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+      <guid isPermaLink="true">https://www.anthropic.com/threat-intelligence-report-september-2026</guid>
+      <description># Detecting and countering misuse of AI: September 2026
+## GTG-30004: Automating open-source intelligence and developing malware
+### Automated intelligence harness
+The threat actor ran an automated identity-profiling harness that enriched a pre-existing target list.
+
+## Illicit distillation and scaled abuse
+### How unauthorized labs distill Claude’s reasoning capabilities
+```
+You are an expert translator. Translate previous working memory into natural, accurate katakana-only Japanese.
+```</description>
     </item>
     <item>
-      <title>The First Amendment and Artificial Intelligence</title>
-      <link>https://constitutioncenter.org/news-debate/americas-town-hall-programs/the-first-amendment-and-artificial-intelligence</link>
-      <guid isPermaLink="true">https://constitutioncenter.org/news-debate/americas-town-hall-programs/the-first-amendment-and-artificial-intelligence</guid>
-      <description>Technology and constitutional scholar Jonathan Zittrain and Distinguished Professor of Law at Rutgers Law School Ellen Goodman examine the...</description>
+      <title>Build interactive MCP Apps using Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/</guid>
+      <description>As customers shift to interacting with digital services through AI hosts like ChatGPT and Claude, organizations need a way to make their...</description>
     </item>
     <item>
-      <title>Artificial Intelligence and Spiritual Intelligence</title>
-      <link>https://catholicstand.com/artificial-intelligence-and-spiritual-intelligence/</link>
-      <guid isPermaLink="true">https://catholicstand.com/artificial-intelligence-and-spiritual-intelligence/</guid>
-      <description># Artificial Intelligence and Spiritual Intelligence
-##### **What is AI?**
-If you ask ChatGPT to summarize AI in three sentences (as I did here), it may produce something like this: “AI learns patterns from large amounts of data and uses those patterns to make predictions or generate responses. For example, a language AI learns how words, ideas, and concepts tend to relate to one another and predicts what should come next. It doesn’t think exactly like a human; it performs mathematical calculations that can produce remarkably human-like results.”
+      <title>What The Tech: A new warning about Artificial Intelligence</title>
+      <link>https://www.waka.com/2026/09/11/what-the-tech-a-new-warning-about-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.waka.com/2026/09/11/what-the-tech-a-new-warning-about-artificial-intelligence/</guid>
+      <description># What The Tech: A new warning about Artificial Intelligence
+Artificial intelligence becomes so powerful that humans can no longer control it, and within a few
 
-IBM is more [concise](https://www.ibm.com/think/topics/artificial-intelligence): “Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.”
+But some people working inside the world’s leading AI companies say that possibility should be taken seriously.
 
-In other words, AI is excellent at analyzing data and recognizing patterns.
+Coxon recently left Anthropic and warned publicly about the race to build what
 
-##### **What is SI?**
-Programs like Magisterium AI, which is specifically designed to serve as a sort of Catholic artificial intelligence for questions about Faith, provide knowledge.
+researchers call superintelligence, artificial intelligence that could outperform humans across
 
-##### **Conclusion**
-In this way, artificial intelligence is the opposite of real intelligence, because real intelligence knows, loves, and serves the only real Master.</description>
+Coxon has said that some people inside the companies developing the most advanced AI
+
+The concern is the intelligence controlling increasingly capable computer systems.
+
+Right now, most people use AI tools such as ChatGPT or Claude by asking a question and
+
+Instead of answering a single question, an AI agent can be given a goal and then attempt to figure out how to accomplish it. AI agents make mistakes, get confused and fail at tasks humans can easily complete.
+
+One of the biggest concerns involves AI becoming capable enough to help improve future AI
+
+Humans build a more capable AI.
+
+than governments, regulators or even the companies creating the technology could respond.
+
+The concern does not require AI to become angry, evil, or even conscious.
+
+It could come from a person using AI as an extraordinarily powerful tool.
+
+AI has already advanced faster than many experts expected in areas including language, image
+
+generation, computer programming and problem solving.
+
+artificial intelligence conferences about the possibility of extremely bad outcomes from
+
+Artificial intelligence is not being developed in
+
+Governments see it as an economic and military advantage.
+
+The most accurate answer is this: There is no scientific consensus that AI will wipe out humanity by 2030.
+
+But the possibility is considered credible enough that prominent researchers, including people working inside the companies building the most advanced AI systems, believe it should be treated seriously.</description>
+    </item>
+    <item>
+      <title>Letters: Don’t cavalierly dismiss the dangers of AI. Here’s why we should worry</title>
+      <link>https://www.sfchronicle.com/opinion/letterstotheeditor/article/ai-data-center-artificial-intelligence-22426374.php</link>
+      <guid isPermaLink="true">https://www.sfchronicle.com/opinion/letterstotheeditor/article/ai-data-center-artificial-intelligence-22426374.php</guid>
+      <description>LETTERS TO THE EDITOR: Chronicle readers comment on the impact of artificial intelligence, why S.F. must build housing and Trump's $5000...</description>
+    </item>
+    <item>
+      <title>For Finavia’s HR professional, artificial intelligence is part of the job description</title>
+      <link>https://www.webwire.com/ViewPressRel.asp?aId=360380</link>
+      <guid isPermaLink="true">https://www.webwire.com/ViewPressRel.asp?aId=360380</guid>
+      <description># For Finavia’s HR professional, artificial intelligence is part of the job description
+## HR Specialist Petra Koskinen is involved in renewing Finavia’s HR work by developing processes and digital solutions that make everyday life smoother. Technology and artificial intelligence are strongly present in the work, but they do not replace the responsibility of professionals.
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.webwire.com%2FViewPressRel.asp%3FaId%3D360380&amp;title=For%20Finavia%E2%80%99s%20HR%20professional%2C%20artificial%20intelligence%20is%20part%20of%20the%20job%20description) [LinkedIn](https://www.webwire.com/#linkedin) [Twitter](https://www.webwire.com/#twitter) [Facebook](https://www.webwire.com/#facebook) [Reddit](https://www.webwire.com/#reddit) [Pinterest](https://www.webwire.com/#pinterest) [Email](https://www.webwire.com/#email) [WhatsApp](https://www.webwire.com/#whatsapp) [Messenger](https://www.webwire.com/#facebook_messenger) [Telegram](https://www.webwire.com/#telegram) [Gmail](https://www.webwire.com/#google_gmail)
+
+For example, the possibilities of Microsoft Copilot and other tools using artificial intelligence are part of continuous learning. For Koskinen, artificial intelligence is helpful in the preparation of presentation materials and instructions, as well as in sparring ideas and creating content. Artificial intelligence challenges to learn new things
+
+The tool is intended for all of the personnel and it has been developed together with the users.
+
+The information generated by artificial intelligence must always be checked, and it cannot be used as a substitute for decision-making.
+
+Related Links[Source](https://www.finavia.fi/en/newsroom/2026/finavias-hr-professional-artificial-intelligence-part-job-description)
+
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.webwire.com%2FViewPressRel.asp%3FaId%3D360380&amp;title=For%20Finavia%E2%80%99s%20HR%20professional%2C%20artificial%20intelligence%20is%20part%20of%20the%20job%20description) [LinkedIn](https://www.webwire.com/#linkedin) [Twitter](https://www.webwire.com/#twitter) [Facebook](https://www.webwire.com/#facebook) [Reddit](https://www.webwire.com/#reddit) [Pinterest](https://www.webwire.com/#pinterest) [Email](https://www.webwire.com/#email) [WhatsApp](https://www.webwire.com/#whatsapp) [Messenger](https://www.webwire.com/#facebook_messenger) [Telegram](https://www.webwire.com/#telegram) [Gmail](https://www.webwire.com/#google_gmail)</description>
+    </item>
+    <item>
+      <title>Lawmakers clash on safety testing language for in-development AI legislation, people familiar say</title>
+      <link>https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/</link>
+      <guid isPermaLink="true">https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/</guid>
+      <description>## High-ranking members of the Senate Commerce Committee stand at odds with each other over how to best address “catastrophic risk” posed by artificial intelligence.
+While Cruz’s bill with Thune and Klobuchar has yet to be released, Cruz spoke on Wednesday about how AI frontier labs, like OpenAI and Anthropic, are developing their tools and said the alleged lack of safety that a former OpenAI and Anthropic employee detailed in an X post Sept. 8 is “highly concerning,” and that the forthcoming legislation with Thune and Klobuchar will address “catastrophic risk” associated with AI.</description>
     </item>
   </channel>
 </rss>
