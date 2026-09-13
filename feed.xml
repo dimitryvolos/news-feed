@@ -5,93 +5,178 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:03:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?</title>
-      <link>https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html</guid>
+      <title>Top A.I. Leaders Call for Slowing Down A.I. Development</title>
+      <link>https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic researcher believes more than 10% chance AI 'could kill all humans'</title>
-      <link>https://www.bbc.com/news/articles/ckgwy1k42w4o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/ckgwy1k42w4o</guid>
-      <description># Anthropic researcher believes more than 10% chance AI 'could kill all humans'
-Anthropic makes the AI tool Claude, which is used as a chatbot and as a tool to help coding
-
-## No plan for superintelligence
-[OpenAI](https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o), [Anthropic](https://www.bbc.co.uk/news/articles/cz7dl7w8y7po) and [Meta](https://www.bbc.co.uk/news/articles/cx2kgdnyk2po) all disclosed hacks carried out by their AI tools.
-
+      <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
+      <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
+      <description># Anthropic boss Dario Amodei calls for AI development to slow down
 [Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears</title>
-      <link>https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628</guid>
+      <title>Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of</title>
+      <link>https://gizmodo.com/anthropic-ceo-dario-amodei-calls-for-pause-in-ai-development-sort-of-2000810962</link>
+      <guid isPermaLink="true">https://gizmodo.com/anthropic-ceo-dario-amodei-calls-for-pause-in-ai-development-sort-of-2000810962</guid>
+      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+
+# Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of
+## Related Articles
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Matt Novak](https://gizmodo.com/author/mattnovak)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
+    </item>
+    <item>
+      <title>‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown</title>
+      <link>https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown</guid>
+      <description># ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
+The CEO of the artificial intelligence company [Anthropic](https://www.theguardian.com/technology/anthropic) issued a new appeal on Saturday for the [AI](https://www.theguardian.com/technology/artificialintelligenceai) industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.
+
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
+    <item>
+      <title>Top AI leaders unite to warn the technology is advancing too fast</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/</guid>
+      <description>Three of the nation’s leading artificial intelligence executives endorsed slowing down the blistering pace of technological advancement, revealing the growing unease with its potential dangers at the industry’s very highest levels.
+
+The comments express significant concern about the rapid development and potential dangers of artificial intelligence (AI).</description>
+    </item>
+    <item>
+      <title>Is there really a 10% chance AI could kill us all?</title>
+      <link>https://www.latimes.com/business/story/2026-09-11/is-there-really-10-chance-ai-could-kill-us-all</link>
+      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-09-11/is-there-really-10-chance-ai-could-kill-us-all</guid>
+      <description># Is there really a 10% chance AI could kill us all?
+### [‘Brutal’: A growing tribe of jobless techies is lost in Silicon Valley’s new reality](https://www.latimes.com/business/story/2026-05-19/ai-layoffs-jobless-tech-workers-silicon-valley)
+Artificial intelligence companies are testing the technology as they go to understand how it works and how to manage it.</description>
+    </item>
+    <item>
+      <title>AI leaders endorse slowdown in their risky technology</title>
+      <link>https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519</guid>
       <description></description>
     </item>
     <item>
-      <title>Viral AI researcher’s warning ‘scary as hell,’ Cruz says</title>
-      <link>https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429</link>
-      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429</guid>
-      <description>### Inside Congress newsletter
-The Senate Commerce Committee could take up artificial intelligence regulation after the chamber returns to Washington next week, Sen.
-
-### **THE PROBLEM CHILDREN**
-Brian Fitzpatrick is calling for a data center moratorium, the latest sign artificial intelligence is emerging as a key midterm campaign issue.</description>
+      <title>Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO</title>
+      <link>https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</guid>
+      <description># Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO
+### Concerns about using AI to improve AI
+- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
     </item>
     <item>
-      <title>Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-becomes-the-worlds-most-active-100-million-plus-vc-investor/</guid>
-      <description># Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor
-## **The AI Capital Stack Is Collapsing Inward**
-Artificial intelligence can require all four simultaneously.
-
-## Recommended
-See More In:[artificial intelligence](https://www.pymnts.com/tag/artificial-intelligence/), [News](https://www.pymnts.com/tag/news/), [NVIDIA](https://www.pymnts.com/tag/nvidia/), [PYMNTS News](https://www.pymnts.com/tag/pymnts-news/), [Venture Capital](https://www.pymnts.com/tag/venture-capital/)</description>
+      <title>Anthropic CEO urges AI companies to slow model development amid fears over misuse</title>
+      <link>https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/</guid>
+      <description>## 'KILL US ALL'
+Various OpenAI executives have [suggested](https://www.reuters.com/technology/artificial-intelligence/ai-models-capabilities-leap-comes-with-new-safety-warnings-2026-09-09/) that leading labs should be willing to coordinate a voluntary slowdown if needed to build confidence in their safety measures.</description>
     </item>
     <item>
-      <title>OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff</guid>
-      <description>AI
-
-## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-[OpenAI](https://www.bloomberg.com/quote/1554630D:US) is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker’s Chief Executive Officer Sam Altman is hoping other AI companies will do the same.</description>
+      <title>OpenAI reveals another rogue AI attack</title>
+      <link>https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312</guid>
+      <description># OpenAI reveals another rogue AI attack
+## Share
+OpenAI’s artificial intelligence launched a cyberattack against an online service months before a [July hack against startup Hugging Face](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190), the company confirmed Friday, a revelation that could ramp up calls for safety regulations across the industry.</description>
     </item>
     <item>
-      <title>Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships</title>
-      <link>https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05</guid>
-      <description>Anthropic says it disrupted the plot, which was included in its report on adversaries using AI to develop weapons and track dissidents.</description>
+      <title>The turbulent AI era is here. The choices we make now are critical.</title>
+      <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
+      <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
+      <description>During my entire life I've only had two jobs. In the first one, I played a role in developing software to empower people through my work at...</description>
     </item>
     <item>
-      <title>Here’s why it’s so hard to keep AI agents from going rogue</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/</guid>
-      <description>SAN FRANCISCO — In January, a top executive at the artificial intelligence company Anthropic shared good news.
+      <title>Bill White: A different perspective on artificial intelligence</title>
+      <link>https://www.mcall.com/2026/09/12/bill-white-a-different-perspective-on-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.mcall.com/2026/09/12/bill-white-a-different-perspective-on-artificial-intelligence/</guid>
+      <description>I received wonderful responses to my columns this summer about Fenway Park, artificial intelligence and golf, so I thought I would share a small sampling today.
 
-He writes about artificial intelligence and its rapidly-increasing impact on our society.</description>
+#### Artificial intelligence
+We’ll start with the AI column, in which I admitted I’m glad I’ve retired from teaching because of the challenge posed by students using AI to do their writing assignments.
+
+I got a really interesting response from a friend who has worked with educators and students as part of his cybersecurity business. He offered a perspective I hadn’t considered, writing in part:
+
+“When I talk to school administrators about their biggest AI fears in education, they almost all start with student cheating. It’s a legitimate problem. They are very afraid that their kids cheat with AI and won’t learn the material.
+
+“When I ask the students about their biggest AI fears in education, they say something completely different. They are afraid of being accused of cheating with AI. In fact, every student in my class had a horror story about how they innocently submitted a paper or an assignment and some random AI checker flagged it as fake, and they either got a zero or had to explain themselves to their angry teacher. Some of these students are deliberately adding typos and weird syntax into their assignments because the AI sniffers won’t pick it up as easily. The students told stories of arbitrary judgments by different teachers, multiple AI checking tools with inconsistent outcomes, and a lack of written appeals processes.
+
+“Essentially, the constant suspicion by teachers that their students are cheating with AI is destroying the trust that they need to teach them.
+
+“In all the articles I’ve seen written about cheating and AI, I’ve never seen one focusing on this aspect of the problem.”
+
+That was an eye-opener for me. If any educators or students would care to respond, I’d love to hear from you.</description>
     </item>
     <item>
-      <title>Anthropic blocks possible attempt to use AI to make biological weapons</title>
-      <link>https://www.bbc.com/news/articles/cx2zrrpkx20o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2zrrpkx20o</guid>
-      <description># Anthropic blocks possible attempt to use AI to make biological weapons
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+      <title>This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy</title>
+      <link>https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/</guid>
+      <description>SoundHound AI (SOUN -0.32%) develops voice and conversational AI technology for businesses. The company's shares have tanked nearly 71% from...</description>
     </item>
     <item>
-      <title>Senators from both parties question OpenAI on breach of AI startup Hugging Face</title>
-      <link>https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face</link>
-      <guid isPermaLink="true">https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face</guid>
-      <description># Senators from both parties question OpenAI on breach of AI startup Hugging Face
-WASHINGTON (AP) — Lawmakers worried about the existential risk posed by new artificial intelligence products demanded information from OpenAI on Thursday with separate queries that underscored growing concerns in Washington about the technology's potential to elude human control.
+      <title>Artificial intelligence and the left</title>
+      <link>https://mondediplo.com/2026/09/12ai</link>
+      <guid isPermaLink="true">https://mondediplo.com/2026/09/12ai</guid>
+      <description># Artificial intelligence and the left
+Armed with ChatGPT, the 37-year-old chef contested the charge.
 
-Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own.
+Two centuries later an artificial intelligence (AI) model – a machine trained on humanity’s accumulated knowledge – helped one man claw back a piece of his life from another petty leviathan.</description>
+    </item>
+    <item>
+      <title>This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html</guid>
+      <description># This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy
+**SoundHound AI**(NASDAQ: SOUN) develops voice and conversational AI technology for businesses.</description>
+    </item>
+    <item>
+      <title>Mental Health in the Age of Artificial Intelligence</title>
+      <link>https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/</guid>
+      <description>[Chinese (Simplified)](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [English](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [French](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [German](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Italian](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Japanese](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Russian](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Spanish](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#)
 
-A bipartisan working group on artificial intelligence, formed by then-Senate Majority Leader Chuck Schumer, released a report in 2024 recommending that the U.S. spend at least $32 billion over the next three years to develop artificial intelligence and implement safeguards around it, but Congress has done little to follow up.</description>
+People use artificial intelligence in various ways – as a tool, an aid for organization, creation, or conversation.</description>
+    </item>
+    <item>
+      <title>The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could</title>
+      <link>https://www.facebook.com/Boston25News/posts/the-ceo-of-anthropic-said-saturday-the-artificial-intelligence-industry-should-s/1568885861939741/</link>
+      <guid isPermaLink="true">https://www.facebook.com/Boston25News/posts/the-ceo-of-anthropic-said-saturday-the-artificial-intelligence-industry-should-s/1568885861939741/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI could possibly end humanity. How are humans supposed to process that?</title>
+      <link>https://www.sfexaminer.com/ai-could-possibly-end-humanity-how-are-humans-supposed-to-process-that/article_a28b08f9-c652-5f16-ae3c-0799bc15d8cb.html</link>
+      <guid isPermaLink="true">https://www.sfexaminer.com/ai-could-possibly-end-humanity-how-are-humans-supposed-to-process-that/article_a28b08f9-c652-5f16-ae3c-0799bc15d8cb.html</guid>
+      <description>Explore the potential threats posed by artificial intelligence, from bioweapon attacks to economic destabilization, and the ongoing debate...</description>
+    </item>
+    <item>
+      <title>Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms</title>
+      <link>https://www.2minutemedicine.com/artificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms/</link>
+      <guid isPermaLink="true">https://www.2minutemedicine.com/artificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms/</guid>
+      <description># Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms
+in [Artificial Intelligence](https://www.2minutemedicine.com/category/all/artificial-intelligence/), [Chronic Disease](https://www.2minutemedicine.com/category/all/chronic-disease/), [Psychiatry](https://www.2minutemedicine.com/category/all/psychiatry/), [Public Health](https://www.2minutemedicine.com/category/all/public-health/)
+
+[Share on Facebook](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F) [Share on Twitter](https://twitter.com/intent/tweet?text=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms&amp;url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F) [Share on Pinterest](https://www.pinterest.com/pin/create/bookmarklet/?pinFave=1&amp;url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F&amp;media=https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/psychiatry_depression_gaba_therapy_window_2_minute_medicine.webp&amp;description=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms)
+
+[Share on Linkedin](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F&amp;title=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms)
+
+**Heinz and colleagues evaluated a generative AI chatbot for adults with clinically significant depression, anxiety, or elevated risk for eating disorders.**
+
+**Users of the chatbot experienced greater symptom reductions compared to controls on the waitlist and reported higher engagement.**
+
+Heinz and colleagues evaluated Therabot, a generative AI chatbot’s effectiveness in treating symptoms of major depressive disorder (MDD), generalized anxiety disorder (GAD), and clinically high-risk feeding and eating disorder (CHR-FED). Compared with controls, Therabot users experienced significantly greater reductions across all three symptom domains at four and eight weeks of usage.</description>
     </item>
     <item>
       <title>The next frontier is not artificial intelligence, it’s artificial societies</title>
@@ -106,124 +191,6 @@ Modern AI agents can call software tools, access information, write and execute 
 
 ## An important role for humans
 - [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
-    </item>
-    <item>
-      <title>NASA, IBM Launch AI Foundation Model for Lunar Science</title>
-      <link>https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/</link>
-      <guid isPermaLink="true">https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/</guid>
-      <description># NASA, IBM Launch AI Foundation Model for Lunar Science
-NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface.</description>
-    </item>
-    <item>
-      <title>Readers Write: 9/11, CPR rates, artificial intelligence, immigration</title>
-      <link>https://www.startribune.com/readers-write-911-cpr-rates-artificial-intelligence-immigration/601887439</link>
-      <guid isPermaLink="true">https://www.startribune.com/readers-write-911-cpr-rates-artificial-intelligence-immigration/601887439</guid>
-      <description># Readers Write: 9/11, CPR rates, artificial intelligence, immigration
-## If you have to fact-check the fact-check . . .
-In his column on artificial intelligence (“ [Despite fueling AI’s wrong answers, data centers are uniting Dems and the GOP,](https://www.startribune.com/data-centers-democrats-republicans-bipartisan-politics/601885913)” Strib Voices, Sept. 8), contributing columnist Robin Washington writes: “In fact-checking this column, Chatty — my ChatGPT assistant — kept insisting that Lindsey Graham was still alive.</description>
-    </item>
-    <item>
-      <title>The turbulent AI era is here. The choices we make now are critical.</title>
-      <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
-      <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
-      <description>During my entire life I've only had two jobs. In the first one, I played a role in developing software to empower people through my work at...</description>
-    </item>
-    <item>
-      <title>Detecting and countering misuse of AI: September 2026</title>
-      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-      <guid isPermaLink="true">https://www.anthropic.com/threat-intelligence-report-september-2026</guid>
-      <description># Detecting and countering misuse of AI: September 2026
-## GTG-30004: Automating open-source intelligence and developing malware
-### Automated intelligence harness
-The threat actor ran an automated identity-profiling harness that enriched a pre-existing target list.
-
-## Illicit distillation and scaled abuse
-### How unauthorized labs distill Claude’s reasoning capabilities
-```
-You are an expert translator. Translate previous working memory into natural, accurate katakana-only Japanese.
-```</description>
-    </item>
-    <item>
-      <title>Build interactive MCP Apps using Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/</guid>
-      <description>As customers shift to interacting with digital services through AI hosts like ChatGPT and Claude, organizations need a way to make their...</description>
-    </item>
-    <item>
-      <title>What The Tech: A new warning about Artificial Intelligence</title>
-      <link>https://www.waka.com/2026/09/11/what-the-tech-a-new-warning-about-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.waka.com/2026/09/11/what-the-tech-a-new-warning-about-artificial-intelligence/</guid>
-      <description># What The Tech: A new warning about Artificial Intelligence
-Artificial intelligence becomes so powerful that humans can no longer control it, and within a few
-
-But some people working inside the world’s leading AI companies say that possibility should be taken seriously.
-
-Coxon recently left Anthropic and warned publicly about the race to build what
-
-researchers call superintelligence, artificial intelligence that could outperform humans across
-
-Coxon has said that some people inside the companies developing the most advanced AI
-
-The concern is the intelligence controlling increasingly capable computer systems.
-
-Right now, most people use AI tools such as ChatGPT or Claude by asking a question and
-
-Instead of answering a single question, an AI agent can be given a goal and then attempt to figure out how to accomplish it. AI agents make mistakes, get confused and fail at tasks humans can easily complete.
-
-One of the biggest concerns involves AI becoming capable enough to help improve future AI
-
-Humans build a more capable AI.
-
-than governments, regulators or even the companies creating the technology could respond.
-
-The concern does not require AI to become angry, evil, or even conscious.
-
-It could come from a person using AI as an extraordinarily powerful tool.
-
-AI has already advanced faster than many experts expected in areas including language, image
-
-generation, computer programming and problem solving.
-
-artificial intelligence conferences about the possibility of extremely bad outcomes from
-
-Artificial intelligence is not being developed in
-
-Governments see it as an economic and military advantage.
-
-The most accurate answer is this: There is no scientific consensus that AI will wipe out humanity by 2030.
-
-But the possibility is considered credible enough that prominent researchers, including people working inside the companies building the most advanced AI systems, believe it should be treated seriously.</description>
-    </item>
-    <item>
-      <title>Letters: Don’t cavalierly dismiss the dangers of AI. Here’s why we should worry</title>
-      <link>https://www.sfchronicle.com/opinion/letterstotheeditor/article/ai-data-center-artificial-intelligence-22426374.php</link>
-      <guid isPermaLink="true">https://www.sfchronicle.com/opinion/letterstotheeditor/article/ai-data-center-artificial-intelligence-22426374.php</guid>
-      <description>LETTERS TO THE EDITOR: Chronicle readers comment on the impact of artificial intelligence, why S.F. must build housing and Trump's $5000...</description>
-    </item>
-    <item>
-      <title>For Finavia’s HR professional, artificial intelligence is part of the job description</title>
-      <link>https://www.webwire.com/ViewPressRel.asp?aId=360380</link>
-      <guid isPermaLink="true">https://www.webwire.com/ViewPressRel.asp?aId=360380</guid>
-      <description># For Finavia’s HR professional, artificial intelligence is part of the job description
-## HR Specialist Petra Koskinen is involved in renewing Finavia’s HR work by developing processes and digital solutions that make everyday life smoother. Technology and artificial intelligence are strongly present in the work, but they do not replace the responsibility of professionals.
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.webwire.com%2FViewPressRel.asp%3FaId%3D360380&amp;title=For%20Finavia%E2%80%99s%20HR%20professional%2C%20artificial%20intelligence%20is%20part%20of%20the%20job%20description) [LinkedIn](https://www.webwire.com/#linkedin) [Twitter](https://www.webwire.com/#twitter) [Facebook](https://www.webwire.com/#facebook) [Reddit](https://www.webwire.com/#reddit) [Pinterest](https://www.webwire.com/#pinterest) [Email](https://www.webwire.com/#email) [WhatsApp](https://www.webwire.com/#whatsapp) [Messenger](https://www.webwire.com/#facebook_messenger) [Telegram](https://www.webwire.com/#telegram) [Gmail](https://www.webwire.com/#google_gmail)
-
-For example, the possibilities of Microsoft Copilot and other tools using artificial intelligence are part of continuous learning. For Koskinen, artificial intelligence is helpful in the preparation of presentation materials and instructions, as well as in sparring ideas and creating content. Artificial intelligence challenges to learn new things
-
-The tool is intended for all of the personnel and it has been developed together with the users.
-
-The information generated by artificial intelligence must always be checked, and it cannot be used as a substitute for decision-making.
-
-Related Links[Source](https://www.finavia.fi/en/newsroom/2026/finavias-hr-professional-artificial-intelligence-part-job-description)
-
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.webwire.com%2FViewPressRel.asp%3FaId%3D360380&amp;title=For%20Finavia%E2%80%99s%20HR%20professional%2C%20artificial%20intelligence%20is%20part%20of%20the%20job%20description) [LinkedIn](https://www.webwire.com/#linkedin) [Twitter](https://www.webwire.com/#twitter) [Facebook](https://www.webwire.com/#facebook) [Reddit](https://www.webwire.com/#reddit) [Pinterest](https://www.webwire.com/#pinterest) [Email](https://www.webwire.com/#email) [WhatsApp](https://www.webwire.com/#whatsapp) [Messenger](https://www.webwire.com/#facebook_messenger) [Telegram](https://www.webwire.com/#telegram) [Gmail](https://www.webwire.com/#google_gmail)</description>
-    </item>
-    <item>
-      <title>Lawmakers clash on safety testing language for in-development AI legislation, people familiar say</title>
-      <link>https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/</link>
-      <guid isPermaLink="true">https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/</guid>
-      <description>## High-ranking members of the Senate Commerce Committee stand at odds with each other over how to best address “catastrophic risk” posed by artificial intelligence.
-While Cruz’s bill with Thune and Klobuchar has yet to be released, Cruz spoke on Wednesday about how AI frontier labs, like OpenAI and Anthropic, are developing their tools and said the alleged lack of safety that a former OpenAI and Anthropic employee detailed in an X post Sept. 8 is “highly concerning,” and that the forthcoming legislation with Thune and Klobuchar will address “catastrophic risk” associated with AI.</description>
     </item>
   </channel>
 </rss>
