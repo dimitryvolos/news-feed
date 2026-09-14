@@ -5,192 +5,166 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:44:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Top A.I. Leaders Call for Slowing Down A.I. Development</title>
+      <title>Chip Roy is leaving Congress — but not before warning his colleagues about AI</title>
+      <link>https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553</guid>
+      <description>The Texas Republican isn't typically one to cede ground. But now he says he's wrestling with what the advent of artificial intelligence...</description>
+    </item>
+    <item>
+      <title>What are the five pros and cons of artificial intelligence?</title>
+      <link>https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence</guid>
+      <description>Supporters of artificial intelligence (AI) argue it can raise productivity and create new kinds of work, but its rapid development is raising concerns about job losses, the spread of misinformation, and the resources needed to power AI infrastructure [Dado Ruvic/Illustration/Reuters]
+
+Artificial intelligence has rapidly become a tool used by hundreds of millions of people, but tech leaders are sounding alarms against the rapid advancement of AI that is being seen as a threat to humanity.
+
+AI systems can now generate text and images, write computer code, and perform complex analyses that once required a significant amount of time and human input.</description>
+    </item>
+    <item>
+      <title>If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-artificial-204600089.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-artificial-204600089.html</guid>
+      <description>There's a whole host of artificial intelligence (AI) stocks on the market right now, ranging from companies that are all-in on AI to those...</description>
+    </item>
+    <item>
+      <title>Trump downplays AI risks after dire expert warnings and calls to slow development down</title>
+      <link>https://www.bbc.com/news/articles/c7v48vp31mdo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c7v48vp31mdo</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trump resists AI slowdown as the political tide turns</title>
+      <link>https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/</guid>
+      <description>DUBLIN — President Donald Trump on Sunday appeared to dismiss calls from top artificial intelligence leaders to slow the development of AI models,as Democrats seize on his administration’s resistance to regulation as a line of attack in the midterms.
+
+The comments express strong criticism of President Donald Trump, particularly regarding his handling of artificial intelligence (AI) and other significant issues.</description>
+    </item>
+    <item>
+      <title>‘Whoever wins with AI wins’</title>
+      <link>https://www.bostonherald.com/2026/09/13/whoever-wins-with-ai-wins/</link>
+      <guid isPermaLink="true">https://www.bostonherald.com/2026/09/13/whoever-wins-with-ai-wins/</guid>
+      <description>DUBLIN — President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America’s edge over China in a global competition and that winning would help address the risks from the advancing technology.
+
+The Republican president spoke a day after Dario Amodei, CEO of the artificial intelligence company Anthropic, said the industry should put the brakes on its fast-moving development to give safety measures time to catch up.</description>
+    </item>
+    <item>
+      <title>As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI will transform capitalism – but how?</title>
+      <link>https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how</guid>
+      <description># AI will transform capitalism – but how?
+Artificial intelligence does this for brain work, and to very high standards, less than five years into the deployment of LLMs.
+
+But that still leaves the question of what _kind_ of artificial intelligence we need to design.
+
+## Further reading
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
+    <item>
+      <title>He was close to a huge math breakthrough. Then he got scooped by AI.</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/</guid>
+      <description>A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed...</description>
+    </item>
+    <item>
+      <title>What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development</title>
+      <link>https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown</title>
       <link>https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
-      <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
-      <description># Anthropic boss Dario Amodei calls for AI development to slow down
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+      <title>Sam Altman says OpenAI will not go public this year as AI fears grow</title>
+      <link>https://www.sfchronicle.com/tech/article/openai-ipo-delay-altman-22430043.php</link>
+      <guid isPermaLink="true">https://www.sfchronicle.com/tech/article/openai-ipo-delay-altman-22430043.php</guid>
+      <description></description>
     </item>
     <item>
-      <title>Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of</title>
-      <link>https://gizmodo.com/anthropic-ceo-dario-amodei-calls-for-pause-in-ai-development-sort-of-2000810962</link>
-      <guid isPermaLink="true">https://gizmodo.com/anthropic-ceo-dario-amodei-calls-for-pause-in-ai-development-sort-of-2000810962</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
-
-# Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Matt Novak](https://gizmodo.com/author/mattnovak)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
-    </item>
-    <item>
-      <title>‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown</title>
-      <link>https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown</guid>
-      <description># ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
-The CEO of the artificial intelligence company [Anthropic](https://www.theguardian.com/technology/anthropic) issued a new appeal on Saturday for the [AI](https://www.theguardian.com/technology/artificialintelligenceai) industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps.
+      <title>OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development</title>
+      <link>https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development</guid>
+      <description># OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development
+[He also said OpenAI would not go public in 2026](https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns), citing safety concerns over [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai).
 
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>Top AI leaders unite to warn the technology is advancing too fast</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/</guid>
-      <description>Three of the nation’s leading artificial intelligence executives endorsed slowing down the blistering pace of technological advancement, revealing the growing unease with its potential dangers at the industry’s very highest levels.
+      <title>We asked AI whether it would lead to human extinction in a decade. Here’s what it said</title>
+      <link>https://www.independent.co.uk/voices/ai-artificial-intelligence-human-extinction-response-b3049134.html</link>
+      <guid isPermaLink="true">https://www.independent.co.uk/voices/ai-artificial-intelligence-human-extinction-response-b3049134.html</guid>
+      <description>### Thank you for registering
+When artificial intelligence researcher Jacob Coxon quit tech giant Anthropic earlier this month, he warned that the company and its rivals were “gambling with our lives”.</description>
+    </item>
+    <item>
+      <title>AI-driven 'worms' that learn on the fly are the latest potential threat to your devices, researchers say</title>
+      <link>https://www.cbc.ca/news/business/ai-computer-worms-cybersecurity-9.7341021</link>
+      <guid isPermaLink="true">https://www.cbc.ca/news/business/ai-computer-worms-cybersecurity-9.7341021</guid>
+      <description># AI-driven 'worms' that learn on the fly are the latest potential threat to your devices, researchers say
+Artificial intelligence researchers are warning the public to use strong passwords and promptly install software updates on their devices to combat "AI-driven computer worms," a new breed of cyber-threat they say can launch custom attacks on devices, sapping processing power and information as they hunt for new victims.
 
-The comments express significant concern about the rapid development and potential dangers of artificial intelligence (AI).</description>
+## Worms that learn
+Two artificial intelligence experts are warning that AI is getting too smart, too quickly.
+
+In July, hundreds of artificial intelligence agents from OpenAI went rogue, hacking into the online platform Hugging Face.
+
+The federal government released its [national artificial intelligence strategy](https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all) in early June.</description>
     </item>
     <item>
-      <title>Is there really a 10% chance AI could kill us all?</title>
-      <link>https://www.latimes.com/business/story/2026-09-11/is-there-really-10-chance-ai-could-kill-us-all</link>
-      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-09-11/is-there-really-10-chance-ai-could-kill-us-all</guid>
-      <description># Is there really a 10% chance AI could kill us all?
-### [‘Brutal’: A growing tribe of jobless techies is lost in Silicon Valley’s new reality](https://www.latimes.com/business/story/2026-05-19/ai-layoffs-jobless-tech-workers-silicon-valley)
-Artificial intelligence companies are testing the technology as they go to understand how it works and how to manage it.</description>
+      <title>House Democratic Leader Jeffries calls on lawmakers to 'act urgently' on AI</title>
+      <link>https://abcnews.com/Politics/house-democratic-leader-jeffries-calls-lawmakers-act-urgently/story?id=136401544</link>
+      <guid isPermaLink="true">https://abcnews.com/Politics/house-democratic-leader-jeffries-calls-lawmakers-act-urgently/story?id=136401544</guid>
+      <description># House Democratic Leader Jeffries calls on lawmakers to 'act urgently' on AI
+House Democratic Leader Hakeem Jeffries said Sunday that lawmakers need to take urgent action on the growing threat of artificial intelligence (AI).
+
+According to Jeffries, the Democratic caucus plans to meet on Tuesday and a “high priority will be action on artificial intelligence.”
+
+## Related Topics
+- [Artificial Intelligence](https://abcnews.com/alerts/ArtificialIntelligence)</description>
     </item>
     <item>
-      <title>AI leaders endorse slowdown in their risky technology</title>
-      <link>https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/12/anthropic-ceo-dario-amodei-seeks-immediate-slowdown-artificial-intelligence-01073519</guid>
+      <title>Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO</title>
-      <link>https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks</guid>
-      <description># Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO
-### Concerns about using AI to improve AI
-- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
+      <title>Obama Sounds The Alarm On 'Dangerous' AI, Urges Dems To Take Action: NYT</title>
+      <link>https://www.huffpost.com/entry/obama-ai-artificial-intelligence-democrats-nyt_n_6aa69a52e4b054da7a22ca53</link>
+      <guid isPermaLink="true">https://www.huffpost.com/entry/obama-ai-artificial-intelligence-democrats-nyt_n_6aa69a52e4b054da7a22ca53</guid>
+      <description>## Conversation714 Comments
+### Thanks for being part of the HuffPost community! Here are our  [Community Guidelines](https://www.huffpost.com/entry/obama-ai-artificial-intelligence-democrats-nyt_n_6aa69a52e4b054da7a22ca53#!) that explain the rules for creating a safe space for people to comment. Please read those guidelines -- we block people who violate our rules repeatedly. For more information or support, please visit our [FAQ](https://www.huffpost.com/static/faq).
+**Artificial Intelligence** models describe Donald Trump as a polarizing, influential, and unconventional political figure who utilizes modern digital media to project strength while drawing mixed factual and political evaluations.</description>
     </item>
     <item>
-      <title>Anthropic CEO urges AI companies to slow model development amid fears over misuse</title>
-      <link>https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/anthropic-ceo-urges-ai-companies-slow-model-development-2026-09-12/</guid>
-      <description>## 'KILL US ALL'
-Various OpenAI executives have [suggested](https://www.reuters.com/technology/artificial-intelligence/ai-models-capabilities-leap-comes-with-new-safety-warnings-2026-09-09/) that leading labs should be willing to coordinate a voluntary slowdown if needed to build confidence in their safety measures.</description>
-    </item>
-    <item>
-      <title>OpenAI reveals another rogue AI attack</title>
-      <link>https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312</guid>
-      <description># OpenAI reveals another rogue AI attack
-## Share
-OpenAI’s artificial intelligence launched a cyberattack against an online service months before a [July hack against startup Hugging Face](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190), the company confirmed Friday, a revelation that could ramp up calls for safety regulations across the industry.</description>
+      <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</guid>
+      <description>[AI](https://techcrunch.com/category/artificial-intelligence/)
+
+# Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, [according to The New York Times](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html).
+
+[AI](https://techcrunch.com/category/artificial-intelligence/), [Barack Obama](https://techcrunch.com/tag/barack-obama/), [Donald Trump](https://techcrunch.com/tag/donald-trump/), [Government &amp; Policy](https://techcrunch.com/category/government-policy/)</description>
     </item>
     <item>
       <title>The turbulent AI era is here. The choices we make now are critical.</title>
       <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
       <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
-      <description>During my entire life I've only had two jobs. In the first one, I played a role in developing software to empower people through my work at...</description>
-    </item>
-    <item>
-      <title>Bill White: A different perspective on artificial intelligence</title>
-      <link>https://www.mcall.com/2026/09/12/bill-white-a-different-perspective-on-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.mcall.com/2026/09/12/bill-white-a-different-perspective-on-artificial-intelligence/</guid>
-      <description>I received wonderful responses to my columns this summer about Fenway Park, artificial intelligence and golf, so I thought I would share a small sampling today.
-
-#### Artificial intelligence
-We’ll start with the AI column, in which I admitted I’m glad I’ve retired from teaching because of the challenge posed by students using AI to do their writing assignments.
-
-I got a really interesting response from a friend who has worked with educators and students as part of his cybersecurity business. He offered a perspective I hadn’t considered, writing in part:
-
-“When I talk to school administrators about their biggest AI fears in education, they almost all start with student cheating. It’s a legitimate problem. They are very afraid that their kids cheat with AI and won’t learn the material.
-
-“When I ask the students about their biggest AI fears in education, they say something completely different. They are afraid of being accused of cheating with AI. In fact, every student in my class had a horror story about how they innocently submitted a paper or an assignment and some random AI checker flagged it as fake, and they either got a zero or had to explain themselves to their angry teacher. Some of these students are deliberately adding typos and weird syntax into their assignments because the AI sniffers won’t pick it up as easily. The students told stories of arbitrary judgments by different teachers, multiple AI checking tools with inconsistent outcomes, and a lack of written appeals processes.
-
-“Essentially, the constant suspicion by teachers that their students are cheating with AI is destroying the trust that they need to teach them.
-
-“In all the articles I’ve seen written about cheating and AI, I’ve never seen one focusing on this aspect of the problem.”
-
-That was an eye-opener for me. If any educators or students would care to respond, I’d love to hear from you.</description>
-    </item>
-    <item>
-      <title>This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy</title>
-      <link>https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/09/12/this-artificial-intelligence-stock-is-down-71-and/</guid>
-      <description>SoundHound AI (SOUN -0.32%) develops voice and conversational AI technology for businesses. The company's shares have tanked nearly 71% from...</description>
-    </item>
-    <item>
-      <title>Artificial intelligence and the left</title>
-      <link>https://mondediplo.com/2026/09/12ai</link>
-      <guid isPermaLink="true">https://mondediplo.com/2026/09/12ai</guid>
-      <description># Artificial intelligence and the left
-Armed with ChatGPT, the 37-year-old chef contested the charge.
-
-Two centuries later an artificial intelligence (AI) model – a machine trained on humanity’s accumulated knowledge – helped one man claw back a piece of his life from another petty leviathan.</description>
-    </item>
-    <item>
-      <title>This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html</guid>
-      <description># This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy
-**SoundHound AI**(NASDAQ: SOUN) develops voice and conversational AI technology for businesses.</description>
-    </item>
-    <item>
-      <title>Mental Health in the Age of Artificial Intelligence</title>
-      <link>https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/</guid>
-      <description>[Chinese (Simplified)](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [English](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [French](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [German](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Italian](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Japanese](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Russian](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#) [Spanish](https://www.madinamerica.com/2026/09/mental-health-in-the-age-of-artificial-intelligence/#)
-
-People use artificial intelligence in various ways – as a tool, an aid for organization, creation, or conversation.</description>
-    </item>
-    <item>
-      <title>The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could</title>
-      <link>https://www.facebook.com/Boston25News/posts/the-ceo-of-anthropic-said-saturday-the-artificial-intelligence-industry-should-s/1568885861939741/</link>
-      <guid isPermaLink="true">https://www.facebook.com/Boston25News/posts/the-ceo-of-anthropic-said-saturday-the-artificial-intelligence-industry-should-s/1568885861939741/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI could possibly end humanity. How are humans supposed to process that?</title>
-      <link>https://www.sfexaminer.com/ai-could-possibly-end-humanity-how-are-humans-supposed-to-process-that/article_a28b08f9-c652-5f16-ae3c-0799bc15d8cb.html</link>
-      <guid isPermaLink="true">https://www.sfexaminer.com/ai-could-possibly-end-humanity-how-are-humans-supposed-to-process-that/article_a28b08f9-c652-5f16-ae3c-0799bc15d8cb.html</guid>
-      <description>Explore the potential threats posed by artificial intelligence, from bioweapon attacks to economic destabilization, and the ongoing debate...</description>
-    </item>
-    <item>
-      <title>Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms</title>
-      <link>https://www.2minutemedicine.com/artificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms/</link>
-      <guid isPermaLink="true">https://www.2minutemedicine.com/artificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms/</guid>
-      <description># Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms
-in [Artificial Intelligence](https://www.2minutemedicine.com/category/all/artificial-intelligence/), [Chronic Disease](https://www.2minutemedicine.com/category/all/chronic-disease/), [Psychiatry](https://www.2minutemedicine.com/category/all/psychiatry/), [Public Health](https://www.2minutemedicine.com/category/all/public-health/)
-
-[Share on Facebook](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F) [Share on Twitter](https://twitter.com/intent/tweet?text=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms&amp;url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F) [Share on Pinterest](https://www.pinterest.com/pin/create/bookmarklet/?pinFave=1&amp;url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F&amp;media=https://www.2minutemedicine.com/wp-content/uploads/2026/09/second%20batch%20featured/psychiatry_depression_gaba_therapy_window_2_minute_medicine.webp&amp;description=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms)
-
-[Share on Linkedin](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.2minutemedicine.com%2Fartificial-intelligence-ai-chatbot-reduced-depression-anxiety-and-eating-disorder-risk-symptoms%2F&amp;title=Artificial%20intelligence%20%28AI%29%20chatbot%20reduced%20depression%2C%20anxiety%2C%20and%20eating%20disorder%20risk%20symptoms)
-
-**Heinz and colleagues evaluated a generative AI chatbot for adults with clinically significant depression, anxiety, or elevated risk for eating disorders.**
-
-**Users of the chatbot experienced greater symptom reductions compared to controls on the waitlist and reported higher engagement.**
-
-Heinz and colleagues evaluated Therabot, a generative AI chatbot’s effectiveness in treating symptoms of major depressive disorder (MDD), generalized anxiety disorder (GAD), and clinically high-risk feeding and eating disorder (CHR-FED). Compared with controls, Therabot users experienced significantly greater reductions across all three symptom domains at four and eight weeks of usage.</description>
-    </item>
-    <item>
-      <title>The next frontier is not artificial intelligence, it’s artificial societies</title>
-      <link>https://theconversation.com/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies-291586</link>
-      <guid isPermaLink="true">https://theconversation.com/the-next-frontier-is-not-artificial-intelligence-its-artificial-societies-291586</guid>
-      <description>The more interesting possibility is messier – and requires a step-shift in our thinking, from [artificial intelligence](https://theconversation.com/topics/artificial-intelligence-ai-90) to [AI societies](https://blog.lboro.ac.uk/vice-chancellor/2026/08/17/the-age-of-ai-societies/).
-
-AI is no longer just generating an answer – it is doing something about it.
-
-## The rise of artificial societies
-Modern AI agents can call software tools, access information, write and execute code, communicate with other systems and operate for extended periods.
-
-## An important role for humans
-- [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
+      <description>Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI</description>
     </item>
   </channel>
 </rss>
