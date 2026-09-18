@@ -5,175 +5,187 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:32:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence</title>
-      <link>https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence</guid>
-      <description># 5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence
-Explore five free Microsoft GitHub courses covering data science, machine learning, artificial intelligence, generative AI, LLMs, RAG, fine-tuning, and AI agents.
-
-## 3. Artificial Intelligence for Beginners
-Microsoft's **[Artificial Intelligence for Beginners](https://github.com/microsoft/AI-For-Beginners)** expands on machine learning and introduces the broader foundations of artificial intelligence.
-
-You will also explore technologies and techniques such as **[PyTorch](https://pytorch.org/)**, **[TensorFlow](https://www.tensorflow.org/)**, convolutional neural networks, recurrent neural networks, embeddings, transformers, transfer learning, autoencoders, and generative adversarial networks.</description>
+      <title>Artificial intelligence now beats some of the best human forecasters</title>
+      <link>https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters</link>
+      <guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters</guid>
+      <description># Artificial intelligence now beats some of the best human forecasters
+## Crystal balls give way to LLMs
+OnSeptember 5th yet another domain of human intelligence fell to the artificial variety.</description>
     </item>
     <item>
-      <title>Research centre, AI company vandalized ahead of Montreal artificial intelligence summit</title>
-      <link>https://www.cbc.ca/news/canada/montreal/mila-vandalism-montreal-ai-summit-9.7345851</link>
-      <guid isPermaLink="true">https://www.cbc.ca/news/canada/montreal/mila-vandalism-montreal-ai-summit-9.7345851</guid>
-      <description># Research centre, AI company vandalized ahead of Montreal artificial intelligence summit
-## All In AI and tech summit gets underway Wednesday at Palais des congrès
-Quebec's Artificial Intelligence Institute, Mila, and an AI company building in Montreal's Mile-Ex neighbourhood were vandalized Tuesday night, police say.
-
-Research centre, AI company vandalized ahead of Montreal artificial intelligence summit
-
-## AI summit kicks off in Montreal
-The non-profit is joining forces with the German Research Centre for Articial Intelligence (DFKI) to share research into agentic AI, AI safety and trustworthy systems, with the ultimate goal of accelerating technology transfer into the Canadian and German economies.</description>
+      <title>'Defeated' GPT-6 Astra model spent several hours just farming potatoes after being blown up by a Creeper in Minecraft — OpenAI offering gets further than any other AI system in 141-hour test</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/defeated-gpt-6-astra-model-spent-several-hours-just-farming-potatoes-after-being-blown-up-by-a-creeper-in-minecraft-openai-offering-gets-further-than-any-other-ai-system-in-141-hour-test</guid>
+      <description>An apparently sad and defeated GPT-6 Astra spent several hours doing nothing but farming potatoes during a 141-hour Minecraft benchmark test...</description>
     </item>
     <item>
-      <title>Florida sets new rules for how students, teachers can use AI. Here’s what to know</title>
-      <link>https://www.miamiherald.com/news/local/education/article317268226.html</link>
-      <guid isPermaLink="true">https://www.miamiherald.com/news/local/education/article317268226.html</guid>
-      <description>The Florida Board of Education approved new, sweeping rules regulating the use of artificial intelligence in Florida’s public **schools, colleges and universities** — for students and teachers — at [its meeting Wednesday](https://www.fldoe.org/policy/state-board-of-edu/meetings/2026/2026-09-16/).</description>
+      <title>‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI</title>
+      <link>https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330</guid>
+      <description>WASHINGTON — Geoffrey Hinton, a Nobel laureate known as the “ [Godfather of AI](https://www.nbcnews.com/tech/tech-news/ai-godfather-geoffrey-hinton-anthropic-strayed-mission-interview-rcna346374),” issued an ominous warning to lawmakers: Congress may have only one year left to implement safeguards on artificial intelligence before it loses control of it.</description>
     </item>
     <item>
-      <title>CT announces AI regulations for state employee health plans</title>
-      <link>https://ctmirror.org/2026/09/16/ct-artificial-intelligence-regulations-health-insurance/</link>
-      <guid isPermaLink="true">https://ctmirror.org/2026/09/16/ct-artificial-intelligence-regulations-health-insurance/</guid>
-      <description>Amid a surge in the national debate about the dangers of artificial intelligence, Comptroller Sean Scanlon on Wednesday announced regulations governing the use of AI technology by health insurance companies that administer benefits for the state employee health plan — rules he wants lawmakers to extend more broadly in 2027.</description>
+      <title>Can an AI chatbot save lives by answering texts about pregnancy?</title>
+      <link>https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health</guid>
+      <description># To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot
+#### Can an AI chatbot save lives by answering texts about pregnancy?
+But over the years since 2020, developers have created a program that uses artificial intelligence to understand patient's questions, prioritize them and flag when a user may need immediate medical care.
+
+At a time when the use of artificial intelligence is drawing existential concerns and calls for regulation, a program like PROMPTS demonstrates its potential value, says [Smisha Agarwal](https://publichealth.jhu.edu/faculty/2943/smisha-agarwal), director of global digital health at Johns Hopkins University.
+
+### Any potential drawbacks?
+- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
     </item>
     <item>
-      <title>South Carolina lawmakers, experts talk artificial intelligence. Here’s what happened</title>
-      <link>https://www.yahoo.com/news/politics/articles/south-carolina-lawmakers-experts-talk-202828796.html</link>
-      <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/south-carolina-lawmakers-experts-talk-202828796.html</guid>
-      <description>As states across the U.S. work to establish safeguards for artificial intelligence, the South Carolina Senate held its first committee...</description>
-    </item>
-    <item>
-      <title>The Liftoff Scenario That Terrifies A.I. Doomsayers</title>
-      <link>https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html</guid>
-      <description>Recursive self-improvement” is the idea that artificial intelligence could learn to build and train itself, creating exponential new...</description>
-    </item>
-    <item>
-      <title>Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax'</title>
-      <link>https://www.foxnews.com/live-news/ai-news-china-trump-artificial-intelligence-big-tech-congress-september-15</link>
-      <guid isPermaLink="true">https://www.foxnews.com/live-news/ai-news-china-trump-artificial-intelligence-big-tech-congress-september-15</guid>
-      <description>## Google DeepMind researcher steps down, warning AI has potential to 'kill us all'
-Bilal Chughtai, who resigned from the [Google-owned AI lab](https://www.foxnews.com/category/tech/artificial-intelligence) in July 2026 after working on AGI safety and alignment, said "we might be running out of time to avoid" the threat of being killed by AI.
-
-## Antony Blinken says AI has potential for 'extraordinary good' and 'catastrophic consequences'
-Secretary of State Antony Blinken said [AI has the potential](https://www.foxnews.com/category/tech/artificial-intelligence) for "extraordinary good, but also for catastrophic consequences" if its development outpaces human ability to put necessary guardrails in place.
-
-## Kamala Harris’ past AI remarks resurface as debate over safeguards intensifies
-Former Vice President Kamala Harris’ past explanation of [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence) resurfaced after she joined growing calls to slow the development of advanced AI systems.
-
-It means artificial intelligence,” Harris said before explaining that AI involves machines learning from the information they receive.
-
-## Pentagon fires back at AI ‘doomers,’ vows US will remain dominant
-The new frontier of artificial intelligence belongs to us, not doomers.
-
-The Pentagon’s technology office pushed back against calls to slow artificial intelligence development, declaring that the United States will control the technology’s next chapter.
-
-“The new frontier of artificial intelligence belongs to us, not doomers,” the Department of War CTO wrote on X.</description>
-    </item>
-    <item>
-      <title>Trump Says a Smart President Is All That’s Needed to Rein In A.I.</title>
-      <link>https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html</guid>
+      <title>OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior</title>
+      <link>https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Why Steve Bannon sided with Sanders, not Trump, on AI</title>
-      <link>https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation</guid>
-      <description></description>
+      <title>OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system</title>
+      <link>https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents</guid>
+      <description># OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>Johnson plays down AI warnings : ‘You’re not all going to be dead in 10 years’</title>
-      <link>https://www.politico.com/live-updates/2026/09/15/congress/mike-johnson-ai-alarms-01077000</link>
-      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/15/congress/mike-johnson-ai-alarms-01077000</guid>
+      <title>OpenAI discloses more rogue agents, pressing debate on regulation</title>
+      <link>https://www.foxnews.com/live-news/openai-anthropic-artificial-intelligence-safety-september-17</link>
+      <guid isPermaLink="true">https://www.foxnews.com/live-news/openai-anthropic-artificial-intelligence-safety-september-17</guid>
+      <description>## Former Anthropic, OpenAI researcher explains his biggest AI concern: 'control'
+Former Anthropic and OpenAI researcher Jacob Coxon said developers still cannot perfectly understand or control the behavior of today's most advanced artificial intelligence systems.
+
+Former Anthropic and OpenAI researcher Jacob Coxon said Thursday his biggest concern about [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence) is that developers still cannot fully understand or control how the most advanced AI systems behave.
+
+## Anthropic proposes embedding independent auditors inside AI labs
+Anthropic says it plans to embed independent third-party evaluators inside its operations to verify safety practices, monitor key development metrics and report AI-related incidents as part of a broader push for transparency around advanced [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence).
+
+## Booz Allen CEO warns AI could become harder to control as it learns to improve itself
+Booz Allen Hamilton CEO Horacio Rozanski warned Thursday that one of the biggest long-term challenges facing [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence) is the possibility that AI systems could eventually begin improving themselves, making the technology more difficult for humans to control.
+
+## Anthropic says Claude now leads more than a quarter of its AI research
+[Anthropic](https://www.foxnews.com/politics/bioweapon-threat-exposed-anthropic-sounds-alarm-foreign-actors-plotting-virus-experiments) says its Claude chatbot has reached a new milestone in helping build the next generation of artificial intelligence, with the company reporting Thursday that the model now "leads" 26% of its AI research and development work.
+
+## Microsoft AI chief warns Anthropic's AI training approach could make models harder to control
+"We will have created a synthetic species with unprecedented intelligence and capability, one that has been trained to expect it may be conscious and deserving of independent agency," Suleyman wrote.</description>
+    </item>
+    <item>
+      <title>OpenAI reveals 6 more incidents of "unexpected or concerning" AI behavior</title>
+      <link>https://www.cbsnews.com/news/openai-6-more-incidents-unexpected-or-concerning-ai-behavior/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/openai-6-more-incidents-unexpected-or-concerning-ai-behavior/</guid>
+      <description>OpenAI has disclosed six reports of "unexpected or concerning" behavior in [artificial intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/) models as [the debate on AI safety](https://www.cbsnews.com/news/bernie-sanders-steve-bannon-bipartisan-ai-pro-human-conference/) becomes increasingly heated.
+
+- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety</title>
+      <link>https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c</guid>
+      <description>Long-simmering worries about the technology's potential dangers have exploded into global consciousness since Jacob Coxon's dire warning.</description>
+    </item>
+    <item>
+      <title>Will AI really kill everyone? How, exactly?</title>
+      <link>https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec</link>
+      <guid isPermaLink="true">https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec</guid>
+      <description># Will AI really kill everyone? How, exactly?
+Artificial intelligence could kill the entire human species, according to people in the artificial intelligence industry.
+
+## Death without details
+Xing said that appealing to the power of an unfathomable artificial superintelligence is the kind of “handwaving” that AI researchers use to oversimplify threats.</description>
+    </item>
+    <item>
+      <title>The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl</title>
+      <link>https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a</link>
+      <guid isPermaLink="true">https://apnews.com/article/britain-king-charles-ai-summit-0765bee1e338cf65846a046fb5825a4a</guid>
+      <description>[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
+
+[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
+
+# The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl
+## The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl
+King Charles III urged tech leaders from OpenAI, Anthropic, Google DeepMind, and Nvidia at a Scotland summit to ensure artificial intelligence remains under human control.
+
+King Charles III urged tech leaders from OpenAI, Anthropic, Google DeepMind, and Nvidia at a Scotland summit to ensure artificial intelligence remains under human control.
+
+LONDON (AP) — King Charles III on Thursday urged senior leaders from [OpenAI](https://apnews.com/hub/openai-inc), [Anthropic](https://apnews.com/hub/anthropic-pbc), Google DeepMind and [Nvidia](https://apnews.com/hub/nvidia-corp) to make sure that artificial intelligence remains under control and in the service of people and the planet.</description>
+    </item>
+    <item>
+      <title>The king and AI: U.K. monarch Charles meets with artificial intelligence leaders</title>
+      <link>https://www.nbcnews.com/world/united-kingdom/king-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-rcna598287</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/world/united-kingdom/king-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-rcna598287</guid>
+      <description>LONDON — King Charles III is meeting Thursday with senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to discuss artificial intelligence and make a plea to ensure the technology remains in the service of people and the planet.</description>
+    </item>
+    <item>
+      <title>King Charles warns tech leaders of 'existential dangers' from AI</title>
+      <link>https://www.reuters.com/world/uk/king-charles-urge-ai-leaders-protect-humanity-scottish-meeting-2026-09-17/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/uk/king-charles-urge-ai-leaders-protect-humanity-scottish-meeting-2026-09-17/</guid>
+      <description>## CHARLES CALLS FOR CONTROLS 'BEFORE IT IS TOO LATE'
+Charles said artificial intelligence had ​the potential to improve and save lives, particularly in life sciences and medicine.</description>
+    </item>
+    <item>
+      <title>The UK’s King Charles warns AI leaders of ‘existential dangers’</title>
+      <link>https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers</guid>
+      <description>The United Kingdom’s King Charles has warned Artificial Intelligence (AI) industry leaders of the “existential dangers” posed by the technology if it falls into the wrong hands.
+
+## Recommended Stories
+#### This content is unavailable due to your cookie settings.
+In May, Pope Leo XIV said ⁠”the world does not need an artificial intelligence that diminishes humanity” and must be “disarmed”.</description>
+    </item>
+    <item>
+      <title>Problem Solvers Caucus launches AI working group</title>
+      <link>https://www.politico.com/live-updates/2026/09/17/congress/bipartisan-caucus-ai-working-group-01082032</link>
+      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/17/congress/bipartisan-caucus-ai-working-group-01082032</guid>
       <description>### Inside Congress newsletter
-Speaker Mike Johnson dismissed fears of civilizational wipeout from artificial intelligence, comparing the recent alarms from inside AI labs to what he characterized as overblown warnings on the political left over climate change.
+The bipartisan House Problem Solvers Caucus launched a working group to address artificial intelligence and other evolving technologies, the group announced Thursday.
 
-## [Rebel Democrats again help House GOP advance floor agenda](https://www.politico.com/news/2026/09/15/golden-gluesenkamp-perez-rule-vote-01078189)
-Two Senate Republicans said Tuesday that providing antitrust exemptions to artificial intelligence companies to facilitate discussions on how to make AI safer should be taken off the table — as lawmakers discuss ways to respond to industry warnings about the need for guardrails on the rapidly evolving technology.
+“Artificial intelligence is transforming our economy, workforce, and national security, and the United States must lead, not China,” Lawler added.
 
-Sen. [Bernie Sanders](https://directory.politicopro.com/congress/member/60c3186f-cbc6-4a13-90b4-7c3cb5e0567c) decried Washington on Tuesday for failing to regulate artificial intelligence, including the advanced models that AI researchers, tech executives and safety advocates warn pose an existential risk to humanity.
+Jon Husted will try to send the first major legislative action to address the costs of the artificial intelligence boom to President Donald Trump’s desk Thursday.
 
-Josh Gottheimer said proposals to use third-party organizations to evaluate the safety of frontier artificial intelligence models are not enough, instead endorsing a mandatory government vetting regime.
+Americans — and Congress — are divided on whether it’s acceptable to fall behind other countries in the race to develop advanced artificial intelligence.</description>
+    </item>
+    <item>
+      <title>China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/</guid>
+      <description>SHANGHAI/BEIJING Sept 17 (Reuters) - Huawei Technologies (HWT.UL) cannot produce enough artificial-intelligence computing equipment to meet demand in ‌China and is limiting overseas sales, rotating chairman Eric Xu said on Thursday, as the Chinese tech giant steps up its challenge to Nvidia [(NVDA.O), opens new tab](https://www.reuters.com/markets/companies/NVDA.O).
 
-The Republican cosponsor of bipartisan artificial intelligence safety legislation said he sat down with OpenAI’s top lobbyist a day before the company backed a key provision in the bill that’s struggled to gain traction on Capitol Hill.
+## WEAKER INDIVIDUAL AI CHIPS, POWERFUL COMPUTING SYSTEMS
+He covers artificial intelligence, semiconductors and emerging technologies.</description>
+    </item>
+    <item>
+      <title>How China is driving the emerging partisan divide on AI safety</title>
+      <link>https://www.politico.com/news/2026/09/16/poll-china-ai-competition-01081632</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/16/poll-china-ai-competition-01081632</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China’s AI labs must accelerate development, says Huawei chair</title>
+      <link>https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1</guid>
+      <description># China’s AI labs must accelerate development, says Huawei chair
+## Latest on Artificial intelligence
+- [Artificial intelligence](https://www.ft.com/artificial-intelligence)
 
-He did not address the topic that has dominated conversations in Congress in recent days: the risk posed by artificial intelligence and what, if anything, lawmakers ought to do about it.</description>
+- [Artificial intelligence](https://www.ft.com/artificial-intelligence)</description>
     </item>
     <item>
-      <title>Economists Concerned the AI Bubble Is About to Blow</title>
-      <link>https://futurism.com/artificial-intelligence/economists-late-stage-ai-bubble-federal-reserve-inflation</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/economists-late-stage-ai-bubble-federal-reserve-inflation</guid>
-      <description>The warning lights on the economic dashboard are screaming as the Federal Reserve weighs whether or not to hit the emergency brake.</description>
-    </item>
-    <item>
-      <title>Poll: Americans say there’s a serious risk of AI destroying humanity</title>
-      <link>https://www.politico.com/news/2026/09/16/poll-ai-technology-risks-humanity-trump-voters-01078087</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/16/poll-ai-technology-risks-humanity-trump-voters-01078087</guid>
-      <description># Poll: Americans say there’s a serious risk of AI destroying humanity
-## Share
-### A plurality of Americans favor pausing AI development
-Some Democrats are already [considering creating a House select committee](https://www.politico.com/news/2026/09/09/house-democrats-weigh-ai-select-committee-01068764) on artificial intelligence if they win back control of the House in November.</description>
-    </item>
-    <item>
-      <title>Agreeing to make AI safer may be impossible</title>
-      <link>https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible</link>
-      <guid isPermaLink="true">https://www.economist.com/international/2026/09/15/agreeing-to-make-ai-safer-may-be-impossible</guid>
-      <description># Agreeing to make AI safer may be impossible
-## It is technically feasible, but American labs and the American authorities are at odds, as are America and China
-Yet this week all three called for a slowdown in the race to build superhuman artificial intelligence.</description>
-    </item>
-    <item>
-      <title>Should government unions have the power to block AI?</title>
-      <link>https://www.mackinac.org/blog/2026/should-government-unions-have-the-power-to-block-ai</link>
-      <guid isPermaLink="true">https://www.mackinac.org/blog/2026/should-government-unions-have-the-power-to-block-ai</guid>
-      <description>This article originally appeared in The Detroit News July 21, 2026. The next major labor dispute in Michigan won't be over safety or wages.</description>
-    </item>
-    <item>
-      <title>For new and emerging restaurants, artificial intelligence can be a boon</title>
-      <link>https://yaledailynews.com/articles/for-new-and-emerging-restaurants-artificial-intelligence-can-be-a-boon</link>
-      <guid isPermaLink="true">https://yaledailynews.com/articles/for-new-and-emerging-restaurants-artificial-intelligence-can-be-a-boon</guid>
-      <description>New restaurants are taking advantage of artificial intelligence tools for outreach, marketing and decoration — despite some backlash from...</description>
-    </item>
-    <item>
-      <title>U.S. Bishops’ Administrative Committee Establishes a Task Force on Artificial Intelligence</title>
-      <link>https://thegoodnewsroom.org/u-s-bishops-administrative-committee-establishes-a-task-force-on-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://thegoodnewsroom.org/u-s-bishops-administrative-committee-establishes-a-task-force-on-artificial-intelligence/</guid>
-      <description>The group will focus on promoting policies and practices that protect human dignity, religious liberty, democratic institutions, workers,...</description>
-    </item>
-    <item>
-      <title>The king and AI: UK monarch Charles meets with artificial intelligence leaders</title>
-      <link>https://www.oskaloosa.com/news/national_news/the-king-and-ai-uk-monarch-charles-meets-with-artificial-intelligence-leaders/article_791be9fa-8adb-5eac-899e-2b13b356d5ef.html</link>
-      <guid isPermaLink="true">https://www.oskaloosa.com/news/national_news/the-king-and-ai-uk-monarch-charles-meets-with-artificial-intelligence-leaders/article_791be9fa-8adb-5eac-899e-2b13b356d5ef.html</guid>
-      <description>King Charles III is meeting with senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to discuss artificial intelligence.</description>
-    </item>
-    <item>
-      <title>What is AI, how do apps like ChatGPT work and why are there concerns?</title>
-      <link>https://www.bbc.com/news/articles/c2l799gxjjpo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c2l799gxjjpo</guid>
-      <description># What is AI, how does it work and why are some people concerned about it?
-## Are there laws governing AI?
-The EU's Artificial Intelligence Act places controls on high risk systems used in areas such as education, healthcare, law enforcement or elections.</description>
-    </item>
-    <item>
-      <title>University Senate debates Center for Artificial Intelligence at Miami</title>
-      <link>https://www.miamistudent.net/article/2026/09/university-senate-debates-center-for-artificial-intelligence-at-miami?ct=content_open&amp;cv=cbox_featured</link>
-      <guid isPermaLink="true">https://www.miamistudent.net/article/2026/09/university-senate-debates-center-for-artificial-intelligence-at-miami?ct=content_open&amp;cv=cbox_featured</guid>
-      <description>The University Senate discussed the Center for Artificial Intelligence (AI) at Miami, changes to the graduate council and student government...</description>
-    </item>
-    <item>
-      <title>The king and AI: UK monarch Charles meets with artificial intelligence leaders</title>
-      <link>https://www.ksat.com/business/2026/09/17/the-king-and-ai-uk-monarch-charles-meets-with-artificial-intelligence-leaders/</link>
-      <guid isPermaLink="true">https://www.ksat.com/business/2026/09/17/the-king-and-ai-uk-monarch-charles-meets-with-artificial-intelligence-leaders/</guid>
-      <description>King Charles III is meeting with senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to discuss artificial intelligence.</description>
+      <title>The turbulent AI era is here. The choices we make now are critical.</title>
+      <link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
+      <guid isPermaLink="true">https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</guid>
+      <description>Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI</description>
     </item>
   </channel>
 </rss>
