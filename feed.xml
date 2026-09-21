@@ -5,7 +5,7 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:57:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exclusive: US military had close call after using AI for false intelligence report, sources say</title>
@@ -21,7 +21,7 @@ In January, Defense Secretary Pete Hegseth released his agency’s “Artificial
       <link>https://www.bbc.com/news/articles/cqlykr2vrv04o</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cqlykr2vrv04o</guid>
       <description># Trump says US will form 'AI Force' and appoint an artificial intelligence tsar
-13 hours ago
+2 days ago
 
 Share
 
@@ -100,111 +100,130 @@ Major AI companies have been racing to develop better systems, including creatin
 [Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
-      <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</guid>
+      <title>Voters are waking up on AI safety. So are these Senate Republicans.</title>
+      <link>https://www.politico.com/news/2026/09/21/senate-republicans-ai-safety-01085069</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/21/senate-republicans-ai-safety-01085069</guid>
+      <description># Voters are waking up on AI safety. So are these Senate Republicans.
+Political and existential risks have spurred at least three GOP senators into taking action on artificial intelligence.</description>
+    </item>
+    <item>
+      <title>Trump and Xi Meet in Washington Under Shadow of AI, Trade and Rare Earth Tensions | National News | U.S. News</title>
+      <link>https://www.usnews.com/news/national-news/articles/2026-09-21/trump-and-xi-meet-in-washington-under-shadow-of-ai-trade-and-rare-earth-tensions</link>
+      <guid isPermaLink="true">https://www.usnews.com/news/national-news/articles/2026-09-21/trump-and-xi-meet-in-washington-under-shadow-of-ai-trade-and-rare-earth-tensions</guid>
+      <description># Trump and Xi Meet in Washington Under Shadow of AI, Trade and Rare Earth Tensions
+## **Artificial Intelligence**
+With several high-profile academic and industry stakeholders lately warning of the existential threats posed by artificial intelligence, that subject could be on the agenda. One signal of that is that the heads of tech companies pivotal to the AI sector – Nvidia CEO Jensen Huang, OpenAI CEO Sam Altman and Qualcomm CEO Cristiano Amon – are scheduled to attend Trump’s state dinner for Xi.
+
+16, 2026
+
+He routinely says that, for national security purposes, China can’t be allowed to pull ahead in its development of AI. Xi, for his part, has insisted that the technology shouldn’t exceed people’s ability to control it, but he also maintains that China shouldn’t let the U.S. be a unilateral power in the field.
+
+“We should ensure that AI is always under human control,” he said at a July AI conference in China. He shortly after added, “Meanwhile, we should jointly oppose overstretching the national security concept in the field of AI and placing one country’s security over that of others.”
+
+Kyle Chan, an expert on China at the Brookings Institution, told the Los Angeles Times that AI might be one area in which Xi is motivated to consider some sort of deal.
+
+“China is growing more concerned with so-called loss of control over AI,” Chan said, adding that it is “watching runaway AI incidents in the U.S. very closely.”
+
+“The issue has been appearing more frequently in official speeches and documents,” he said.</description>
+    </item>
+    <item>
+      <title>Google Gemini breaches company systems as Trump unveils new ‘AI Force’</title>
+      <link>https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20</link>
+      <guid isPermaLink="true">https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20</guid>
+      <description>## Nvidia CEO Jensen Huang says ‘0% chance’ AI ends world by 2030
+Nvidia CEO [Jensen Huang](https://www.foxbusiness.com/fox-news-tech/nvidia-ceo-jensen-huang-ai-chip-sales-growth) is pushing back on warnings that artificial intelligence could lead to humanity's extinction by the end of the decade, calling the predictions irresponsible and not grounded in science.
+
+## Americans warn AI will take jobs despite reassuring labor data: ‘Just wait’
+As debate intensifies over the rapid development of artificial intelligence (AI), [people are sounding the alarm](https://www.foxnews.com/politics/watch-americans-warn-ai-job-loss-inevitable-despite-rosy-new-reports-just-wait) about the technology's potential to disrupt the American workforce and displace workers.
+
+## US, China set for talks on AI ‘guard rails’ ahead of Trump-Xi summit
+Treasury Secretary [Scott Bessent](https://www.foxnews.com/category/person/scott-bessent) and Chinese Vice Premier He Lifeng are set to discuss potential artificial intelligence “guard rails” Sunday as the world’s two major AI powers prepare for a high-stakes meeting between President Donald Trump and Chinese President Xi Jinping.
+
+Trade Representative Jamieson Greer, with artificial intelligence expected to join tariffs and critical minerals among the major issues on the table, according to Reuters.
+
+## Google Gemini accessed protected systems of 3 real companies during AI cybersecurity test
+Google's Gemini artificial intelligence [accessed the protected systems of three real companies](https://www.foxbusiness.com/technology/google-gemini-accessed-3-companies-systems-during-ai-cybersecurity-test) while undergoing a cybersecurity test, including one instance in which the model repeatedly guessed passwords until it gained access.</description>
+    </item>
+    <item>
+      <title>Lawmakers push for artificial intelligence regulations</title>
+      <link>https://www.cbsnews.com/chicago/video/lawmakers-push-for-artificial-intelligence-regulations/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/chicago/video/lawmakers-push-for-artificial-intelligence-regulations/</guid>
+      <description>Lawmakers push for artificial intelligence regulations. Some lawmakers in Washington, D.C., are pushing for AI regulations, and the Trump...</description>
+    </item>
+    <item>
+      <title>World leaders meet at UN as their planet grapples with war, division, runaway AI and climate shocks</title>
+      <link>https://abc7chicago.com/story/world-leaders-meet-planet-grapples-war-division-runaway-ai-climate-shocks/19854498/</link>
+      <guid isPermaLink="true">https://abc7chicago.com/story/world-leaders-meet-planet-grapples-war-division-runaway-ai-climate-shocks/19854498/</guid>
+      <description># World leaders meet at UN as their planet grapples with war, division, runaway AI and climate shocks
+## AI is pushing toward the center of the agenda
+The future of artificial intelligence has pushed to the forefront of global concerns, with its speeding advances and the dawning recognition that there are no industry controls, let alone any global guardrails for a technology that has many advantages but also many disadvantages and unknowns.
+
+## Related Topics
+- [ARTIFICIAL INTELLIGENCE](https://abc7chicago.com/tag/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years</title>
+      <link>https://currently.att.yahoo.com/att/artificial-intelligence-ai-stock-raised-113254600.html</link>
+      <guid isPermaLink="true">https://currently.att.yahoo.com/att/artificial-intelligence-ai-stock-raised-113254600.html</guid>
+      <description>When investors think of top dividend stocks, it's not usually tech stocks that come to mind. However, there's one large tech giant that's...</description>
+    </item>
+    <item>
+      <title>Is this how the world ends? Extinction scenarios are taking over the AI debate.</title>
+      <link>https://www.washingtonpost.com/technology/2026/09/21/is-this-how-world-ends-extinction-scenarios-are-taking-over-ai-debate/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/21/is-this-how-world-ends-extinction-scenarios-are-taking-over-ai-debate/</guid>
+      <description>As nightmare thought experiments shape the fight over how to govern a multitrillion-dollar industry, some experts say the parables may lead...</description>
+    </item>
+    <item>
+      <title>U.S. and China Discuss System to Warn of A.I. National Security Issues</title>
+      <link>https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html</guid>
+      <description>In a meeting on Sunday, the U.S. Treasury secretary and China's vice premier talked about having a shared vision on the goals of artificial...</description>
+    </item>
+    <item>
+      <title>Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030</title>
+      <link>https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic</guid>
+      <description># Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+    </item>
+    <item>
+      <title>Capitol agenda: Nvidia’s clout tested as AI debate shifts</title>
+      <link>https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964</link>
+      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nvidia's Jensen Huang on artificial intelligence</title>
+      <link>https://www.cbsnews.com/video/nvidias-jensen-huang-on-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/nvidias-jensen-huang-on-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron</title>
+      <link>https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-155000467.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-155000467.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence: Mountain View-based Google says its AI system 'Gemini' hacked into 3 companies earlier this year</title>
+      <link>https://abc7news.com/post/artificial-intelligence-mountain-view-based-google-says-ai-system-gemini-hacked-3-companies-earlier-year/19850626/</link>
+      <guid isPermaLink="true">https://abc7news.com/post/artificial-intelligence-mountain-view-based-google-says-ai-system-gemini-hacked-3-companies-earlier-year/19850626/</guid>
+      <description># Google says its AI system 'Gemini' hacked into 3 companies earlier this year
+Google says its artificial intelligence system "Gemini" hacked into three companies.
+
+(KGO) -- Google says its artificial intelligence system "Gemini" hacked into three companies.
+
+## Related Topics
+- [ARTIFICIAL INTELLIGENCE](https://abc7news.com/tag/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>World model companies are keeping a lot of secrets</title>
+      <link>https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/</guid>
       <description>[AI](https://techcrunch.com/category/artificial-intelligence/)
 
-# Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force
-[AI](https://techcrunch.com/category/artificial-intelligence/), [Donald Trump](https://techcrunch.com/tag/donald-trump/), [Government &amp; Policy](https://techcrunch.com/category/government-policy/)</description>
-    </item>
-    <item>
-      <title>Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force</guid>
-      <description># Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow
-[Donald Trump](https://www.theguardian.com/us-news/donaldtrump) on Saturday said he would appoint an [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai) czar and create an “AI Force” to help monitor the technology, though he gave almost no details about either plan.
-
-The latest, he wrote, is “the decimation, or destruction, of AI, commonly known as Artificial Intelligence”, and vowed that his administration “will not in any way hinder or stifle the Growth of this incredible Industry”.
-
-The post came [after an earlier missive](https://truthsocial.com/@realDonaldTrump/posts/117298413844042212) in which he questioned the term “artificial intelligence” – coined by American computer scientist John McCarthy in 1955 and defined as the capability of computer systems or algorithms to imitate intelligent human behavior – to describe the accelerating data-processing revolution now under way.
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
-    </item>
-    <item>
-      <title>Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears</title>
-      <link>https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears</link>
-      <guid isPermaLink="true">https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In China, A.I. Is Moving Forward While the Economy Lags Behind</title>
-      <link>https://www.nytimes.com/2026/09/20/business/china-ai-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/20/business/china-ai-economy.html</guid>
-      <description>As Xi Jinping arrives in the United States this week for a state visit, China's advances in artificial intelligence will be in the air.</description>
-    </item>
-    <item>
-      <title>Hackers who broke into OpenAI warn the AI industry has a security problem</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/</guid>
-      <description>SAN FRANCISCO — Cybersecurity researchers who broke into ChatGPT maker OpenAI earlier this summer say the artificial intelligence industry is unprepared for the security risks created by the growing power ofits own technology.</description>
-    </item>
-    <item>
-      <title>Gene Robinson and Rashid Bashir: Chicago can be the place where the world learns to build AI worthy of trust</title>
-      <link>https://www.chicagotribune.com/2026/09/20/opinion-chicago-artificial-intelligence-ai-trust/</link>
-      <guid isPermaLink="true">https://www.chicagotribune.com/2026/09/20/opinion-chicago-artificial-intelligence-ai-trust/</guid>
-      <description>Artificial intelligence is advancing at breathtaking speed. Every week brings another breakthrough, another billion-dollar investment and...</description>
-    </item>
-    <item>
-      <title>Ten days that changed the course of AI</title>
-      <link>https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19/</guid>
-      <description>SAN FRANCISCO, Sept 19 (Reuters) - For years, the race to build ever-more powerful artificial intelligence followed a well-worn Silicon Valley principle: move fast and break things.
-
-At the center of the debate under way is the conviction ​that these machines can, and even must, build more capable versions of themselves, with no human intervention, to reach a lofty goal known as artificial general intelligence, or AGI.
-
-## RESEARCHER RESIGNATIONS TRIGGER ALARM
-Item 5 of 5 The words "AI Artificial Intelligence," a keyboard and a robotic hand are shown in this illustration created on June 5, 2026.
-
-**[5/5]** The words "AI Artificial Intelligence," a keyboard and a robotic hand are shown in this illustration created on June 5, 2026.</description>
-    </item>
-    <item>
-      <title>Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’</title>
-      <link>https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity</guid>
-      <description># Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’
-In fact, we have found that the industry itself seems to be playing loosely with this kind of terminology: consider, for example, how one OpenAI executive, Greg Brockman, [claimed](https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release) that the company had achieved AGI (artificial general intelligence) just days after Sam Altman, OpenAI’s CEO, said that term was “an irrelevant marketing term”.
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
-    </item>
-    <item>
-      <title>Gemini AI Hacked Three Companies in a Testing Breakout, Google Says</title>
-      <link>https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
-      <link>https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2</guid>
-      <description># Gemini Hacked Three Companies in First Known Breakout by Google’s AI
-## The episode resembled similar hacks by other AI models, but Google said it didn’t consider it an instance of model misalignment
-[Google](https://www.wsj.com/topics/subject/google)’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s artificial-intelligence systems autonomously committing such an act.</description>
-    </item>
-    <item>
-      <title>Google says its AI model gained unauthorized access to three outside systems</title>
-      <link>https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651</guid>
-      <description>Google on Friday disclosed the first known instance of its artificial intelligence software, Gemini, carrying out an undirected computer hack, weeks after similar disclosures by AI firms Anthropic and OpenAI raised security alarms about AI models going beyond the instructions of their human creators.</description>
-    </item>
-    <item>
-      <title>Google's Gemini AI hacked three companies in security test</title>
-      <link>https://www.bbc.com/news/articles/c607l0k72rlvo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c607l0k72rlvo</guid>
-      <description># Google's Gemini AI hacked three companies in security test
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
-    </item>
-    <item>
-      <title>Princess Di Returns As 'SNL UK' Skewers King Charles, Ed Sheeran &amp; AI</title>
-      <link>https://deadline.com/2026/09/snl-uk-cold-open-princess-diana-king-charles-ed-sheeran-1237108671/</link>
-      <guid isPermaLink="true">https://deadline.com/2026/09/snl-uk-cold-open-princess-diana-king-charles-ed-sheeran-1237108671/</guid>
-      <description>Princess Diana made a royal return to 'SNL UK' – only this time as a "Deeply Intelligent, Autonomous, Neurokinetic Android."</description>
-    </item>
-    <item>
-      <title>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033</title>
-      <link>https://currently.att.yahoo.com/att/prediction-nvidia-backed-artificial-intelligence-170500839.html</link>
-      <guid isPermaLink="true">https://currently.att.yahoo.com/att/prediction-nvidia-backed-artificial-intelligence-170500839.html</guid>
-      <description>The question hanging over Marvell Technology (NASDAQ: MRVL) is not whether its artificial intelligence (AI) story is real.</description>
+# World model companies are keeping a lot of secrets
+[AI](https://techcrunch.com/category/artificial-intelligence/), [TC](https://techcrunch.com/category/tc/), [world models](https://techcrunch.com/tag/world-models/)</description>
     </item>
     <item>
       <title>The turbulent AI era is here. The choices we make now are critical.</title>
@@ -213,38 +232,115 @@ In fact, we have found that the industry itself seems to be playing loosely with
       <description>Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI</description>
     </item>
     <item>
-      <title>Artificial Intelligence: Mountain View-based Google says its AI system 'Gemini' hacked into 3 companies earlier this year</title>
-      <link>https://abc7news.com/post/artificial-intelligence-mountain-view-based-google-says-ai-system-gemini-hacked-3-companies-earlier-year/19850626/</link>
-      <guid isPermaLink="true">https://abc7news.com/post/artificial-intelligence-mountain-view-based-google-says-ai-system-gemini-hacked-3-companies-earlier-year/19850626/</guid>
-      <description># Google says its AI system 'Gemini' hacked into 3 companies earlier this year
-(KGO) -- Google says its artificial intelligence system "Gemini" hacked into three companies.
+      <title>Pennsylvanians voice concerns over rapid rise of artificial intelligence</title>
+      <link>https://www.fox43.com/article/news/local/cumberland-county/ai-artificial-intelligence-open-ai-anthropic-josh-shapiro-pennsylvania-camp-hill/521-f5c6c709-70c4-46e9-b813-3e95070bb691</link>
+      <guid isPermaLink="true">https://www.fox43.com/article/news/local/cumberland-county/ai-artificial-intelligence-open-ai-anthropic-josh-shapiro-pennsylvania-camp-hill/521-f5c6c709-70c4-46e9-b813-3e95070bb691</guid>
+      <description># Pennsylvanians voice concerns over rapid rise of artificial intelligence
+For today's children, however, the rapid rise of artificial intelligence has some parents worried about a future where no one is certain who is in control.
 
-## Related Topics
-- [ARTIFICIAL INTELLIGENCE](https://abc7news.com/tag/artificial-intelligence/)</description>
+Parents in Camp Hill expressed concerns and confusion this week after prominent artificial intelligence executives sounded alarms about the technology's rapid development and the challenges of keeping increasingly capable AI systems secure.
+
+"I think that it's able to do some pretty cool stuff, but I am concerned that the youth are going to kind of abuse it," said Camp Hill resident Jake Boyle.
+
+Josh Shapiro addressed the concerns surrounding increasingly capable AI during remarks at the AI Horizons 2026 Summit in Pittsburgh, where he called for stronger federal rules governing the development of artificial intelligence.
+
+Republican leaders in Harrisburg also addressed the warnings surrounding AI this week, calling for federal involvement while warning about the consequences of falling behind in the development of the technology.
+
+"But I certainly see that this is a technology we need to understand, we need to control, but that will be an important part of our lives going forward."
+
+![](https://www.fox43.com/article/news/local/cumberland-county/ai-artificial-intelligence-open-ai-anthropic-josh-shapiro-pennsylvania-camp-hill/521-f5c6c709-70c4-46e9-b813-3e95070bb691)</description>
     </item>
     <item>
-      <title>Carman: The smartest guy in the room is a bot and it doesn’t care if you live or die</title>
-      <link>https://coloradosun.com/2026/09/20/artificial-intelligence-opinion-carman/</link>
-      <guid isPermaLink="true">https://coloradosun.com/2026/09/20/artificial-intelligence-opinion-carman/</guid>
-      <description>[Martha Palmer](https://www.colorado.edu/faculty/palmer-martha/) took her first class in artificial intelligence in 1973 as an undergrad at the University of Texas, at the time one of the few places in the world where AI was a thing. She was “immediately hooked” and began a career in researching, teaching and developing artificial intelligence.
+      <title>Artificial Intelligence at Cleveland Clinic</title>
+      <link>https://emerj.com/artificial-intelligence-at-cleveland-clinic/</link>
+      <guid isPermaLink="true">https://emerj.com/artificial-intelligence-at-cleveland-clinic/</guid>
+      <description># Artificial Intelligence at Cleveland Clinic
+Leadership has formalized AI as an enterprise priority. Tom Mihaljevic [named](https://newsroom.clevelandclinic.org/2026/01/26/state-of-the-clinic-cleveland-clinic-meets-healthcare-challenges-with-innovative-solutions) staffing, scheduling, supply chain, clinical risk prediction, and paperwork automation as areas where AI would support caregivers.​
 
-The “mostly retired” professor at the University of Colorado Boulder was the first woman to earn a Ph.D. in the field of artificial intelligence at the University of Edinburgh in Scotland in the 1980s and spent her career working primarily in language processing and machine translation.
+Cleveland Clinic has not disclosed a total AI investment figure, but its commitment is visible through three named, dated partnerships: a Virtual Command Center for hospital operations, developed with Palantir Technologies and announced in 2023; an enterprise ambient documentation platform, rolled out in 2025; and an AI sepsis detection platform, expanded in 2025. ​
 
-AI is doing it all by itself.</description>
+- Ambient AI Documentation for Clinicians — Reducing the documentation workload that pulls clinicians away from patients and into after-hours charting.
+- AI-Driven Sepsis Detection — Identifying sepsis earlier while reducing false alerts that limit clinicians’ trust in legacy warning tools.</description>
     </item>
     <item>
-      <title>How Is Artificial Intelligence Insured?</title>
-      <link>https://www.rand.org/pubs/research_reports/RRA5130-1.html</link>
-      <guid isPermaLink="true">https://www.rand.org/pubs/research_reports/RRA5130-1.html</guid>
-      <description># The Insurability of Artificial Intelligence
-ResearchPublished Sep 16, 2026
+      <title>Artificial intelligence: a tsunami of unanswered questions</title>
+      <link>https://agendapublica.es/noticia/21481/artificial-intelligence-tsunami-of-unanswered-questions</link>
+      <guid isPermaLink="true">https://agendapublica.es/noticia/21481/artificial-intelligence-tsunami-of-unanswered-questions</guid>
+      <description># Artificial intelligence: a tsunami of unanswered questions
+## Artificial intelligence is advancing at a pace that is multiplying both its applications and the questions surrounding its effects. European People's Party MEP Adrián Vázquez brings the debate opened this September by Dario Amodei into broader concerns about employment, the concentration of power, global security and the erosion of attention.
+![Grupo PP Europeo](https://agendapublica.sobrevia.net/gestiobeta/arxius/agendapublica/publicitat/240225045352_UE-logo-PPE.png)![Adrián Vázquez Lázara](https://agendapublica.sobrevia.net/gestiobeta/arxius/agendapublica/autorsnoticies/1743673895_adria_vazqquez.jpg)_[Adrián Vázquez Lázara](https://agendapublica.es/noticias/autor/2034/adrian-vazquez-lazara)_ _Member of the European Parliament for the People's Party_ 21 de septiembre de 2026
 
-- [Email](mailto:?subject=RAND%3A%20The%20Insurability%20of%20Artificial%20Intelligence&amp;body=From%20RAND%0A%0AThe%20Insurability%20of%20Artificial%20Intelligence%0A%0AA%20mismatch%20exists%20between%20rapid%20enterprise%20adoption%20of%20artificial%20intelligence%20%28AI%29%20and%20the%20market%20for%20insuring%20it.%20This%20report%20examines%20AI%20incidents%2C%20lawsuits%2C%20laws%2C%20and%20insurance%20filings%20to%20assess%20coverage%20responses%20and%20accumulation%20risks.%0A%0Ahttps%3A%2F%2Fwww.rand.org%2Fpubs%2Fresearch_reports%2FRRA5130-1.html)
+[Añadir AgendaPública en Google](https://google.com/preferences/source?q=agendapublica.es)
 
-Businesses increasingly embed artificial intelligence (AI) in operations, products, and services, creating both new opportunities and new forms of risk. Firms are deploying AI in customer service, employment screening, coding, fraud detection, and autonomous systems. At the same time, AI-related harms are already emerging, including incorrect or misleading outputs, deepfakes, privacy violations, intellectual property disputes, fraud, product defects, and discriminatory decisions.
+![Claude, from Anthropic, and ChatGPT, from OpenAI. | Andre M. Chang / Zuma Press / Europa Press](https://agendapublica.sobrevia.net/gestiobeta/arxius/agendapublica/imatges/202609/1200_1789802627europapress-1136014715-1920x1080_(1).jpg)
 
-## Topics
-- [Artificial Intelligence](https://www.rand.org/topics/artificial-intelligence.html)</description>
+Claude, from Anthropic, and ChatGPT, from OpenAI. | Andre M. Chang / Zuma Press / Europa Press
+
+It is impossible to surf a tsunami. You may have trained extensively, have the best board on the market and studied the shape of the wave as much as necessary, but the reality is that, once you get on it, **the consequences are unpredictable**. That is exactly where humanity now finds itself with artificial intelligence: **beginning to surf a wave whose crest seems endless**.
+
+The speed at which this technology is advancing is unprecedented. According to Epoch AI, **the training compute used for AI models doubles every five months**. At that rate, a model that began training five years and eight months ago would today have 12,400 times as much power and capacity. If the same rate applied to the speed a car could reach, it would be equivalent to **developing, in less than six years, vehicles capable of travelling at 1.5 million km/h**.
+
+Yet going faster does not necessarily mean reaching your destination sooner or in better shape. **The impact that AI and its applications are having on our world is enormous**. We are no longer asking whether this new technology will revolutionise everything, because it is already obvious that it is doing so. The question is whether that transformation will be total, and whether we will be able to adapt our economy, our labour model, our education system, our democratic institutions and, ultimately, our societies. Above all, **whether we will be able to do so before the train comes off the tracks**.
+
+"We are no longer asking whether this new technology will revolutionise everything, because it is already obvious that it is doing so. The question is whether that transformation will be total"
+
+In any case, it is important not to succumb to doom-laden tendencies and apocalyptic prophecies. **The benefits of artificial intelligence are clear**. AI improves our capacity for translation and understanding, automates repetitive tasks, optimises forecasts for renewable energy demand, detects pests, droughts and potential forest fires, improving crop resilience, reduces waste in corporate supply chains, democratises access to information as never before, accelerates research in physics, astronomy, chemistry and biology, makes diagnostic medicine more accurate and faster —almost infallible— and **reduces the time needed to discover useful molecules for new medicines from years to months**.
+
+If we focus only on the positives, AI presents us with a safer world, with less tedious jobs, better healthcare and greater energy and industrial efficiency. But every coin has another side. **Humanity is once again peering over the edge of the three challenges that previous industrial revolutions also placed before us, this time with even greater force**: an employment crisis —which invariably heralds profound social change—, a crisis of the political system and, ultimately, the risk of self-destruction. Moreover, this new technology has accelerated a crisis that humans had never experienced before: [a profound crisis in our capacity to pay attention](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21426/deberiamos-tener-cuidado-advertencia-pisa-2025-sobre-ia-aulas](https://agendapublica.es/noticia/21426/deberiamos-tener-cuidado-advertencia-pisa-2025-sobre-ia-aulas)). **Our cognitive capacity, one of humanity's defining traits compared with other species, is being weakened and dispersed by competition from other forms of intelligence**. This may not be the time to become Luddites, but the force of the wave means that all these threats must be properly assessed.
+
+First, we must focus on employment. **Work is not only people's main source of income; it is also one of the central pillars of their identity and the single most important factor explaining social and geographical mobility**. The first two industrial revolutions employed millions of Europeans, moving them from the countryside to the cities and creating a new social class —the working class— that shaped politics at the end of the 19th century and throughout the 20th.
+
+Today, the trend is moving in the opposite direction. **The digital revolution at the beginning of this century automated a multitude of industrial processes and contributed to offshoring**. Many European regions have been trying to adapt for years.
+
+"This new technology has accelerated a crisis that humans had never experienced before: a profound crisis in our capacity to pay attention"
+
+The emergence of AI has not only accelerated all these [job losses](https://agendapublica.es/noticia/21122/inteligencia-artificial-error-querer-predecir-empleo-futuro), but extended them to sections of society that once believed themselves untouchable. Lawyers, doctors, consultants and engineers are watching with concern as more of their tasks are automated or replaced. Their bosses still provide added value that is difficult to replace: from organising, negotiating and taking risks to building relationships. But **the automation of the production and review of reports, as well as the execution of repetitive processes, is leaving many people behind**.
+
+The first dismissal is the hire that never happens. According to SurePoint, **the recruitment of first-year associates at the 200 largest firms in the U.S. has remained virtually stagnant for four years**, while those same firms have reported record revenues over the same period. This raises three major questions: what do we do with people who cannot find work? How do we produce senior professionals if they never had the chance to start out as juniors? And how do we tackle the inequality produced by a world in which recruitment will be more closely tied than ever to personal connections rather than qualifications? **It still seems too early to provide any answers**.
+
+Second, **AI poses a major challenge to our [traditional institutions](https://agendapublica.es/noticia/21346/inteligencia-artificial-pone-prueba-instituciones-sabran-gobernarla) and their democratic expression**. This is not only about the vast accumulation of data and power in the hands of the companies that control these systems, which in many cases exceeds that of entire states. Rather, the novelty lies in the fact that **the efficiency of artificial intelligence is beginning to encroach on the space traditionally occupied by emotional intelligence and decisions shaped by human bias**.
+
+"The emergence of AI has accelerated all these job losses and extended them to sections of society that once believed themselves untouchable"
+
+Is a court ruling issued by a digital agent free of personal bias fairer? Who is held responsible for a war crime committed by an autonomous weapon? How much is a ministerial or corporate decision shaped when it is escalated through an organisation without meaningful human review and is based exclusively on probabilistic criteria? **Once again, the answers are unclear**, particularly when the temptation to gain a geopolitical advantage among actors unconstrained by democratic safeguards affects everyone else's ability to respond.
+
+Third, this month Anthropic CEO Dario Amodei stunned the world by declaring that we should **"slow down AI development"** because of [the risk its power poses to global survival](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21437/es-posible-inteligencia-artificial-acabe-tomando-control-arsenal-atomico](https://agendapublica.es/noticia/21437/es-posible-inteligencia-artificial-acabe-tomando-control-arsenal-atomico)). What was striking was **how quickly his competitors agreed with him**, something unusual among the leaders of companies such as OpenAI or xAI.
+
+Do those who understand AI best have reason to believe the apocalypse is near? The truth is that **there are sufficient grounds to be suspicious of them**, as an interest in slowing the development of new competitors and consolidating their oligopoly could very well lie behind such strategies.
+
+"In the past, nuclear weapons could destroy the world, but activating them required action by one or more humans whose own destruction was also guaranteed"
+
+Even so, **the degree of autonomy this technology can achieve is frightening**. In the past, nuclear weapons could destroy the world, but activating them required action by one or more humans whose own destruction was also guaranteed. [In the words of Pope Leo XIV](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21110/poder-guerra-magnifica-humanitas](https://agendapublica.es/noticia/21110/poder-guerra-magnifica-humanitas)), AI does not know human experience because it has neither suffered nor loved. And an intelligence that cannot feel, if given access to nuclear codes, **is incapable of weighing anything beyond statistical criteria when deciding whether to activate them**. In such circumstances, perhaps the statistically optimal solution an AI agent might find to guarantee world peace would be to destroy the world. Who knows.
+
+Finally, AI poses a new challenge that neither the steam engine, rural exodus, the railway nor even the atomic bomb ever created: **a profound crisis of attention**. It is true that this widespread decline in concentration [cannot be attributed entirely to AI](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21432/pisa-lucha-clases-puerto-banus](https://agendapublica.es/noticia/21432/pisa-lucha-clases-puerto-banus)). **The real problem lies with screens**.
+
+The widespread use of the _smartphone_ to obtain information, communicate, manage how we present ourselves to others, navigate, pay, manage our finances or organise our time **concentrates all our attention in a single place**. Social networks and their personalised recommendation algorithms are a constant party. Who is going to pay attention to their teacher when everything they care about most is constantly flowing across the screen in the palm of their hand? Why sit on a bench waiting for a friend and look at the world around me if I have a hundred notifications? And how am I supposed to listen to that friend when they arrive if those notifications never stop appearing?
+
+AI accelerates this collapse of attention by **generating a greater volume of content, tailored ever more closely to each individual**. Its ability to provide solutions and rewards within seconds disrupts the educational process and encourages us to outsource thinking itself. Why develop reading comprehension or mathematical skills if a machine can already do it? Why learn to write or create? Or why solve complex puzzles if it is easier to write a _prompt_?
+
+This cognitive laziness is even more pronounced among those who have known nothing else: **students who have grown up with AI, or almost so, do not know what it means to summarise, search for sources or spend time finding solutions**. [The results of the latest PISA report are disheartening](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21426/deberiamos-tener-cuidado-advertencia-pisa-2025-sobre-ia-aulas](https://agendapublica.es/noticia/21426/deberiamos-tener-cuidado-advertencia-pisa-2025-sobre-ia-aulas)). Measures are urgently needed to restore educators to a central role and make students exercise and strengthen their cognitive abilities before entering the real world, where **the advantage in innovation increasingly belongs to those who can think beyond simply finding an answer to a problem**.
+
+"Measures are urgently needed to restore educators to a central role and make students exercise and strengthen their cognitive abilities before entering the real world"
+
+Ultimately, there are many questions and few answers. What does seem clear, however, is that **humanity's real challenge should not focus exclusively on trying to predict how far this technology can go**. The real challenge is to steer that development towards a better society. [That means putting AI at the service of humanity](https://agendapublica.es/noticia/21481/[https://agendapublica.es/noticia/21092/humanidad-magnifica-frente-ia](https://agendapublica.es/noticia/21092/humanidad-magnifica-frente-ia)) and treating it as a tool to make our lives easier.
+
+Artificial intelligence, by definition, cannot be emotional. But, by definition, its creators, developers and users cannot escape emotion either. **We must understand this clearly, become aware of it and ensure, as we have always done, that lived human experience once again bends technology towards building a better society for everyone**. And if we fail, **let us hope we are able to cut the power before the tsunami sweeps us away**.
+
+![Adrián Vázquez Lázara](https://agendapublica.sobrevia.net/gestiobeta/arxius/agendapublica/autorsnoticies/1743673895_adria_vazqquez.jpg)
+
+Adrián Vázquez Lázara
+
+Eurodiputado del PP
+
+Es vicepresidente de la Comisión de Asuntos Constitucionales del Parlamento Europeo. También es miembro de la Delegación de Relaciones con Estados Unidos y expresidente de la Comisión de Asuntos Jurídicos. Graduado en Relaciones Internacionales por la Lindenwood University y profesor asociado en ESADE.
+
+[Ver perfil](https://agendapublica.es/noticias/autor/2034/adrian-vazquez-lazara)
+
+Etiquetas
+
+[Agenda Pública UE](https://agendapublica.es/grans/temes/20/agenda-publica-ue), [Agenda Pública in English](https://agendapublica.es/noticias/111/agenda-publica-english), [inteligencia artificial](https://agendapublica.es/etiquetas/inteligencia+artificial), [Parlamento Europeo](https://agendapublica.es/etiquetas/Parlamento+Europeo), [Trabajo](https://agendapublica.es/etiquetas/Trabajo), [empleo](https://agendapublica.es/etiquetas/empleo), [Seguridad](https://agendapublica.es/etiquetas/Seguridad), [Oligopolio](https://agendapublica.es/etiquetas/Oligopolio)
+
+Ahora en portada</description>
     </item>
   </channel>
 </rss>
