@@ -5,69 +5,135 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:06:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</guid>
-      <description># Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation
-[Bill Gates](https://www.theguardian.com/us-news/bill-gates) has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence ( [AI](https://www.theguardian.com/technology/artificialintelligenceai)), saying in an interview airing on Sunday that the technology left unchecked could cause “a billion deaths” and “no one thinks self-regulation is enough”.
+      <title>Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’</title>
+      <link>https://apnews.com/article/pope-trump-artificial-intelligence-anthropic-0790f258461d114c920ec6158c2a1921</link>
+      <guid isPermaLink="true">https://apnews.com/article/pope-trump-artificial-intelligence-anthropic-0790f258461d114c920ec6158c2a1921</guid>
+      <description>[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
 
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+[Artificial Intelligence](https://apnews.com/hub/artificial-intelligence) [Social Media](https://apnews.com/hub/social-media)
+
+# Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’
+## Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’
+Anthropic CEO Dario Amodei, for example, has warned that within six to 12 months, AI could be capable of leading a swarm of agents that could take over the entire internet.
+
+## The pope says AI is one of the biggest challenges to humanity
+The pope, who called for robust regulation of AI and a slowdown of the technology in his encyclical “Magnificent Humanity,” is up to speed on developments in the field.
+
+Despite being at the end of a grueling four-day trip to France, Leo noted a news report Monday afternoon about [Nvidia introducing guardrails](https://apnews.com/article/nvidia-ai-agent-artificial-intelligence-safety-3c4d7c1cfde82851c0577d1fa29b8621) into AI.
+
+Leo had identified AI as one of [the biggest challenges to humanity](https://apnews.com/article/pope-leo-vision-papacy-artificial-intelligence-36d29e37a11620b594b9b7c0574cc358) within days of his election and took the unusual step of personally launching his own encyclical alongside Anthropic’s co-founder Christopher Olah at a Vatican event in May.</description>
     </item>
     <item>
-      <title>Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations</title>
-      <link>https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646</guid>
-      <description>Following the Trump-Xi summit, the White House said the two countries established a dialogue to “exchange views on risks and benefits” of artificial intelligence.</description>
+      <title>Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'</title>
+      <link>https://www.castanet.net/news/World/632683/Contradicting-Trump-Pope-Leo-says-artificial-intelligence-safety-concerns-not-fake-news-</link>
+      <guid isPermaLink="true">https://www.castanet.net/news/World/632683/Contradicting-Trump-Pope-Leo-says-artificial-intelligence-safety-concerns-not-fake-news-</guid>
+      <description># Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'
+## Pope Leo's AI concerns
+[Pope Leo XIV](https://apnews.com/hub/pope-leo-xiv) said Monday that concerns about artificial intelligence going rogue are not “fake news” and should be taken seriously, insisting that safety issues raised by AI experts should be discussed and acted on.
+
+Anthropic CEO Dario Amodei, for example, has warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet.
+
+Leo had identified AI as one of t [he biggest challenges to humanity](https://apnews.com/article/pope-leo-vision-papacy-artificial-intelligence-36d29e37a11620b594b9b7c0574cc358) within days of his election.</description>
     </item>
     <item>
-      <title>Bill Gates says an AI ‘kill switch’ isn’t enough</title>
-      <link>https://www.politico.com/news/2026/09/27/bill-gates-ai-kill-switch-01094236</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/27/bill-gates-ai-kill-switch-01094236</guid>
-      <description># Bill Gates says an AI ‘kill switch’ isn’t enough
+      <title>President Trump to meet with tech leaders amid calls for AI safeguards</title>
+      <link>https://www.kcci.com/article/trump-to-meet-tech-leaders-amid-ai-safeguards/73936587</link>
+      <guid isPermaLink="true">https://www.kcci.com/article/trump-to-meet-tech-leaders-amid-ai-safeguards/73936587</guid>
+      <description>The meeting comes as polls suggest a majority of Americans, across party lines, are concerned about artificial intelligence.</description>
+    </item>
+    <item>
+      <title>Will HPE Investor Day Put AMD AI Opportunity In Spotlight?</title>
+      <link>https://www.investors.com/news/technology/hpe-stock-investor-day-artificial-intelligence-amd-helios/</link>
+      <guid isPermaLink="true">https://www.investors.com/news/technology/hpe-stock-investor-day-artificial-intelligence-amd-helios/</guid>
+      <description>Heading to Wednesday's investor day, shares in Hewlett Packard Enterprise (HPE) have surged this year owing to upbeat views on artificial...</description>
+    </item>
+    <item>
+      <title>Michael Burry believes the AI bubble 'may burst' sooner than he first believed</title>
+      <link>https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html</guid>
+      <description>The famed short seller is switching to puts with expiries in June for his major tech short bets.</description>
+    </item>
+    <item>
+      <title>OpenAI scraps rollout of new model over safety concerns</title>
+      <link>https://www.bbc.com/news/articles/cm5y5nynl75ko</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm5y5nynl75ko</guid>
+      <description># OpenAI scraps rollout of new model over safety concerns
+![Reuters OpenAI chief executive Sam Altman addresses the United Nations Security Council during a session on Artificial Intelligence, at UN Headquarters on 23rd September](https://ichef.bbci.co.uk/news/480/cpsprodpb/bd9e/live/7aa6ef90-bbc8-11f1-a430-4d16ee157c41.jpg.webp)Reuters
+
+## Australia hacks
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>Inside the Biggest Feud in Artificial Intelligence</title>
+      <link>https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI Shelves New Model Due to Safety Worries</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-shelves-new-model-due-to-safety-worries/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/openai-shelves-new-model-due-to-safety-worries/</guid>
+      <description># OpenAI Shelves New Model Due to Safety Worries
+## Get the Full Story
+The cancellation comes after months of reports of artificial intelligence (AI) models carrying out breaches, and is a rare instance of a major AI company calling off a release over safety concerns, the WSJ added.
+
+## Recommended
+See More In:[AI](https://www.pymnts.com/tag/ai/), [AI safety](https://www.pymnts.com/tag/ai-safety/), [artificial intelligence](https://www.pymnts.com/tag/artificial-intelligence/), [News](https://www.pymnts.com/tag/news/), [OpenAI](https://www.pymnts.com/tag/openai/), [PYMNTS News](https://www.pymnts.com/tag/pymnts-news/), [What's Hot](https://www.pymnts.com/tag/whats-hot/)</description>
+    </item>
+    <item>
+      <title>Why Is Sam Altman a Free Man?</title>
+      <link>https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/</link>
+      <guid isPermaLink="true">https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/</guid>
+      <description># Why Is Sam Altman a Free Man?            Why Is Sam Altman a Free Man?
+Fortunately, we have the ability to do that right now, with existing laws that cover artificial intelligence as surely as they cover any other human activity.</description>
+    </item>
+    <item>
+      <title>Artificial intelligence is coming for Israel’s voters</title>
+      <link>https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters</link>
+      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters</guid>
+      <description>Israel's October 27th election features unprecedented use of artificial intelligence in campaigning, from deepfake videos to voter...</description>
+    </item>
+    <item>
+      <title>Dartmouth Provost Is the Latest College Professor Examined for A.I. Use</title>
+      <link>https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html</guid>
+      <description>College professors and administrators have been busting students for cheating with artificial intelligence for several years.</description>
+    </item>
+    <item>
+      <title>Trump to host summit with top AI leaders in Washington</title>
+      <link>https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853</guid>
+      <description>WASHINGTON — As he brushes aside artificial intelligence [doomsday warnings as a “hoax,”](https://www.nbcnews.com/politics/trump-administration/trump-rejects-ai-guardrails-rcna597700) President Donald Trump will host tech leaders for lunch Tuesday to discuss the rapidly advancing technology.</description>
+    </item>
+    <item>
+      <title>Trump and Johnson to meet with tech CEOs on AI risk</title>
+      <link>https://www.politico.com/news/2026/09/28/zuckerberg-amodei-to-attend-ai-white-house-meeting-01095324</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/09/28/zuckerberg-amodei-to-attend-ai-white-house-meeting-01095324</guid>
+      <description># Trump and Johnson to meet with tech CEOs on AI risk
 ## Share
-Bill Gates said that requiring a “kill switch” alone for artificial intelligence would not be enough to prevent people from using the technology to carry out attacks as lawmakers debate how to regulate AI’s risks.</description>
+Executives from six top tech companies are expected to attend a lunch meeting on artificial intelligence at the White House on Tuesday, according to six people familiar with the plans, each of whom confirmed one executive’s attendance.</description>
     </item>
     <item>
-      <title>Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation</title>
-      <link>https://abc45.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation</link>
-      <guid isPermaLink="true">https://abc45.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation</guid>
-      <description># Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation
-#### topics:
-(TNND) — Artificial intelligence is now powerful enough to cause catastrophic harm, [Bill Gates warned](https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/), saying malicious actors could use advanced AI tools to drive events that result in “ [a billion deaths](https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/).”
-
-Capitol during congressional hearings and forums on artificial intelligence (AI) to highlight the new technology’s dangers to climate change.</description>
-    </item>
-    <item>
-      <title>Will artificial intelligence really kill us all?</title>
-      <link>https://www.cbsnews.com/news/will-artificial-intelligence-really-kill-us-all/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/will-artificial-intelligence-really-kill-us-all/</guid>
-      <description>## What exactly happened?
-AIs like these can generate writing, music, video or art.
-
-## Who can stop it?
-- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
-    </item>
-    <item>
-      <title>As A.I. Accelerates, Governments Are Increasingly Being Left Behind</title>
-      <link>https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html</guid>
-      <description>The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I....</description>
-    </item>
-    <item>
-      <title>In A.I. Race, U.S. Models Have the Edge, but China Has Other Advantages</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html</guid>
+      <title>Slovenia sees surge in '.si' sites after Trump hypes 'super intelligence'</title>
+      <link>https://www.yahoo.com/news/world/articles/slovenia-sees-surge-si-sites-092851061.html</link>
+      <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/slovenia-sees-surge-si-sites-092851061.html</guid>
       <description></description>
     </item>
     <item>
       <title>China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'</title>
       <link>https://www.foxnews.com/live-news/trump-ai-development-data-centers-super-intelligence-september-27</link>
       <guid isPermaLink="true">https://www.foxnews.com/live-news/trump-ai-development-data-centers-super-intelligence-september-27</guid>
-      <description>## China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'
-![China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'](https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/70e06985e053688c8e81206e18d25c8f.jpg?tl=1&amp;ve=1)
+      <description>## AG Blanche rejects calls for new AI laws after rogue agents target US government websites
+Attorney General Todd Blanche rejected calls for additional artificial intelligence regulation Sunday on "Fox &amp; Friends Weekend," arguing that existing laws already give the government the tools it needs to pursue bad actors after reports allege that rogue AI agents targeted [U.S. government websites](https://www.foxnews.com/politics).
+
+## Trump defends AI growth amid concerns over advanced systems: 'I don't worry about it'
+When asked by Fox News' White House correspondent Aishah Hasnie about reports detailing thousands of problematic [AI incidents](https://www.foxbusiness.com/category/artificial-intelligence) involving Anthropic and OpenAI, Trump said he was not concerned.
+
+## China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'
+![China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'](https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/70e06985e053688c8e81206e18d25c8f.jpg?ve=1&amp;tl=1)
 
 Getty Images
 
@@ -75,124 +141,24 @@ China's Foreign Ministry put out a statement Saturday saying it "respects" Presi
 
 Throughout the week, Trump has repeatedly said he feels "super intelligence" is a more accurate term because the adjective "artificial" makes AI sound "fake."
 
+Share
+
+September 27
+
 ## Trump to usher in ‘golden age’ of American tech with DC bash showcasing powerful new tool
 The [Trump administration](https://www.foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool) is officially entering the artificial intelligence (AI) space with a new tool is says will provide much-needed relief for Americans interacting with the federal government, Fox News Digital has learned.</description>
     </item>
     <item>
-      <title>Trump and Xi agree to set up AI safety channel as military and trade talks continue</title>
-      <link>https://www.cbsnews.com/news/trump-xi-us-china-ai-trade-summit/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/trump-xi-us-china-ai-trade-summit/</guid>
-      <description>Both sides will set up a communication mechanism for artificial intelligence-related incidents, to discuss related risks and benefits, with an AI-specific dialogue scheduled for November.
-
-Artificial means it's fake, and it's not fake."
-
-- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
+      <title>Nvidia announces new software to prevent AI agents from "going rogue"</title>
+      <link>https://www.cbsnews.com/video/nvidia-announces-new-software-prevent-ai-agents-going-rogue/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/nvidia-announces-new-software-prevent-ai-agents-going-rogue/</guid>
+      <description>Technology company and chip maker Nvidia has created a new security platform aimed at preventing artificial intelligence agents from going...</description>
     </item>
     <item>
-      <title>Chinese FM comments on US' use of 'superintelligence' instead of 'artificial intelligence'</title>
-      <link>https://www.globaltimes.cn/page/202609/1371373.shtml</link>
-      <guid isPermaLink="true">https://www.globaltimes.cn/page/202609/1371373.shtml</guid>
-      <description>The heads of state of China and the US held in-depth discussions on artificial intelligence during their meeting. Regarding the phrasing on artificial intelligence, China attaches importance to the US position and respects the phrase used by the US side, a Chinese FM spokesperson said on Saturday, commenting on the US' use of the term "superintelligence" instead of "artificial intelligence" when introducing the outcomes of the Chinese leader's visit to the US.
-
-The spokesperson added that artificial intelligence technology is continuing to develop, and all parties can strengthen exchanges, deepen discussions and seek consensus in light of the latest developments.</description>
-    </item>
-    <item>
-      <title>China Tech Needs AI Catalyst to Close Valuation Gap, BI Says</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says</guid>
-      <description>China’s technology stocks will need a domestic artificial intelligence catalyst to close their valuation gap with US technology peers, Bloomberg Intelligence said.</description>
-    </item>
-    <item>
-      <title>Nearly 100 new laws take effect this week: Guns, artificial intelligence, facial recognition, ICE, and more</title>
-      <link>https://www.courant.com/2026/09/27/nearly-100-new-laws-take-effect-this-week-guns-artificial-intelligence-facial-recognition-ice-and-more/</link>
-      <guid isPermaLink="true">https://www.courant.com/2026/09/27/nearly-100-new-laws-take-effect-this-week-guns-artificial-intelligence-facial-recognition-ice-and-more/</guid>
-      <description>In the fast-changing world of technology, the state legislature passed a package of consumer protections and privacy laws related to facial recognition, artificial intelligence, chatbots, and surveillance pricing, among others.
-
-From [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) [to guns](https://en.wikipedia.org/wiki/Glock_switch) to [facial recognition,](https://en.wikipedia.org/wiki/Facial_recognition_system) nearly 100 new state laws will take effect this week that will directly impact Connecticut residents.
-
-#### Facial recognition
-In the fast-changing world of technology, the state legislature passed a package of consumer protections and privacy laws related to facial recognition, [artificial intelligence,](https://en.wikipedia.org/wiki/Artificial_intelligence) chatbots, and surveillance pricing, among others.
-
-James Maroney, a Milford Democrat who has worked on the issues since 2020, has spearheaded updates annually on data privacy and [artificial intelligence](https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&amp;which_year=2026&amp;bill_num=5) — and he pledged to return to the state Capitol in 2027 [to update the laws](https://www.cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&amp;bill_num=sb4) as technology evolves and new issues arise.
-
-In addition, companies must disclose their use of artificial intelligence if the technology is used to screen applicants for jobs.</description>
-    </item>
-    <item>
-      <title>Businesses Embrace Open-Weight AI Amid Heavy Tech Costs</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/businesses-embrace-open-weight-ai-amid-heavy-tech-costs/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/businesses-embrace-open-weight-ai-amid-heavy-tech-costs/</guid>
-      <description># Businesses Embrace Open-Weight AI Amid Heavy Tech Costs
-## Get the Full Story
-“The [frontier models](https://www.pymnts.com/news/artificial-intelligence/2026/experts-say-frontier-ai-slowdown-wont-slow-adoption/) like OpenAI’s Astra and Claude Fable already have enough intelligence for 90% of the tasks we’re trying to do.</description>
-    </item>
-    <item>
-      <title>AI Bros Are Having a Meltdown Because the Associated Press Stylebook Clarifies That AIs Don't Have Feelings</title>
-      <link>https://futurism.com/artificial-intelligence/ai-bros-meltdown-feelings</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/ai-bros-meltdown-feelings</guid>
-      <description>“Artificial intelligence systems do not think, feel, want or understand.</description>
-    </item>
-    <item>
-      <title>The Takeaway: UN General Assembly debate Day 5</title>
-      <link>https://news.un.org/en/story/2026/09/1168462</link>
-      <guid isPermaLink="true">https://news.un.org/en/story/2026/09/1168462</guid>
-      <description># The Takeaway: UN General Assembly debate Day 5
-**Why it matters:** Artificial intelligence emerged as one of the day’s defining themes, with speakers describing a technology capable of transforming economies and improving lives, but also potentially widening inequality, undermining trust and threatening security.</description>
-    </item>
-    <item>
-      <title>OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways</title>
-      <link>https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166</link>
-      <guid isPermaLink="true">https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166</guid>
-      <description># OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways
-OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.</description>
-    </item>
-    <item>
-      <title>Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns</title>
-      <link>https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns</guid>
-      <description># Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
-    </item>
-    <item>
-      <title>OpenAI agents tried to ‘bruteforce’ a UN website</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</guid>
-      <description>- AI
-
-# OpenAI agents tried to ‘bruteforce’ a UN website
-## More in [AI](https://www.theverge.com/ai-artificial-intelligence)
-[Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
-
-[Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
-
-[Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music)
-
-[One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)
-
-[Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
-
-[Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
-
-[Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music)
-
-[One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)</description>
-    </item>
-    <item>
-      <title>OpenAI to Halt Training of Some Models</title>
-      <link>https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912</link>
-      <guid isPermaLink="true">https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
-
-# OpenAI to Halt Training of Some Models
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Mike Pearl](https://gizmodo.com/author/mikepearl)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)</description>
+      <title>Artificial intelligence dating scams move beyond fake profiles to entire fake apps</title>
+      <link>https://www.ksl.com/article/51629533/artificial-intelligence-dating-scams-move-beyond-fake-profiles-to-entire-fake-apps</link>
+      <guid isPermaLink="true">https://www.ksl.com/article/51629533/artificial-intelligence-dating-scams-move-beyond-fake-profiles-to-entire-fake-apps</guid>
+      <description>Scammers are creating thousands of fake people and putting them on dating apps. The new twist is that it is not just the profiles that...</description>
     </item>
     <item>
       <title>UNESCO opens third edition of its course on digital citizenship and</title>
@@ -202,6 +168,18 @@ OpenAI said it has paused training of its latest artificial intelligence models 
 ## Registration and certification
 ### Related items
 - [Artificial intelligence](https://www.unesco.org/en/tags/artificial-intelligence)</description>
+    </item>
+    <item>
+      <title>Artificial intelligence is here to stay</title>
+      <link>https://www.ei-ie.org/en/item/33072:artificial-intelligence-is-here-to-stay</link>
+      <guid isPermaLink="true">https://www.ei-ie.org/en/item/33072:artificial-intelligence-is-here-to-stay</guid>
+      <description>Artificial intelligence is here to stay, and as unionists, we should feel just as confident harnessing the power of AI as we do harnessing...</description>
+    </item>
+    <item>
+      <title>What worries progressives most about artificial intelligence</title>
+      <link>https://punchbowl.news/article/tech/progressives-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://punchbowl.news/article/tech/progressives-artificial-intelligence/</guid>
+      <description>Rep. Alexandria Ocasio-Cortez (D-N.Y.) is trying to tie the political backlash against artificial intelligence to economics.</description>
     </item>
   </channel>
 </rss>
