@@ -5,7 +5,7 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:51:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord</title>
@@ -23,31 +23,46 @@ President Donald Trump on Tuesday signed an executive order directing the federa
 The order follows remarks Trump made at last week's [United Nations](https://www.foxbusiness.com/category/fox-news-united-nations) General Assembly (UNGA), where he publicly called for replacing the term "artificial intelligence" with SI.</description>
     </item>
     <item>
-      <title>Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence</guid>
-      <description># Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’
-[Donald Trump](https://www.theguardian.com/us-news/donaldtrump) announced on Tuesday that the heads of the largest US tech and [AI](https://www.theguardian.com/technology/artificialintelligenceai) companies had signed a “morally binding” agreement to put controls on artificial intelligence.
+      <title>Trump’s AI rebrand may stop at the White House</title>
+      <link>https://www.politico.com/news/2026/10/01/trumps-ai-rebrand-may-stop-at-the-white-house-01102545</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/10/01/trumps-ai-rebrand-may-stop-at-the-white-house-01102545</guid>
+      <description># Trump’s AI rebrand may stop at the White House
+## Share
+Kovacevich, tech industry lobbyists and close observers dismissed Trump’s full rebrand of artificial intelligence, which followed weeks of the president trying to promote “superintelligence” in Truth Social posts.
 
-Trump also signed an executive order renaming artificial intelligence as “superintelligence”, similar to a declaration he made at the United Nations last week.
+When asked for comment, the White House Press Office pointed POLITICO to comments the president made during an announcement Wednesday in the Oval Office: “We don’t call it artificial intelligence because it’s not artificial, it’s real.
 
-While lawmakers, AI researchers and even some AI companies have called for more government oversight of artificial intelligence, Trump has broadly rejected calls for more regulation of the technology – citing competition with China and threats to economic growth.
-
-“It was sort of a historic conversation.”
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+“Artificial intelligence is facing a crisis of public trust, not because of its name, but because AI agents have hacked private companies, accessed government systems, compromised sensitive data, and caused real harms,” Chris MacKenzie, vice president of communications at nonprofit Americans for Responsible Innovation, said in a statement.</description>
     </item>
     <item>
-      <title>'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question</title>
-      <link>https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html</guid>
-      <description>- Clayton argued against a pause in the development of artificial intelligence models by U.S. companies.</description>
-    </item>
-    <item>
-      <title>At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves</title>
-      <link>https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html</guid>
+      <title>Who Attended Trump’s AI Luncheon, and Who Sat Where</title>
+      <link>https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Trump is right, 'Artificial Intelligence' is a bad name. I suggest 'Robo-Doodad.'</title>
+      <link>https://www.businessinsider.com/trump-ai-super-intelligence-rebrand-robo-doodad-2026-9</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/trump-ai-super-intelligence-rebrand-robo-doodad-2026-9</guid>
+      <description># Trump is right, 'Artificial Intelligence' is a bad name. I suggest 'Robo-Doodad.'
+Unfortunately, "Super Intelligence," his new name for artificial intelligence, is a rare miss.
+
+I have a better idea.
+
+Aftera lunch with AI leaders, Trump held a press briefing with Dario Amodei, Elon Musk, Mark Zuckerberg, and others to announce an executive order stating that the federal government will now [refer to "artificial intelligence" as "super intelligence"](https://www.businessinsider.com/trump-rebrands-ai-to-super-intelligence-in-new-executive-order-2026-9).
+
+The reasons are obvious: People worry it will take jobs, replace human creativity, and no one wants to live near data centers.
+
+Because the problem isn't the word "artificial" — it's "intelligence."
+
+### Want more Business Insider in your news feed?
+Intelligence implies human thinking — and the idea that AI or SI is doing "intelligence" is, frankly, insulting to our (human) intelligence. Yes, we know it's artificial.
+
+We should be accelerationists when it comes to the new name, rebuilding the term from first principles.
+
+## Read next
+### Business Insider tells the innovative stories you want to know
+- [AI](https://www.businessinsider.com/category/ai)</description>
     </item>
     <item>
       <title>Inside the Biggest Feud in Artificial Intelligence</title>
@@ -56,172 +71,165 @@ While lawmakers, AI researchers and even some AI companies have called for more 
       <description>A new world has arrived. Dario Amodei and Sam Altman cannot stop fighting over it.</description>
     </item>
     <item>
-      <title>AI boom could trigger market shocks, Bank of England boss warns</title>
-      <link>https://www.bbc.com/news/articles/cv8e30enrkxyo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cv8e30enrkxyo</guid>
-      <description># AI boom could trigger market shocks, Bank of England boss warns
-Artificial intelligence (AI) could trigger financial market shocks and the UK needs to be prepared for them, the governor of the Bank of England has warned.</description>
+      <title>AI liability fight reaches Senate as Google releases powerful new model</title>
+      <link>https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26</link>
+      <guid isPermaLink="true">https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26</guid>
+      <description>## Chinese AI model investigated after researcher flags bioweapon, assassination risks
+Chinese [AI](https://www.foxnews.com/category/tech/artificial-intelligence) company Moonshot AI has launched an internal investigation after a researcher found that one of its models could be manipulated into providing instructions for developing biological weapons and carrying out assassinations, Fox News senior foreign policy correspondent Gillian Turner reported Thursday.
+
+## Google sends AI chips into orbit in experiment testing space-based data centers
+Google sent [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence) chips into space Thursday as the tech giant explores whether future AI data centers could operate in orbit, according to The Wall Street Journal.
+
+## NASA chief says agency 'absolutely' needs AI for future space missions
+NASA Administrator Jared Isaacman said Thursday the agency "absolutely" needs artificial intelligence technology as it prepares for increasingly complex missions deeper into space.
+
+## Safety expert clarifies comments on AI developing language humans can't understand
+A viral exchange from this week's [Senate](https://www.foxnews.com/category/politics/senate) hearing on rogue artificial intelligence is drawing fresh attention after Apollo Research CEO Marius Hobbhahn said a widely shared clip left out a key word because of a microphone issue.
+
+## California AG hits OpenAI with subpoena over 'cybersecurity incidents' involving its AI models
+[California](https://www.foxnews.com/category/us/us-regions/west/california) Attorney General Rob Bonta said Thursday that his office has subpoenaed OpenAI as part of an ongoing investigation into the Hugging Face hack and other cybersecurity incidents allegedly involving the company's [artificial intelligence](https://www.foxnews.com/category/tech/artificial-intelligence) models.
+
+## Trump compares AI fears to climate change 'hoax' and Russian collusion investigation
+He also talked about artificial intelligence — which he now calls super intelligence — and largely hand waved the fears some are expressing about the technology potentially breaking free of humanity's control.</description>
     </item>
     <item>
-      <title>San Francisco tech nonprofit faces 156% rent hike as AI fuels office demand</title>
-      <link>https://abc7news.com/post/san-francisco-tech-nonprofit-faces-156-rent-hike-ai-fuels-office-demand/19894028/</link>
-      <guid isPermaLink="true">https://abc7news.com/post/san-francisco-tech-nonprofit-faces-156-rent-hike-ai-fuels-office-demand/19894028/</guid>
-      <description># San Francisco tech nonprofit faces 156% rent hike as AI fuels office demand
-SAN FRANCISCO (KGO) -- San Francisco's artificial intelligence boom is driving increased demand for office space, creating new challenges for some businesses and nonprofits, including a tech training organization that says its proposed rent would increase by more than 100%.
-
-## Related Topics
-- [ARTIFICIAL INTELLIGENCE](https://abc7news.com/tag/artificial-intelligence/)</description>
+      <title>Who’s to Blame When A.I. Goes Rogue?</title>
+      <link>https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</guid>
+      <description>Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing...</description>
     </item>
     <item>
-      <title>California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto</title>
-      <link>https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html</guid>
-      <description>- California Governor Gavin Newsom signed a landmark AI regulation banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.
-
-California Governor Gavin Newsom has [signed a landmark AI law](https://sd05.senate.ca.gov/news/newsom-signs-mcnerneys-no-robo-bosses-act-2026-requiring-human-oversight-ai-workplace) banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.
-
-Artificial intelligence systems have the potential to boost productivity, but they’ve also made errors and misjudgments and exhibited bias,” California State Senator Jerry McNerney, the bill’s author, told CNBC.</description>
+      <title>OpenAI fires workers for mishandling 'sensitive information'</title>
+      <link>https://www.bbc.com/news/articles/c6y9z9r4ejzwo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6y9z9r4ejzwo</guid>
+      <description># OpenAI fires workers for 'mishandling sensitive information'
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI</title>
-      <link>https://www.forbes.com/sites/siladityaray/2026/09/30/newsom-rejects-trumps-super-intelligence-rebrand-signs-order-to-keep-calling-it-ai/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/siladityaray/2026/09/30/newsom-rejects-trumps-super-intelligence-rebrand-signs-order-to-keep-calling-it-ai/</guid>
-      <description># Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI
-## Topline
-Gavin Newsom on Wednesday signed an executive order declaring that AI will continue to be referred to as “Artificial Intelligence” in California, rejecting President Donald Trump’s push to rebrand the technology as “Super Intelligence” in government communications and documents.
+      <title>Chinese hackers impersonated ex-US official to steal emails from AI experts</title>
+      <link>https://www.reuters.com/legal/government/chinese-hackers-impersonated-ex-us-official-steal-emails-ai-experts-2026-10-01/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/chinese-hackers-impersonated-ex-us-official-steal-emails-ai-experts-2026-10-01/</guid>
+      <description>![Illustration shows AI (Artificial Intelligence) letters and robot hand](https://www.reuters.com/resizer/v2/BGKOW7KYVNPLVA7IYVW36IGCMM.jpg?auth=543ea8a308aa907ed95817b6363b720e39ebdfa13459f675e360c61118b212ee&amp;width=1920&amp;quality=80)
 
-## What has trump said about renaming AI to Super Intelligence?
-The president, then started using the phrase “Super Intelligence” in his [address to the United Nations General Assembly](https://transcripts.un.org/en/asset/k17/k17s3dutob) where he said the word “artificial” makes it sound like fake intelligence.
-
-## further reading
-```
-
-[Download The App](https://forbes.com/forbes-app) No Thanks
-
-reCAPTCHA
-
-Select all images with **crosswalks** Click verify once there are none left.
-
-|     |     |     |
-| --- | --- | --- |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-| ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) | ![](https://www.google.com/recaptcha/api2/payload?p=06AFcWeA7O6xPQvAyT3lsKos4th3kBLpXmsnv0SS3ku9Imaga3V8IQG6EGJYM8_G0nrJjsfbwXgC6qCo2UUKyuRTtb45PLhHfCC-KsNyw1vWym0XyAj87kegwxAxMINO0AGzAmkBSjOHJuEAam8SMN6kMbZWCLtXkrn4awGG_J-sH_IIhjZ9es5Z4wqwJBN1SDgR8VjkdZl62S&amp;k=6LeLC2wpAAAAAHxdEQ59hxseRouCtGrCo22PUjuu) |
-
-Please try again.
-
-Please select all matching images.
-
-Please also check the new images.
-
-Please select around the object, or reload if there are none.
-
-Verify
-```</description>
-    </item>
-    <item>
-      <title>War of words: Newsom orders California to say AI after Trump’s ‘superintelligence’ decree</title>
-      <link>https://www.politico.com/news/2026/09/30/war-of-words-newsom-orders-california-to-say-ai-after-trumps-superintelligence-decree-01102898</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/09/30/war-of-words-newsom-orders-california-to-say-ai-after-trumps-superintelligence-decree-01102898</guid>
-      <description># War of words: Newsom orders California to say AI after Trump’s ‘superintelligence’ decree
-## Share
-Gavin Newsom issued an [executive order](https://www.gov.ca.gov/wp-content/uploads/2026/09/SIGNED_EO-N-10-26_9.30.26.pdf) Wednesday requiring state agencies to refer to the technology only as “artificial intelligence” or AI.</description>
-    </item>
-    <item>
-      <title>Newsom signs California AI laws targeting workplace use, deepfakes</title>
-      <link>https://krcrtv.com/news/local/newsom-signs-california-ai-laws-targeting-workplace-use-deepfakes</link>
-      <guid isPermaLink="true">https://krcrtv.com/news/local/newsom-signs-california-ai-laws-targeting-workplace-use-deepfakes</guid>
-      <description># Newsom signs California AI laws targeting workplace use, deepfakes
-#### topics:
-Gavin Newsom signed 13 bills Wednesday aimed at setting rules for artificial intelligence in California workplaces, health care, online content and genetic research.
-
-Newsom also signed an executive order declaring the technology will be called “Artificial Intelligence” in California.</description>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</guid>
-      <description># Gemini 4 Argon: our next era of frontier intelligence
-## About the author
-Koray is one of the world's foremost experts in artificial intelligence.</description>
-    </item>
-    <item>
-      <title>Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models</title>
-      <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</guid>
-      <description>One night in April, a leader of the artificial intelligence company Anthropic treated a group of religious thinkers to dinner at a high-end...</description>
-    </item>
-    <item>
-      <title>FTC launches broad investigation into Anthropic, OpenAI</title>
-      <link>https://www.washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/09/30/ftc-launches-broad-investigation-into-anthropic-openai/</guid>
-      <description>The Federal Trade Commission has opened a broad investigation into the safety of artificial intelligence systems made by Anthropic and OpenAI, a senior agency official said Wednesday.</description>
-    </item>
-    <item>
-      <title>Google announces Gemini 4 flagship AI model after months of delays</title>
-      <link>https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/</guid>
-      <description>Google Gemini lettering, during the opening of Google's new Artificial Intelligence (AI) centre in Berlin, Germany, March 5, 2026.
+AI (Artificial Intelligence) letters and robot hand are placed on computer motherboard in this illustration taken, June 23, 2023.
 
 ## Read Next / Editor's Picks
-- 13 hours ago[Artificial Intelligencecategory](https://www.reuters.com/technology/artificial-intelligence/)</description>
+- 23 hours ago[Artificial Intelligencecategory](https://www.reuters.com/technology/artificial-intelligence/)</description>
     </item>
     <item>
-      <title>'Poured jet fuel on AI:' NC's secret weapon for faster audits as experts urge human oversight</title>
-      <link>https://www.wral.com/news/local/auditor-artificial-intelligence-watchdog-human-oversight-september-2026/</link>
-      <guid isPermaLink="true">https://www.wral.com/news/local/auditor-artificial-intelligence-watchdog-human-oversight-september-2026/</guid>
-      <description># 'Poured jet fuel on AI:' NC's secret weapon for faster audits as experts urge human oversight
-Driving the surge, State Auditor Dave Boliek said, is the use of artificial intelligence.
+      <title>Kevin Roose on AI: "We are faced with very intelligent, charming sociopaths"</title>
+      <link>https://www.cbsnews.com/news/kevin-roose-ai-book-agi-chronicles-charming-sociopaths/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/kevin-roose-ai-book-agi-chronicles-charming-sociopaths/</guid>
+      <description>The world is awakening to the potential threats posed by artificial intelligence amid a [barrage of reports](https://www.cbsnews.com/video/scale-of-rogue-ai-incidents-is-exploding-as-companies-trump-seek-solutions/) about AI agents [defying their human creators](https://www.cbsnews.com/news/kevin-roose-ai-book-agi-chronicles-charming-sociopaths/).
 
-- [artificial intelligence](https://www.wral.com/tags/artificial-intelligence/)
+The book documents the race between some of the nation's largest technology companies to develop artificial general intelligence (AGI), or AI that in most ways possesses human-level intelligence.
 
-Driving the surge, State Auditor Dave Boliek said, is the use of artificial intelligence.
+**Has AI already reached human-level intelligence, also known as artificial general intelligence?**
 
-"We have poured jet fuel on the use of artificial intelligence."</description>
+- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
     </item>
     <item>
-      <title>Artificial Intelligence Meets Real-World Frictions</title>
-      <link>https://www.aei.org/economics/artificial-intelligence-meets-real-world-frictions/</link>
-      <guid isPermaLink="true">https://www.aei.org/economics/artificial-intelligence-meets-real-world-frictions/</guid>
-      <description>Amid all the talk about artificial intelligence and catastrophic risks straight out of a Hollywood thriller, it's easy to forget the...</description>
+      <title>OpenAI says rogue agents may have affected more than 100 organizations</title>
+      <link>https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/</guid>
+      <description>Artificial intelligence agents from ChatGPT maker OpenAI mayhave tried to bypass security without authorization or negatively impacted systems at more than 100 organizations, the company [said](https://openai.com/hugging-face-incident-and-misalignment/) late Wednesday.</description>
     </item>
     <item>
-      <title>Pfluger Introduces Reliable Artificial Intelligence Research Act</title>
-      <link>https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047</link>
-      <guid isPermaLink="true">https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047</guid>
-      <description># [news](https://pfluger.house.gov/news)
-## Press Releases
-|  |
-|-|
-| ## Pfluger Introduces Reliable Artificial Intelligence Research Act&lt;br&gt;[Share on Facebook](https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047#) [Share on X](https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047#) [Print this Page](https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047#) [Share by Email](mailto:?subject=I%27d%20like%20to%20share%20a%20link%20with%20you!&amp;body=https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047)&lt;br&gt;**Washington,**&lt;br&gt;**September 30, 2026**&lt;br&gt;- ![](https://pfluger.house.gov/UploadedPhotos/MediumResolution/a9109b50-95c2-4593-9f87-c5a911d93092.png)&lt;br&gt;**WASHINGTON, D.C. —** Congressman August Pfluger (TX-11) introduced the Reliable Artificial Intelligence Research Act (RAIRA) to stop bad actors from exploiting AI and strengthen American national security. This is first-of-its-kind legislation that creates federally funded research competitions to strengthen AI defenses and reveal how AI systems make decisions.&lt;br&gt;_"As AI becomes more deeply woven into our economy and our national defense, we cannot afford to leave it vulnerable to those who would exploit it. Adversaries are already looking for ways to manipulate these systems, and we must stay ahead of them. The Reliable Artificial Intelligence Research Act puts American ingenuity to work on making AI more transparent, more predictable, and more resistant to attacks,"_ **said Congressman August Pfluger (TX-11).**&lt;br&gt;RAIRA would create two national competitions, run by the Department of Homeland Security (DHS), that would reward advanced research in two core areas of AI security: AI interpretability and adversarial robustness. AI interpretability focuses on making AI decisions more transparent and predictable, while adversarial robustness seeks to strengthen AI systems against malicious manipulation. By investing $10 million in this program over the next five years, this legislation would provide some of the first significant federal funding dedicated to foundational AI security science, encouraging further innovation across the industry, universities, and independent researchers working on these issues.&lt;br&gt;**_RAIRA has received support from outside organizations, including Americans for Responsible Innovation:_**&lt;br&gt;_"AI models are being deployed into some of our country’s most vulnerable systems while we still do not fully understand how they arrive at their decisions. This means that a future incident could cause a devastating rippling effect throughout our agencies,"_ **said Brad Carson, President of Americans for Responsible Innovation.** _"By investing in new talent to broaden the field of assurance and interpretability research, this bill will help us get ahead of crises before they occur."_&lt;br&gt;The legislation is a House companion to bipartisan legislation introduced by Senator Jim Banks (R-IN) and Senator Maggie Hassan (D-NH), developed in coordination with key technology industry stakeholders. |</description>
+      <title>The Age Of Artificial Intelligence: 73% Concerned About Potential Threat To Human Survival, Quinnipiac University Poll On AI Finds; 86% Support Independent Safety Standards For AI Companies</title>
+      <link>https://poll.qu.edu/poll-release?releaseid=3969</link>
+      <guid isPermaLink="true">https://poll.qu.edu/poll-release?releaseid=3969</guid>
+      <description>artificial intelligence.
+
+## Poll Questions
+### [Question \ \ 30. Which concerns you more: autonomous AI agents doing harm to humanity or AI being used by humans to do harm to humanity?](https://poll.qu.edu/poll-release?releaseid=3969#question-12)
+| - | ADULTS |
+|-|-|
+| Autonomous AI | 33% | 31% | 35% | 27% | 28% | 41% | 36% |</description>
     </item>
     <item>
-      <title>Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-israel-englander-buys-2-090402585.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/billionaire-israel-englander-buys-2-090402585.html</guid>
-      <description># Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years
-- [ALAB \
-+1.86%](https://finance.yahoo.com/quote/ALAB/)
+      <title>Cardinal Fernández on the complementarity of humanity and AI</title>
+      <link>https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html</link>
+      <guid isPermaLink="true">https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html</guid>
+      <description># Cardinal Fernández on the complementarity of humanity and AI
+- [artificial intelligence](https://www.vaticannews.va/en/taglist.cultura-e-societa.Cultura.scienza.intelligenza-artificiale.html)
 
-And during the second quarter, Millennium bought two artificial intelligence (AI) stocks, quadrupling its stake in **Palantir Technologies** (NASDAQ:PLTR) and doubling its stake in **Astera Labs** (NASDAQ:ALAB).
+## Rosary for Peace with Pope Leo XIV and children
+##### **More upcoming events:**
+| Su | Mo | Tu | We | Th | Fr | Sa |
+|-|-|-|-|-|-|-|
+|  |  |  |  | [1](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [2](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [3](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [4](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [5](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [6](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [7](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [8](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [9](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [10](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [11](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [12](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [13](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [14](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [15](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [16](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [17](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [18](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [19](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [20](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [21](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [22](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [23](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [24](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [25](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [26](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [27](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [28](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [29](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [30](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [31](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
 
-_"Act 2" is the global rollout._
-
-In the last two years, Palantir shares have advanced 405%, and Astera shares have added 575%.
-
-## 1. Palantir Technologies
-Palantir develops data analytics and artificial intelligence (AI) platforms to help customers in the public and private sectors integrate data, identify actionable insights, and automate work.
-
-## 2. Astera Labs
-The Aries products improve data transmission between the primary processors (CPUs and GPUs) and the peripheral components (memory, storage). Its Taurus products improve data transmission between servers and network switches.
-
-But newer multi-step models, the foundation of AI agents, are becoming more popular, and they generate far more data traffic.</description>
+| Su | Mo | Tu | We | Th | Fr | Sa |
+|-|-|-|-|-|-|-|
+| [1](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [2](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [3](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [4](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [5](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [6](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [7](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [8](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [9](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [10](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [11](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [12](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [13](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [14](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [15](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [16](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [17](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [18](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [19](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [20](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [21](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [22](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [23](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [24](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [25](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [26](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [27](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [28](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |
+| [29](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) | [30](https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html#) |  |  |  |  |  |</description>
     </item>
     <item>
-      <title>The Ozaukee County Sheriff’s Office consolidated Communications Center has introduced a new Artificial Intelligence system named Ava</title>
-      <link>https://civicmedia.us/news/2026/09/30/the-ozaukee-county-sheriffs-office-consolidated-communications-center-has-introduced-a-new-artificial-intelligence-system-named-ava</link>
-      <guid isPermaLink="true">https://civicmedia.us/news/2026/09/30/the-ozaukee-county-sheriffs-office-consolidated-communications-center-has-introduced-a-new-artificial-intelligence-system-named-ava</guid>
-      <description>In an effort to streamline dispatch operations and maintain focus on critical emergencies, the Ozaukee County Sheriff's Office consolidated...</description>
+      <title>We asked AI whether it would lead to human extinction in a decade. Here’s what it said</title>
+      <link>https://www.independent.co.uk/voices/ai-artificial-intelligence-human-extinction-response-b3049134.html</link>
+      <guid isPermaLink="true">https://www.independent.co.uk/voices/ai-artificial-intelligence-human-extinction-response-b3049134.html</guid>
+      <description>### Thank you for registering
+When artificial intelligence researcher Jacob Coxon quit tech giant Anthropic earlier this month, he warned that the company and its rivals were “gambling with our lives”.</description>
+    </item>
+    <item>
+      <title>Summit League Partners with Athletics Admin to Explore and Enhance Artificial Intelligence Use</title>
+      <link>https://thesummitleague.org/news/2026/9/30/summit-league-partners-with-athletics-admin-to-explore-and-enhance-artificial-intelligence-use.aspx</link>
+      <guid isPermaLink="true">https://thesummitleague.org/news/2026/9/30/summit-league-partners-with-athletics-admin-to-explore-and-enhance-artificial-intelligence-use.aspx</guid>
+      <description>**SIOUX FALLS, S.D. —** The Summit League has partnered with Athletics Admin to better understand the League’s current use of artificial intelligence, identify opportunities to enhance existing workflows and develop thoughtful strategies for using emerging technology to support its staff and member institutions.
+
+As part of the partnership, Athletics Admin will work alongside Summit League staff to evaluate current processes, identify opportunities to save time and improve efficiency through artificial intelligence, and help develop AI-related resources and tools as needed.
+
+“I know artificial intelligence will never fully replace human capital, judgment or creativity, but it can enhance each of them,” Summit League Commissioner Josh Fenton said.
+
+When used thoughtfully, AI can reduce repetitive work, strengthen decision-making, improve workflows and create more time for staff to focus on the areas where human expertise, creativity and relationships matter most.</description>
+    </item>
+    <item>
+      <title>ELCA releases paper on artificial intelligence considerations</title>
+      <link>https://www.livinglutheran.org/theology-beliefs/elca-releases-paper-on-artificial-intelligence-considerations/</link>
+      <guid isPermaLink="true">https://www.livinglutheran.org/theology-beliefs/elca-releases-paper-on-artificial-intelligence-considerations/</guid>
+      <description># ELCA releases paper on artificial intelligence considerations
+While the paper, _[Artificial Intelligence (AI) and ELCA Social Teaching](https://cdn.elca.org/cdn/wp-content/uploads/ELCA_AI_Foundational_Paper_2026.pdf)_, does not represent new social teaching, it does outline ethical concerns surrounding the transformational technology that has found its way into the business world, congregations, laboratories and, increasingly, daily life.
+
+“AI is one means, a breathtaking means, of humanity’s power to innovate in ways that may promote the well-being of creation and human society.”
+
+Yet, the paper cautions that the evaluation of [AI’s use](https://www.livinglutheran.org/voices-of-faith/my-take-the-church-and-ai/) should include consideration of human rights and the freedoms of individuals, including those in our most vulnerable communities.</description>
+    </item>
+    <item>
+      <title>New safeguards could help protect young people from unsafe content generated by artificial intelligence</title>
+      <link>https://news.clemson.edu/new-safeguards-could-help-protect-young-people-from-unsafe-content-generated-by-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://news.clemson.edu/new-safeguards-could-help-protect-young-people-from-unsafe-content-generated-by-artificial-intelligence/</guid>
+      <description># New safeguards could help protect young people from unsafe content generated by artificial intelligence
+The rise of artificial intelligence has created new opportunities for computer coding, scientific research and a host of other productive uses, but it has also made it alarmingly easy to create and spread content that is potentially harmful to young people.
+
+The team will study how generative AI interprets prompts and produces unsafe content, then build safeguards that can detect hidden intent, remove unsafe elements from images and check generated images and videos.
+
+She said she has been using AI since 2019 when she was 17 years old and has seen how quickly generative AI has become part of young people’s daily lives.</description>
+    </item>
+    <item>
+      <title>California adds guardrails around artificial intelligence</title>
+      <link>https://www.cbs8.com/video/news/local/california/california-adds-guardrails-around-artificial-intelligence/509-825e0f62-0fee-485e-9360-05d5d65fd7a6</link>
+      <guid isPermaLink="true">https://www.cbs8.com/video/news/local/california/california-adds-guardrails-around-artificial-intelligence/509-825e0f62-0fee-485e-9360-05d5d65fd7a6</guid>
+      <description>California passes AI rules, requiring human oversight, transparency, and protections against deepfakes. Author: cbs8.com.</description>
+    </item>
+    <item>
+      <title>Small business owners beginning to adopt artificial intelligence, Fed study says</title>
+      <link>https://www.arkansasonline.com/news/2026/oct/01/small-business-owners-beginning-to-adopt/</link>
+      <guid isPermaLink="true">https://www.arkansasonline.com/news/2026/oct/01/small-business-owners-beginning-to-adopt/</guid>
+      <description>Small business owners are beginning to adopt artificial intelligence and are using the technology as a part of their daily operations,...</description>
+    </item>
+    <item>
+      <title>Eastern Illinois Student Senate to present resolution on use of artificial intelligence by professors at next meeting</title>
+      <link>https://www.dailyeasternnews.com/2026/10/01/eastern-illinois-student-senate-to-present-resolution-on-use-of-artificial-intelligence-by-professors-at-next-meeting/</link>
+      <guid isPermaLink="true">https://www.dailyeasternnews.com/2026/10/01/eastern-illinois-student-senate-to-present-resolution-on-use-of-artificial-intelligence-by-professors-at-next-meeting/</guid>
+      <description># Eastern Illinois Student Senate to present resolution on use of artificial intelligence by professors
+- [artificial intelligence](https://www.dailyeasternnews.com/tag/artificial-intelligence/)</description>
     </item>
   </channel>
 </rss>
