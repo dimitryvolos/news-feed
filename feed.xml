@@ -5,376 +5,157 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:08:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meta debuts Muse Wonder AI model in latest test of users' willingness to pay</title>
-      <link>https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html</guid>
-      <description>[Meta](https://www.cnbc.com/quotes/META/) debuted its latest artificial intelligence model, Muse Wonder, and says it’s the most advanced option for powering digital assistants.</description>
+      <title>Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears</title>
+      <link>https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/</link>
+      <guid isPermaLink="true">https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/</guid>
+      <description>Despite artificial intelligence sparking doomsday fears around the world, Hollywood is slowly embracing the technology. Here's why.</description>
     </item>
     <item>
-      <title>Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter</title>
-      <link>https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4</guid>
+      <title>A Guide to Which AI CEOs Now Say ‘Super Intelligence’ and Which Don’t</title>
+      <link>https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804</link>
+      <guid isPermaLink="true">https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804</guid>
+      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+
+# A Guide to Which AI CEOs Now Say ‘Super Intelligence’ and Which Don’t
+_Artificial intelligence_ or _AI_ started out in the 1950s as an observation about the potential capabilities of computer systems.
+
+President, Donald Trump, decided last month that he didn’t want to call artificial intelligence “artificial intelligence” anymore, and that he wanted to use his own alternative phrase instead: “Super Intelligence,” which is two words in title case. He has [since said](https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614) anyone who still says “artificial intelligence” is “THE ENEMY.”
+
+## ❓ Amodei, Dario
+![CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://gizmodo.com/app/uploads/2026/10/dario-at-white-house-2026.jpg)© Kevin Dietsch / Getty Images
+
+## ✅ Nadella, Satya
+The post refers to safety tech that “eludes us in today’s Super Intelligence systems, even as the frontier models powering these systems are now more capable than traditional software systems,” making it clear that he’s not referring to hypothetical “superintelligence” in the future, but to artificial intelligence generally.</description>
+    </item>
+    <item>
+      <title>Saudi man charged with planting 'sophisticated' recording device in OpenAI office</title>
+      <link>https://www.bbc.com/news/articles/cwg5jq4vlddzo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwg5jq4vlddzo</guid>
+      <description># Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>OpenAI employee arrested by FBI after listening device found at its office</title>
+      <link>https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/</guid>
+      <description>He writes about artificial intelligence and its rapidly-increasing impact on our society.</description>
+    </item>
+    <item>
+      <title>OpenAI engineer charged after listening device found in meeting room</title>
+      <link>https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room</guid>
+      <description>A Saudi national who worked as an engineer at the artificial intelligence firm [OpenAI](https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns) has been arrested after a listening device was found in the company’s conference room, according to United States authorities.</description>
+    </item>
+    <item>
+      <title>OpenAI says employee caught planting listening device</title>
+      <link>https://www.dw.com/en/open-ai-employee-arrested-listening-saudi/a-79655491</link>
+      <guid isPermaLink="true">https://www.dw.com/en/open-ai-employee-arrested-listening-saudi/a-79655491</guid>
       <description></description>
     </item>
     <item>
-      <title>Meta Says New Muse Model Hits AI Frontier After Aggressive Push</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push</guid>
-      <description>## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-Meta Platforms Inc. released a long-awaited artificial intelligence model on Monday, a milestone that will test whether its multibillion-dollar push to rebuild its AI organization has improved its technology enough to compete among leaders.</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg: Meta Is on the Frontier Now</title>
-      <link>https://gizmodo.com/mark-zuckerberg-meta-is-on-the-frontier-now-2000825035</link>
-      <guid isPermaLink="true">https://gizmodo.com/mark-zuckerberg-meta-is-on-the-frontier-now-2000825035</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+      <title>AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices</title>
+      <link>https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning</guid>
+      <description># AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices
+Anthropic is warning that some of its artificial intelligence models could soon become “self-replicating” and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners.
 
-# Mark Zuckerberg: Meta Is on the Frontier Now
-## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Bruce Gil](https://gizmodo.com/author/bruce-gil)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Webb Wright](https://gizmodo.com/author/wwright)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Matt Novak](https://gizmodo.com/author/mattnovak)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
-    </item>
-    <item>
-      <title>OpenAI's latest blow to mathematicians: 'They have annihilated my field of research'</title>
-      <link>https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html</link>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html</guid>
-      <description>- [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-
-- Pixels
-  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-
-The American artificial intelligence (AI) company OpenAI posted more than 719 manuscripts, grouped into 372 families, claiming to solve many open mathematical problems.
-
-Along with a colleague, he discovered that an AI developed by Anthropic, a competitor of OpenAI, was able to solve a difficult problem, providing elegant and concise proof.</description>
-    </item>
-    <item>
-      <title>Is ‘Attention’ the Essence of Intelligence?</title>
-      <link>https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/</link>
-      <guid isPermaLink="true">https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/</guid>
-      <description>A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is...</description>
-    </item>
-    <item>
-      <title>IMF says AI investment keeps global growth around 3% but brings massive disruption</title>
-      <link>https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/imf-says-ai-investment-keeps-global-growth-around-3-with-major-asia-benefits-2026-10-12/</guid>
-      <description>Strong investment ​in AI infrastructure is keeping global growth at around 3% with major benefits for Asia, but also foreshadows a...</description>
-    </item>
-    <item>
-      <title>David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM</title>
-      <link>https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb</guid>
-      <description># David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>Ray Dalio Says This Is When the Artificial Intelligence (AI) Bubble Could Pop</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/ray-dalio-says-artificial-intelligence-163502449.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/ray-dalio-says-artificial-intelligence-163502449.html</guid>
-      <description>Even artificial intelligence (AI) stocks that don't look terribly expensive could still be at risk for significant declines.</description>
+      <title>Opinion | The future job market will break career ladders. Find out who could fall.</title>
+      <link>https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/interactive/2026/10/13/will-artificial-intelligence-take-gen-z-jobs-depends-who-you-ask/</guid>
+      <description>Ask a software engineer with 10 years of experience whether artificial intelligence is taking their job, and they'll probably shrug.</description>
     </item>
     <item>
-      <title>Introducing AMD Helion, Agentic AI Compute at Rack Scale</title>
-      <link>https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/</link>
-      <guid isPermaLink="true">https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/</guid>
-      <description>## Ecosystem Support
-### Please read through and acknowledge the Terms &amp; Conditions
-Topics [Artificial Intelligence](https://newsroom.amd.com/category/ai/) [Data Center](https://newsroom.amd.com/category/data-center/) [#epyc](https://newsroom.amd.com/tag/epyc/) [#2026-ocp](https://newsroom.amd.com/tag/2026-ocp/) [#helion](https://newsroom.amd.com/tag/helion/) [#agentic-ai](https://newsroom.amd.com/tag/agentic-ai/)
-
-## More from this category
-- [![](https://newsroom.amd.com/images/2026/09/a5df89fd-33c9-438c-8306-b51a94f437ed.jpeg)\
-\
-Press Kit  Artificial Intelligence \
-\
-**Press Kit: Agentic AI at AMD** \
-\
-As AI evolves, AMD delivers the full-stack computing foundation to power intelligent agents.](https://newsroom.amd.com/press-kits/press-kit-agentic-ai-amd/)</description>
-    </item>
-    <item>
-      <title>What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’</title>
-      <link>https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html</guid>
-      <description>As artificial intelligence automates office tasks, it is also creating a new type of human work.</description>
-    </item>
-    <item>
-      <title>Anthropic AI model made false tip in unsolved Philly murder: Officials</title>
-      <link>https://abcnews.com/US/anthropic-ai-model-made-false-tip-unsolved-philly/story?id=137190087</link>
-      <guid isPermaLink="true">https://abcnews.com/US/anthropic-ai-model-made-false-tip-unsolved-philly/story?id=137190087</guid>
-      <description># Anthropic AI model made false tip in unsolved Philly murder: Officials
-President Donald Trump following a meeting on artificial intelligence at the White House, September 29, 2026.
-
+      <title>Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence</title>
+      <link>https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598</link>
+      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598</guid>
+      <description># Kroger to lay off 3K corporate employees over 3 years as it leans into AI
 ## Related Topics
 - [Artificial Intelligence](https://abcnews.com/alerts/ArtificialIntelligence)</description>
     </item>
     <item>
-      <title>Intel Accelerates Open Infrastructure for the Agentic AI Era</title>
-      <link>https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html</link>
-      <guid isPermaLink="true">https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html</guid>
-      <description># Intel Accelerates Open Infrastructure for the Agentic AI Era
-[Artificial Intelligence (AI)](https://www.intel.com/content/www/us/en/newsroom/home.html#aiartificialintelligence)</description>
+      <title>Kroger to lay off thousands of employees amid its increase in AI usage</title>
+      <link>https://komonews.com/news/nation-world/kroger-to-lay-off-thousands-of-employees-amid-its-increase-in-ai-usage-ohio-artificial-intelligence</link>
+      <guid isPermaLink="true">https://komonews.com/news/nation-world/kroger-to-lay-off-thousands-of-employees-amid-its-increase-in-ai-usage-ohio-artificial-intelligence</guid>
+      <description></description>
     </item>
     <item>
-      <title>UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence</title>
-      <link>https://news.ucsb.edu/2026/022865/uc-santa-barbara-taking-base-camp-approach-artificial-intelligence</link>
-      <guid isPermaLink="true">https://news.ucsb.edu/2026/022865/uc-santa-barbara-taking-base-camp-approach-artificial-intelligence</guid>
-      <description># UC Santa Barbara taking a ‘base camp’ approach to artificial intelligence
-As artificial intelligence reshapes the academic landscape, UC Santa Barbara is providing the tools and training to navigate the technology's far-reaching significance.
-
-With recent campuswide rollouts of [two platforms](https://cio.ucsb.edu/artificial-intelligence/genai-tools-ucsb) – Google Gemini and the newly launched UCSB AI Commons – the university is charting a deliberate course forward, staying open-eyed about AI's immense promise while remaining fully alert to its potential perils.
-
-In addition to launching new tools campuswide, UCSB is delivering on the promise of AI literacy for employees through the AI@Work Certificate program.
-
-When it comes to AI, UCSB is focused on setting up the infrastructure to explore, learn and build with purpose, without claiming premature victory or assuming today’s solutions will remain tomorrow’s standard.
-
-[Artificial Intelligence](https://news.ucsb.edu/topics/artificial-intelligence)</description>
+      <title>Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.</title>
+      <link>https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</guid>
+      <description>Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.</description>
     </item>
     <item>
-      <title>Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed</title>
-      <link>https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed</link>
-      <guid isPermaLink="true">https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed</guid>
-      <description># Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed
-Share
+      <title>Character.AI files for bankruptcy, to sell some assets to Disney for $20 million</title>
+      <link>https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</guid>
+      <description>A message reading "AI artificial intelligence", a keyboard, and robot hands are seen in this illustration taken January 27, 2025.
 
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share on Twitter](https://twitter.com/intent/tweet?text=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed&amp;url=https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share by Email](mailto:?subject=Shared%20from%20Crux&amp;body=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed:%20https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share by Email](https://wa.me/?text=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed%0A%0Ahttps://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-
-![Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed](https://cruxnow.com/cdn-cgi/image/width=1920,quality=75/https://wp.cruxnow.com/wp-content/uploads/2026/10/claude-ap.png)
-
-Listen
-
-Pope Leo sees AI as a powerful tool that can serve the common good, but never as a substitute for human intelligence, conscience or relationships, since it processes data without understanding meaning, love or truth.
-
-That’s Claude, the artificial intelligence (AI) system developed by the American software company Anthropic.
-
-“His concern is less the technology itself than what it does to people: Who controls it, how it affects workers, young people and the truth, and whether it makes war easier,” the AI told me.
-
-Continue reading with a free account
-
-Or get unlimited access
-
-Secure payment via Stripe. Cancel anytime.
-
-Share
-
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share on Twitter](https://twitter.com/intent/tweet?text=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed&amp;url=https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share by Email](mailto:?subject=Shared%20from%20Crux&amp;body=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed:%20https://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-- [Share by Email](https://wa.me/?text=Artificial%20Intelligence%20(AI)%20is%20watching%20us,%20and%20%E2%80%98knows%E2%80%99%20Pope%20Leo%20has%20noticed%0A%0Ahttps://cruxnow.com/news-analysis/2026/10/artificial-intelligence-ai-is-watching-us-and-knows-pope-leo-has-noticed/)
-
-## Crux. Anytime. Anywhere.
-Today's top stories delivered straight into your inbox.
-
-Email*
-
-DailyWeekly
-
-*
-
-Subscribe
-
-Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed | Crux</description>
+## UNPROFITABLE DESPITE 12 MILLION USERS
+In 2024, [Google licensed](https://www.reuters.com/technology/artificial-intelligence/google-hires-characterai-cofounders-licenses-its-models-information-reports-2024-08-02/) Character.AI's technology and rehired the founders.</description>
     </item>
     <item>
-      <title>UA Little Rock students explore the future through new artificial intelligence degree</title>
-      <link>https://ualr.edu/news/2026/10/12/ua-little-rock-students-explore-the-future-through-new-artificial-intelligence-degree/</link>
-      <guid isPermaLink="true">https://ualr.edu/news/2026/10/12/ua-little-rock-students-explore-the-future-through-new-artificial-intelligence-degree/</guid>
-      <description># UA Little Rock students explore the future through new artificial intelligence degree
-This fall marks the inaugural semester for the new Bachelor of Science in Artificial Intelligence at the University of Arkansas at Little Rock, which gives students the opportunity to study topics ranging from AI governance and machine learning to natural language processing, robotics, and deep learning.
-
-From asking a chatbot a question to encountering facial recognition technology or riding in a self-driving car, today’s students are interacting with artificial intelligence in more ways than ever before.
-
-This fall marks the inaugural semester for the [new major](https://ualr.edu/academics/undergraduate/artificial-intelligence-ai/), which gives students the opportunity to study topics ranging from AI governance and machine learning to natural language processing, robotics, and deep learning.
-
-After riding in a self-driving vehicle, Singh said, AI became less abstract and more tangible because she had experienced the technology firsthand.
-
-She hopes to eventually work as an AI engineer, building and deploying machine learning models to solve real-world problems.
-
-Stone is particularly interested in machine learning and the process through which computers can learn to identify patterns and solve problems.
-
-As UA Little Rock expands its academic offerings in artificial intelligence, students entering the new program will have the opportunity to study a rapidly evolving field alongside faculty engaged in AI and machine learning research. The university has existing research strengths in areas including artificial intelligence, machine learning, data science, and cybersecurity, providing opportunities for students to connect classroom learning with research and applied projects.
-
-**Tags:** [Artificial Intelligence](https://ualr.edu/news/tag/artificial-intelligence/) [Donaghey College of STEM](https://ualr.edu/news/tag/donaghey-college-of-stem/) [Student Success](https://ualr.edu/news/tag/student-success/)
-
-|  |  |
-|-|-|
-|  |  |</description>
+      <title>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co</title>
+      <link>https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</link>
+      <guid isPermaLink="true">https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</guid>
+      <description></description>
     </item>
     <item>
-      <title>How Artificial Intelligence Can Help With Critical Thinking</title>
-      <link>https://greatergood.berkeley.edu/article/item/want_to_use_ai_to_improve_your_work_have_it_disagree_withyou</link>
-      <guid isPermaLink="true">https://greatergood.berkeley.edu/article/item/want_to_use_ai_to_improve_your_work_have_it_disagree_withyou</guid>
+      <title>What My Son Is Learning From Artificial Intelligence</title>
+      <link>https://greatergood.berkeley.edu/article/item/what_my_son_is_learning_from_artificial_intelligence</link>
+      <guid isPermaLink="true">https://greatergood.berkeley.edu/article/item/what_my_son_is_learning_from_artificial_intelligence</guid>
       <description>#### Help keep Greater Good resources free for everyone.
-Knowledge workers such as scientists, teachers, lawyers, and business leaders are [increasingly using generative artificial intelligence](https://www.weforum.org/stories/artificial-intelligence/ai-agentic-workplace-human-resources/) applications for tasks that demand imagination, creativity, and problem solving.</description>
+He had been talking to an artificial intelligence—specifically, a large language model called Claude.</description>
     </item>
     <item>
-      <title>Deploy decision models with llama.cpp on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/</guid>
-      <description># Deploy decision models with llama.cpp on Amazon SageMaker AI
-## Understand the input and output schemas
-```json
-{
-  "messages": [\
-    {\
-      "role": "user",\
-      "content": "A customer cannot receive a password reset email. Reply with the best support queue."\
-    }\
-  ],
-  "max_tokens": 64,
-  "stream": false
-}
-```
+      <title>How artificial neural networks build their own learning machinery</title>
+      <link>https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</link>
+      <guid isPermaLink="true">https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</guid>
+      <description># How artificial neural networks build their own learning machinery
+### Press Contact:
+As artificial intelligence becomes more and more powerful, its ability to handle human-like tasks is undeniable.
 
-```json
-{
-  "decision": {
-    "id": "support-route",
-    "state": "The customer cannot receive a password reset email.",
-    "question": "Which queue should handle this request?",
-    "options": [\
-      {"id": "account_access", "description": "Account access support."},\
-      {"id": "billing", "description": "Billing support."}\
-    ]
-  }
-}
-```</description>
+## Related Topics
+- [Artificial intelligence](https://news.mit.edu/topic/artificial-intelligence2)</description>
     </item>
     <item>
-      <title>Artificial Intelligence: Should We Personalize the Machine?</title>
-      <link>https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202610/artificial-intelligence-should-we-personalize-the-machine</link>
-      <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202610/artificial-intelligence-should-we-personalize-the-machine</guid>
-      <description># Artificial Intelligence: Should We Personalize the Machine?
-## Human commitments differ from those of computers.
-### Key points
-Who among us does not simultaneously marvel at and [fear](https://www.psychologytoday.com/us/basics/fear) the advances in computer engineering termed “ [artificial intelligence](https://www.psychologytoday.com/us/basics/artificial-intelligence)”?
-
-## Can machines reciprocate our affection?
-“Artificial Intelligence: Its Challenge for Human Experience.”
-
-###### [Artificial Intelligence](https://www.psychologytoday.com/us/basics/artificial-intelligence)
-4 Min Read
-
-[The 'Alien' May Already Be Here](https://www.psychologytoday.com/us/blog/the-digital-self/202609/the-alien-may-already-be-here)
-
-Human knowledge is structured around the architecture of the human mind.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/f1digitals-omr-3723132.jpg?itok=Z58YYdhH)](https://www.psychologytoday.com/us/blog/the-digital-self/202608/the-educational-artifact-is-no-longer-enough)
-
-4 Min Read
-
-[The Educational Artifact Is No Longer Enough](https://www.psychologytoday.com/us/blog/the-digital-self/202608/the-educational-artifact-is-no-longer-enough)
-
-AI is breaking the old link between the quality of student work and the thinking behind it.
-
-[![Aya_Lines_Design Shutterstock](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2025-10/CogBiasAya_Lines_DesignShutterstock_2561932205.jpg?itok=vQUhQeJs)](https://www.psychologytoday.com/us/quizzes/cognitive-bias-test)
-
-2 Min Read
-
-[AI and the Psychology of Cognitive Surrender](https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender)
-
-AI subtly erodes our cognitive strength by making delegation seem like self-generated thought.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/pexels-business-1839191.jpg?itok=oZY5_If6)](https://www.psychologytoday.com/us/blog/the-digital-self/202609/is-ai-making-it-too-easy-to-stop-thinking)
-
-3 Min Read
-
-New survey data show AI can both extend thinking and encourage dependence.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-09/karla-rivera-kTSEh4dQ9Yo-unsplash.jpg?itok=vS4OTFid)](https://www.psychologytoday.com/us/blog/urban-survival/202509/hidden-mental-health-dangers-of-artificial-intelligence-chatbots)
-
-4 Min Read
-
-[Hidden Mental Health Dangers of Artificial Intelligence Chatbots](https://www.psychologytoday.com/us/blog/urban-survival/202509/hidden-mental-health-dangers-of-artificial-intelligence-chatbots)
-
-Using AI chatbots for emotional support comes with significant risks, especially during mental health crises.
-
-[![Martin Seligman, PhD, widely regarded as the father of positive psychology, discusses his new book, Agency: The Psychological History of Human Progress.](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/martinseligman_cmandy_seligman__1_.jpg?itok=SmOfLPZn)](https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai)
-
-5 Min Read
-
-[How to Be the Author of Your Own Life in the Age of AI](https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai)
-
-Martin Seligman on the power of agency in the AI era.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=82m7elKk)](https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist)
-
-3 Min Read
-
-AI may have an “artificial psychology” we’re only beginning to understand.
-
-More from Thomas Henricks Ph.D.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2026-09/pexels-audience-1867754.jpg?itok=0lSd80u0)](https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202609/discretionary-time-are-we-really-doing-what-we-want)
-
-4 Min Read
-
-[The 'Alien' May Already Be Here](https://www.psychologytoday.com/us/blog/the-digital-self/202609/the-alien-may-already-be-here)
-
-Human knowledge is structured around the architecture of the human mind.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-08/f1digitals-omr-3723132.jpg?itok=Z58YYdhH)](https://www.psychologytoday.com/us/blog/the-digital-self/202608/the-educational-artifact-is-no-longer-enough)
-
-4 Min Read
-
-[The Educational Artifact Is No Longer Enough](https://www.psychologytoday.com/us/blog/the-digital-self/202608/the-educational-artifact-is-no-longer-enough)
-
-AI is breaking the old link between the quality of student work and the thinking behind it.
-
-[![Aya_Lines_Design Shutterstock](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/hero_image/pt_self_test/2025-10/CogBiasAya_Lines_DesignShutterstock_2561932205.jpg?itok=vQUhQeJs)](https://www.psychologytoday.com/us/quizzes/cognitive-bias-test)
-
-2 Min Read
-
-[AI and the Psychology of Cognitive Surrender](https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender)
-
-AI subtly erodes our cognitive strength by making delegation seem like self-generated thought.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/pexels-business-1839191.jpg?itok=oZY5_If6)](https://www.psychologytoday.com/us/blog/the-digital-self/202609/is-ai-making-it-too-easy-to-stop-thinking)
-
-3 Min Read
-
-New survey data show AI can both extend thinking and encourage dependence.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2025-09/karla-rivera-kTSEh4dQ9Yo-unsplash.jpg?itok=vS4OTFid)](https://www.psychologytoday.com/us/blog/urban-survival/202509/hidden-mental-health-dangers-of-artificial-intelligence-chatbots)
-
-4 Min Read
-
-[Hidden Mental Health Dangers of Artificial Intelligence Chatbots](https://www.psychologytoday.com/us/blog/urban-survival/202509/hidden-mental-health-dangers-of-artificial-intelligence-chatbots)
-
-Using AI chatbots for emotional support comes with significant risks, especially during mental health crises.
-
-[![Martin Seligman, PhD, widely regarded as the father of positive psychology, discusses his new book, Agency: The Psychological History of Human Progress.](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/martinseligman_cmandy_seligman__1_.jpg?itok=SmOfLPZn)](https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai)
-
-5 Min Read
-
-[How to Be the Author of Your Own Life in the Age of AI](https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai)
-
-Martin Seligman on the power of agency in the AI era.
-
-[![](https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=82m7elKk)](https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist)
-
-3 Min Read
-
-AI may have an “artificial psychology” we’re only beginning to understand.</description>
+      <title>Super Intelligence</title>
+      <link>https://www.nasa.gov/super-intelligence/</link>
+      <guid isPermaLink="true">https://www.nasa.gov/super-intelligence/</guid>
+      <description>## Suggested Searches
+### Highlights
+Artificial Intelligence</description>
     </item>
     <item>
-      <title>Lee Rainie, director of the Imagining the Digital Future Center, on AI and the future of work</title>
-      <link>https://ncnewsline.com/2026/10/12/lee-rainie-director-of-the-imagining-the-digital-future-center-on-ai-and-the-future-of-work/</link>
-      <guid isPermaLink="true">https://ncnewsline.com/2026/10/12/lee-rainie-director-of-the-imagining-the-digital-future-center-on-ai-and-the-future-of-work/</guid>
-      <description>President Donald Trump created a new task force last week focused on artificial intelligence, which he has renamed “super intelligence.”
-
-The Center recently conducted a nationwide survey that found U.S. adults fear artificial intelligence will undermine people’s sense of meaning and weaken social bonds, even as daily users report increased use and benefit from the bots.</description>
+      <title>Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training</title>
+      <link>http://www.coahomacc.edu/news/Fall_2026/ccc_encourages_employees_to_access_free_main_training.html</link>
+      <guid isPermaLink="true">http://www.coahomacc.edu/news/Fall_2026/ccc_encourages_employees_to_access_free_main_training.html</guid>
+      <description># Coahoma encourages employees to access free Mississippi Artificial Intelligence Network  training
+## Oct 14, 2026
+"Artificial intelligence is rapidly shifting how we operate, teach, and prepare our</description>
+    </item>
+    <item>
+      <title>As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin</title>
+      <link>https://wisconsinwatch.org/2026/10/wisconsin-crowley-artificial-intelligence-ai-regulation-plan-data-centers-tiffany-election/</link>
+      <guid isPermaLink="true">https://wisconsinwatch.org/2026/10/wisconsin-crowley-artificial-intelligence-ai-regulation-plan-data-centers-tiffany-election/</guid>
+      <description>Crowley wants to limit AI chatbots for children under 13 and increase penalties for circulating AI-generated sexual images of minors.</description>
+    </item>
+    <item>
+      <title>The Virginia Senate receives new research on artificial intelligence</title>
+      <link>https://www.29news.com/2026/10/14/virginia-senate-receives-new-research-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.29news.com/2026/10/14/virginia-senate-receives-new-research-artificial-intelligence/</guid>
+      <description>The Joint Legislative Audit and Review Commission presented research on artificial intelligence to the Virginia Senate in a hearing on...</description>
+    </item>
+    <item>
+      <title>Artificial intelligence threatens North Dakota security</title>
+      <link>https://www.kfyrtv.com/2026/10/14/artificial-intelligence-threatens-north-dakota-security/</link>
+      <guid isPermaLink="true">https://www.kfyrtv.com/2026/10/14/artificial-intelligence-threatens-north-dakota-security/</guid>
+      <description>(KFYR) - Artificial intelligence is now considered one of the top threats to North Dakota’s security.</description>
     </item>
   </channel>
 </rss>
