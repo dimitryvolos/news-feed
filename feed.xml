@@ -5,64 +5,20 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:50:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears</title>
-      <link>https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/</link>
-      <guid isPermaLink="true">https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/</guid>
-      <description>Despite artificial intelligence sparking doomsday fears around the world, Hollywood is slowly embracing the technology. Here's why.</description>
-    </item>
-    <item>
-      <title>A Guide to Which AI CEOs Now Say ‘Super Intelligence’ and Which Don’t</title>
-      <link>https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804</link>
-      <guid isPermaLink="true">https://gizmodo.com/a-guide-to-which-ai-ceos-now-say-super-intelligence-and-which-dont-2000824804</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
+      <title>Artificial intelligence-enabled clinical phenotyping of human brown fat</title>
+      <link>https://www.nature.com/articles/s41586-026-11162-7</link>
+      <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-11162-7</guid>
+      <description>Artificial intelligence-enabled clinical phenotyping of human brown fat
 
-# A Guide to Which AI CEOs Now Say ‘Super Intelligence’ and Which Don’t
-_Artificial intelligence_ or _AI_ started out in the 1950s as an observation about the potential capabilities of computer systems.
+## Abstract
+Altogether, our studies harnessing artificial intelligence and big data identify new clinical phenotypes linked to BAT and serve as a platform for drug repurposing to activate this tissue in humans.
 
-President, Donald Trump, decided last month that he didn’t want to call artificial intelligence “artificial intelligence” anymore, and that he wanted to use his own alternative phrase instead: “Super Intelligence,” which is two words in title case. He has [since said](https://gizmodo.com/youll-never-guess-who-trump-is-now-calling-the-enemy-2000823614) anyone who still says “artificial intelligence” is “THE ENEMY.”
-
-## ❓ Amodei, Dario
-![CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://gizmodo.com/app/uploads/2026/10/dario-at-white-house-2026.jpg)© Kevin Dietsch / Getty Images
-
-## ✅ Nadella, Satya
-The post refers to safety tech that “eludes us in today’s Super Intelligence systems, even as the frontier models powering these systems are now more capable than traditional software systems,” making it clear that he’s not referring to hypothetical “superintelligence” in the future, but to artificial intelligence generally.</description>
-    </item>
-    <item>
-      <title>Saudi man charged with planting 'sophisticated' recording device in OpenAI office</title>
-      <link>https://www.bbc.com/news/articles/cwg5jq4vlddzo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwg5jq4vlddzo</guid>
-      <description># Saudi man charged with planting 'sophisticated' recording device in OpenAI office
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
-    </item>
-    <item>
-      <title>OpenAI employee arrested by FBI after listening device found at its office</title>
-      <link>https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/10/13/fbi-arrests-openai-employee-allegedly-planting-bug-office/</guid>
-      <description>He writes about artificial intelligence and its rapidly-increasing impact on our society.</description>
-    </item>
-    <item>
-      <title>OpenAI engineer charged after listening device found in meeting room</title>
-      <link>https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room</guid>
-      <description>A Saudi national who worked as an engineer at the artificial intelligence firm [OpenAI](https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns) has been arrested after a listening device was found in the company’s conference room, according to United States authorities.</description>
-    </item>
-    <item>
-      <title>OpenAI says employee caught planting listening device</title>
-      <link>https://www.dw.com/en/open-ai-employee-arrested-listening-saudi/a-79655491</link>
-      <guid isPermaLink="true">https://www.dw.com/en/open-ai-employee-arrested-listening-saudi/a-79655491</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices</title>
-      <link>https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning</guid>
-      <description># AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices
-Anthropic is warning that some of its artificial intelligence models could soon become “self-replicating” and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners.
-
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+## About this article
+### Cite this article
+Artificial intelligence-enabled clinical phenotyping of human brown fat.</description>
     </item>
     <item>
       <title>Opinion | The future job market will break career ladders. Find out who could fall.</title>
@@ -71,39 +27,117 @@ Anthropic is warning that some of its artificial intelligence models could soon 
       <description>Ask a software engineer with 10 years of experience whether artificial intelligence is taking their job, and they'll probably shrug.</description>
     </item>
     <item>
-      <title>Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence</title>
-      <link>https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598</guid>
-      <description># Kroger to lay off 3K corporate employees over 3 years as it leans into AI
-## Related Topics
-- [Artificial Intelligence](https://abcnews.com/alerts/ArtificialIntelligence)</description>
-    </item>
-    <item>
-      <title>Kroger to lay off thousands of employees amid its increase in AI usage</title>
-      <link>https://komonews.com/news/nation-world/kroger-to-lay-off-thousands-of-employees-amid-its-increase-in-ai-usage-ohio-artificial-intelligence</link>
-      <guid isPermaLink="true">https://komonews.com/news/nation-world/kroger-to-lay-off-thousands-of-employees-amid-its-increase-in-ai-usage-ohio-artificial-intelligence</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.</title>
-      <link>https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html</guid>
-      <description>Critical infrastructure has been targeted in a wave of cyberattacks, which experts say are rising because of artificial intelligence.</description>
-    </item>
-    <item>
-      <title>Character.AI files for bankruptcy, to sell some assets to Disney for $20 million</title>
-      <link>https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</guid>
-      <description>A message reading "AI artificial intelligence", a keyboard, and robot hands are seen in this illustration taken January 27, 2025.
+      <title>AI in healthcare: from fighting epidemics to family doctors</title>
+      <link>https://www.euronews.com/2026/10/15/ai-in-healthcare-from-fighting-epidemics-to-family-doctors</link>
+      <guid isPermaLink="true">https://www.euronews.com/2026/10/15/ai-in-healthcare-from-fighting-epidemics-to-family-doctors</guid>
+      <description>## AI helps to assess the spread of epidemics more quickly
+Artificial intelligence can help to assess the spread of epidemics more quickly and to target medical assistance more precisely, the WHO deputy director said on stage at the World [Health Summits](https://events.euronews.com/health%5Fsummit%5F2026).
 
-## UNPROFITABLE DESPITE 12 MILLION USERS
-In 2024, [Google licensed](https://www.reuters.com/technology/artificial-intelligence/google-hires-characterai-cofounders-licenses-its-models-information-reports-2024-08-02/) Character.AI's technology and rehired the founders.</description>
+Experts, however, see far more possibilities for the future use of artificial intelligence.
+
+## AI as a support for overstretched healthcare staff
+For Dr Thomas Zapata, Director of the WHO Academy in Lyon, this is a key starting point for the use of artificial intelligence.
+
+In his view, [artificial intelligence](https://www.euronews.com/tag/artificial-intelligence) fits in two areas.
+
+## Read more
+- [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)</description>
     </item>
     <item>
-      <title>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co</title>
-      <link>https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</link>
-      <guid isPermaLink="true">https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</guid>
-      <description></description>
+      <title>22 People Got Together For a Dinner Party. So Did Their A.I. Agents.</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html</guid>
+      <description>As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one...</description>
+    </item>
+    <item>
+      <title>Apple Prepares to Debut First AI Features in China in December</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december</guid>
+      <description>AI
+
+Artificial Intelligence welcome screens on iPhone 16 smartphones in an Apple Inc. store in London.Photographer: Chris Ratcliffe/Bloomberg
+
+## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
+Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.</description>
+    </item>
+    <item>
+      <title>Red hot CPI report fuels AI rout</title>
+      <link>https://www.reuters.com/business/red-hot-cpi-report-fuels-ai-rout-2026-10-14/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/red-hot-cpi-report-fuels-ai-rout-2026-10-14/</guid>
+      <description>![An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai](https://www.reuters.com/resizer/v2/UBQAV74FA5PSFPMQFKNHMCVOSA.jpg?auth=efe3ad9b38bfb24e97a2711df887a7ba385a71aff05501669fdda2399e585524&amp;width=1920&amp;quality=80)
+
+An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai, China July 6, 2023.</description>
+    </item>
+    <item>
+      <title>Anthropic flags revenue surge to investors ahead of stock market debut</title>
+      <link>https://www.bbc.com/news/articles/cqzjx448vxkgo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cqzjx448vxkgo</guid>
+      <description># Anthropic flags revenue surge to investors ahead of stock market debut
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>Kroger to lay off 3,000 employees as it leans into artificial intelligence</title>
+      <link>https://www.wdbj7.com/2026/10/13/kroger-lay-off-3000-employees-it-leans-into-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.wdbj7.com/2026/10/13/kroger-lay-off-3000-employees-it-leans-into-artificial-intelligence/</guid>
+      <description>Grocery store chain Kroger said it will lay off 3000 corporate employees over the next three years as it ramps up its use of AI.</description>
+    </item>
+    <item>
+      <title>AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative</title>
+      <link>https://www.law.columbia.edu/news/archive/ai-cls-columbia-law-schools-artificial-intelligence-initiative</link>
+      <guid isPermaLink="true">https://www.law.columbia.edu/news/archive/ai-cls-columbia-law-schools-artificial-intelligence-initiative</guid>
+      <description># AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative
+Launched this fall, the AI Initiative reflects a new approach to preparing lawyers for a profession increasingly shaped by AI.
+
+AI @ CLS: Legal Education and Practice in the Age of AI - YouTube
+
+Tap to unmute
+
+[AI @ CLS: Legal Education and Practice in the Age of AI](https://www.youtube.com/watch?v=icrKVIsoFjw) [Columbia Law School](https://www.youtube.com/channel/UCEGWwS9UmNRbt7cK3D5Nt7w)
+
+Columbia Law School7.13K subscribers
+
+[Watch on](https://www.youtube.com/watch?v=icrKVIsoFjw)
+
+Artificial intelligence is changing what it means to study and practice law. As AI tools become increasingly embedded into lawyers’ day-to-day work, law students need to develop not only fluency with these emerging technologies, but also the capacity to deploy them responsibly and in service of society at large.
+
+Columbia Law School is meeting this transformative moment. [AI @ CLS](https://www.law.columbia.edu/ai-cls): Columbia Law School’s Artificial Intelligence Initiative, takes a multifaceted approach to AI—equipping students with foundational knowledge, advancing field-defining research, and tackling the profound questions that will define our collective future.
+
+The initiative is grounded in the essential values that constitute the Law School’s unique purpose: open inquiry, academic excellence, and a commitment to preparing students for a rapidly evolving profession.
+
+Moses Professor of Law. “AI presents an extraordinary opportunity to bridge our proud tradition of rigorous, theoretical education with the realities of modern legal practice—to create an environment where students can explore these new tools while developing the judgment, critical thinking, and sense of responsibility to use them well. And, as a law school, we are uniquely positioned to tackle the profound questions AI raises for law, institutions, and society.”
+
+AI @ CLS comprises three interconnected components:
+
+- **Innovating With Purpose**: new courses, curricular modules, hands-on training sessions, and cocurricular programs for students to gain AI skills, develop critical judgment, and embrace a sense of intellectual responsibility for their work.
+- **Expanding Knowledge**:new faculty members and an ever-growing breadth of AI and law scholarship, fostering exploration of AI’s applications, responsible development, and regulation.
+
+##### Innovating With Purpose
+In fall 2025, Dean Abebe convened a task force charged with thinking about how to train students to reason carefully and independently, without relying on AI, while equipping them with the AI fluency that they will need to be successful in their careers.
+
+Rather than taking an either-or approach, the policy gives faculty the latitude to make their own determinations about how to use AI in their classrooms and provides clear guidance about how to think about AI in the context of a Columbia Law School education.
+
+The result [is an array of](https://www.law.columbia.edu/areas-of-study/artificial-intelligence-and-technology-law) new courses and curricular modules, hands-on training sessions, and cocurricular programs.
+
+Guha, a computer scientist and legal scholar whose research focuses on AI, provided a framework for understanding different types of AI systems students are likely to encounter at the Law School and in legal practice, as well as an analogy to help students determine which AI tools are best suited for particular tasks.
+
+Going forward, all Columbia Law School students will be able to explore AI through a variety of [curricular options](https://www.law.columbia.edu/academics/courses?level=all&amp;name=&amp;year%5B0%5D=301&amp;start_time=7&amp;end_time=21&amp;area_of_study%5B0%5D=58&amp;evaluation=all&amp;number=&amp;points=any&amp;_triggering_element_name=op&amp;_triggering_element_value=Submit&amp;_drupal_ajax=1), ranging from an introductory lecture course to intensive, subject-specific seminars.
+
+In [Law &amp; AI](https://www.law.columbia.edu/academics/courses/39745), a new upper-level elective survey course co-taught by Gillis and [Eric Talley](https://www.law.columbia.edu/faculty/eric-talley), Marc and Eva Stern Professor of Law and Business, students gain an introduction to the legal, technical, and normative dimensions of artificial intelligence, regardless of their prior background in AI or technical training.
+
+These include such classes as the Law of Artificial Intelligence; Cybersecurity, Data Privacy and Surveillance Law; and Intellectual Property in the Digital Age. Students can also explore AI through experiential learning opportunities, such as the In-House Counsel Tech &amp; Startups externship, and by participating in student organizations and journals that focus on AI and technology.
+
+##### Expanding Knowledge
+Beyond the classroom experience, AI is reshaping the questions legal scholars ask and tactics they employ to conduct research. Through AI @ CLS, Columbia Law School is supporting and advancing faculty scholarship at the intersection of AI and law while enabling researchers to explore the technology’s applications in legal research, teaching, and practice.
+
+Guha, [who joined the Law School in July](https://www.law.columbia.edu/news/archive/neel-guha-exploring-intersection-law-and-ai), said that, from an institutional perspective, “there’s an opportunity to build our philosophy about AI as a Columbia community,” as well as to develop innovative techniques to “train law students who can effectively negotiate and traverse a professional terrain with this technology.”
+
+Ash’s research focuses on applying computational methods to legal texts.
+
+AI @ CLS also brings together scholars, students, and practitioners to contribute to the development of AI and its responsible application across disciplines.
+
+Faculty are already incorporating AI into their research from a wide range of perspectives, examining how it can be used in legal systems and how the law should respond to AI’s growing reach. Lieff Professor of Law and Vice Dean for Intellectual Life, looking at the [use of artificial intelligence in Chinese courts](https://scholarship.law.columbia.edu/faculty_scholarship/2940/); and Wexler examining the implications of [AI in criminal investigations](https://scholarship.law.columbia.edu/faculty_scholarship/4798/) and [evidence](https://scholarship.law.columbia.edu/faculty_scholarship/4832/).
+
+To bolster the work of faculty and support students, the Law School is planning a series of events related to AI and the law and offering students additional resources, including access to Harvey and Legora, AI platforms built specifically for the legal profession.</description>
     </item>
     <item>
       <title>What My Son Is Learning From Artificial Intelligence</title>
@@ -113,15 +147,32 @@ In 2024, [Google licensed](https://www.reuters.com/technology/artificial-intelli
 He had been talking to an artificial intelligence—specifically, a large language model called Claude.</description>
     </item>
     <item>
-      <title>How artificial neural networks build their own learning machinery</title>
-      <link>https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</link>
-      <guid isPermaLink="true">https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</guid>
-      <description># How artificial neural networks build their own learning machinery
-### Press Contact:
-As artificial intelligence becomes more and more powerful, its ability to handle human-like tasks is undeniable.
+      <title>FSB finalises sound practices for the responsible adoption of artificial intelligence (AI)</title>
+      <link>https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/</link>
+      <guid isPermaLink="true">https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/</guid>
+      <description>FSB publishes sound practices for financial institutions to adopt, use, and innovate with AI in a responsible manner.</description>
+    </item>
+    <item>
+      <title>AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science</title>
+      <link>https://www.chromatographyonline.com/view/ai-ml-now-gert-desmet-on-the-state-of-artificial-intelligence-and-machine-learning-in-separation-science</link>
+      <guid isPermaLink="true">https://www.chromatographyonline.com/view/ai-ml-now-gert-desmet-on-the-state-of-artificial-intelligence-and-machine-learning-in-separation-science</guid>
+      <description>AI ML Now is a new video interview series from LCGC International that will explore how artificial intelligence (AI) and machine learning...</description>
+    </item>
+    <item>
+      <title>Mission adopts policy for artificial intelligence usage in city business</title>
+      <link>https://myrgv.com/local-news/2026/10/14/mission-adopts-policy-for-artificial-intelligence-usage-in-city-business/</link>
+      <guid isPermaLink="true">https://myrgv.com/local-news/2026/10/14/mission-adopts-policy-for-artificial-intelligence-usage-in-city-business/</guid>
+      <description>MISSION — The city council here unanimously adopted **[a policy](https://mccmeetingspublic.blob.core.usgovcloudapi.net/missiontx-meet-90fb74674c2f46359fb1427abb54b126/ITEM-Attachment-001-d627982b4be24f798deaf959eba182f6.pdf)** regarding artificial intelligence usage in municipal business.
 
-## Related Topics
-- [Artificial intelligence](https://news.mit.edu/topic/artificial-intelligence2)</description>
+Nonetheless, now that policy is officially adopted through the resolution approved Tuesday, which is meant to establish guidelines for “the responsible, secure, ethical, and lawful use of artificial intelligence.”
+
+State and local governmental bodies are able to implement AI into their everyday operations due to legislation passed during the 89th Texas Legislature session, specifically **[Senate Bill 1964](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&amp;Bill=SB1964)** and **[House Bill 3512](https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&amp;Bill=HB3512)**.</description>
+    </item>
+    <item>
+      <title>Join Discerning AI: Exploring artificial intelligence through Marquette’s mission</title>
+      <link>https://today.marquette.edu/2026/10/join-discerning-ai-exploring-artificial-intelligence-through-marquettes-mission/</link>
+      <guid isPermaLink="true">https://today.marquette.edu/2026/10/join-discerning-ai-exploring-artificial-intelligence-through-marquettes-mission/</guid>
+      <description>[The Center for Data Ethics](https://www.marquette.edu/data-ethics/) invites faculty, staff, students and community partners to explore questions through [Discerning AI](https://www.marquette.edu/data-ethics/discerning-ai.php), an interdisciplinary community of practice on artificial intelligence grounded in Marquette’s Catholic, Jesuit mission.</description>
     </item>
     <item>
       <title>Super Intelligence</title>
@@ -132,30 +183,44 @@ As artificial intelligence becomes more and more powerful, its ability to handle
 Artificial Intelligence</description>
     </item>
     <item>
-      <title>Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training</title>
-      <link>http://www.coahomacc.edu/news/Fall_2026/ccc_encourages_employees_to_access_free_main_training.html</link>
-      <guid isPermaLink="true">http://www.coahomacc.edu/news/Fall_2026/ccc_encourages_employees_to_access_free_main_training.html</guid>
-      <description># Coahoma encourages employees to access free Mississippi Artificial Intelligence Network  training
-## Oct 14, 2026
-"Artificial intelligence is rapidly shifting how we operate, teach, and prepare our</description>
+      <title>13 Action News Big Story: Artificial intelligence, real problems</title>
+      <link>https://www.13abc.com/2026/10/14/13-action-news-big-story-artificial-intelligence-real-problems/</link>
+      <guid isPermaLink="true">https://www.13abc.com/2026/10/14/13-action-news-big-story-artificial-intelligence-real-problems/</guid>
+      <description>Artificial intelligence, real problems: that’s today’s Big Story.</description>
     </item>
     <item>
-      <title>As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin</title>
-      <link>https://wisconsinwatch.org/2026/10/wisconsin-crowley-artificial-intelligence-ai-regulation-plan-data-centers-tiffany-election/</link>
-      <guid isPermaLink="true">https://wisconsinwatch.org/2026/10/wisconsin-crowley-artificial-intelligence-ai-regulation-plan-data-centers-tiffany-election/</guid>
-      <description>Crowley wants to limit AI chatbots for children under 13 and increase penalties for circulating AI-generated sexual images of minors.</description>
+      <title>Yael Grushka-Cockayne discusses artificial intelligence and future of business education</title>
+      <link>https://www.cavalierdaily.com/article/2026/10/yael-grushka-cockayne-discusses-artificial-intelligence-and-future-of-business-education</link>
+      <guid isPermaLink="true">https://www.cavalierdaily.com/article/2026/10/yael-grushka-cockayne-discusses-artificial-intelligence-and-future-of-business-education</guid>
+      <description>The webinar — titled “Why Darden? Our Next Chapter” — brought together prospective, admitted and deferred students across Darden's Master of...</description>
     </item>
     <item>
-      <title>The Virginia Senate receives new research on artificial intelligence</title>
-      <link>https://www.29news.com/2026/10/14/virginia-senate-receives-new-research-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.29news.com/2026/10/14/virginia-senate-receives-new-research-artificial-intelligence/</guid>
-      <description>The Joint Legislative Audit and Review Commission presented research on artificial intelligence to the Virginia Senate in a hearing on...</description>
+      <title>The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co</title>
+      <link>https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</link>
+      <guid isPermaLink="true">https://www.facebook.com/nytimes/videos/when-ai-comes-for-your-purpose-in-life/1836137444333349/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Artificial intelligence threatens North Dakota security</title>
-      <link>https://www.kfyrtv.com/2026/10/14/artificial-intelligence-threatens-north-dakota-security/</link>
-      <guid isPermaLink="true">https://www.kfyrtv.com/2026/10/14/artificial-intelligence-threatens-north-dakota-security/</guid>
-      <description>(KFYR) - Artificial intelligence is now considered one of the top threats to North Dakota’s security.</description>
+      <title>Rep. Carra urges Trump to address artificial intelligence threats, raises concerns over data centers</title>
+      <link>https://gophouse.org/posts/rep-carra-urges-trump-to-address-artificial-intelligence-threats-raises-concerns-over-data-centers</link>
+      <guid isPermaLink="true">https://gophouse.org/posts/rep-carra-urges-trump-to-address-artificial-intelligence-threats-raises-concerns-over-data-centers</guid>
+      <description>Carra urges Trump to address artificial intelligence threats, raises concerns over data centers
+
+Steve Carra called for urgent conversations to ensure that artificial intelligence doesn’t become too powerful to control.
+
+“It doesn’t matter who creates artificial superintelligence (ASI), the whole world is in jeopardy,” Carra said.
+
+Carra believes their warnings should be taken seriously and is critical of branding today’s artificial intelligence as “superintelligence.”
+
+“If artificial intelligence reaches the point of autonomous recursive self-improvement, it would be able to rapidly train itself into being a far superior intelligence, and that intelligence explosion could leave all of us in the dust,” Carra explained.
+
+Carra called for immediate discussions to address the threat of artificial intelligence and cautioned against hyperscale data centers, which have emerged as a key concern in Michigan.</description>
+    </item>
+    <item>
+      <title>Baisley opposes stricter artificial intelligence regulation</title>
+      <link>https://www.9news.com/video/news/politics/baisley-opposes-stricter-artificial-intelligence-regulation/73-37ee1487-3353-4e22-988e-3df996435719</link>
+      <guid isPermaLink="true">https://www.9news.com/video/news/politics/baisley-opposes-stricter-artificial-intelligence-regulation/73-37ee1487-3353-4e22-988e-3df996435719</guid>
+      <description>The general election is Tuesday, November 3rd, 2026. The incumbent, U.S. Sen. John Hickenlooper (D) faces state Sen. Mark Baisley (R) in the...</description>
     </item>
   </channel>
 </rss>
