@@ -5,139 +5,91 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 11:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:39:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Radiology, Mathematics, Artificial Intelligence And Human Understanding</title>
-      <link>https://www.forbes.com/sites/paulhsieh/2026/10/30/radiology-mathematics-artificial-intelligence-and-human-understanding/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/paulhsieh/2026/10/30/radiology-mathematics-artificial-intelligence-and-human-understanding/</guid>
-      <description># Radiology, Mathematics, Artificial Intelligence And Human Understanding
-## Summary
-Radiologists also study AI reliability through journals and actively research "Explainable Artificial Intelligence," which generates heat maps and descriptions to help human physicians.
+      <title>Investor Says We're Rapidly Approaching the Point At Which Economic Systems Collapse Under the Weight of AI</title>
+      <link>https://futurism.com/future-society/investor-economy-collapse-ai-raoul-pal</link>
+      <guid isPermaLink="true">https://futurism.com/future-society/investor-economy-collapse-ai-raoul-pal</guid>
+      <description>**More on AI:** _[Top Economist Finds That AI Has Provided “Zero Financial Payoff” to Companies Outside Tech](https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech)_</description>
+    </item>
+    <item>
+      <title>Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not</title>
+      <link>https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html</guid>
+      <description>- Last month, Trump ordered that “super intelligence” replace the term artificial intelligence within the government.
 
-To this end, there is active research in the field of “ [Explainable Artificial Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12809972/)“ (XAI), in which an AI system explains its “reasoning” to human physicians.</description>
-    </item>
-    <item>
-      <title>Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers</title>
-      <link>https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/sam-altman-hates-local-ai-models-computers</guid>
-      <description>Instead of running their own models at home, a trend that has blown up thanks to the [emergence of open-weight models from China](https://futurism.com/artificial-intelligence/openai-china-models-profit-money), Altman argued that the cloud — run by hyperscalers like OpenAI — is the answer.
+A month after [President Donald Trump](https://www.cnbc.com/donald-trump/) [ordered](https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html) that “super intelligence” replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, [Elon Musk](https://www.cnbc.com/elon-musk/) and [Mark Zuckerberg](https://www.cnbc.com/mark-zuckerberg/), followed suit on earnings calls.
 
-Just earlier this month, Altman [argued](https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai) that the “world should accept some bad things happening for the benefits of this technology,” which similarly drew a heated response.</description>
+The president this week announced on Truth Social that he’s [banning](https://www.forbes.com/sites/fionariley/2026/10/27/trump-vows-to-ban-term-artificial-intelligence/) the use of the terms “AI” and “artificial intelligence” in “all relevant documents” and “everything else.”</description>
     </item>
     <item>
-      <title>Anthropic's path to the Nasdaq just got a lot bumpier</title>
-      <link>https://www.google.com/goto?url=CAESeQHrOzAVN8t5oY_6QzHSOsbOyi4FE0LBh6u4BhxccsQNek4Khg1x2VjqUXKKvy4yTO7dNki12mZYtYKWfuBqAYgzOrG_A2mXIruiBRMDxz-XxtckdP8174udxda6c1gv6HINJ6xb-lvC7RcqjUa67SMfUhjvPPqLau4</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESeQHrOzAVN8t5oY_6QzHSOsbOyi4FE0LBh6u4BhxccsQNek4Khg1x2VjqUXKKvy4yTO7dNki12mZYtYKWfuBqAYgzOrG_A2mXIruiBRMDxz-XxtckdP8174udxda6c1gv6HINJ6xb-lvC7RcqjUa67SMfUhjvPPqLau4</guid>
-      <description>Days after Anthropic released its highly anticipated IPO prospectus, Microsoft, Google and Amazon released quarterly results that added to...</description>
+      <title>Using AI to Plan Backcountry Trips Is Getting People Into Big Trouble</title>
+      <link>https://www.motherjones.com/environment/2026/11/ai-hikers-wilderness-outdoors-bad-information-preparedness-search-rescue/</link>
+      <guid isPermaLink="true">https://www.motherjones.com/environment/2026/11/ai-hikers-wilderness-outdoors-bad-information-preparedness-search-rescue/</guid>
+      <description>I think they kind of turned their brains off.”</description>
     </item>
     <item>
-      <title>Big Tech's AI bill comes due, but Michigan automakers see a rebound</title>
-      <link>https://www.google.com/goto?url=CAESqgEB6zswFRqLvWwyDlFzsttt4P3KXB7D3cLWn4rNudmRqyLxPyVfSPBgFoshwYu_XHw1cE_hRKoloo_1pECC7MVFPivlUW0S_AVfIq4M9HxZbHmB59u0q0HEVR4Ex92kOLA0YYwd7ebzurF-RC2q2BKm_WhEyVclsnMfPDNkJQT0hFYL-fWN4P-kdg6U9ESSWryTg8IeFfZvvqH9Ai74eq8mKT8rgwhPHms7Zw</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESqgEB6zswFRqLvWwyDlFzsttt4P3KXB7D3cLWn4rNudmRqyLxPyVfSPBgFoshwYu_XHw1cE_hRKoloo_1pECC7MVFPivlUW0S_AVfIq4M9HxZbHmB59u0q0HEVR4Ex92kOLA0YYwd7ebzurF-RC2q2BKm_WhEyVclsnMfPDNkJQT0hFYL-fWN4P-kdg6U9ESSWryTg8IeFfZvvqH9Ai74eq8mKT8rgwhPHms7Zw</guid>
-      <description>For a third straight week, the artificial intelligence trade cracked, and this time the blow came from the companies writing the checks.</description>
+      <title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
+      <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
+      <guid isPermaLink="true">https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</guid>
+      <description>The restrictions are so broad that they're even hurting legitimate game developers or preventing basic troubleshooting tasks.</description>
     </item>
     <item>
-      <title>Dartmouth provost resigns following accusations he used artificial intelligence for writing</title>
-      <link>https://www.google.com/goto?url=CAESvAEB6zswFXOJ9LAdLCPD8yrb-0SpSOhQaPo0-BRdCM6wTwG0Q6S7KiCCTy8YKeW2cXzFdQEpHPPOnZVXEtbVjH50d8L9YKeRYPmoA9AAwIUXBU8XjihAxz9_2xUpGmxaZls86ofU_QWSApGettlhLqw6eQJ_hUEgtVe-4ddlCXT5f0JmATZBsQGcQlIuH_9J1hcark6b4W6xCQ6VL2sk0JYfZUUc3mpSf2B9mkWF5kZ5Uy8qOeMc_hDhpl4c9g</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESvAEB6zswFXOJ9LAdLCPD8yrb-0SpSOhQaPo0-BRdCM6wTwG0Q6S7KiCCTy8YKeW2cXzFdQEpHPPOnZVXEtbVjH50d8L9YKeRYPmoA9AAwIUXBU8XjihAxz9_2xUpGmxaZls86ofU_QWSApGettlhLqw6eQJ_hUEgtVe-4ddlCXT5f0JmATZBsQGcQlIuH_9J1hcark6b4W6xCQ6VL2sk0JYfZUUc3mpSf2B9mkWF5kZ5Uy8qOeMc_hDhpl4c9g</guid>
-      <description>A top administrator at Dartmouth College has resigned after a faculty committee found he used artificial intelligence to shape his writing,...</description>
+      <title>Report from the Vatican</title>
+      <link>https://garymarcus.substack.com/p/report-from-the-vatican</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/report-from-the-vatican</guid>
+      <description># Report from the Vatican
+### Yesterday I had the singular honor of meeting His Holiness, Pope Leo XIV
+_“So-called artificial intelligences do not undergo experiences, do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean” ( **[no. 99](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)**)._
+
+_For this reason, artificial intelligence must be “disarmed” ( **[no. 110](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)**), and I encourage the States meeting in Geneva in November to take concrete steps toward banning lethal autonomous weapons._</description>
     </item>
     <item>
-      <title>Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom</title>
-      <link>https://www.google.com/goto?url=CAESlgEB6zswFUbi2YqBAeGBiq_HEZF6ghCuJEZcew-22XkPIUBNoheitns1yRJXoLUoIU3wX3FcLXbhg3-uK6oyvGl-o3L5JUv0CkyIPnsANkhRq0zuLqUs_Ry_EpIwOQDDcWe1WGAWZUmlBSnWkOpZC7goSQLxoNdpSczHEUObyRuSUr21uRN0uPC3REgqJyBXXO06gcY4iDo</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlgEB6zswFUbi2YqBAeGBiq_HEZF6ghCuJEZcew-22XkPIUBNoheitns1yRJXoLUoIU3wX3FcLXbhg3-uK6oyvGl-o3L5JUv0CkyIPnsANkhRq0zuLqUs_Ry_EpIwOQDDcWe1WGAWZUmlBSnWkOpZC7goSQLxoNdpSczHEUObyRuSUr21uRN0uPC3REgqJyBXXO06gcY4iDo</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>US tech stocks see sharp falls as AI spending nears $1tn</title>
-      <link>https://www.google.com/goto?url=CAESagHrOzAV_cS39ZAQimBlJzeHX_t4hEsOvWuGDgKoUTAwEuIlAo7_dUidpsmJwTw9hFkLoErHSStvz9gPYurIfnyJChILnISUXdvyCxtNXDLnkteTK54EV1XqPSS2FLEls4dkZsra-npF69c</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESagHrOzAV_cS39ZAQimBlJzeHX_t4hEsOvWuGDgKoUTAwEuIlAo7_dUidpsmJwTw9hFkLoErHSStvz9gPYurIfnyJChILnISUXdvyCxtNXDLnkteTK54EV1XqPSS2FLEls4dkZsra-npF69c</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips</title>
-      <link>https://www.google.com/goto?url=CAESfwHrOzAVcPx-TqBrbs7c0XdvvGv_EBAkJtOmIJBFFgTRYwxIIoi1eZLBkPLpaYBLTGiOsjzzbfi-6vx2HgtZFDpF-b8UNwGToJBA9YlLmUtwpUwfQc4NhjlAKjKfbQXz76siHwWMZ8UCUaLXfZPcuGoYN4cUFYnE2YmEWYjjpHM</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESfwHrOzAVcPx-TqBrbs7c0XdvvGv_EBAkJtOmIJBFFgTRYwxIIoi1eZLBkPLpaYBLTGiOsjzzbfi-6vx2HgtZFDpF-b8UNwGToJBA9YlLmUtwpUwfQc4NhjlAKjKfbQXz76siHwWMZ8UCUaLXfZPcuGoYN4cUFYnE2YmEWYjjpHM</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)</title>
-      <link>https://www.google.com/goto?url=CAESpAEB6zswFV_iQ7SIbubE2auT7sa9kpGuXvQLnwMWJlNQlJwb1HcQjjwK6zkxmKCOOXUv5LsIA2PzXOdy0jpxhrcgkw8U0gNkh-plJw3J2juxqYw62crBjWAEg_t2ZXBfdURNGds3P3bGQKwQshM7U-OspByOCZUeMBujtovl8oeS-PMEZ_dOJW41-4LuIkcAPDFtS6eN4NDLNuDCTh1y32l03tlAgg</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESpAEB6zswFV_iQ7SIbubE2auT7sa9kpGuXvQLnwMWJlNQlJwb1HcQjjwK6zkxmKCOOXUv5LsIA2PzXOdy0jpxhrcgkw8U0gNkh-plJw3J2juxqYw62crBjWAEg_t2ZXBfdURNGds3P3bGQKwQshM7U-OspByOCZUeMBujtovl8oeS-PMEZ_dOJW41-4LuIkcAPDFtS6eN4NDLNuDCTh1y32l03tlAgg</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vatican hosts dialogue on AI and human dignity</title>
-      <link>https://www.google.com/goto?url=CAESuAEB6zswFc5mwx5U5F4WsE_cXZB5aJEUcaRGSxPcPFLE84q35KN4DmRlWCxt8Me66UebmsccqcrKALn6R-frTtowhDmwaaiV-QBVP6oMf4p1X0ZmH7iVH93jA_FNSgwP7ieU0XHRf2w0-PkgJ3RQvyWGN_HL1LTpH_EHVudewMvSesXcASOl5y2QwLdBklts3pF1K3yOfPrYepdwbaQaln4djGI01B2xc1SmAJRtq9wc41h4e3TDO9ax</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESuAEB6zswFc5mwx5U5F4WsE_cXZB5aJEUcaRGSxPcPFLE84q35KN4DmRlWCxt8Me66UebmsccqcrKALn6R-frTtowhDmwaaiV-QBVP6oMf4p1X0ZmH7iVH93jA_FNSgwP7ieU0XHRf2w0-PkgJ3RQvyWGN_HL1LTpH_EHVudewMvSesXcASOl5y2QwLdBklts3pF1K3yOfPrYepdwbaQaln4djGI01B2xc1SmAJRtq9wc41h4e3TDO9ax</guid>
-      <description>AI experts and Vatican representatives gather at the Casina Pio IV to discuss how artificial intelligence can serve humanity, with calls for...</description>
+      <title>Trump’s AI push collides with data center backlash</title>
+      <link>https://www.politico.com/news/2026/10/31/trumps-data-centers-ballots-midterm-test-01142170</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/10/31/trumps-data-centers-ballots-midterm-test-01142170</guid>
+      <description># Trump’s AI push collides with data center backlash
+Many of the communities with measures on the ballot Tuesday are in Republican-led districts, highlighting a fissure within Trump’s own base to his call for the U.S. to dominate the race to develop artificial intelligence.</description>
     </item>
     <item>
       <title>Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
-      <link>https://www.google.com/goto?url=CAESiQEB6zswFVXdA4P7jzz5U44TQ4yRmL2nMjtTCJlcKBuo_GN1kk6oa13E5KiLyeT1pAPmsGAXl4imx13QpC8sQ0FLfMDQ5XQgS_9tsEJ1s9sUJIGZwIG8MaznoRCTP9HKWLLFSmP2mQMymbB7u-eCFdcgFqcqO4jxhG2oRD4wScHxl44VwGcmmti0zw</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESiQEB6zswFVXdA4P7jzz5U44TQ4yRmL2nMjtTCJlcKBuo_GN1kk6oa13E5KiLyeT1pAPmsGAXl4imx13QpC8sQ0FLfMDQ5XQgS_9tsEJ1s9sUJIGZwIG8MaznoRCTP9HKWLLFSmP2mQMymbB7u-eCFdcgFqcqO4jxhG2oRD4wScHxl44VwGcmmti0zw</guid>
+      <link>https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</guid>
       <description>Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework...</description>
     </item>
     <item>
-      <title>Artificial Intelligence, plans for the future discussed at 2026 State of the Valley</title>
-      <link>https://www.google.com/goto?url=CAESsgEB6zswFfdk_-cu8G3HiPGbG9AI2qT-ucjkQbHCuKOwR1AQmZdOUPfBkyaRmzpn_VabPOggYOhhbCGUJWSxq2mMSwH8R8eSSD_UOPNBirFVys8mpTPeXjHZaUNptvuCqDf3-fgF2u8h-gAZmZ21fkwurFReFYDGJ1DPrMgj0-TlmKu6m6FPhxgZZ00qs-0-HlaVijUwINKHqHmbTAZpePj_SiK18TVtdhr0kaoigJj88DmK</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESsgEB6zswFfdk_-cu8G3HiPGbG9AI2qT-ucjkQbHCuKOwR1AQmZdOUPfBkyaRmzpn_VabPOggYOhhbCGUJWSxq2mMSwH8R8eSSD_UOPNBirFVys8mpTPeXjHZaUNptvuCqDf3-fgF2u8h-gAZmZ21fkwurFReFYDGJ1DPrMgj0-TlmKu6m6FPhxgZZ00qs-0-HlaVijUwINKHqHmbTAZpePj_SiK18TVtdhr0kaoigJj88DmK</guid>
-      <description>A variety of topics were discussed Wednesday as members of local city and county government, schools and citizen ballot issue committees...</description>
-    </item>
-    <item>
-      <title>AI spending fears hammer Google shares, triggering massive one-day loss</title>
-      <link>https://www.google.com/goto?url=CAESiwEB6zswFURMq-fwwmPCwYQPjuaJ-iA5WJLHrqoOPIw-CZKNiyCWns2ZU7oM2MfZaH2yLe38_cpWyHOvDDJW_476n0JbznQ8Ojby9HYMYha-eI4ai5ccDjtgfL7Qicm6VBueqst5nIwSOi6g-GsdUzu7JnwAVUP-uKCukKxHk1DTMiRJrRMuVbZWvpwv</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESiwEB6zswFURMq-fwwmPCwYQPjuaJ-iA5WJLHrqoOPIw-CZKNiyCWns2ZU7oM2MfZaH2yLe38_cpWyHOvDDJW_476n0JbznQ8Ojby9HYMYha-eI4ai5ccDjtgfL7Qicm6VBueqst5nIwSOi6g-GsdUzu7JnwAVUP-uKCukKxHk1DTMiRJrRMuVbZWvpwv</guid>
-      <description>Shares of Google's parent company, Alphabet, plunged nearly 13% Thursday after its earnings showed slowing revenue growth, raising concerns...</description>
-    </item>
-    <item>
-      <title>Super Intelligence</title>
-      <link>https://www.nasa.gov/super-intelligence/</link>
-      <guid isPermaLink="true">https://www.nasa.gov/super-intelligence/</guid>
-      <description>## Suggested Searches
-### Highlights
-Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Taxing artificial intelligence: What’s on the table, and what’s at stake</title>
-      <link>https://www.brookings.edu/articles/taxing-artificial-intelligence-whats-on-the-table-and-whats-at-stake/</link>
-      <guid isPermaLink="true">https://www.brookings.edu/articles/taxing-artificial-intelligence-whats-on-the-table-and-whats-at-stake/</guid>
-      <description># Taxing artificial intelligence: What’s on the table, and what’s at stake
-## Broader tax reforms could address some AI tax proposals’ concerns
-[Artificial Intelligence](https://www.brookings.edu/topics/artificial-intelligence/)
+      <title>How Much AI Is Too Much AI In Campaign Ads?</title>
+      <link>https://www.huffpost.com/entry/artificial-intelligence-election-campaigns_n_6ae35d8fe4b09cd24b6c70ec</link>
+      <guid isPermaLink="true">https://www.huffpost.com/entry/artificial-intelligence-election-campaigns_n_6ae35d8fe4b09cd24b6c70ec</guid>
+      <description>## What’sAt Stake?Everything.
+That’s how Travis Ridout, co-director of the [Wesleyan Media Project](https://mediaproject.wesleyan.edu/releases-101526/), sees the 2026 midterms, the first in which campaigns have truly embraced artificial intelligence.
 
-[Artificial Intelligence](https://www.brookings.edu/topics/artificial-intelligence/)</description>
+He cites using AI to enhance existing content, specifically removing a buzzer sound interrupting a candidate while making a clip-worthy statement at a debate.
+
+Four states — California, Maryland, Minnesota and Texas — have [laws](https://www.ncsl.org/elections-and-campaigns/artificial-intelligence-ai-in-elections-and-campaigns) that prohibit certain uses or types of AI-generated deepfakes in political messaging, and 27 states insist on some form of disclosure.</description>
     </item>
     <item>
-      <title>Looking at the future of artificial intelligence in the workplace</title>
-      <link>https://www.local3news.com/local-news/looking-at-the-future-of-artificial-intelligence-in-the-workplace/article_6db9e708-f7b5-4b8d-9100-ac58ea066693.html</link>
-      <guid isPermaLink="true">https://www.local3news.com/local-news/looking-at-the-future-of-artificial-intelligence-in-the-workplace/article_6db9e708-f7b5-4b8d-9100-ac58ea066693.html</guid>
-      <description>The rise of generative AI since 2022 has sparked conversations about workforce impact. UTC's Heather Thach highlights AI's relevance across...</description>
+      <title>Self-improving AI the key step towards AGI but safety is key: Z.ai founder</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder</guid>
+      <description>[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=breadcrumb&amp;pgtype=article)
+
+# Self-improving AI the key step towards AGI but safety is key: Z.ai founder
+### Tang says RSI represents a ‘new paradigm’ of R&amp;D that will accelerate AI development even more than it has been
+[Artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=topic_widget&amp;pgtype=article)
+
+Using artificial intelligence to build even smarter systems will make artificial general intelligence (AGI) more achievable, though it would need to be done safely, leading [Chinese computer scientist Tang Jie](https://www.scmp.com/tech/tech-trends/article/3360377/chinas-zhipu-ai-developer-glm-52-defies-slump-it-pursues-agi-over-quick-profits?module=inline&amp;pgtype=article) said at an event in Shanghai on Saturday.
+
+[Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [Z.ai](https://www.scmp.com/topics/zai?module=related_topics&amp;pgtype=article) | [OpenAI](https://www.scmp.com/topics/openai?module=related_topics&amp;pgtype=article) | [Anthropic](https://www.scmp.com/topics/anthropic?module=related_topics&amp;pgtype=article) | [US-China tech war](https://www.scmp.com/topics/us-china-tech-war?module=related_topics&amp;pgtype=article) | [United States](https://www.scmp.com/topics/united-states?module=related_topics&amp;pgtype=article) | [Shanghai](https://www.scmp.com/topics/shanghai?module=related_topics&amp;pgtype=article) | [Mainland China](https://www.scmp.com/topics/china?module=related_topics&amp;pgtype=article) | [Tsinghua University](https://www.scmp.com/topics/tsinghua-university?module=related_topics&amp;pgtype=article)
+
+[Artificial intelligence (AI)](https://www.scmp.com/topics/artificial-intelligence?module=topic_widget&amp;pgtype=article)</description>
     </item>
     <item>
-      <title>TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used?</title>
-      <link>https://www.google.com/goto?url=CAESjQEB6zswFT7dL_vvy_uynL5kkqSoWLj4tKXDLWx4kToc4AgePLQEXrF7P2KLBOlHGnEXbR-MRBulOvYNwGgRItbnOikJDPzf91ip4iVBJRRBNaxI9ChS0tG6cgGo2FyJYg1wPSXw_RDDY7vBSCEwB9r-ChQuxs1CBGI5BclZmxIBKlgrDyGH6s7bxyvtMqU</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESjQEB6zswFT7dL_vvy_uynL5kkqSoWLj4tKXDLWx4kToc4AgePLQEXrF7P2KLBOlHGnEXbR-MRBulOvYNwGgRItbnOikJDPzf91ip4iVBJRRBNaxI9ChS0tG6cgGo2FyJYg1wPSXw_RDDY7vBSCEwB9r-ChQuxs1CBGI5BclZmxIBKlgrDyGH6s7bxyvtMqU</guid>
-      <description>Transparency Coalition Co-founder Jai Jaisimha recently sat down with Rachel Harrison, host of the podcast “The Mental Health Evolution,” to...</description>
-    </item>
-    <item>
-      <title>Purdue researchers explore how students engage with artificial intelligence in STEM classrooms</title>
-      <link>https://www.google.com/goto?url=CAESuQEB6zswFX-2d5whsFbd0iRZYvkxzp4o1-GEUPwVPsuptRyX4nsOie3b2b4MYceTJH9Q74pzo8rxwwnLckskUP45zzV4lUpamqTA7bS2mP_j7jeLpfGVxlyEnZobWv2IUXSs8C9llXfPrXGw0vFTBfG0TjRT6tmtSs-cL6FaygcL1FrdoHoeZzj4f-KfqlfpfFPC2Y7ff94rz2OwXl6ANv8I_cTSUutHuZvPsOATOgsPI8a6qPIZkB8Adg</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESuQEB6zswFX-2d5whsFbd0iRZYvkxzp4o1-GEUPwVPsuptRyX4nsOie3b2b4MYceTJH9Q74pzo8rxwwnLckskUP45zzV4lUpamqTA7bS2mP_j7jeLpfGVxlyEnZobWv2IUXSs8C9llXfPrXGw0vFTBfG0TjRT6tmtSs-cL6FaygcL1FrdoHoeZzj4f-KfqlfpfFPC2Y7ff94rz2OwXl6ANv8I_cTSUutHuZvPsOATOgsPI8a6qPIZkB8Adg</guid>
-      <description>Generative artificial intelligence can solve complex math and engineering problems in seconds. How do students actually use these tools when...</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence and the Ethics of Self-Study</title>
-      <link>https://www.google.com/goto?url=CAESlgEB6zswFaJmbARWe7OhKyTl9YCkv6NGbFRKSddnZzpfZ7u58neJNc5UDF0gTIaxWcSrDkFhFQxywN1akYLfHzBvOkieoW46ZatisLJPZLoSFEQRCudnbuqmIQwjOynkg86cvx7mx_PtE8g-v6Iz-835eF_JigAUfqK7mXL_Jqc9vXtQWPn_5yi2t0My4rVijnY-AiI_NEw</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlgEB6zswFaJmbARWe7OhKyTl9YCkv6NGbFRKSddnZzpfZ7u58neJNc5UDF0gTIaxWcSrDkFhFQxywN1akYLfHzBvOkieoW46ZatisLJPZLoSFEQRCudnbuqmIQwjOynkg86cvx7mx_PtE8g-v6Iz-835eF_JigAUfqK7mXL_Jqc9vXtQWPn_5yi2t0My4rVijnY-AiI_NEw</guid>
-      <description>As artificial intelligence (AI) technology advances at a rapid pace, its implications for professional fields such as accounting are...</description>
-    </item>
-    <item>
-      <title>Reader's View: Delay deployment of artificial intelligence</title>
-      <link>https://www.google.com/goto?url=CAESpQEB6zswFXgcckM1s7dJwHgsrq2LBODUP-MsXfAggBbQ27hbMs1UD4uChSdFettjXL99RqKbgqqm70J_Doty1GT7bRWobd2MK2hcpZkzGNzU7yPnYReLtsKrDS9Yc7YDjujvSGupuivzl6Quds34Bnsk0oUDZGMQMffRn1H35Fr83-AgGhxHBY_R44xrtybtG1O7gWVR4J8LynacgRBu7IIAIHDR0CI</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESpQEB6zswFXgcckM1s7dJwHgsrq2LBODUP-MsXfAggBbQ27hbMs1UD4uChSdFettjXL99RqKbgqqm70J_Doty1GT7bRWobd2MK2hcpZkzGNzU7yPnYReLtsKrDS9Yc7YDjujvSGupuivzl6Quds34Bnsk0oUDZGMQMffRn1H35Fr83-AgGhxHBY_R44xrtybtG1O7gWVR4J8LynacgRBu7IIAIHDR0CI</guid>
-      <description>The breakneck pace of generative artificial intelligence development has greatly outrun our collective ability to control and govern it.</description>
+      <title>Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs — Darkbloom network sees earnings drop to $1.23 a day as Anthropic tokens fall 77%</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent</guid>
+      <description>Darkbloom, a decentralized AI inference network that aggregates and sells spare compute capacity from Macs, told its members to expect...</description>
     </item>
   </channel>
 </rss>
