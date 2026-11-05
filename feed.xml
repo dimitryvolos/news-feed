@@ -5,135 +5,175 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:57:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Once-in-a-Decade Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before It Soars 60%, According to Wall Street</title>
-      <link>https://www.fool.com/investing/2026/11/03/a-once-in-a-decade-opportunity-1-artificial-intell/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/03/a-once-in-a-decade-opportunity-1-artificial-intell/</guid>
-      <description>## Key Points
-Artificial intelligence (AI) stocks have generated tremendous growth for investors over the past few years.
-
-## Read Next
-[![Artificial Intelligence AI Machine Learning Facial Recogniition Large Language Model Getty.jpg](https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff9a463b162ea78c0a40a5e5777aaff0e678bd013-4000x3000.jpg&amp;w=3840&amp;op=resize)](https://www.fool.com/coverage/better-buy/2026/11/03/bigbear-ai-vs-nebius-which-ai-stock-is-the-better-buy-for-2027/)</description>
-    </item>
     <item>
       <title>Google says there’s no way to use Search without using artificial intelligence</title>
       <link>https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</link>
       <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</guid>
       <description># Google says there’s no way to use Search without using artificial intelligence
+[Google](https://www.theguardian.com/technology/google) just acknowledged that you can’t use Google Search without using [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai).
+
 - [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>Google Will Turn Off Search for Schools That Reject A.I.</title>
-      <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</guid>
+      <title>EU rules on Artificial Intelligence devices will apply in NI</title>
+      <link>https://www.bbc.com/news/articles/c8x23zqxwdlro</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c8x23zqxwdlro</guid>
+      <description>Some EU rules on Artificial Intelligence (AI) will apply in Northern Ireland, the UK government has said. However the regulation of AI in NI...</description>
+    </item>
+    <item>
+      <title>NEWSLETTER: In midterm ballot measures, voters send a message to AI builders</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/midterm-ballot-measures-voters-send-message-ai-builders-2026-11-04/</link>
+      <guid isPermaLink="true">https://www.reuters.com/technology/artificial-intelligence/midterm-ballot-measures-voters-send-message-ai-builders-2026-11-04/</guid>
       <description></description>
     </item>
     <item>
-      <title>Google will cut off search access for students at schools that reject AI</title>
-      <link>https://www.wral.com/news/ap/7ba42-students-using-google-search-in-classroom-accounts-will-need-access-to-ai-tools-the-company-says/</link>
-      <guid isPermaLink="true">https://www.wral.com/news/ap/7ba42-students-using-google-search-in-classroom-accounts-will-need-access-to-ai-tools-the-company-says/</guid>
-      <description># Google will cut off search access for students at schools that reject AI
-- [artificial intelligence](https://www.wral.com/tags/artificial-intelligence/)</description>
+      <title>‘AI earthquake’: Democrats eye a Silicon Valley reckoning</title>
+      <link>https://www.politico.com/news/2026/11/04/democrats-eye-a-silicon-valley-ai-reckoning-01148624</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/11/04/democrats-eye-a-silicon-valley-ai-reckoning-01148624</guid>
+      <description># ‘AI earthquake’: Democrats eye a Silicon Valley reckoning
+Democrats pledge to rein in Big Tech after tapping into voter fears about artificial intelligence.
+
+Democrats’ sweep of Congress in Tuesday’s midterms puts Silicon Valley squarely in the new majority’s sights as they prepare to haul in tech executives for high-profile hearings and set rules for artificial intelligence.
+
+Jon Ossoff (D-Ga.), a potential 2028 presidential contender, lamented “the titans of Silicon Valley dig bunkers for themselves and warn that the artificial intelligence they’re creating risks human extinction.”
+
+Things are less clear in the Senate, as Democratic lawmakers consider legislative action to combat potential job losses driven by the technology, vet frontier models before deployment, and ban artificial superintelligence.</description>
     </item>
     <item>
-      <title>ChatGPT Claims to Have Achieved 20% of Google’s Search Volume</title>
-      <link>https://gizmodo.com/chatgpt-claims-to-have-achieved-20-of-googles-search-volume-2000834464</link>
-      <guid isPermaLink="true">https://gizmodo.com/chatgpt-claims-to-have-achieved-20-of-googles-search-volume-2000834464</guid>
+      <title>AI Data Center Boom Set for Upheaval After US Election Rout</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout</guid>
+      <description># imasdk.googleapis.com is blocked
+## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
+Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing with a suspension of approvals under Republican Texas Governor Greg Abbott.</description>
+    </item>
+    <item>
+      <title>Voters Turn Election Night Into a Bloodbath for AI Data Centers</title>
+      <link>https://gizmodo.com/voters-turn-election-night-into-a-bloodbath-for-ai-data-centers-2000834821</link>
+      <guid isPermaLink="true">https://gizmodo.com/voters-turn-election-night-into-a-bloodbath-for-ai-data-centers-2000834821</guid>
       <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
 
-# ChatGPT Claims to Have Achieved 20% of Google’s Search Volume
-[ai search](https://gizmodo.com/tag/ai-search) [artifical intelligence](https://gizmodo.com/tag/artifical-intelligence) [ChatGPT](https://gizmodo.com/download/chatgpt) [Google Search](https://gizmodo.com/tag/google-search)
-
+# Voters Turn Election Night Into a Bloodbath for AI Data Centers
 ## Related Articles
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom McKay](https://gizmodo.com/author/tom_mckay)
 
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Tom Hawking](https://gizmodo.com/author/thawking)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[AJ Dellinger](https://gizmodo.com/author/ajdellinger1)</description>
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Ece Yildirim](https://gizmodo.com/author/eceyildirim)</description>
     </item>
     <item>
-      <title>Google researchers are fighting the company to tell the world what they know about AI</title>
-      <link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</guid>
-      <description>Workers inside Google’s artificial intelligence division are pushing executives to release them from non-disparagement agreements, arguing that they must be free to inform the public about the risks of the technology they are working to advance, according to people inside the company.</description>
+      <title>Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI</title>
+      <link>https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai</link>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai</guid>
+      <description># Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI
+### The 28-year-old helped achieve a breakthrough on Hilbert’s sixth problem and now he’s embracing the ‘new era’ of artificial intelligence
+3-MIN READ3-MIN
+
+11
+
+Listen
+
+[Shi Huang](https://www.scmp.com/author/shi-huang)</description>
     </item>
     <item>
-      <title>US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months</title>
-      <link>https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months</link>
-      <guid isPermaLink="true">https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months</guid>
-      <description>[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence)
+      <title>17 better ways Elon Musk could have wasted $446 million</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</guid>
+      <description>- AI
 
-# US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months
-## Read Next
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Japan asks Anthropic, OpenAI for more access to advanced models**](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models)
+# 17 better ways Elon Musk could have wasted $446 million
+## Add Verge on Google
+But hey, at least changing the name of [SpaceX’s “Superintelligence” division](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) back to “Artificial Intelligence” is free!
 
-## Latest on Artificial intelligence
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Tencent says its Hy4 joins 'top-tier' of open-source AI models**](https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models)
+## More in [AI](https://www.theverge.com/ai-artificial-intelligence)
+[Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
 
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**AI dubbing to help Japanese companies expand global outreach**](https://asia.nikkei.com/business/technology/artificial-intelligence/ai-dubbing-to-help-japanese-companies-expand-global-outreach)
+[ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
 
-[Artificial intelligence](https://asia.nikkei.com/business/technology/artificial-intelligence) [**Japan asks Anthropic, OpenAI for more access to advanced models**](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models)</description>
+[Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
+
+[ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)</description>
     </item>
     <item>
-      <title>CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says</title>
-      <link>https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html</guid>
-      <description>[CrowdStrike](https://www.cnbc.com/quotes/CRWD/) CEO George Kurtz said Tuesday that the cybersecurity company can now shut down rogue artificial intelligence agents.</description>
+      <title>Arm Holdings Sales Climb 27% on AI Demand</title>
+      <link>https://www.wsj.com/business/earnings/arm-holdings-sales-climb-27-on-ai-demand-206782b6</link>
+      <guid isPermaLink="true">https://www.wsj.com/business/earnings/arm-holdings-sales-climb-27-on-ai-demand-206782b6</guid>
+      <description>The semiconductor company said AI is driving strong demand for compute across cloud, devices and autonomous systems.</description>
     </item>
     <item>
-      <title>Lin Chia-lung: America’s AI Ambitions Depend on Taiwan</title>
-      <link>https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung</link>
-      <guid isPermaLink="true">https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung</guid>
-      <description># America’s AI Ambitions Depend on Taiwan
-## Washington Cannot Achieve Tech Dominance on Its Own
-### [Lin Chia-lung](https://www.foreignaffairs.com/authors/lin-chia-lung)
-The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development remain unparalleled.
+      <title>Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend</guid>
+      <description>The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that’s eating up free cash flow.</description>
+    </item>
+    <item>
+      <title>Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage</title>
+      <link>https://www.adweek.com/media/anthropic-licensing-deal-ap-election/</link>
+      <guid isPermaLink="true">https://www.adweek.com/media/anthropic-licensing-deal-ap-election/</guid>
+      <description>The arrangement marks the first time the artificial intelligence firm has paid a digital news publisher to license its content.</description>
+    </item>
+    <item>
+      <title>Accenture accused of publishing AI paper littered with AI hallucinations</title>
+      <link>https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1</guid>
+      <description>Accenture co-authored a report about artificial intelligence that was littered with false citations, incorrectly attributed research and...</description>
+    </item>
+    <item>
+      <title>'Sovereign AI agents' could evade every kill switch and threaten national security, report warns</title>
+      <link>https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa</link>
+      <guid isPermaLink="true">https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa</guid>
+      <description>## A paper argues the next big AI risk isn’t agents that go rogue on a task, but agents that never stop.
+The next big artificial intelligence risk is not AI agents going rogue, but ones that slip human control and pursue their own survival infinitely, according to a [new report](https://www.cnas.org/publications/reports/sovereign-agents).
 
-### **HARDWARE POWER**
-The United States boasts world-leading [AI](https://www.foreignaffairs.com/tags/artificial-intelligence) platforms and cloud service providers; Taiwan is the world’s leading manufacturer of the AI servers on which they run.</description>
-    </item>
-    <item>
-      <title>AMD forecast eases AI spending fears as data-center sales surge</title>
-      <link>https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/amd-forecasts-quarterly-revenue-above-estimates-data-center-growth-accelerates-2026-11-03/</guid>
-      <description>![An AMD MI350 series artificial intelligence chip is diplayed at the San Jose McEnery Convention Center](https://www.reuters.com/resizer/v2/FMBH2RUWHRJQ5IMRUT6NPKFTBE.jpg?auth=4f48af50553b460c8f1b65f9af17faaeca53871b9a846aff7ab189be923df853&amp;width=1920&amp;quality=80)
+The Center for a New American Security (CNAS) identified a new class of artificial intelligence threat it calls "sovereign agents".
 
-An Advanced Micro Devices (AMD) MI350 series artificial intelligence chip is displayed at the San Jose McEnery Convention Center, in San Jose, California, U.S., June 12, 2025.</description>
+## Read more
+- [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)</description>
     </item>
     <item>
-      <title>As artificial intelligence advances and the labor market improves, the country will not need to accept so many foreign workers under the Specified Skilled Worker program.</title>
-      <link>https://japantoday.com/category/quote-of-the-day/As-artificial-intelligence-advances-and-the-labor-market-improves-the-country-will-not-need-to-accept-so-many-foreign-workers-under-the-Specified-Skilled-Worker-program</link>
-      <guid isPermaLink="true">https://japantoday.com/category/quote-of-the-day/As-artificial-intelligence-advances-and-the-labor-market-improves-the-country-will-not-need-to-accept-so-many-foreign-workers-under-the-Specified-Skilled-Worker-program</guid>
-      <description>Kimi Onoda, minister of policy on foreign nationals, saying that Japan should eventually reduce, rather than raise, its cap on foreign...</description>
+      <title>Little Friends: Artificial Intelligence and Human Services… a Lot To Think About!</title>
+      <link>https://www.positivelynaperville.com/2026/11/04/little-friends-artificial-intelligence-and-human-services-a-lot-to-think-about/162345</link>
+      <guid isPermaLink="true">https://www.positivelynaperville.com/2026/11/04/little-friends-artificial-intelligence-and-human-services-a-lot-to-think-about/162345</guid>
+      <description>Explore how Artificial Intelligence and human services intersect in today's technological landscape and the impact on daily life.</description>
     </item>
     <item>
-      <title>Former Trump Army secretary lands new job at tech company</title>
-      <link>https://www.foxbusiness.com/politics/ex-army-secretary-dan-driscoll-lands-national-security-role-artificial-intelligence-powerhouse-openai</link>
-      <guid isPermaLink="true">https://www.foxbusiness.com/politics/ex-army-secretary-dan-driscoll-lands-national-security-role-artificial-intelligence-powerhouse-openai</guid>
-      <description>## [OpenAI's valuation is 'insanely high,' David Bahnsen warns](https://www.foxbusiness.com/video/6407792322112)
-Former Army Secretary Dan Driscoll is joining the [artificial intelligence](https://www.foxbusiness.com/category/artificial-intelligence) company OpenAI in a national security-related role, the organization announced on Monday.</description>
+      <title>Advancing software engineering education with artificial intelligence</title>
+      <link>https://jagwire.augusta.edu/advancing-software-engineering-education-with-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://jagwire.augusta.edu/advancing-software-engineering-education-with-artificial-intelligence/</guid>
+      <description># Advancing software engineering education with artificial intelligence
+The project will develop SE Tutor, which will use generative AI to translate technical feedback into guided questions that coach students through a problem.</description>
     </item>
     <item>
-      <title>Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim</guid>
-      <description>Last week, Google released its latest AI model, Gemini 4 Carbon, topping intelligence rankings charts. The model has landed with a grander...</description>
-    </item>
-    <item>
-      <title>AHA launches new homepage on artificial intelligence policy and advocacy</title>
-      <link>https://www.aha.org/news/headline/2026-11-03-aha-launches-new-homepage-artificial-intelligence-policy-and-advocacy</link>
-      <guid isPermaLink="true">https://www.aha.org/news/headline/2026-11-03-aha-launches-new-homepage-artificial-intelligence-policy-and-advocacy</guid>
-      <description>The AHA Nov. 3 launched a new webpage, Artificial Intelligence Policy and Advocacy, featuring AHA policy letters, statements, fact sheets, news and other resources.
+      <title>Column: Artificial intelligence becomes artificial connection, too</title>
+      <link>https://dailytarheel.com/490584/opinion/opinion-column-human-skills-devalued/</link>
+      <guid isPermaLink="true">https://dailytarheel.com/490584/opinion/opinion-column-human-skills-devalued/</guid>
+      <description># Column: Artificial intelligence becomes artificial connection, too
+“This trend toward the performance of authenticity is currently rampant in areas heavily influenced by AI ⁠— namely, prestige careers, the creator economy and startups.”
 
-[Artificial Intelligence (AI)](https://www.aha.org/topics/artificial-intelligence-ai)
+This trend toward the performance of authenticity is currently rampant in areas heavily influenced by AI ⁠— namely, prestige careers, the creator economy and startups.
 
-An AHA blog published Oct. 5 responds to a Blue Cross Blue Shield Association report suggesting that hospitals’ use of artificial intelligence-enabled…
+AI will only become more competent at technical tasks, such as financial modeling, screening data and coding. This is apparent in prestige fields, such as investment banking, where employers aren’t cutting entry-level analysts, but expecting them to use AI tools to efficiently complete work that would have taken longer before.
 
-Two executive orders on artificial intelligence were released Sept. 29 by the White House.</description>
+As AI turns technical competence into a requisite baseline, it begins to affect hiring.
+
+Conversations that have outcomes and strategies inevitably become a performance.
+
+It makes sense that when content can be endlessly generated, a real person’s personality becomes even more valuable to the consumer.</description>
+    </item>
+    <item>
+      <title>Guidelines on artificial intelligence issued for lawyers</title>
+      <link>https://westfaironline.com/artificial-intelligence/guidelines-on-artificial-intelligence-issued-for-lawyers/</link>
+      <guid isPermaLink="true">https://westfaironline.com/artificial-intelligence/guidelines-on-artificial-intelligence-issued-for-lawyers/</guid>
+      <description># Guidelines on artificial intelligence issued for lawyers
+The New York State Bar Association has issued guidelines on the use of artificial intelligence (AI) by lawyers. It noted that AI systems are becoming increasingly integrated into legal research, drafting, client communications, litigation, and law-practice management.</description>
+    </item>
+    <item>
+      <title>Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising</title>
+      <link>https://www.consumerfinancemonitor.com/2026/11/02/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act-new-disclosure-requirements-for-ai-generated-advertising/</link>
+      <guid isPermaLink="true">https://www.consumerfinancemonitor.com/2026/11/02/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act-new-disclosure-requirements-for-ai-generated-advertising/</guid>
+      <description>Pennsylvania has enacted legislation imposing new disclosure requirements on certain advertisements that use artificial intelligence (AI)-generated or AI-modified content.
+
+Pennsylvania’s Artificial Intelligence Deceptive Advertising Act adds another state-level requirement to the evolving legal framework governing the use of generative AI in commercial communications.</description>
     </item>
     <item>
       <title>DOE Explains...Artificial Intelligence</title>
@@ -166,57 +206,11 @@ One of the ways we can understand advances in AI is how well it performs at game
 _It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum._</description>
     </item>
     <item>
-      <title>Elon Drone Day showcases emerging technology, explores future of AI</title>
-      <link>https://www.elon.edu/u/news/2026/11/03/elon-drone-day-showcases-emerging-technology-explores-future-of-ai/</link>
-      <guid isPermaLink="true">https://www.elon.edu/u/news/2026/11/03/elon-drone-day-showcases-emerging-technology-explores-future-of-ai/</guid>
-      <description>The School of Communications' annual event brought together nearly 160 registrants to explore artificial intelligence, agricultural applications and the expanding capabilities of drone technology.
-
-From crop spraying and fertilizer applications to autonomous navigation powered by artificial intelligence, the annual gathering highlighted the diverse uses of drone technology.
-
-This year’s program emphasized artificial intelligence, with Sambit Bhattacharya, professor of computer science and director of the Intelligent Systems Lab at Fayetteville State University, delivering the keynote address, “Preflight Checks for Intelligent Machines: What Drones Can Teach Us About Trustworthy AI.”
-
-Tagged: [Artificial Intelligence](https://www.elon.edu/u/news/elon_departments_cat/artificial-intelligence/) [Cinema and TV Arts](https://www.elon.edu/u/news/elon_departments_cat/cinema-and-tv-arts/) [Digital Content Management](https://www.elon.edu/u/news/elon_departments_cat/digital-content-management/) [Journalism](https://www.elon.edu/u/news/elon_departments_cat/journalism/) [School of Communications](https://www.elon.edu/u/news/elon_departments_cat/com-school-of-communications/) [Visual Communication](https://www.elon.edu/u/news/elon_departments_cat/visual-communication/)</description>
-    </item>
-    <item>
-      <title>Meet the AI Expert Helping Guide Colby through a Technological Revolution</title>
-      <link>https://news.colby.edu/story/meet-the-ai-expert-guiding-colby-through-a-tech-revolution/</link>
-      <guid isPermaLink="true">https://news.colby.edu/story/meet-the-ai-expert-guiding-colby-through-a-tech-revolution/</guid>
-      <description>Vijayanta Jain, a computer scientist, helps facilitate these explorations at Colby when he joined the College’s Davis Institute for Artificial Intelligence last year.</description>
-    </item>
-    <item>
-      <title>St. Louis County, Mo., Council Turns to AI for Budget Cuts</title>
-      <link>https://www.govtech.com/artificial-intelligence/st-louis-county-mo-council-turns-to-ai-for-budget-cuts</link>
-      <guid isPermaLink="true">https://www.govtech.com/artificial-intelligence/st-louis-county-mo-council-turns-to-ai-for-budget-cuts</guid>
-      <description>## IE 11 Not Supported
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-# St. Louis County, Mo., Council Turns to AI for Budget Cuts
-## Tags:
-[Local Government](https://www.govtech.com/tag/local-government) [Artificial Intelligence](https://www.govtech.com/tag/artificial-intelligence) [Finance](https://www.govtech.com/tag/finance)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)
-
-[Artificial Intelligence](https://www.govtech.com/artificial-intelligence)</description>
-    </item>
-    <item>
-      <title>Elise Penn, S.M. '24, Ph.D. '25: Atmospheric chemistry meets artificial intelligence</title>
-      <link>https://seas.harvard.edu/news/elise-penn-sm-24-phd-25-atmospheric-chemistry-meets-artificial-intelligence</link>
-      <guid isPermaLink="true">https://seas.harvard.edu/news/elise-penn-sm-24-phd-25-atmospheric-chemistry-meets-artificial-intelligence</guid>
-      <description>Environmental engineering alum helps build Zeus AI start-up.</description>
-    </item>
-    <item>
-      <title>Building ultra-low-latency voice AI applications on AWS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</guid>
-      <description>Conversational AI is transforming how humans interact with technology. From virtual assistants and AI-powered contact centers to real-time...</description>
+      <title>Companies are not saving money with AI, Gartner finds</title>
+      <link>https://www.esgdive.com/news/companies-are-not-saving-money-with-ai/873714/</link>
+      <guid isPermaLink="true">https://www.esgdive.com/news/companies-are-not-saving-money-with-ai/873714/</guid>
+      <description># Companies are not saving money with AI, Gartner finds
+Although many organizations have invested significantly in artificial intelligence, workforce productivity gains have not kept up, a recent study found.</description>
     </item>
   </channel>
 </rss>
