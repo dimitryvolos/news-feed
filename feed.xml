@@ -5,19 +5,8 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:43:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How Big Tech Lost the Midterms</title>
-      <link>https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312</link>
-      <guid isPermaLink="true">https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312</guid>
-      <description># How Big Tech Lost the Midterms
-![A demonstrator shouts during a protest against artificial intelligence (AI)](https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F1f%2F37%2Fb325ae6a45ec9af9011a4eb0ff11%2Fgettyimages-2301804735.jpg)
-
-A demonstrator shouts during a protest against artificial intelligence outside the Bell Harbor Conference Center during AI Week in Seattle, Washington, US, on Oct.
-
-Years earlier, Carson had become interested in artificial intelligence after attending a conference hosted by the Future of Life Institute in San Juan, Puerto Rico that included some of the now-biggest names in AI, including Anthropic’s Dario Amodei and OpenAI’s Sam Altman.</description>
-    </item>
     <item>
       <title>If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One</title>
       <link>https://www.fool.com/investing/2026/11/06/if-i-could-buy-and-hold-only-1-artificial-intellig/</link>
@@ -30,70 +19,105 @@ The 2026 midterm elections have introduced a layer of uncertainty for artificial
 Adam Spatacco is a contributing Motley Fool technology analyst covering artificial intelligence, robotics, autonomous driving, e-commerce, and cybersecurity stocks.</description>
     </item>
     <item>
-      <title>How A.I. Just Blew Up a Key Tenet of Computer Science</title>
-      <link>https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html</guid>
-      <description>A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the...</description>
+      <title>BuzzFeed Stock in Free Fall as Pivot to AI Blows Up in Its Face</title>
+      <link>https://futurism.com/artificial-intelligence/buzzfeed-stock-free-fall-pivot-ai</link>
+      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/buzzfeed-stock-free-fall-pivot-ai</guid>
+      <description>Peretti, who has for years been singing the praises of AI and [announced a slew of ill-conceived apps](https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps) powered by the tech, came away with the flashy new title of “president of _BuzzFeed_ AI.”
+
+But considering that _BuzzFeed_ continues to hemorrhage money — it [laid off 33 percent of its remaining staff](https://futurism.com/artificial-intelligence/buzzfeed-layoffs-pivot-ai) roughly two months after Allen took over — it feels more like _BuzzFeed_ is chasing MySpace, straight into the abyss.</description>
     </item>
     <item>
-      <title>After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain</title>
-      <link>https://www.google.com/goto?url=CAESjAEBxCJF13HYOADmyOKxBJEZc3lnm22ZWFL4SvOxO_euaqC-WMxO45nRuy3gTACFMzPLxcnxryFxzUte7AeAwdeDZOeyUHee_7tfD5x_wSUgAcc9jG8UC94PwAmjBD2YNRqjn95mMAiQ46Ut7sVSJWjCJyTetpwSArdWC-pmLzO6HSjxXUtyNmYk-RDVDg</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESjAEBxCJF13HYOADmyOKxBJEZc3lnm22ZWFL4SvOxO_euaqC-WMxO45nRuy3gTACFMzPLxcnxryFxzUte7AeAwdeDZOeyUHee_7tfD5x_wSUgAcc9jG8UC94PwAmjBD2YNRqjn95mMAiQ46Ut7sVSJWjCJyTetpwSArdWC-pmLzO6HSjxXUtyNmYk-RDVDg</guid>
-      <description></description>
+      <title>AI infrastructure grows in Texas with new facilities in Dallas, College Station</title>
+      <link>https://www.nbcdfw.com/news/local/ai-infrastructure-grows-texas-new-facilities-dallas-college-station/4103063/</link>
+      <guid isPermaLink="true">https://www.nbcdfw.com/news/local/ai-infrastructure-grows-texas-new-facilities-dallas-college-station/4103063/</guid>
+      <description># AI infrastructure grows in Texas with new facilities in Dallas, College Station
+## In Bryan, a 73-megawatt data center is being developed on 25 acres of Texas A&amp;M's RELLIS Campus.
+#### By [Vince Sims](https://www.nbcdfw.com/author/vince-sims/)•Published November 7, 2026•Updated on November 7, 2026 at 10:17 pm
+Artificial intelligence is quickly becoming part of everyday life and business, and two Texas projects are working to give companies, researchers and students greater access to the computing power behind the technology.
+
+Austin-based ThisWay Global is building what it calls the Research and AI Compute Center, or RACC, with a focus on sovereign artificial intelligence.
+
+# Questions remain as AI expands
+At the same time, he said companies can use artificial intelligence to find and address weaknesses before they become widespread.
+
+#### This article tagged under:
+[Data Centers](https://www.nbcdfw.com/tag/data-centers/) [Artificial Intelligence](https://www.nbcdfw.com/tag/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>Microsoft’s Buyout Offer Sets Its Workforce on Edge</title>
+      <link>https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html</guid>
+      <description>As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60000 employees. The work force was...</description>
+    </item>
+    <item>
+      <title>Americans are anxious about the AI boom going bust</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/07/americans-are-worried-about-ai-boom-going-bust-survey-finds/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/07/americans-are-worried-about-ai-boom-going-bust-survey-finds/</guid>
+      <description>Shira Ovide covers how artificial intelligence affects the economy, jobs and American institutions.</description>
+    </item>
+    <item>
+      <title>Environmental groups embrace AI, even as they warn of data center impacts</title>
+      <link>https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/</guid>
+      <description>Item 5 of 5 An elephant browses for pasture, as environmental groups around the world adopt artificial intelligence to analyze climate data, track forest fires and count endangered wildlife, at the Samburu National Reserve in Samburu County, Kenya, November 5, 2026.
+
+**[5/5]** An elephant browses for pasture, as environmental groups around the world adopt artificial intelligence to analyze climate data, track forest fires and count endangered wildlife, at the Samburu National Reserve in Samburu County, Kenya, November 5, 2026.
+
+- Environmental groups use AI to track forest fires, count wildlife
+
+WASHINGTON, Nov 7 (Reuters) - Environmental groups worldwide are using artificial intelligence to analyze climate data, track forest fires and count endangered wildlife – embracing a technology they also warn is driving a surge in electricity demand, water use and greenhouse-gas emissions.
+
+The group recently started using AI to assess hotspots detected by satellites and send real-time alerts to community forest patrols about potential wildfires in remote and environmentally sensitive parts of Cambodia.
+
+Amazon told Reuters its artificial-intelligence products were among the most sustainable due to the company's purchases of low-carbon energy and its efforts to use power and water efficiently.</description>
+    </item>
+    <item>
+      <title>The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-boom-far-170502364.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-boom-far-170502364.html</guid>
+      <description># The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners
+[**_Continue »_**](https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&amp;impression=accbfa80-9dbf-40ce-88bb-7023c8d0878b&amp;url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fa-sa-ai-boom-nvidias%3Faid%3D10891%26source%3Disaediica0000082%26ftm_cam%3Dsa-ai-boom%26ftm_veh%3Dtop_incontent_pitch_feed_yahoo%26ftm_pit%3D19999&amp;utm_source=yahoo-host-full&amp;utm_medium=feed&amp;utm_campaign=article&amp;referring_guid=24d7700b-8e40-4e54-a6a7-1b8685ba95f4)
+
+## Should you buy stock in Nvidia right now?
+[The Artificial Intelligence (AI) Boom Is Far From Over. Here Are 4 Potential Long-Term Winners](https://www.fool.com/investing/2026/11/07/the-artificial-intelligence-ai-boom-is-far-from-over-here-are-4-potential-long-term-winners/) was originally published by The Motley Fool</description>
     </item>
     <item>
       <title>AI stocks bounce back after trillions wiped from market values</title>
-      <link>https://www.google.com/goto?url=CAESawHEIkXX5vOuwTkbjpVjjTgTxXsOvX8YdrGMpgl0HWuY3mzasioSHt_TIo5EfQbckO_1-Lxw7byDetyDFh3pi0qMMIKVrgoj5wq_PdhZGmaFFusShFCUaYDXWF7QR2S6PHA2Y4Dt6vfpr1As</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESawHEIkXX5vOuwTkbjpVjjTgTxXsOvX8YdrGMpgl0HWuY3mzasioSHt_TIo5EfQbckO_1-Lxw7byDetyDFh3pi0qMMIKVrgoj5wq_PdhZGmaFFusShFCUaYDXWF7QR2S6PHA2Y4Dt6vfpr1As</guid>
-      <description></description>
+      <link>https://www.bbc.com/news/articles/c35ynnpzdq51o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c35ynnpzdq51o</guid>
+      <description># AI stocks climb after trillions wiped from market values
+On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers.
+
+## 'Market purgatory'
+A number of Democrats campaigned for new rules and regulations for artificial intelligence (AI) and data centres, and the party has since won control of both houses of congress as well as key contests in states that have been part of the AI data centre race.</description>
     </item>
     <item>
-      <title>Is the AI bubble going to burst? Why the world is panicking about the future of artificial intelligence</title>
-      <link>https://www.google.com/goto?url=CAESlwEBxCJF1x_uVN5Smf6M_Tm3UYncwDdO-7o1jIMIQq4l_ZtyVx9nsaMJkIuVtj4EWMNE5Y__q-SqKYUbyPRJVVKoHuwV9ntkKQoDR0juO4doRPIvEKZlD38q0BgN_MAcSv6kbpke8xb5PcuMUG53UuXscz7blEcwQsX94bsK6jBcwgtqrrUEuZtXbxluy1Va4U0Tqe9wfUG5</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESlwEBxCJF1x_uVN5Smf6M_Tm3UYncwDdO-7o1jIMIQq4l_ZtyVx9nsaMJkIuVtj4EWMNE5Y__q-SqKYUbyPRJVVKoHuwV9ntkKQoDR0juO4doRPIvEKZlD38q0BgN_MAcSv6kbpke8xb5PcuMUG53UuXscz7blEcwQsX94bsK6jBcwgtqrrUEuZtXbxluy1Va4U0Tqe9wfUG5</guid>
-      <description></description>
+      <title>Israeli researchers develop AI self teaching method without human-generated data</title>
+      <link>https://www.jpost.com/israel-news/article-914126</link>
+      <guid isPermaLink="true">https://www.jpost.com/israel-news/article-914126</guid>
+      <description># Israeli researchers develop method letting AI teach itself without human-generated data
+## Unlike conventional AI training, which depends on enormous quantities of existing information, the new approach allows models to build predictive capabilities before encountering real-world material.
+Researchers at [Tel Aviv University (TAU)](https://www.jpost.com/israel-news/culture/article-912381) and Stanford University have developed a new artificial intelligence training method that allows AI systems to teach one another and improve their predictive abilities without relying on human-generated content or external datasets, TAU announced Wednesday.
+
+The findings, published on the scientific platform arXiv, suggest that artificial intelligence may be capable of developing fundamental learning skills through challenges created entirely by other AI models, potentially changing how future systems are trained.
+
+### **Researchers used AI models to generate, predict sequences**
+![Artificial Intelligence (Illustrative).](https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/709961)Artificial Intelligence (Illustrative). (credit: INGIMAGE)
+
+### **Researchers could not acquire information about real-world subjects**
+The announcement comes as Israel seeks to strengthen its position in artificial intelligence.
+
+Herzog urged Israel to make leadership in the field a strategic priority, declaring: “Israel must take its place at the forefront of artificial intelligence.
+
+### See more on
+[Artificial intelligence](https://www.jpost.com/tags/artificial-intelligence) |</description>
     </item>
     <item>
-      <title>Global tech stocks plunge as US midterms add to AI slowdown fears</title>
-      <link>https://www.google.com/goto?url=CAESawHEIkXXsLDfRiF7sREK3hB1dbJkQOND4qv2lL49glpE7c50rBHT0vHNEM4JfoSTVWAlmMyQXm50vHddMppikLBo4FMKc-H8NzDrtcID738zrJXHccyKvxtgj8DhXUUMzyT4JXd3zcj9U2SJ</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESawHEIkXXsLDfRiF7sREK3hB1dbJkQOND4qv2lL49glpE7c50rBHT0vHNEM4JfoSTVWAlmMyQXm50vHddMppikLBo4FMKc-H8NzDrtcID738zrJXHccyKvxtgj8DhXUUMzyT4JXd3zcj9U2SJ</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'</title>
-      <link>https://www.google.com/goto?url=CAESjAEBxCJF10VzlppUjuynH_WELC3Hd8JtGiTMfYK5uCiBhGfALPZDEkQ_-k6nqFvb-mKSETPUpNR51CyIDrn7Ts9TwBGUEpip9hFuwS_bd-jDFLPSbBoSC5gqX7w2Q5W20hJ2g3oAwsqlYNblcWMnw0JuAqaTZrjREIScOcExKHV-vTwIrfp2-fB_DJswtQ</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESjAEBxCJF10VzlppUjuynH_WELC3Hd8JtGiTMfYK5uCiBhGfALPZDEkQ_-k6nqFvb-mKSETPUpNR51CyIDrn7Ts9TwBGUEpip9hFuwS_bd-jDFLPSbBoSC5gqX7w2Q5W20hJ2g3oAwsqlYNblcWMnw0JuAqaTZrjREIScOcExKHV-vTwIrfp2-fB_DJswtQ</guid>
-      <description>Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.</description>
-    </item>
-    <item>
-      <title>AI is the new dating dealbreaker</title>
-      <link>https://www.google.com/goto?url=CAESngEBxCJF1wd9HKO1VKJRv5zaFR1995kMyeXYL4xIm0WlWzoeHWN93PJaZatdFswT1VKJUI-VPFtpvlAhhLU9WG1ShAqwlBLcdCTkGZr-yHyPCl209m0cZwTvkZPjc-CVAQMWjzd5u3SSTTxxEdNwNp6objqLRFjfjbSPkPPCWOV4zUWZcr_c7s7kTd1p57CgH4Xw2lAkoZEi9ZGTUbh8rw</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESngEBxCJF1wd9HKO1VKJRv5zaFR1995kMyeXYL4xIm0WlWzoeHWN93PJaZatdFswT1VKJUI-VPFtpvlAhhLU9WG1ShAqwlBLcdCTkGZr-yHyPCl209m0cZwTvkZPjc-CVAQMWjzd5u3SSTTxxEdNwNp6objqLRFjfjbSPkPPCWOV4zUWZcr_c7s7kTd1p57CgH4Xw2lAkoZEi9ZGTUbh8rw</guid>
-      <description>When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city,...</description>
-    </item>
-    <item>
-      <title>Fearing AI disruption, white-collar workers are quitting their jobs</title>
-      <link>https://www.google.com/goto?url=CAESiQEBxCJF10owEUAJ0WmU9tVlB0XgH4VDYnRRt4K8-ciNlhwMPn4VOnUImTk45GUH4MKweqOCj13QgGRZ-JrWxwnrAHpC_spYHSHPd_C7VgEpigH-1jQ03AQXyPcSTEzPRr4zs6rjvLoF5wsxgXZXq1OpW3a8mINeZHA2Wz_sKg7GsQ-vl3vgBuSyTA</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESiQEBxCJF10owEUAJ0WmU9tVlB0XgH4VDYnRRt4K8-ciNlhwMPn4VOnUImTk45GUH4MKweqOCj13QgGRZ-JrWxwnrAHpC_spYHSHPd_C7VgEpigH-1jQ03AQXyPcSTEzPRr4zs6rjvLoF5wsxgXZXq1OpW3a8mINeZHA2Wz_sKg7GsQ-vl3vgBuSyTA</guid>
-      <description>While there's no evidence linking AI to mass layoffs, the tech has already 'changed worker psychology'</description>
-    </item>
-    <item>
-      <title>Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry</title>
-      <link>https://www.google.com/goto?url=CAEStwEBxCJF11Xd7sbtr1BPQbyYUUr67qcjjLLsB5TtRywPZskwS_YF5kO4RCkXsyu2ztemf93svQaiUsn4pIFCJqPjEZFN27fp-HT9VwAEVsgztCwJZLgsEGax4xHuVxcL3OUCO5UHhavQOdfhHUbsGjAEuNUGETiB3V1yAXT_aonPT7hZKnWu7AB1iWJ1BkrCePPl_cCaMXSeuWpycmyrxepY4GwxxeBUqJidudeZ8lp1smOXoHyElXA</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAEStwEBxCJF11Xd7sbtr1BPQbyYUUr67qcjjLLsB5TtRywPZskwS_YF5kO4RCkXsyu2ztemf93svQaiUsn4pIFCJqPjEZFN27fp-HT9VwAEVsgztCwJZLgsEGax4xHuVxcL3OUCO5UHhavQOdfhHUbsGjAEuNUGETiB3V1yAXT_aonPT7hZKnWu7AB1iWJ1BkrCePPl_cCaMXSeuWpycmyrxepY4GwxxeBUqJidudeZ8lp1smOXoHyElXA</guid>
-      <description>OpenAI CEO Sam Altman joined UAE officials at ADIPEC 2026 to announce a major AI partnership between ADNOC, OpenAI and G42 aimed at...</description>
-    </item>
-    <item>
-      <title>Dartmouth’s president has sidestepped politics so far. Why is she all in on AI?</title>
-      <link>https://www.google.com/goto?url=CAEShQEBxCJF17B5PrZ9lDK8tsADvjP1fuLgBsiQ9EjB-MnjjSRsaoc4-QtgsmM0zRFNYiqKXcR7xV0VCprZwLLaex2wHznBk2CYVm5mesFvKfS7z0SEQDDgvxIyv-Mticxv2pdCt5DAy1CgEYFtAbo8U9fszVYrvVZL80RiaigBnOG9b3basuBa</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAEShQEBxCJF17B5PrZ9lDK8tsADvjP1fuLgBsiQ9EjB-MnjjSRsaoc4-QtgsmM0zRFNYiqKXcR7xV0VCprZwLLaex2wHznBk2CYVm5mesFvKfS7z0SEQDDgvxIyv-Mticxv2pdCt5DAy1CgEYFtAbo8U9fszVYrvVZL80RiaigBnOG9b3basuBa</guid>
-      <description>After years of keeping her head down, Sian Leah Beilock is embracing artificial intelligence, even as it barrels through American society...</description>
-    </item>
-    <item>
-      <title>Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report</title>
-      <link>https://www.google.com/goto?url=CAESsQEBxCJF198vvDyRhg1y7CARCWQjhWpvKbWDy1oLaYwz1hvOYPhGC83WxcRFTDYjEjpWIqNzqfT7NGgz9ZTsX9LH85NgWIgMf97KEzNwFSOvzgbbhnEIFOBlU4KWDI8WXyx4hXKEDHy2EpUiHbKvE4Yo5wqle73X4D17vHDVSKClt3oVh63RWvPGezIK2TfKvu0NzllmYbKfpfCF_F86BoCjldhJL1HLvsToJZT3UIDKn9E</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESsQEBxCJF198vvDyRhg1y7CARCWQjhWpvKbWDy1oLaYwz1hvOYPhGC83WxcRFTDYjEjpWIqNzqfT7NGgz9ZTsX9LH85NgWIgMf97KEzNwFSOvzgbbhnEIFOBlU4KWDI8WXyx4hXKEDHy2EpUiHbKvE4Yo5wqle73X4D17vHDVSKClt3oVh63RWvPGezIK2TfKvu0NzllmYbKfpfCF_F86BoCjldhJL1HLvsToJZT3UIDKn9E</guid>
-      <description>The woman who sought out a close relationship with Nvidia CEO Jensen Huang was a Ministry of State Security recruit, the New York Times...</description>
+      <title>Berkshire shares surge as Wall Street swoons amid AI fears</title>
+      <link>https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html</guid>
+      <description>## Work in the age of artificial intelligence (2017)
+Let’s assume one person could push a button and, essentially, through various machines and robotics, all kinds of things, turn out all of the output we have in this country.</description>
     </item>
     <item>
       <title>Column: Artificial intelligence becomes artificial connection, too</title>
@@ -113,40 +137,92 @@ Conversations that have outcomes and strategies inevitably become a performance.
 It makes sense that when content can be endlessly generated, a real person’s personality becomes even more valuable to the consumer.</description>
     </item>
     <item>
-      <title>Parental Trust in Artificial Intelligence and Pediatricians: A Cross-Sectional Study of Diagnostic Preferences and Healthcare-Seeking Behaviors in Saudi Arabia</title>
-      <link>https://www.cureus.com/articles/551299-parental-trust-in-artificial-intelligence-and-pediatricians-a-cross-sectional-study-of-diagnostic-preferences-and-healthcare-seeking-behaviors-in-saudi-arabia</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/551299-parental-trust-in-artificial-intelligence-and-pediatricians-a-cross-sectional-study-of-diagnostic-preferences-and-healthcare-seeking-behaviors-in-saudi-arabia</guid>
-      <description>Introduction Artificial intelligence (AI) is increasingly used by parents to obtain health information and may influence healthcare...</description>
+      <title>3 Artificial Intelligence (AI) Stocks I’d Buy Without Hesitation in a Market Crash</title>
+      <link>https://www.fool.com/investing/2026/11/07/3-artificial-intelligence-ai-stocks-i-d-buy-without-hesitation-in-a-market-crash/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/07/3-artificial-intelligence-ai-stocks-i-d-buy-without-hesitation-in-a-market-crash/</guid>
+      <description>## Key Points
+Artificial intelligence (AI) isn't just a fad.</description>
     </item>
     <item>
-      <title>Taxonomy of agentic primitives in Amazon Quick | Amazon Web Services</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</guid>
-      <description>Over the past year, as we built Amazon Quick, our agents went from answering questions to taking actions: scheduling meetings,...</description>
+      <title>The Healer’s Blind Spot: Hubris in the Age of Artificial Intelligence</title>
+      <link>https://www.cureus.com/articles/531517-the-healers-blind-spot-hubris-in-the-age-of-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/531517-the-healers-blind-spot-hubris-in-the-age-of-artificial-intelligence</guid>
+      <description>Medicine stands at its largest technological inflection point in a century, yet the profession remains culturally unprepared to absorb...</description>
     </item>
     <item>
-      <title>If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One</title>
-      <link>https://www.google.com/goto?url=CAESkQEBxCJF1waU55TIimioGWDwxbLedmaju8D75D01wkrsq6YgAAoIZRA07XgY5jb70qE_R9qcFW7Rq9dERBh-1KcoS71zs_Ib-M05yspx71brX2MDOip1FYwxBcEP-TBnoOe78LZdtjl50fgkoloBYQ7KG1YEsUoRB6y4MyMpBQMwi0H1Od1XIKN_MyHUEKwJAJyC</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESkQEBxCJF1waU55TIimioGWDwxbLedmaju8D75D01wkrsq6YgAAoIZRA07XgY5jb70qE_R9qcFW7Rq9dERBh-1KcoS71zs_Ib-M05yspx71brX2MDOip1FYwxBcEP-TBnoOe78LZdtjl50fgkoloBYQ7KG1YEsUoRB6y4MyMpBQMwi0H1Od1XIKN_MyHUEKwJAJyC</guid>
-      <description>The 2026 midterm elections have introduced a layer of uncertainty for artificial intelligence (AI) investors. With Democrats winning control...</description>
+      <title>Google says there’s no way to use Search without using artificial intelligence</title>
+      <link>https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</guid>
+      <description># Google says there’s no way to use Search without using artificial intelligence
+[Google](https://www.theguardian.com/technology/google) just acknowledged that you can’t use Google Search without using [artificial intelligence](https://www.theguardian.com/technology/artificialintelligenceai).
+
+- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
     </item>
     <item>
-      <title>CEO of South Jersey’s largest data center and Anthropic’s Claude to headline Rowan’s artificial intelligence conference, Nov. 10</title>
-      <link>https://www.google.com/goto?url=CAESoAEBxCJF13LehCeIpL7MWKlGtoEf-Kvim6XN1lBRPF2LXNiOZQFyB5irzaqThTJzqRHv1q07zlZ3nNOqQ3ipKt1eBZDkTOOlKFrZybeRwFhuunktmf7QEaidE_fc9c81XSF1TiQmke7FdOmurVcGvliD6Ovkg_g4i4cbJVx9Y71fCKc3gikO6miKj0sr6l4b7RP_cYwRAyIodWQrQieek7xe</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESoAEBxCJF13LehCeIpL7MWKlGtoEf-Kvim6XN1lBRPF2LXNiOZQFyB5irzaqThTJzqRHv1q07zlZ3nNOqQ3ipKt1eBZDkTOOlKFrZybeRwFhuunktmf7QEaidE_fc9c81XSF1TiQmke7FdOmurVcGvliD6Ovkg_g4i4cbJVx9Y71fCKc3gikO6miKj0sr6l4b7RP_cYwRAyIodWQrQieek7xe</guid>
-      <description>The rise of AI is a top issue for workers, communities and policymakers, and is the focus of Rowan University's conference this Tuesday,...</description>
+      <title>When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)</title>
+      <link>https://www.employmentlawworldview.com/when-use-of-artificial-intelligence-conflicts-with-employees-sincerely-held-religious-beliefs-us/</link>
+      <guid isPermaLink="true">https://www.employmentlawworldview.com/when-use-of-artificial-intelligence-conflicts-with-employees-sincerely-held-religious-beliefs-us/</guid>
+      <description>As businesses embrace generative artificial intelligence (AI) in the workplace, a new trend is emerging: conscientious objectors requesting exemption from AI tools to accommodate their sincerely held moral views.
+
+The American Humanist Association (AHA) recently signed onto the [_Luxembourg Declaration on Artificial Intelligence and Human Values_](https://humanists.international/policy/luxembourg-declaration-on-artificial-intelligence-and-human-values/) and exhorted secular humanists to examine the economic, environmental, anti-creative, and anti-competitive impacts of AI.
+
+New technology presents new challenges, and AI is no exception.</description>
     </item>
     <item>
-      <title>Responsible use of artificial intelligence</title>
-      <link>https://www.google.com/goto?url=CAESbgHEIkXXBy8eajE2uz_WG3HIpmOTqOaa5GPr151FneikeSrUZENkrMpmTwyFPhCrl9gmvMF2CBQIYGIVZD8Cts8w_pfnVFTA4GQVoWoP_Tj1A5UJcE0ChYSFS_W_N811IiamTcJEPu6FeP1rm7Zm</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESbgHEIkXXBy8eajE2uz_WG3HIpmOTqOaa5GPr151FneikeSrUZENkrMpmTwyFPhCrl9gmvMF2CBQIYGIVZD8Cts8w_pfnVFTA4GQVoWoP_Tj1A5UJcE0ChYSFS_W_N811IiamTcJEPu6FeP1rm7Zm</guid>
-      <description>AI is rapidly transforming geoscience research and publishing. To realize the benefits of AI while safeguarding scientific integrity,...</description>
+      <title>SATURDAY MORNING WITH CRANKY DON JOE | Artificial Intelligence Is Supposed to Make Life Easier. So Why Is Everybody Worried About Losing Their Jobs?</title>
+      <link>https://minneapolimedia.town.news/g/coon-rapids-mn/n/397519/saturday-morning-cranky-don-joe-artificial-intelligence-supposed-make</link>
+      <guid isPermaLink="true">https://minneapolimedia.town.news/g/coon-rapids-mn/n/397519/saturday-morning-cranky-don-joe-artificial-intelligence-supposed-make</guid>
+      <description>By Cranky Don Joe. My name is Cranky Don Joe. Cranky DJ to a lot of my neighbors. I am not an expert on artificial intelligence,...</description>
     </item>
     <item>
-      <title>Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence</title>
-      <link>https://www.google.com/goto?url=CAESuQEBxCJF1x3Wt_u3LeknMwBg13boemFwUtv0PzfhSrKxIiZnJ-rDcBW2B8IdIH5PZyMytU2kP3vLWcHMNOVQNHPsMEb6D3ZhU7IqfVDmLc8MUId36NiKnKfB3gwZuLpZQqa8zOc_ZnsUva_clVlpqAArq4YrmkbmFStD-Rg4ygG9NuDZcpKgoYx7_GrL4s99VhpI5eFzC57Nm1C91QkEkeje-zlFo0Bwn3y7bEFyuXZDuWLyqSE-glyuDw</link>
-      <guid isPermaLink="true">https://www.google.com/goto?url=CAESuQEBxCJF1x3Wt_u3LeknMwBg13boemFwUtv0PzfhSrKxIiZnJ-rDcBW2B8IdIH5PZyMytU2kP3vLWcHMNOVQNHPsMEb6D3ZhU7IqfVDmLc8MUId36NiKnKfB3gwZuLpZQqa8zOc_ZnsUva_clVlpqAArq4YrmkbmFStD-Rg4ygG9NuDZcpKgoYx7_GrL4s99VhpI5eFzC57Nm1C91QkEkeje-zlFo0Bwn3y7bEFyuXZDuWLyqSE-glyuDw</guid>
-      <description>One year after its launch, UNESCO's Data Governance Handbook is now available in Spanish and includes new training and self-assessment tools...</description>
+      <title>DOE Explains...Artificial Intelligence</title>
+      <link>https://www.energy.gov/science/doe-explainsartificial-intelligence</link>
+      <guid isPermaLink="true">https://www.energy.gov/science/doe-explainsartificial-intelligence</guid>
+      <description># DOE Explains...Artificial Intelligence
+![Supercomputers like the Department of Energy’s Aurora at the Argonne Leadership Computing Facility will help make artificial intelligence more and more powerful.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-artificial-intelligence.jpg?itok=zZ0wBGLD)
+
+Supercomputers like the Department of Energy’s Aurora at the Argonne Leadership Computing Facility will help make artificial intelligence more and more powerful.
+
+Image courtesy of Argonne Leadership Computing Facility
+
+**Artificial Intelligence (AI)** simply means intelligence in machines, in contrast to natural intelligence found in humans and other natural organisms. Artificial intelligence gained its name and became a formal field of research in 1956, and initial work led to new tools for solving mathematical problems. However, researchers discovered that creating an AI is incredibly difficult, and progress slowed in the 1970s. More recently, increases in computing power and availability of massive data sets have set the groundwork for advances in AI.
+
+In particular, scientists have made giant strides in one particular application of AI, [machine learning](https://www.energy.gov/science/doe-explainsmachine-learning). Machine learning involves systems that automatically learn from the data they analyze and the results they obtain to improve their ability to work with that data in the future. For example, machine learning powers applications that estimate how long a trip will take and then provide guidance on the route. Applications such as Google Maps use machine learning to analyze shifting traffic conditions and incorporate user-reported data to reduce travel times and suggest fuel-efficient routes. Machine learning is best for these types of specific, well-defined tasks that can be broken down into logical steps.
+
+The next level of AI application is known as **deep learning**. Deep learning involves complex tasks with many hard to nail down variables. It makes use of neural networks, which seek to build computers that operate like our brains. Deep learning leverages many neural networks stacked on top of each other to create a large, complex neural network. Deep learning demands a lot of computing power to both train the model from copious amounts of data and use the trained models to make decisions. One example is digital assistants like Amazon Alexa, Apple Siri, and Google Assistant. Deep learning is what allows these assistants to listen to you and figure out what information you want or task you need them to perform.
+
+## DOE Office of Science: Contributions to Artificial Intelligence
+The Advanced Scientific Computing Research (ASCR) program in the Department of Energy Office of Science (DOE SC) has been working on AI since the 1960s. ASCR developed several technologies--including massively parallel input/output systems and linear algebra routines--that led to today’s AI systems. More recently, ASCR’s role in high-performance computing and exascale computing will help build the hardware and software needed to power future generations of AI. The ASCR program also provides support to other DOE SC programs that are using AI to accomplish their goals. For example, the DOE SC Fusion Energy Science program is deploying AI to help control fusion reactions with the goal of making [fusion energy](https://www.energy.gov/science/doe-explainsfusion-energy-science) production a commercial reality.
+
+## Artificial Intelligence Facts
+One of the ways we can understand advances in AI is how well it performs at games.
+
+- In 2011, [IBM’s Watson(link is external)](https://community.ibm.com/community/user/storage/blogs/tony-pearson1/2021/02/18/ibm-watson-plays-jeopardy-ten-years-later?mhsrc=ibmsearch_a&amp;mhq=watson%20jeopardy) won the U.S. game show Jeopardy!
+- In 2016, the [Google DeepMind AlphaGo(link is external)](https://deepmind.com/research/case-studies/alphago-the-story-so-far) AI beat a human grandmaster at the complex Chinese game of Go.
+- But humans say AI [isn’t so good at games involving teamwork(link is external)](https://news.mit.edu/2021/does-artificial-intelligence-play-well-others-1004).
+
+## Resources and Related Terms
+_It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum._</description>
+    </item>
+    <item>
+      <title>How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining</title>
+      <link>https://bioengineer.org/how-generative-artificial-intelligence-is-transforming-spatial-temporal-data-mining/</link>
+      <guid isPermaLink="true">https://bioengineer.org/how-generative-artificial-intelligence-is-transforming-spatial-temporal-data-mining/</guid>
+      <description># How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining
+The authors highlight that integrating pretrained language architectures, demonstrated in systems like Time-LLM, TPLLM, and LLMTIME, allows numerical time series to be projected directly into linguistic representations, yielding competitive long-horizon forecasting performance without extensive task-specific model retraining.</description>
+    </item>
+    <item>
+      <title>University of Nebraska sets new rules for artificial intelligence use across campuses</title>
+      <link>https://journalstar.com/news/local/education/article_6defe2c1-b368-4c59-86b1-c00198349e84.html</link>
+      <guid isPermaLink="true">https://journalstar.com/news/local/education/article_6defe2c1-b368-4c59-86b1-c00198349e84.html</guid>
+      <description>NU President Jeff Gold said the executive memo seeks to establish "university-wide expectations for the secure, ethical and responsible use"...</description>
+    </item>
+    <item>
+      <title>Democrats Plan Legislation for Artificial Intelligence</title>
+      <link>https://gvwire.com/2026/11/07/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress/</link>
+      <guid isPermaLink="true">https://gvwire.com/2026/11/07/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress/</guid>
+      <description>## Share
+Democrats are planning to unleash a flood of new legislation targeting artificial intelligence systems and data-center development when they take control of the US Congress in January, lawmakers, congressional aides and advocates said.</description>
     </item>
   </channel>
 </rss>
