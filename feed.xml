@@ -5,177 +5,198 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:31:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’</title>
-      <link>https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</guid>
-      <description># Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’
-## This is just the beginning …
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says</title>
+      <link>https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</guid>
+      <description>As the technology advances, the two nations will need to demonstrate how they can "reconcile the demands of competition with the...</description>
     </item>
     <item>
-      <title>Australia to launch AI safety regulator after OpenAI's breach of a government portal</title>
-      <link>https://www.newsday.com/news/nation/australia-artificial-intelligence-regulator-openai-agent-breach-b58473</link>
-      <guid isPermaLink="true">https://www.newsday.com/news/nation/australia-artificial-intelligence-regulator-openai-agent-breach-b58473</guid>
-      <description>![Australian Prime Minister Anthony Albanese speaks about artificial intelligence during...](https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3ANDVlODJhZWItNGY2OC00%3AYmFkODQ4MmMtNDA1Yy00%2Fcopy-of-australia-artificial-intelligence.jpeg%3Ff%3DLandscape%2B16%253A9%26w%3D1920%26q%3D1&amp;w=3840&amp;q=90)
+      <title>Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</guid>
+      <description>His signature leather jacket, frequent media appearances and close relationship with President Donald Trump made Huang one of the most iconic CEOs of the artificial intelligence era, providing computer chips and financing that have helped sustain an [economic boom](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/) that has lifted millions of [investment and retirement accounts](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/).
 
-Australian Prime Minister Anthony Albanese speaks about artificial intelligence during a press conference at Parliament House in Canberra, Tuesday, Nov.
-
-MELBOURNE, Australia — Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website by a rogue OpenAI agent in June, Prime Minister Anthony Albanese said Tuesday.
-
-“When it comes to the generational opportunity that artificial intelligence offers Australia, I’ve been very clear: our task is to make sure we shape AI rather than AI shape us,” Albanese told reporters.</description>
+Nvidia’s powerful computer chips, crucial to AI development, are “the lifeblood” of the global artificial intelligence industry, said Ben Buchanan, a White House special adviser on AI under President Joe Biden.</description>
     </item>
     <item>
-      <title>A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed</title>
-      <link>https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html</guid>
+      <title>Nvidia’s spy scandal threatens America’s AI edge</title>
+      <link>https://www.politico.com/news/2026/11/10/nvidia-china-ai-chips-01160103</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/11/10/nvidia-china-ai-chips-01160103</guid>
       <description></description>
     </item>
     <item>
-      <title>Can Nvidia’s boss survive a Chinese-spy controversy?</title>
-      <link>https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy</link>
-      <guid isPermaLink="true">https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy</guid>
-      <description># Can Nvidia’s boss survive a Chinese-spy controversy?
-## Jensen Huang is caught with his pants down
-FEW people have been more central to the boom in artificial intelligence than [Jensen Huang](https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good).</description>
-    </item>
-    <item>
-      <title>Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems</guid>
-      <description>## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-Alphabet Inc.’s Google is rolling out a broader array of artificial intelligence chips, aiming to capitalize on its rapid ascent as a challenger to Nvidia Corp. in a market worth hundreds of billions of dollars.</description>
-    </item>
-    <item>
-      <title>Lawyer builds private AI server with eight used Nvidia V100 GPUs — up to 215 tokens per second to keep legal files offline, costing about $2,400 per four-GPU board</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board</guid>
+      <title>He built a chipmaking giant. Now Jensen Huang faces his biggest test</title>
+      <link>https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test</link>
+      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo</guid>
-      <description>AI
+      <title>Nvidia CEO's Alleged Chinese Spy Affair Now Reportedly Involves $7.5 Billion in Chip Sales</title>
+      <link>https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</link>
+      <guid isPermaLink="true">https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</guid>
+      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
 
-## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-Anthropic PBC has unveiled new versions of its powerful Mythos and Fable artificial intelligence models,an effort to bolster the company’s position as a leader in AI development on the eve of its long-awaited Wall Street debut.</description>
+# Nvidia CEO’s Alleged Chinese Spy Affair Now Reportedly Involves $7.5 Billion in Chip Sales
+## Related Articles
+[![CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://gizmodo.com/app/uploads/2026/10/dario-at-white-house-2026-1280x853.jpg)](https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Matt Novak](https://gizmodo.com/author/mattnovak)
+
+[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Ece Yildirim](https://gizmodo.com/author/eceyildirim)</description>
     </item>
     <item>
-      <title>Opinion | Does Claude have a soul? Ask God, not Anthropic.</title>
-      <link>https://www.washingtonpost.com/opinions/2026/11/09/artificial-intelligence-raises-an-ancient-religious-question/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/11/09/artificial-intelligence-raises-an-ancient-religious-question/</guid>
-      <description>Artificial intelligence agents were [reaching out](https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html) to researchers who study whether AI can achieve consciousness.
-
-The conversation explores the intersection of artificial intelligence, consciousness, and religion, with participants expressing skepticism about the role of religious concepts in understanding AI.</description>
+      <title>Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</title>
+      <link>https://www.bbc.com/news/articles/crpdgd723x2zo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/crpdgd723x2zo</guid>
+      <description># Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
     </item>
     <item>
-      <title>Deerfield taps AWS to fuel healthcare AI ambitions</title>
-      <link>https://www.fiercehealthcare.com/ai-and-machine-learning/deerfield-taps-aws-fuel-healthcare-ai-ambitions</link>
-      <guid isPermaLink="true">https://www.fiercehealthcare.com/ai-and-machine-learning/deerfield-taps-aws-fuel-healthcare-ai-ambitions</guid>
-      <description># Deerfield taps AWS to fuel healthcare AI ambitions
-[Amazon Web Services](https://www.fiercehealthcare.com/keyword/amazon-web-services) [Deerfield Management](https://www.fiercehealthcare.com/keyword/deerfield-management) [Deerfield Discovery and Development (3DC)](https://www.fiercehealthcare.com/keyword/deerfield-discovery-and-development-3dc) [Artificial Intelligence](https://www.fiercehealthcare.com/keyword/artificial-intelligence) [Cloud Computing](https://www.fiercehealthcare.com/keyword/cloud-computing) [Digital Health](https://www.fiercehealthcare.com/digital-health) [Finance](https://www.fiercehealthcare.com/finance) [Health Tech](https://www.fiercehealthcare.com/health-tech) [AI and Machine Learning](https://www.fiercehealthcare.com/ai-and-machine-learning)
+      <title>Artificial intelligence is desperately seeking its narrative</title>
+      <link>https://theconversation.com/artificial-intelligence-is-desperately-seeking-its-narrative-296067</link>
+      <guid isPermaLink="true">https://theconversation.com/artificial-intelligence-is-desperately-seeking-its-narrative-296067</guid>
+      <description>Artificial intelligence illustrates this phenomenon: while its narrative is still taking shape, its social acceptability is increasingly contested.
 
-# Doximity expands clinical AI footprint to more than 190 health systems
-[Physician Engagement](https://www.fiercehealthcare.com/keyword/physician-engagement) [Clinical Decision Support](https://www.fiercehealthcare.com/keyword/clinical-decision-support) [Earnings](https://www.fiercehealthcare.com/keyword/earnings) [Artificial Intelligence](https://www.fiercehealthcare.com/keyword/artificial-intelligence)</description>
+In May 2026, when former Google CEO Eric Schmidt addressed [nearly 10,000 graduates at the University of Arizona, warning that artificial intelligence would transform every single profession, boos echoed through the crowd](https://www.bbc.com/news/articles/ce8pqd54qneo).
+
+## Narratives that generate hostility
+Four broad narratives currently shape the discourse on artificial intelligence.
+
+## American or Chinese narratives
+- [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
     </item>
     <item>
-      <title>Artful Intelligence: How Does Fiction Imagine AI?</title>
-      <link>https://www.amacad.org/daedalus/artful-intelligence-how-does-fiction-imagine-ai</link>
-      <guid isPermaLink="true">https://www.amacad.org/daedalus/artful-intelligence-how-does-fiction-imagine-ai</guid>
-      <description># Artful Intelligence: How Does Fiction Imagine AI?
-AI is no longer merely a technical achievement or speculative possibility.
-
-They explore what happens when AI becomes persuasive enough to be mistaken for care, competent enough to rival human expertise, intimate enough to receive confession, and autonomous enough to make its own rules.
-
-_Artful Intelligence_ was a podcast series hosted by Academy member Reid Hoffman and Chris McLeod.
-
-### [When the World You Build Starts Thinking for Itself](https://www.amacad.org/daedalus/when-world-you-build-starts-thinking-itself)
-As artificial intelligence gives virtual characters greater autonomy, game design becomes a revealing laboratory for governance.</description>
+      <title>North Smithfield man accused of creating AI-generated child sexual abuse material</title>
+      <link>https://turnto10.com/news/local/north-smithfield-man-accused-of-creating-ai-generated-child-sexual-abuse-material-instructor-gymnastics-dance-facilities-artificial-intelligence-november-10-2026</link>
+      <guid isPermaLink="true">https://turnto10.com/news/local/north-smithfield-man-accused-of-creating-ai-generated-child-sexual-abuse-material-instructor-gymnastics-dance-facilities-artificial-intelligence-november-10-2026</guid>
+      <description># North Smithfield man accused of creating AI-generated child sexual abuse material
+#### topics:
+- [Artificial-intelligence](https://turnto10.com/topic/Artificial-intelligence)</description>
     </item>
     <item>
-      <title>Google issues ultimatum to San Diego County schools: use AI search or be cut off</title>
-      <link>https://www.nbcsandiego.com/news/local/googles-ai-ultimatum-forces-san-diego-schools-make-tough-choice/4099437/</link>
-      <guid isPermaLink="true">https://www.nbcsandiego.com/news/local/googles-ai-ultimatum-forces-san-diego-schools-make-tough-choice/4099437/</guid>
-      <description># Google issues ultimatum to San Diego County schools: use AI search or be cut off
-## School districts across San Diego County must decide whether to enable Google's AI features or lose access to its search engine.
-#### By [Shandel Menezes](https://www.nbcsandiego.com/author/shandel-menezes/)•Published November 9, 2026•Updated on November 9, 2026 at 5:49 pm
-The decision comes as schools across the region grapple with how much artificial intelligence should be allowed in classrooms.
-
-The district has taken a gradual approach to introducing artificial intelligence this school year, expanding access as students get older.</description>
+      <title>Gemini 4 Carbon is now available</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
+      <description># Gemini 4 Carbon is now available
+## About the Author
+Koray is one of the world's foremost experts in artificial intelligence.</description>
     </item>
     <item>
-      <title>AI chief: Israel risks losing control of electricity, water, healthcare to firms</title>
-      <link>https://www.jpost.com/defense-and-tech/article-914307</link>
-      <guid isPermaLink="true">https://www.jpost.com/defense-and-tech/article-914307</guid>
-      <description># Israel risks losing national sovereignty to foreign firms without AI strategy, top official warns
-## Israel's AI Chief Erez Askal said Israel must dash forward to develop its own AI capabilities and data centers to support those capabilities, so that it retains its independence.
-### **Striking the right balance between progress, integration main challenge of AI**
-In June, _The Jerusalem Post_ reported that while Israel is considered a dominant player in the cybersecurity field, and part of that means using artificial intelligence (AI) in smart ways in that arena, in the broader AI context, Jerusalem is behind and now trying to play catch-up.
+      <title>H-E-B apologizes after shopper falsely accused of theft</title>
+      <link>https://www.mysanantonio.com/news/local/article/heb-ai-security-theft-22516426.php</link>
+      <guid isPermaLink="true">https://www.mysanantonio.com/news/local/article/heb-ai-security-theft-22516426.php</guid>
+      <description>H-E-B says it does not use AI for surveillance and apologized after an Austin shopper said they were wrongly accused of shoplifting.</description>
+    </item>
+    <item>
+      <title>Could artificial intelligence end humanity? A UT Dallas professor explains if and how it could happen.</title>
+      <link>https://www.wfaa.com/article/tech/science/could-artificial-intelligence-end-humanity-ut-dallas-professor-explains-if-and-how-it-could-happen/287-b0d8c8bf-0f6b-408a-b080-7477bdc09a05</link>
+      <guid isPermaLink="true">https://www.wfaa.com/article/tech/science/could-artificial-intelligence-end-humanity-ut-dallas-professor-explains-if-and-how-it-could-happen/287-b0d8c8bf-0f6b-408a-b080-7477bdc09a05</guid>
+      <description># Could artificial intelligence end humanity? A UT Dallas professor explains if and how it could happen.
+Artificial intelligence is advancing at a pace that has experts sounding an early alarm.
+
+## Download the WFAA app
+#### More Videos
+DALLAS — Artificial intelligence is advancing at a pace that has experts sounding an early alarm.
+
+As artIficial intelligence continues to evolve, he believes the challenge will be finding a way to benefit from its capabilities while ensuring the technology remains subject to meaningful human oversight.</description>
+    </item>
+    <item>
+      <title>AI-powered hacking demands response within minutes, cybersecurity experts warn</title>
+      <link>https://www.jpost.com/defense-and-tech/article-914503</link>
+      <guid isPermaLink="true">https://www.jpost.com/defense-and-tech/article-914503</guid>
+      <description># AI threat detection cycle must move at insane lightspeed 15 minute clip, top cyber experts say
+## AI is accelerating cyberattacks beyond traditional defenses, forcing cybersecurity teams to detect threats within 15 minutes to prevent catastrophic damage, Trellix's CTO warned at Cyber Week.
+To even have a chance of mitigating catastrophic [artificial intelligence (AI) based hacking](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914498) of a business or government agency, cyber defenders need to identify such cyber attacks within 15 minutes, Trellix Chief Technology Officer Mo Cashman said on Tuesday.
 
 ## Subscribe for Defense &amp; Tech Newsletter
 ### See more on
 [Artificial intelligence](https://www.jpost.com/tags/artificial-intelligence) |</description>
     </item>
     <item>
-      <title>B.C. businesses push back against 'AI slop' with pen-and-paper ads</title>
-      <link>https://www.cbc.ca/news/canada/british-columbia/pen-paper-advertising-anti-artificial-intelligence-9.7409932</link>
-      <guid isPermaLink="true">https://www.cbc.ca/news/canada/british-columbia/pen-paper-advertising-anti-artificial-intelligence-9.7409932</guid>
-      <description># B.C. businesses push back against 'AI slop' with pen-and-paper ads
-A marketing professor says customers are gravitating towards authenticity, as artificial intelligence is making producing perfect graphics too easy.
+      <title>Will Jensen Huang Stay? What Betting Markets Signal For Nvidia</title>
+      <link>https://www.ndtv.com/business-news/china-spy-scandal-will-jensen-huang-stay-what-betting-markets-signal-for-nvidia-12310464</link>
+      <guid isPermaLink="true">https://www.ndtv.com/business-news/china-spy-scandal-will-jensen-huang-stay-what-betting-markets-signal-for-nvidia-12310464</guid>
+      <description># Will Jensen Huang Stay? What Betting Markets Signal For Nvidia
+## Over three decades, Jensen Huang has transformed Nvidia from a graphics-chip maker into a central supplier of artificial intelligence infrastructure
+[powered by whtvr.ai](https://whtvr.ai/)</description>
+    </item>
+    <item>
+      <title>How artificial intelligence is changing healthcare</title>
+      <link>https://www.mprnews.org/episode/2026/11/11/how-artificial-intelligence-is-changing-health-care</link>
+      <guid isPermaLink="true">https://www.mprnews.org/episode/2026/11/11/how-artificial-intelligence-is-changing-health-care</guid>
+      <description>Artificial intelligence is changing the way doctors diagnose diseases, treat patients and manage their workloads.
 
-## Prof. says customers increasingly want authenticity as artificial intelligence makes perfection easy
-As restaurants around the world [turn to artificial intelligence](https://www.cbc.ca/news/business/ai-generated-restaurant-images-9.7356958) (AI) images to save costs amid razor-thin margins, NaMì owner Kevin Thach said the pen-and-paper advertising is a way of differentiating his business.</description>
+- **Matt Redlon** is chair of the AI program and vice president of digital biology in [Mayo Clinic Laboratories’ Digital Pathology initiative](https://news.mayocliniclabs.com/pathology/digital-pathology/). He leads efforts to develop and apply artificial intelligence in medicine, including tools that support disease diagnosis, drug discovery and medical research.</description>
     </item>
     <item>
-      <title>Martinsville school board tables proposed AI policy until December</title>
-      <link>https://wset.com/news/local/martinsville-school-board-to-consider-optional-ai-policy-for-classroom-use-november-2026</link>
-      <guid isPermaLink="true">https://wset.com/news/local/martinsville-school-board-to-consider-optional-ai-policy-for-classroom-use-november-2026</guid>
-      <description># Martinsville school board to consider optional AI policy for classroom use
-#### topics:
-- [Artificial intelligence](https://wset.com/topic/Artificial%20intelligence)
+      <title>Faculty member addresses artificial intelligence practically and theoretically</title>
+      <link>https://www.psu.edu/news/bellisario-college-communications/story/faculty-member-addresses-artificial-intelligence</link>
+      <guid isPermaLink="true">https://www.psu.edu/news/bellisario-college-communications/story/faculty-member-addresses-artificial-intelligence</guid>
+      <description># Faculty member addresses artificial intelligence practically and theoretically
+Heather Shoenberger co-created an undergraduate class about generative artificial intelligence and was the lead author on recent research that outlines a structural mismatch in how humans and conversational AI consider their exchanges.Credit: Penn State.
 
-(WSET) — The Martinsville City School Board is expected to consider adopting an optional artificial intelligence policy at a meeting scheduled to begin Monday at 6 p.m., a step that could set clearer expectations for how AI is used in classrooms.</description>
+Expand
+
+UNIVERSITY PARK, Pa. — Practically or theoretically, whether teaching a classroom full of Penn State students or pondering concepts with a smaller group of international colleagues, Heather Shoenberger brings curiosity and optimism as she considers the challenges and opportunities related to artificial intelligence (AI).
+
+Bellisario College of Communications at Penn State, she’s providing information, shaping perspectives and developing approaches — all while helping wider audiences better understand AI and how it could shape the future.
+
+## **Relational research**
+According to Shoenbeger, the theory posits that AI is unable to experience relationships but can simulate emotional responsiveness, intentional commitment, attachment and intimacy.
+
+### Tags
+- [Artificial Intelligence](https://www.psu.edu/news/artificial-intelligence)</description>
     </item>
     <item>
-      <title>Congress faces year-end deadline for cybersecurity and artificial intelligence legislation</title>
-      <link>https://www.scworld.com/brief/congress-faces-year-end-deadline-for-cybersecurity-and-artificial-intelligence-legislation</link>
-      <guid isPermaLink="true">https://www.scworld.com/brief/congress-faces-year-end-deadline-for-cybersecurity-and-artificial-intelligence-legislation</guid>
-      <description># Congress faces year-end deadline for cybersecurity and artificial intelligence legislation
-Beyond infrastructure, Congress is evaluating several artificial intelligence proposals, including the FRONTIER Act and the AI Kill Switch Act, which aim to mandate safety disclosures and emergency shutdown capabilities for advanced models.</description>
+      <title>Survey: Patient comfort with AI varies by level of provider involvement</title>
+      <link>https://www.aha.org/news/headline/2026-11-10-survey-patient-comfort-ai-varies-level-provider-involvement</link>
+      <guid isPermaLink="true">https://www.aha.org/news/headline/2026-11-10-survey-patient-comfort-ai-varies-level-provider-involvement</guid>
+      <description>A [Gallup survey](https://news.gallup.com/poll/716261/providers-underestimate-patient-comfort-care.aspx) published Nov. 9 on patient comfort with artificial intelligence in care found that 56% of U.S. adults who visited a primary care provider in the past year are comfortable with AI making diagnosis or treatment decisions, as long as they can be changed or overridden by their provider.
+
+[Artificial Intelligence (AI)](https://www.aha.org/topics/artificial-intelligence-ai)
+
+Christine Moutier, M.D., chief medical officer at the American Foundation for Suicide Prevention, discusses the usage of artificial intelligence chatbots among…
+
+Christine Moutier, M.D., chief medical officer at the American Foundation for Suicide Prevention, discusses the usage of artificial intelligence chatbots among…
+
+The AHA Nov. 3 launched a new webpage, Artificial Intelligence Policy and Advocacy, featuring AHA policy letters, statements, fact sheets, news and other…</description>
     </item>
     <item>
-      <title>He’s using AI to screen existing compounds for therapeutic potential</title>
-      <link>https://www.pittwire.pitt.edu/features-articles/2026/11/10/drug-screening-generative-ai</link>
-      <guid isPermaLink="true">https://www.pittwire.pitt.edu/features-articles/2026/11/10/drug-screening-generative-ai</guid>
-      <description>Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be...</description>
+      <title>Amazon Bedrock tokenomics data lake | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</guid>
+      <description>If you need an observability data lake for your Amazon Bedrock workloads, you're not alone. When you're running thousands of model...</description>
     </item>
     <item>
-      <title>AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?</title>
-      <link>https://www.fool.com/investing/2026/11/10/amd-vs-intel-which-is-the-better-artificial-intelligence-ai-chip-stock-to-buy-right-now/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/10/amd-vs-intel-which-is-the-better-artificial-intelligence-ai-chip-stock-to-buy-right-now/</guid>
-      <description>## Key Points
-**Advanced Micro Devices**( [AMD](https://www.fool.com/quote/nasdaq/amd/) +13.26%) and **Intel**( [INTC](https://www.fool.com/quote/nasdaq/intc/) +5.49%) have benefited from healthy demand for their artificial intelligence (AI)-oriented chips, which are being deployed by major hyperscalers in data centers to handle both training and inference workloads.</description>
+      <title>‘It's not just the existential threats’: Queens lawmaker on reining in artificial intelligence in New York</title>
+      <link>https://queenseagle.com/all/2026/11/10/its-not-just-the-existential-threats-queens-lawmaker-on-reining-in-artificial-intelligence-in-new-york</link>
+      <guid isPermaLink="true">https://queenseagle.com/all/2026/11/10/its-not-just-the-existential-threats-queens-lawmaker-on-reining-in-artificial-intelligence-in-new-york</guid>
+      <description>‘It's not just the existential threats’: Queens lawmaker on reining in artificial intelligence in New York — Queens Daily Eagle
+
+# News
+Queens State Senator Kristen Gonzalez is at the forefront of legislating regulations and controls for artificial intelligence in New York State.
+
+Artificial intelligence and its increasing impact on people’s lives have become a driving issue for New Yorkers, and Queens State Senator Kristen Gonzalez is keenly aware of that.
+
+Artificial intelligence has quickly become a larger part of how New Yorkers work and live, and last week, it was on the ballot – albeit, indirectly.</description>
     </item>
     <item>
-      <title>AI Fraud and Risk Intelligence to Protect Revenue and Conversion</title>
-      <link>https://emerj.com/ai-fraud-and-risk-intelligence-to-protect-revenue-and-conversion/</link>
-      <guid isPermaLink="true">https://emerj.com/ai-fraud-and-risk-intelligence-to-protect-revenue-and-conversion/</guid>
-      <description>This article is sponsored by Riskified and was written, edited, and published in alignment with our Emerj sponsored content guidelines.</description>
+      <title>Hands-on experience prepares Wayne State engineers for Michigan’s AI-powered manufacturing future</title>
+      <link>https://today.wayne.edu/news/2026/11/10/hands-on-experience-prepares-wayne-state-engineers-for-michigans-ai-powered-manufacturing-future-70535</link>
+      <guid isPermaLink="true">https://today.wayne.edu/news/2026/11/10/hands-on-experience-prepares-wayne-state-engineers-for-michigans-ai-powered-manufacturing-future-70535</guid>
+      <description># Hands-on experience prepares Wayne State engineers for Michigan’s AI-powered manufacturing future
+Sushant Lingras is an operations manager for PHINA – formerly Delphi Technologies, an automotive and industrial components company – who is pursuing his master’s in artificial intelligence.
+
+![https://news.wayne.edu/storage/files/derek-stringfellow-6af38f5d8bb45.png](https://news.wayne.edu/storage/files/derek-stringfellow-6af38f5d8bb45.png)Derek Stringfellow, an applications analyst at Great Lakes Water Authority and Wayne State graduate student in artificial intelligence</description>
     </item>
     <item>
-      <title>Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company</title>
-      <link>https://www.usnews.com/news/business/articles/2026-11-10/anthropic-seeks-valuation-of-about-1-3-trillion-when-it-becomes-a-publicly-traded-company</link>
-      <guid isPermaLink="true">https://www.usnews.com/news/business/articles/2026-11-10/anthropic-seeks-valuation-of-about-1-3-trillion-when-it-becomes-a-publicly-traded-company</guid>
-      <description>Artificial intelligence giant Anthropic is looking for an approximately $1.3 trillion valuation in an initial public offering despite new...</description>
-    </item>
-    <item>
-      <title>Pension funds hold up to 11% of assets in AI companies, raising selloff risk</title>
-      <link>https://www.pionline.com/institutional-investors/pension-funds/pi-pension-artificial-intelligence-ai-exposure-equable-institute-november-2026/</link>
-      <guid isPermaLink="true">https://www.pionline.com/institutional-investors/pension-funds/pi-pension-artificial-intelligence-ai-exposure-equable-institute-november-2026/</guid>
-      <description>Significant exposure to artificial intelligence technology by state and local pension funds could raise concerns over impacts during...</description>
+      <title>The holiday shopping season is underway, and a growing number of shoppers are turning to artificial intelligence for help finding gifts, comparing products, and hunting for deals.</title>
+      <link>https://www.facebook.com/Boston25News/posts/the-holiday-shopping-season-is-underway-and-a-growing-number-of-shoppers-are-tur/1631514842343509/</link>
+      <guid isPermaLink="true">https://www.facebook.com/Boston25News/posts/the-holiday-shopping-season-is-underway-and-a-growing-number-of-shoppers-are-tur/1631514842343509/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
