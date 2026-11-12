@@ -5,54 +5,27 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:35:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says</title>
-      <link>https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html</guid>
-      <description>As the technology advances, the two nations will need to demonstrate how they can "reconcile the demands of competition with the...</description>
+      <title>EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs</title>
+      <link>https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/</guid>
+      <description>Chinese artificial ​intelligence companies are trying to rent Nvidia-powered computing capacity at data centres outside China,...</description>
     </item>
     <item>
-      <title>Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy</title>
-      <link>https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</guid>
-      <description>His signature leather jacket, frequent media appearances and close relationship with President Donald Trump made Huang one of the most iconic CEOs of the artificial intelligence era, providing computer chips and financing that have helped sustain an [economic boom](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/) that has lifted millions of [investment and retirement accounts](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/).
-
-Nvidia’s powerful computer chips, crucial to AI development, are “the lifeblood” of the global artificial intelligence industry, said Ben Buchanan, a White House special adviser on AI under President Joe Biden.</description>
+      <title>Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation</title>
+      <link>https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html</guid>
+      <description>Agile Robots, a German company developing industrial robots powered by artificial intelligence, has raised $500 million in new funding from...</description>
     </item>
     <item>
-      <title>Nvidia’s spy scandal threatens America’s AI edge</title>
-      <link>https://www.politico.com/news/2026/11/10/nvidia-china-ai-chips-01160103</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/11/10/nvidia-china-ai-chips-01160103</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>He built a chipmaking giant. Now Jensen Huang faces his biggest test</title>
-      <link>https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test</link>
-      <guid isPermaLink="true">https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nvidia CEO's Alleged Chinese Spy Affair Now Reportedly Involves $7.5 Billion in Chip Sales</title>
-      <link>https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</link>
-      <guid isPermaLink="true">https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</guid>
-      <description>[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)
-
-# Nvidia CEO’s Alleged Chinese Spy Affair Now Reportedly Involves $7.5 Billion in Chip Sales
-## Related Articles
-[![CEO of Anthropic Dario Amodei looks on as U.S. President Donald Trump holds a press briefing with AI executives following a meeting on artificial intelligence, outside the West Wing of the White House on September 29, 2026 in Washington, DC.](https://gizmodo.com/app/uploads/2026/10/dario-at-white-house-2026-1280x853.jpg)](https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Matt Novak](https://gizmodo.com/author/mattnovak)
-
-[Artificial Intelligence](https://gizmodo.com/tech/artificial-intelligence)[Ece Yildirim](https://gizmodo.com/author/eceyildirim)</description>
-    </item>
-    <item>
-      <title>Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</title>
-      <link>https://www.bbc.com/news/articles/crpdgd723x2zo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/crpdgd723x2zo</guid>
-      <description># Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning
-[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+      <title>New research could lead to faster, trustworthy AI models for climate prediction</title>
+      <link>https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112</link>
+      <guid isPermaLink="true">https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112</guid>
+      <description># New research could lead to faster, trustworthy AI models for climate prediction
+## Related Topics
+- [Artificial intelligence](https://news.mit.edu/topic/artificial-intelligence2)</description>
     </item>
     <item>
       <title>Artificial intelligence is desperately seeking its narrative</title>
@@ -69,134 +42,121 @@ Four broad narratives currently shape the discourse on artificial intelligence.
 - [Artificial intelligence (AI)](https://theconversation.com/topics/artificial-intelligence-ai-90)</description>
     </item>
     <item>
-      <title>North Smithfield man accused of creating AI-generated child sexual abuse material</title>
-      <link>https://turnto10.com/news/local/north-smithfield-man-accused-of-creating-ai-generated-child-sexual-abuse-material-instructor-gymnastics-dance-facilities-artificial-intelligence-november-10-2026</link>
-      <guid isPermaLink="true">https://turnto10.com/news/local/north-smithfield-man-accused-of-creating-ai-generated-child-sexual-abuse-material-instructor-gymnastics-dance-facilities-artificial-intelligence-november-10-2026</guid>
-      <description># North Smithfield man accused of creating AI-generated child sexual abuse material
-#### topics:
-- [Artificial-intelligence](https://turnto10.com/topic/Artificial-intelligence)</description>
+      <title>Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports</title>
+      <link>https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html</guid>
+      <description>Members of Congress are calling on [Nvidia](https://www.cnbc.com/quotes/NVDA/) CEO [Jensen Huang](https://www.cnbc.com/jensen-huang/) to resign, and momentum is building to subpoena the executive, whose company is a leader in advanced [artificial intelligence](https://www.cnbc.com/ai-artificial-intelligence/) chips.
+
+Huang, who leads a company that’s been a chief beneficiary of the artificial intelligence boom, on Sunday admitted to having an [affair](https://www.cnbc.com/video/2026/11/09/huang-affair-was-not-on-my-bingo-card-panmures-klement.html) with a woman whom news outlets have reported U.S. intelligence concluded was a [Chinese spy](https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html).</description>
     </item>
     <item>
-      <title>Gemini 4 Carbon is now available</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
-      <description># Gemini 4 Carbon is now available
-## About the Author
-Koray is one of the world's foremost experts in artificial intelligence.</description>
-    </item>
-    <item>
-      <title>H-E-B apologizes after shopper falsely accused of theft</title>
-      <link>https://www.mysanantonio.com/news/local/article/heb-ai-security-theft-22516426.php</link>
-      <guid isPermaLink="true">https://www.mysanantonio.com/news/local/article/heb-ai-security-theft-22516426.php</guid>
-      <description>H-E-B says it does not use AI for surveillance and apologized after an Austin shopper said they were wrongly accused of shoplifting.</description>
-    </item>
-    <item>
-      <title>Could artificial intelligence end humanity? A UT Dallas professor explains if and how it could happen.</title>
-      <link>https://www.wfaa.com/article/tech/science/could-artificial-intelligence-end-humanity-ut-dallas-professor-explains-if-and-how-it-could-happen/287-b0d8c8bf-0f6b-408a-b080-7477bdc09a05</link>
-      <guid isPermaLink="true">https://www.wfaa.com/article/tech/science/could-artificial-intelligence-end-humanity-ut-dallas-professor-explains-if-and-how-it-could-happen/287-b0d8c8bf-0f6b-408a-b080-7477bdc09a05</guid>
-      <description># Could artificial intelligence end humanity? A UT Dallas professor explains if and how it could happen.
-Artificial intelligence is advancing at a pace that has experts sounding an early alarm.
-
-## Download the WFAA app
-#### More Videos
-DALLAS — Artificial intelligence is advancing at a pace that has experts sounding an early alarm.
-
-As artIficial intelligence continues to evolve, he believes the challenge will be finding a way to benefit from its capabilities while ensuring the technology remains subject to meaningful human oversight.</description>
-    </item>
-    <item>
-      <title>AI-powered hacking demands response within minutes, cybersecurity experts warn</title>
-      <link>https://www.jpost.com/defense-and-tech/article-914503</link>
-      <guid isPermaLink="true">https://www.jpost.com/defense-and-tech/article-914503</guid>
-      <description># AI threat detection cycle must move at insane lightspeed 15 minute clip, top cyber experts say
-## AI is accelerating cyberattacks beyond traditional defenses, forcing cybersecurity teams to detect threats within 15 minutes to prevent catastrophic damage, Trellix's CTO warned at Cyber Week.
-To even have a chance of mitigating catastrophic [artificial intelligence (AI) based hacking](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914498) of a business or government agency, cyber defenders need to identify such cyber attacks within 15 minutes, Trellix Chief Technology Officer Mo Cashman said on Tuesday.
-
-## Subscribe for Defense &amp; Tech Newsletter
-### See more on
-[Artificial intelligence](https://www.jpost.com/tags/artificial-intelligence) |</description>
-    </item>
-    <item>
-      <title>Will Jensen Huang Stay? What Betting Markets Signal For Nvidia</title>
-      <link>https://www.ndtv.com/business-news/china-spy-scandal-will-jensen-huang-stay-what-betting-markets-signal-for-nvidia-12310464</link>
-      <guid isPermaLink="true">https://www.ndtv.com/business-news/china-spy-scandal-will-jensen-huang-stay-what-betting-markets-signal-for-nvidia-12310464</guid>
-      <description># Will Jensen Huang Stay? What Betting Markets Signal For Nvidia
-## Over three decades, Jensen Huang has transformed Nvidia from a graphics-chip maker into a central supplier of artificial intelligence infrastructure
-[powered by whtvr.ai](https://whtvr.ai/)</description>
-    </item>
-    <item>
-      <title>How artificial intelligence is changing healthcare</title>
-      <link>https://www.mprnews.org/episode/2026/11/11/how-artificial-intelligence-is-changing-health-care</link>
-      <guid isPermaLink="true">https://www.mprnews.org/episode/2026/11/11/how-artificial-intelligence-is-changing-health-care</guid>
-      <description>Artificial intelligence is changing the way doctors diagnose diseases, treat patients and manage their workloads.
-
-- **Matt Redlon** is chair of the AI program and vice president of digital biology in [Mayo Clinic Laboratories’ Digital Pathology initiative](https://news.mayocliniclabs.com/pathology/digital-pathology/). He leads efforts to develop and apply artificial intelligence in medicine, including tools that support disease diagnosis, drug discovery and medical research.</description>
-    </item>
-    <item>
-      <title>Faculty member addresses artificial intelligence practically and theoretically</title>
-      <link>https://www.psu.edu/news/bellisario-college-communications/story/faculty-member-addresses-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.psu.edu/news/bellisario-college-communications/story/faculty-member-addresses-artificial-intelligence</guid>
-      <description># Faculty member addresses artificial intelligence practically and theoretically
-Heather Shoenberger co-created an undergraduate class about generative artificial intelligence and was the lead author on recent research that outlines a structural mismatch in how humans and conversational AI consider their exchanges.Credit: Penn State.
-
-Expand
-
-UNIVERSITY PARK, Pa. — Practically or theoretically, whether teaching a classroom full of Penn State students or pondering concepts with a smaller group of international colleagues, Heather Shoenberger brings curiosity and optimism as she considers the challenges and opportunities related to artificial intelligence (AI).
-
-Bellisario College of Communications at Penn State, she’s providing information, shaping perspectives and developing approaches — all while helping wider audiences better understand AI and how it could shape the future.
-
-## **Relational research**
-According to Shoenbeger, the theory posits that AI is unable to experience relationships but can simulate emotional responsiveness, intentional commitment, attachment and intimacy.
-
-### Tags
-- [Artificial Intelligence](https://www.psu.edu/news/artificial-intelligence)</description>
-    </item>
-    <item>
-      <title>Survey: Patient comfort with AI varies by level of provider involvement</title>
-      <link>https://www.aha.org/news/headline/2026-11-10-survey-patient-comfort-ai-varies-level-provider-involvement</link>
-      <guid isPermaLink="true">https://www.aha.org/news/headline/2026-11-10-survey-patient-comfort-ai-varies-level-provider-involvement</guid>
-      <description>A [Gallup survey](https://news.gallup.com/poll/716261/providers-underestimate-patient-comfort-care.aspx) published Nov. 9 on patient comfort with artificial intelligence in care found that 56% of U.S. adults who visited a primary care provider in the past year are comfortable with AI making diagnosis or treatment decisions, as long as they can be changed or overridden by their provider.
-
-[Artificial Intelligence (AI)](https://www.aha.org/topics/artificial-intelligence-ai)
-
-Christine Moutier, M.D., chief medical officer at the American Foundation for Suicide Prevention, discusses the usage of artificial intelligence chatbots among…
-
-Christine Moutier, M.D., chief medical officer at the American Foundation for Suicide Prevention, discusses the usage of artificial intelligence chatbots among…
-
-The AHA Nov. 3 launched a new webpage, Artificial Intelligence Policy and Advocacy, featuring AHA policy letters, statements, fact sheets, news and other…</description>
-    </item>
-    <item>
-      <title>Amazon Bedrock tokenomics data lake | Amazon Web Services</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</guid>
-      <description>If you need an observability data lake for your Amazon Bedrock workloads, you're not alone. When you're running thousands of model...</description>
-    </item>
-    <item>
-      <title>‘It's not just the existential threats’: Queens lawmaker on reining in artificial intelligence in New York</title>
-      <link>https://queenseagle.com/all/2026/11/10/its-not-just-the-existential-threats-queens-lawmaker-on-reining-in-artificial-intelligence-in-new-york</link>
-      <guid isPermaLink="true">https://queenseagle.com/all/2026/11/10/its-not-just-the-existential-threats-queens-lawmaker-on-reining-in-artificial-intelligence-in-new-york</guid>
-      <description>‘It's not just the existential threats’: Queens lawmaker on reining in artificial intelligence in New York — Queens Daily Eagle
-
-# News
-Queens State Senator Kristen Gonzalez is at the forefront of legislating regulations and controls for artificial intelligence in New York State.
-
-Artificial intelligence and its increasing impact on people’s lives have become a driving issue for New Yorkers, and Queens State Senator Kristen Gonzalez is keenly aware of that.
-
-Artificial intelligence has quickly become a larger part of how New Yorkers work and live, and last week, it was on the ballot – albeit, indirectly.</description>
-    </item>
-    <item>
-      <title>Hands-on experience prepares Wayne State engineers for Michigan’s AI-powered manufacturing future</title>
-      <link>https://today.wayne.edu/news/2026/11/10/hands-on-experience-prepares-wayne-state-engineers-for-michigans-ai-powered-manufacturing-future-70535</link>
-      <guid isPermaLink="true">https://today.wayne.edu/news/2026/11/10/hands-on-experience-prepares-wayne-state-engineers-for-michigans-ai-powered-manufacturing-future-70535</guid>
-      <description># Hands-on experience prepares Wayne State engineers for Michigan’s AI-powered manufacturing future
-Sushant Lingras is an operations manager for PHINA – formerly Delphi Technologies, an automotive and industrial components company – who is pursuing his master’s in artificial intelligence.
-
-![https://news.wayne.edu/storage/files/derek-stringfellow-6af38f5d8bb45.png](https://news.wayne.edu/storage/files/derek-stringfellow-6af38f5d8bb45.png)Derek Stringfellow, an applications analyst at Great Lakes Water Authority and Wayne State graduate student in artificial intelligence</description>
-    </item>
-    <item>
-      <title>The holiday shopping season is underway, and a growing number of shoppers are turning to artificial intelligence for help finding gifts, comparing products, and hunting for deals.</title>
-      <link>https://www.facebook.com/Boston25News/posts/the-holiday-shopping-season-is-underway-and-a-growing-number-of-shoppers-are-tur/1631514842343509/</link>
-      <guid isPermaLink="true">https://www.facebook.com/Boston25News/posts/the-holiday-shopping-season-is-underway-and-a-growing-number-of-shoppers-are-tur/1631514842343509/</guid>
+      <title>Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?</title>
+      <link>https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/10/nvidia-ceo-jensen-huang-affair-could-be-problem-us-economy/</guid>
+      <description>His signature leather jacket, frequent media appearances and close relationship with President Donald Trump made Huang one of the most iconic CEOs of the artificial intelligence era, providing computer chips and financing that have helped sustain an [economic boom](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/) that has lifted millions of [investment and retirement accounts](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/).
+
+Nvidia’s powerful computer chips, crucial to AI development, are “the lifeblood” of the global artificial intelligence industry, said Ben Buchanan, a White House special adviser on AI under President Joe Biden.</description>
+    </item>
+    <item>
+      <title>Nvidia CEO faces allegations of second affair with employee after ties to Chinese woman suspected of espionage</title>
+      <link>https://www.lemonde.fr/en/economy/article/2026/11/12/nvidia-ceo-faces-allegations-of-second-affair-with-employee-after-ties-to-chinese-woman-suspected-of-espionage_6778213_19.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/en/economy/article/2026/11/12/nvidia-ceo-faces-allegations-of-second-affair-with-employee-after-ties-to-chinese-woman-suspected-of-espionage_6778213_19.html</guid>
+      <description>- [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
+
+- Pixels
+  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
+  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
+
+According to the newspaper, Jensen Huang, the founding CEO whose company enabled the artificial intelligence (AI) revolution with its highly advanced chips, had a romantic relationship with another executive at the firm.</description>
+    </item>
+    <item>
+      <title>A Layman Thinks About AI</title>
+      <link>https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai</link>
+      <guid isPermaLink="true">https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai</guid>
+      <description>In his latest memo, Howard Marks revisits the topic of artificial intelligence, describing it as both deeply consequential and highly...</description>
+    </item>
+    <item>
+      <title>EU Takes Aim at Influencer Marketing, Deceptive Online Tactics With Revamped Rules</title>
+      <link>https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5</guid>
+      <description>EU's executive arm wants to tackle what it calls unethical techniques linked to deceptive interfaces on online platforms, marketing by...</description>
+    </item>
+    <item>
+      <title>The job market is tough for young people. Older workers are thriving.</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/11/middle-aged-workers-are-doing-better-than-young-people-job-market/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/11/middle-aged-workers-are-doing-better-than-young-people-job-market/</guid>
+      <description>Shira Ovide covers how artificial intelligence affects the economy, jobs and American institutions.</description>
+    </item>
+    <item>
+      <title>UA faculty clash over postponed artificial intelligence guidelines</title>
+      <link>https://www.adn.com/alaska-news/education/2026/11/11/ua-faculty-clash-over-postponed-artificial-intelligence-guidelines/</link>
+      <guid isPermaLink="true">https://www.adn.com/alaska-news/education/2026/11/11/ua-faculty-clash-over-postponed-artificial-intelligence-guidelines/</guid>
+      <description># UA faculty clash over postponed artificial intelligence guidelines
+“It’s a situation where we’re never going to have everyone on the same page with AI.”
+
+[AI Engaged](https://drive.google.com/file/d/12UgvL60MCNKi7C2GMsDr_dH1IN8YORUv/view) does not establish policy but requires system-wide coordination on AI to develop and report to regents on a system-wide AI policy within one year of its adoption.</description>
+    </item>
+    <item>
+      <title>How AI Stocks Are Creeping Into Dividend ETFs</title>
+      <link>https://www.morningstar.com/funds/how-ai-stocks-are-creeping-into-dividend-etfs</link>
+      <guid isPermaLink="true">https://www.morningstar.com/funds/how-ai-stocks-are-creeping-into-dividend-etfs</guid>
+      <description>The artificial intelligence trade is everywhere.</description>
+    </item>
+    <item>
+      <title>Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him</title>
+      <link>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html</guid>
+      <description>Mr. Huang, Nvidia's chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined...</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and the Future of K-12 Education: What Do Parents Want?</title>
+      <link>https://ifstudies.org/report-brief/artificial-intelligence-and-the-future-of-k-12-education-what-do-parents-want</link>
+      <guid isPermaLink="true">https://ifstudies.org/report-brief/artificial-intelligence-and-the-future-of-k-12-education-what-do-parents-want</guid>
+      <description>## Introduction
+Despite the drastic decline in youth mental health and academic performance, ed tech advocates are promising that a new wave of technology in the classroom—this time, artificial intelligence (AI) chatbots, tutors, counselors, and other AI-generative systems—will augment student learning and strengthen student well-being.</description>
+    </item>
+    <item>
+      <title>Exploring How Autistic Individuals Interact With Artificial Intelligence</title>
+      <link>https://news.stonybrook.edu/university/researchers-explore-how-autistic-individuals-interact-with-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://news.stonybrook.edu/university/researchers-explore-how-autistic-individuals-interact-with-artificial-intelligence/</guid>
+      <description># Exploring How Autistic Individuals Interact With Artificial Intelligence
+### Related Posts
+- [![Artificial intelligence, illustration](https://news.stonybrook.edu/wp-content/uploads/2024/02/ai-head-150x150.jpg)](https://news.stonybrook.edu/university/rethinking-graduate-research-in-the-age-of-artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>Accelerating generative AI delivery with reusable assets</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/</guid>
+      <description>If you're building generative AI solutions, reusable assets can help you stop rebuilding components that already exist: Retrieval Augmented...</description>
+    </item>
+    <item>
+      <title>Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?</title>
+      <link>https://www.fool.com/coverage/better-buy/2026/11/11/advanced-micro-devices-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-going-into-2027/</link>
+      <guid isPermaLink="true">https://www.fool.com/coverage/better-buy/2026/11/11/advanced-micro-devices-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-going-into-2027/</guid>
+      <description>Marvell's forward P/E sits well below AMD's, but its revenue jump and rising margins raise a tougher question about which chip stock can...</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence And Benefits Administration</title>
+      <link>https://www.jdsupra.com/legalnews/artificial-intelligence-and-benefits-4756764/</link>
+      <guid isPermaLink="true">https://www.jdsupra.com/legalnews/artificial-intelligence-and-benefits-4756764/</guid>
+      <description># Artificial Intelligence And Benefits Administration
+As artificial intelligence (AI) continues to improve, its usage continues to expand.
+
+### Latest Posts
+#### Published In:
+[Artificial Intelligence](https://www.jdsupra.com/topics/artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>WIU Cybersecurity Center Director Shares Insights on Cybersecurity in the Age of Artificial Intelligence</title>
+      <link>https://www.wiu.edu/news/newsrelease.php?release_id=21549</link>
+      <guid isPermaLink="true">https://www.wiu.edu/news/newsrelease.php?release_id=21549</guid>
+      <description>MACOMB, IL - - Tahir Khan, Interim Director of the Western Illinois University Cybersecurity Center, was invited by the Macomb Area Chamber...</description>
     </item>
   </channel>
 </rss>
