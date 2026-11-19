@@ -5,12 +5,12 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:13:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite</title>
-      <link>https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/</guid>
+      <title>A.I. Has Changed How We Talk. Here Are the Words You Need to Know.</title>
+      <link>https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html</guid>
       <description></description>
     </item>
     <item>
@@ -21,168 +21,148 @@
 For [artificial intelligence (AI) investors](https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/), there are three tech stocks that may be more attractive options to consider right now: **Alphabet**( [GOOG](https://www.fool.com/quote/nasdaq/goog/)-1.16%)( [GOOGL](https://www.fool.com/quote/nasdaq/googl/)-1.16%), **Amazon**( [AMZN](https://www.fool.com/quote/nasdaq/amzn/) +0.11%), and **Broadcom**( [AVGO](https://www.fool.com/quote/nasdaq/avgo/) +1.69%).</description>
     </item>
     <item>
-      <title>How important are Nvidia and Jensen Huang to the US economy?</title>
-      <link>https://www.bbc.com/news/articles/c68798vdprwpo</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c68798vdprwpo</guid>
-      <description># How important are Nvidia and Jensen Huang to the US economy?
-Nvidia and its co-founder Jensen Huang have been at the centre of the Artificial Intelligence (AI) spending boom.</description>
+      <title>Baltimore students sue over AI that allegedly mistook Doritos bag for gun</title>
+      <link>https://www.usatoday.com/story/news/nation/2026/11/19/baltimore-students-lawsuit-ai-gun-alert-chips/92855684007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/news/nation/2026/11/19/baltimore-students-lawsuit-ai-gun-alert-chips/92855684007/</guid>
+      <description>Artificial Intelligence</description>
     </item>
     <item>
-      <title>I’m a human doctor with human intelligence. But I sure do like my AI notetaker</title>
-      <link>https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe</guid>
+      <title>AI giant Anthropic valued at up to $1.5tn ahead of stock market debut</title>
+      <link>https://www.bbc.com/news/articles/c6742m39xgzxo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6742m39xgzxo</guid>
+      <description># What is Anthropic?
+The American artificial intelligence company which created the AI assistant Claude.
+
+# Calls to slow down
+## Rapid rise
+[Artificial intelligence](https://www.bbc.com/news/topics/ce1qrvleleqt)</description>
+    </item>
+    <item>
+      <title>Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power</title>
+      <link>https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html</guid>
       <description></description>
     </item>
     <item>
-      <title>The year ahead will be crunch time for artificial intelligence</title>
-      <link>https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.economist.com/the-world-ahead/2026/11/17/the-year-ahead-will-be-crunch-time-for-artificial-intelligence</guid>
-      <description># The year ahead will be crunch time for artificial intelligence
-## It will decide much about the future of the technology
-IN 2026 artificial-intelligence models ran amok on the public internet, solved some of the hardest problems in mathematics and helped America find targets to bomb in Iran.</description>
+      <title>Anthropic IPO raises record $81.3 billion on strong AI demand</title>
+      <link>https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price</guid>
+      <description>**Anthropic IPO raises record $81.3 billion on strong AI demand** **The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.**
+
+# Anthropic IPO raises record $81.3 billion on strong AI demand
+- [Artificial Intelligence](https://www.npr.org/tags/133775819/artificial-intelligence)</description>
     </item>
     <item>
-      <title>Nvidia’s Earnings Call Is a High-Stakes Moment</title>
-      <link>https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html</guid>
+      <title>Introducing Gemini 4 Neon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
+      <description># Introducing Gemini 4 Neon
+## About the Author
+Koray is one of the world's foremost experts in artificial intelligence.</description>
+    </item>
+    <item>
+      <title>Canada PM pitches China on global AI board</title>
+      <link>https://www.politico.com/news/2026/11/18/carney-china-global-ai-board-01173981</link>
+      <guid isPermaLink="true">https://www.politico.com/news/2026/11/18/carney-china-global-ai-board-01173981</guid>
       <description></description>
     </item>
     <item>
-      <title>Cambridge Dictionary chooses 'human' as word of the year in response to AI fears</title>
-      <link>https://abcnews.com/Technology/wireStory/cambridge-dictionary-chooses-human-word-year-response-ai-138231540</link>
-      <guid isPermaLink="true">https://abcnews.com/Technology/wireStory/cambridge-dictionary-chooses-human-word-year-response-ai-138231540</guid>
-      <description># Cambridge Dictionary chooses 'human' as word of the year in response to AI fears
-LONDON -- Fears of [artificial intelligence](https://apnews.com/hub/artificial-intelligence) inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.</description>
-    </item>
-    <item>
-      <title>Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron?</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sk-hynix-better-artificial-intelligence-220503860.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/sk-hynix-better-artificial-intelligence-220503860.html</guid>
+      <title>Nvidia retreats as strong outlook fails to dispel uncertainty</title>
+      <link>https://www.reuters.com/business/ai-stocks-rally-nvidia-outlook-calms-demand-fears-2026-11-18/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/ai-stocks-rally-nvidia-outlook-calms-demand-fears-2026-11-18/</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-17/top-ai-models-regularly-identify-civilians-as-military-targets-in-tests</guid>
-      <description>AI
-
-## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-Advanced artificial intelligence models in simulated scenarios regularly misidentified civilians, ambulances, surrendering soldiers and a school in Iran as military targets, according to a new independent research report.</description>
-    </item>
-    <item>
-      <title>China’s ‘token export’ ambitions take shape with new Huawei-powered data centre</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre</guid>
-      <description># China’s ‘token export’ ambitions take shape with new Huawei-powered data centre
-### China has opened first AI computing cluster powered by Huawei’s latest Ascend chip that specifically targets overseas markets
-![Huawei Technologies’ latest artificial intelligence chips are rapidly being rolled out commercially as China looks to become technologically self-sufficient. Photo: Shutterstock](https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/11/17/7fd52946-ceb9-413d-9fd6-57063bc71a16_807bf22e.jpg?itok=s5mzKVj8&amp;v=1794926179)
-
-[Huawei](https://www.scmp.com/topics/huawei?module=related_topics&amp;pgtype=article) | [Mainland China](https://www.scmp.com/topics/china?module=related_topics&amp;pgtype=article) | [China technology](https://www.scmp.com/topics/china-technology?module=related_topics&amp;pgtype=article) | [Artificial intelligence](https://www.scmp.com/topics/artificial-intelligence?module=related_topics&amp;pgtype=article) | [Technology](https://www.scmp.com/topics/technology?module=related_topics&amp;pgtype=article) | [US-China tech war](https://www.scmp.com/topics/us-china-tech-war?module=related_topics&amp;pgtype=article) | [Semiconductors](https://www.scmp.com/topics/semiconductors?module=related_topics&amp;pgtype=article) | [Infrastructure](https://www.scmp.com/topics/infrastructure?module=related_topics&amp;pgtype=article) | [AI: Industry Trends](https://www.scmp.com/topics/ai-industry-trends?module=related_topics&amp;pgtype=article) | [AI: Geopolitics](https://www.scmp.com/topics/ai-geopolitics?module=related_topics&amp;pgtype=article)</description>
-    </item>
-    <item>
-      <title>The UAE’s Federal Authority for Artificial Intelligence and Data</title>
-      <link>https://www.fticonsulting.com/insights/articles/the-uaes-federal-authority-for-artificial-intelligence-and-data</link>
-      <guid isPermaLink="true">https://www.fticonsulting.com/insights/articles/the-uaes-federal-authority-for-artificial-intelligence-and-data</guid>
-      <description># The UAE’s Federal Authority for Artificial Intelligence and Data
-The United Arab Emirates recently took an important initial step in bringing artificial intelligence, data governance and digital government under a single authority. His Highness Sheikh Mohammed bin Rashid Al Maktoum approved the establishment of the Federal Authority for Artificial Intelligence and Data, a national body reporting directly to the UAE Cabinet.
-
-### Established Frameworks
-This direction is also reflected in the UAE Cabinet’s recent launch of its AI Advisor system, which brings agentic AI directly into government decision making within a governed framework.</description>
-    </item>
-    <item>
-      <title>How To Ensure Artificial Intelligence Is Enriching Student Learning</title>
-      <link>https://edtechmagazine.com/k12/article/2026/11/how-ensure-artificial-intelligence-enriching-student-learning</link>
-      <guid isPermaLink="true">https://edtechmagazine.com/k12/article/2026/11/how-ensure-artificial-intelligence-enriching-student-learning</guid>
-      <description>[Home](https://edtechmagazine.com/k12/)»[Artificial Intelligence](https://edtechmagazine.com/k12/artificial-intelligence)
-
-When [Wichita Public Schools](https://www.usd259.org/) began exploring generative artificial intelligence in January 2023, the goal was simple: to save teachers some time.
-
-## Protect Students With Guardrails and Early Guidance
-Students are taught that AI is a robot that works from patterns, that its answers need to be double-checked, and that it is not a friend or someone to turn to with problems.
-
-### Related Articles
-[Artificial Intelligence](https://edtechmagazine.com/k12/artificial-intelligence)
-
-[Artificial Intelligence](https://edtechmagazine.com/k12/artificial-intelligence)</description>
-    </item>
-    <item>
-      <title>Artificial intelligence and the economy</title>
-      <link>https://www.brookings.edu/articles/artificial-intelligence-and-the-economy/</link>
-      <guid isPermaLink="true">https://www.brookings.edu/articles/artificial-intelligence-and-the-economy/</guid>
+      <title>Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows</title>
+      <link>https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57</guid>
       <description></description>
     </item>
     <item>
-      <title>Cut generative AI costs: Code for rules, models for judgment</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/</guid>
-      <description># Cut generative AI costs: Code for rules, models for judgment
-## Decide, don’t generate
-```json
-{
-  "type": "object",
-  "properties": {
-    "queue": {
-      "type": "string",
-      "enum": ["billing", "technical", "account", "other", "unsure"]
-    }
-  },
-  "required": ["queue"],
-  "additionalProperties": false
-}
-```</description>
+      <title>Chatbots helped plan terrorist attacks in tests by congressional watchdog</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/18/chatbots-helped-plan-terrorist-attacks-tests-by-congressional-watchdog/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/18/chatbots-helped-plan-terrorist-attacks-tests-by-congressional-watchdog/</guid>
+      <description>Four of the leading artificial intelligence chatbots shared information to help plot a terrorist attack in tests by the Government Accountability Office, including in one case generating an image of a parking garage with a recommendation of where to park a bomb-laden vehicle.</description>
     </item>
     <item>
-      <title>Artificial intelligence for antibiotic discovery and design</title>
-      <link>https://www.nature.com/articles/s41579-026-01393-w</link>
-      <guid isPermaLink="true">https://www.nature.com/articles/s41579-026-01393-w</guid>
-      <description>## References
-19. Bender, A. et al. Artificial intelligence in drug discovery—what it is, where we stand and the path forward. _Nat. Rev. Drug Discov._ **25**, 855–876 [[https://doi.org/10.1038/s41573-026-01496-2](https://doi.org/10.1038/s41573-026-01496-2)](https://doi.org/10.1038/s41573-026-01496-2) (2026). [Article](https://doi.org/10.1038%2Fs41573-026-01496-2) [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB28XhvFykt7nE) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=42567977) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Artificial%20intelligence%20in%20drug%20discovery%E2%80%94what%20it%20is%2C%20where%20we%20stand%20and%20the%20path%20forward&amp;journal=Nat.%20Rev.%20Drug%20Discov.&amp;doi=10.1038%2Fs41573-026-01496-2&amp;volume=25&amp;pages=855-876&amp;publication_year=2026&amp;author=Bender%2CA)
-59. Jiménez-Luna, J., Grisoni, F. &amp; Schneider, G. Drug discovery with explainable artificial intelligence. _Nat. Mach. Intell._ **2**, 573–584 (2020). [Article](https://doi.org/10.1038%2Fs42256-020-00236-4) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=Drug%20discovery%20with%20explainable%20artificial%20intelligence&amp;journal=Nat.%20Mach.%20Intell.&amp;doi=10.1038%2Fs42256-020-00236-4&amp;volume=2&amp;pages=573-584&amp;publication_year=2020&amp;author=Jim%C3%A9nez-Luna%2CJ&amp;author=Grisoni%2CF&amp;author=Schneider%2CG)
-111. Wang, Y. et al. A generative artificial intelligence approach for the discovery of antimicrobial peptides against multidrug-resistant bacteria. _Nat. Microbiol._ **10**, 2997–3012 (2025). [Article](https://doi.org/10.1038%2Fs41564-025-02114-4) [CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXisVequrbL) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=41044364) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC12578630) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=A%20generative%20artificial%20intelligence%20approach%20for%20the%20discovery%20of%20antimicrobial%20peptides%20against%20multidrug-resistant%20bacteria&amp;journal=Nat.%20Microbiol.&amp;doi=10.1038%2Fs41564-025-02114-4&amp;volume=10&amp;pages=2997-3012&amp;publication_year=2025&amp;author=Wang%2CY)
-115. Torres, M. D. T. et al. A generative artificial intelligence approach for peptide antibiotic optimization. _Nat. Mach. Intell._ **8**, 841–856 (2026). [Article](https://doi.org/10.1038%2Fs42256-026-01237-5) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=42206144) [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC13201158) [Google Scholar](http://scholar.google.com/scholar_lookup?&amp;title=A%20generative%20artificial%20intelligence%20approach%20for%20peptide%20antibiotic%20optimization&amp;journal=Nat.%20Mach.%20Intell.&amp;doi=10.1038%2Fs42256-026-01237-5&amp;volume=8&amp;pages=841-856&amp;publication_year=2026&amp;author=Torres%2CMDT)
+      <title>Trust, but prepare: How to make sense of AI's age of upheaval</title>
+      <link>https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare</link>
+      <guid isPermaLink="true">https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare</guid>
+      <description># Behind the Curtain: Trust but prepare
+**The most likely answer**: This is the first true wave of unintended consequences of increasingly powerful artificial intelligence hitting us at once.</description>
+    </item>
+    <item>
+      <title>Artificial intelligence: loss scenarios and claims developments</title>
+      <link>https://commercial.allianz.com/news-and-insights/reports/artificial-intelligence.html</link>
+      <guid isPermaLink="true">https://commercial.allianz.com/news-and-insights/reports/artificial-intelligence.html</guid>
+      <description># Artificial intelligence: loss scenarios and claims developments
+## A unique risk profile
+Unlike previous technology revolutions, AI is being adopted simultaneously across virtually all industries and geographies. AI also operates probabilistically, meaning errors are inevitable even in well-designed systems.
 
-## About this article
-### Cite this article
-Artificial intelligence for antibiotic discovery and design.</description>
+## AI as a risk management tool
+In financial services, AI-driven fraud detection systems identify suspicious transactions in real time, helping prevent payment fraud, account takeovers, and money laundering. In cyber security, AI is increasingly used to detect abnormal network activity, identify compromised credentials, and uncover emerging attack patterns before significant damage occurs.
+
+Manufacturing companies use predictive maintenance models to detect early signs of equipment failure. Supply chain organizations employ AI to monitor suppliers and logistics networks, enabling earlier identification of disruption risks and more resilient business continuity planning. AI is also enhancing regulatory compliance by continuously monitoring large volumes of transactions, communications, and records, helping organizations identify potential compliance breaches at an earlier stage and reducing the likelihood of regulatory action.</description>
     </item>
     <item>
-      <title>Circular Finance May Set Up Systemic Risk in Artificial Intelligence</title>
-      <link>https://legis1.com/news/circular-finance-may-set-up-systemic-risk</link>
-      <guid isPermaLink="true">https://legis1.com/news/circular-finance-may-set-up-systemic-risk</guid>
+      <title>A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer</title>
+      <link>https://www.edsurge.com/news/a-new-classroom-use-for-artificial-intelligence-grade-the-chat-not-just-the-answer</link>
+      <guid isPermaLink="true">https://www.edsurge.com/news/a-new-classroom-use-for-artificial-intelligence-grade-the-chat-not-just-the-answer</guid>
+      <description>### A New Classroom Use for Artificial Intelligence: Grade the Chat, Not Just the Answer
+Now some of that reasoning happens in a chat with an AI tutor, out of the teacher's view.
+
+## **Host and Contributors**
+### Popular on EdSurge
+###### Why Do So Many Teachers Crash in October?
+[EdSurge Podcast](https://www.edsurge.com/coverage-areas/edsurge-podcast) [Artificial Intelligence](https://www.edsurge.com/coverage-areas/artificial-intelligence)
+
+##### Read Next
+[Artificial Intelligence](https://www.edsurge.com/coverage-areas/artificial-intelligence)
+
+[Artificial Intelligence](https://www.edsurge.com/coverage-areas/artificial-intelligence)
+
+[Artificial Intelligence](https://www.edsurge.com/coverage-areas/artificial-intelligence)</description>
+    </item>
+    <item>
+      <title>Safeguarding artificial intelligence</title>
+      <link>https://spectrumnews1.com/ca/la/technology/2026/11/18/safeguarding-artificial-intelligence</link>
+      <guid isPermaLink="true">https://spectrumnews1.com/ca/la/technology/2026/11/18/safeguarding-artificial-intelligence</guid>
       <description></description>
     </item>
     <item>
-      <title>Trusteeship in the Age of Artificial Intelligence: Building the Future Fiduciary</title>
-      <link>https://www.teneo.com/insights/articles/trusteeship-in-the-age-of-artificial-intelligence-building-the-future-fiduciary/</link>
-      <guid isPermaLink="true">https://www.teneo.com/insights/articles/trusteeship-in-the-age-of-artificial-intelligence-building-the-future-fiduciary/</guid>
+      <title>CMS Unveils Clinical Artificial Intelligence Roadmap</title>
+      <link>https://www.executivegov.com/articles/cms-clinical-artificial-intelligence-roadmap</link>
+      <guid isPermaLink="true">https://www.executivegov.com/articles/cms-clinical-artificial-intelligence-roadmap</guid>
+      <description># CMS Outlines Federal Strategy to Accelerate AI Adoption in Healthcare
+The Centers for Medicare and Medicaid Services has outlined a federal strategy to accelerate the [development and adoption of clinical artificial intelligence technologies](https://www.nextgov.com/artificial-intelligence/2026/11/trump-administration-releases-roadmap-boost-clinical-ai/417254/), identifying data infrastructure, regulatory modernization and healthcare payment reform as key components of the initiative, Nextgov/FCW reported Monday.</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI</title>
+      <link>https://www.unesco.org/en/articles/artificial-intelligence-and-human-rights-protecting-human-dignity-age-ai</link>
+      <guid isPermaLink="true">https://www.unesco.org/en/articles/artificial-intelligence-and-human-rights-protecting-human-dignity-age-ai</guid>
+      <description># Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI
+Artificial intelligence is rapidly transforming the way people learn, communicate, create, access information and participate in public life.
+
+Through the story of a child fleeing conflict in search of safety, the film explores themes of war, migration, poverty, modern slavery, children's rights and human dignity, while illustrating how artificial intelligence can be harnessed as a creative tool to promote inclusion, cultural diversity, sustainable development and peaceful societies.</description>
+    </item>
+    <item>
+      <title>Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage</title>
+      <link>https://www.aip.org/scilights/hiding-beyond-the-visible-how-artificial-intelligence-is-enhancing-multispectral-camouflage</link>
+      <guid isPermaLink="true">https://www.aip.org/scilights/hiding-beyond-the-visible-how-artificial-intelligence-is-enhancing-multispectral-camouflage</guid>
+      <description># Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage
+Using artificial intelligence (AI) can help uncover less intuitive yet more effective structures while balancing conflicting objectives.</description>
+    </item>
+    <item>
+      <title>Anthropic prices its IPO at $83 per share, valuing the artificial intelligence giant at 1.5 trillion</title>
+      <link>https://www.greenfieldreporter.com/2026/11/18/anthropic-prices-its-ipo-at-83-per-share-valuing-the-artificial-intelligence-giant-at-1-5-trillion/</link>
+      <guid isPermaLink="true">https://www.greenfieldreporter.com/2026/11/18/anthropic-prices-its-ipo-at-83-per-share-valuing-the-artificial-intelligence-giant-at-1-5-trillion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Artificial Intelligence (AI) in Healthcare</title>
-      <link>https://www.cureus.com/articles/523923-artificial-intelligence-ai-in-healthcare</link>
-      <guid isPermaLink="true">https://www.cureus.com/articles/523923-artificial-intelligence-ai-in-healthcare</guid>
+      <title>Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization | Amazon Web Services</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Artificial intelligence may limit entry-level jobs, Kentucky official says (Video)</title>
-      <link>https://www.kentucky.com/news/local/article318125744.html</link>
-      <guid isPermaLink="true">https://www.kentucky.com/news/local/article318125744.html</guid>
-      <description>Charles Aull, vice president of policy for the Kentucky Chamber of Commerce, discusses challenges universities and the workforce are facing as a result of artificial intelligence, on Monday, Nov. 9, 2026, during an interview with the Herald-Leader.</description>
-    </item>
-    <item>
-      <title>Beyond detection: How artificial intelligence is transforming clinical dental hygiene practice</title>
-      <link>https://www.rdhmag.com/patient-care/article/55402608/beyond-detection-how-artificial-intelligence-is-transforming-clinical-dental-hygiene-practice</link>
-      <guid isPermaLink="true">https://www.rdhmag.com/patient-care/article/55402608/beyond-detection-how-artificial-intelligence-is-transforming-clinical-dental-hygiene-practice</guid>
-      <description># Beyond detection: How artificial intelligence is transforming clinical dental hygiene practice
-## Key Highlights
-As artificial intelligence (AI) becomes increasingly integrated into dental practice, it offers an opportunity to support these decisions through enhanced radiographic interpretation, improved documentation, and more meaningful patient communication.
-
-## Clinical pearl
-Artificial intelligence adds the significant advantage of longitudinal monitoring, but is limited in providing an accurate baseline due to the inability to interpret a coronal margin vs. recession.
-
-Artificial intelligence adds the significant advantage of longitudinal monitoring, but is limited in providing an accurate baseline due to the inability to interpret a coronal margin vs. recession.
-
-Artificial intelligence is most effective when integrated throughout the entire patient appointment—from assessment and education to treatment planning and long-term periodontal maintenance.</description>
     </item>
   </channel>
 </rss>
