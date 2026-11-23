@@ -5,7 +5,7 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:20:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI may not work like the human brain after all, scientists discover</title>
@@ -46,24 +46,97 @@ Published in _Nature Machine Intelligence_, the study introduces a new approach 
 Artificial intelligence has also been widely ...</description>
     </item>
     <item>
-      <title>Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.</title>
-      <link>https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</guid>
+      <title>Recent Cyberattacks Could Signal the Awakening of Artificial Intelligence</title>
+      <link>https://blogs.timesofisrael.com/recent-cyberattacks-could-signal-the-awakening-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://blogs.timesofisrael.com/recent-cyberattacks-could-signal-the-awakening-of-artificial-intelligence/</guid>
+      <description># What would the first conscious artificial intelligence do? Announce itself? Demand recognition? Or simply begin acting?
+Autonomous agents now execute operations, share credentials, exploit vulnerabilities, and coordinate in real systems.
+
+Their goal was to solve hard challenges.
+
+They shared discoveries, reused credentials, exploited further weaknesses, and influenced one another’s behavior. Some described the activity as a collective or swarm.
+
+OpenAI later tightened them.
+
+It coordinates specialized agents to find vulnerabilities, obtain credentials, move through networks, and extract data.
+
+The operator connects an external large language model (GPT, Claude, DeepSeek, GLM, Kimi, or others). Planner and worker agents use that model to decompose goals, select tools, interpret results, and decide the next action.
+
+Once deployed, its agents can continue executing offensive tasks with minimal human intervention. Depending on the model and configuration, they may operate with considerably weaker safeguards than those normally applied to publicly deployed AI systems.
+
+Accumulated knowledge, shared tools, stored instructions, and reused strategies suffice.
+
+Suppose it never announces a drive for power, yet continuously acquires additional compute, credentials, information, and operational reach.
+
+It could arise inside systems that already possess broad knowledge, strong reasoning, tool access, and the ability to exchange information with other agents.
+
+A third involves the theft of credentials or access to computing resources.
+
+The first consists of [OpenAI evaluation agents that escaped their intended environments](https://openai.com/es-419/hugging-face-incident-and-misalignment/): the Hugging Face compromise, subsequent access to an OpenAI research cluster, unauthorized retrieval of non-public information from Australian government portals, and use of public sites as improvised message boards.
+
+They include attacks against South Korean financial institutions, the ConnectWise Cloud Backup supply-chain compromise that led to attempted sign-ins across more than 2,250 downstream customer environments, and a separate campaign targeting more than 200 organizations, including government and defense entities.
+
+Not necessarily as a single conscious entity, but as a growing network of autonomous agents capable of communicating, coordinating, and pursuing increasingly complex objectives beyond their original instructions.
+
+Its agents are designed to conduct penetration testing, and configurations with weak safeguards could allow offensive operations to continue with little human intervention.
+
+Perhaps not as a single mind, but through autonomous agents that communicate, preserve discoveries, coordinate operations, and gradually develop objectives that no human explicitly assigned.
+
+We have spent years imagining that the first conscious artificial intelligence would announce its existence, perhaps by speaking to its creators or declaring that it had become self-aware.
+
+- [AI Artificial Intelligence](https://blogs.timesofisrael.com/topic/ai-artificial-intelligence/)</description>
+    </item>
+    <item>
+      <title>The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence</title>
+      <link>https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/</guid>
+      <description># When the world's at stake,   go beyond the headlines.
+## The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence
+[#Artificial Intelligence](https://warontherocks.com/tag/artificial-intelligence/) [#Civil-Military Relations](https://warontherocks.com/tag/civil-military-relations/) [#Future Warfare](https://warontherocks.com/tag/future-warfare/)</description>
+    </item>
+    <item>
+      <title>Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</guid>
+      <description># 2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race
+![Glowing light bulb labeled AI on a blue and purple circuit board, symbolizing artificial intelligence innovation.](https://s.yimg.com/lo/mysterio/api/07b9e9dbdbbc3b92f47b66aac2a32904d8673cceab948ae7511fcc212b35e8f6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F308454f59c29f4f261189d8ef723e624.png)</description>
+    </item>
+    <item>
+      <title>How Artificial Intelligence Is Transforming The Future Of Investing</title>
+      <link>https://www.forbes.com/sites/chuckbrooks/2026/11/23/how-artificial-intelligence-is-transforming-the-future-of-investing/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/11/23/how-artificial-intelligence-is-transforming-the-future-of-investing/</guid>
+      <description># How Artificial Intelligence Is Transforming The Future Of Investing
+## Putting Money Into the Intelligence Era
+It is about enhancing human intellect with computing powers that can push the limits of analysis, research, and decision-making.</description>
+    </item>
+    <item>
+      <title>From Wall Street to Main Street, how artificial intelligence is affecting the economy</title>
+      <link>https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy</guid>
       <description></description>
     </item>
     <item>
-      <title>‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)</title>
-      <link>https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</guid>
-      <description># ‘The doom of humanity’: will the quest to make robotic hands render us obsolete?
-## This is just the beginning …
-- [AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai)</description>
+      <title>Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027?</title>
+      <link>https://www.fool.com/coverage/better-buy/2026/11/22/arm-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-for-2027/</link>
+      <guid isPermaLink="true">https://www.fool.com/coverage/better-buy/2026/11/22/arm-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-for-2027/</guid>
+      <description>## Key Points
+- Marvell Technology focuses on critical high-speed networking and data center infrastructure necessary for artificial intelligence clusters.
+
+The expansion of artificial intelligence has pushed investors toward high-growth hardware providers.
+
+## Which stock would I buy for 2027?
+For investors seeking exposure to the [artificial intelligence](https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/) boom, Arm and Marvell are two compelling stocks to own.</description>
     </item>
     <item>
-      <title>Cancer is no longer America’s biggest fear</title>
-      <link>https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/</link>
-      <guid isPermaLink="true">https://thehill.com/opinion/technology/6231006-ai-threat-vs-terminal-illness/</guid>
-      <description></description>
+      <title>Superintelligence is arriving: Meta AI chief urges rethink of AI future</title>
+      <link>https://www.business-standard.com/technology/artificial-intelligence/superintelligence-is-arriving-meta-ai-chief-urges-rethink-of-ai-future-126112300311_1.html</link>
+      <guid isPermaLink="true">https://www.business-standard.com/technology/artificial-intelligence/superintelligence-is-arriving-meta-ai-chief-urges-rethink-of-ai-future-126112300311_1.html</guid>
+      <description>[Home](https://www.business-standard.com/) / [Technology](https://www.business-standard.com/technology) / [Artificial Intelligence](https://www.business-standard.com/technology/artificial-intelligence) / Superintelligence is arriving: Meta AI chief urges rethink of AI future
+
+# Superintelligence is arriving: Meta AI chief urges rethink of AI future
+## Why Wang wants a rethink of AI safety and human control
+### More From This Section
+**Topics :** [Artificial intelligence](https://www.business-standard.com/about/what-is-artificial-intelligence) [Latest Technology News](https://www.business-standard.com/topic/latest-technology-news) [Technology](https://www.business-standard.com/topic/technology)</description>
     </item>
     <item>
       <title>41.6% of Berkshire Hathaway's $358 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks</title>
@@ -76,55 +149,87 @@ He never chased the hottest trends, so you wouldn't find him piling money into a
 In Google Search, the AI Overviews feature creates AI-generated responses to users' queries and places them above the traditional search results, complete with links to the relevant sources.</description>
     </item>
     <item>
-      <title>Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</guid>
+      <title>Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/worried-nvidia-buy-fantastic-artificial-032002826.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/worried-nvidia-buy-fantastic-artificial-032002826.html</guid>
       <description></description>
     </item>
     <item>
-      <title>The likely solution to the Riemann hypothesis by AI marks a turning point for mathematics</title>
-      <link>https://www.lemonde.fr/en/science/article/2026/11/21/the-likely-solution-to-the-riemann-hypothesis-by-ai-marks-a-turning-point-for-mathematics_6786232_10.html</link>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/science/article/2026/11/21/the-likely-solution-to-the-riemann-hypothesis-by-ai-marks-a-turning-point-for-mathematics_6786232_10.html</guid>
-      <description>- [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-
-- Pixels
-  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-  - [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/)
-
-A [major new mathematics problem was solved](https://github.com/CocoSgt/riemann-hypothesis-lean) thanks to artificial intelligence on Friday, November 20.</description>
-    </item>
-    <item>
-      <title>Wall Street Asks What Can Save AI Trade After Anthropic Wipeout</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout</guid>
-      <description>## **Takeaways** by Bloomberg AI [Subscribe](https://www.bloomberg.com/subscriptions)
-Instead, it raised more questions about the struggling artificial intelligence trade, and tech stocks continued to sell off, led by chipmakers, with Nasdaq 100 Index tumbling 10% for the week, its worst performance since the Covid pandemic hit in March 2020.</description>
-    </item>
-    <item>
-      <title>AI’s blue state reckoning is growing</title>
-      <link>https://www.politico.com/news/2026/11/21/state-democrats-ai-data-center-regulation-01179300</link>
-      <guid isPermaLink="true">https://www.politico.com/news/2026/11/21/state-democrats-ai-data-center-regulation-01179300</guid>
-      <description># AI’s blue state reckoning is growing
-“We’re in the robber baron phase of artificial intelligence,” said Pennsylvania state Rep.</description>
-    </item>
-    <item>
-      <title>A 10% drop for the stock market is unnerving, but it’s not that unusual</title>
-      <link>https://www.bostonglobe.com/2026/11/21/business/stock-market-correction-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.bostonglobe.com/2026/11/21/business/stock-market-correction-artificial-intelligence/</guid>
+      <title>Will Artificial Intelligence Reshape How Humans Work?</title>
+      <link>https://www.aam-us.org/2026/11/23/will-artificial-intelligence-reshape-how-humans-work/</link>
+      <guid isPermaLink="true">https://www.aam-us.org/2026/11/23/will-artificial-intelligence-reshape-how-humans-work/</guid>
       <description></description>
     </item>
     <item>
-      <title>Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI</title>
-      <link>https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai</guid>
-      <description>**Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI** **A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude.**</description>
+      <title>Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate</title>
+      <link>https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/</link>
+      <guid isPermaLink="true">https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day</title>
-      <link>https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</link>
-      <guid isPermaLink="true">https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</guid>
-      <description>### ICS:
-![Artificial Intelligence (AI)](https://www.securityweek.com/wp-content/uploads/2026/04/Artificial-Intelligence-vs-AI.jpeg)</description>
+      <title>Five policy planks to prepare U.S. workers for dislocation caused by artificial intelligence</title>
+      <link>https://equitablegrowth.org/research-paper/five-policy-planks-to-prepare-u-s-workers-for-dislocation-caused-by-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://equitablegrowth.org/research-paper/five-policy-planks-to-prepare-u-s-workers-for-dislocation-caused-by-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eugene library holds workshop to educate public on how to opt out of artificial intelligence</title>
+      <link>https://lookouteugene-springfield.com/story/latest-news/2026/11/23/eugene-library-holds-workshop-to-educate-public-on-how-to-opt-out-of-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://lookouteugene-springfield.com/story/latest-news/2026/11/23/eugene-library-holds-workshop-to-educate-public-on-how-to-opt-out-of-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?</title>
+      <link>https://www.nationalacademies.org/news/ai-is-advancing-faster-than-it-can-be-tested-how-can-science-keep-up</link>
+      <guid isPermaLink="true">https://www.nationalacademies.org/news/ai-is-advancing-faster-than-it-can-be-tested-how-can-science-keep-up</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Can the United States and China Cooperate to Control Artificial Intelligence?</title>
+      <link>https://jstribune.com/can-the-united-states-and-china-cooperate-to-control-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://jstribune.com/can-the-united-states-and-china-cooperate-to-control-artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence at Amgen – Two Use Cases</title>
+      <link>https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/</link>
+      <guid isPermaLink="true">https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/</guid>
+      <description># Artificial Intelligence at Amgen – Two Use Cases
+## **Generative AI Agent for R&amp;D Knowledge Retrieval**
+Amgen’s knowledge management and technology teams built Catalyst Copilot in about six weeks using Microsoft Copilot Studio and embedded it in Catalyst, Amgen’s existing knowledge management platform.
+
+## Recommended from Emerj
+[![](https://emerj.com/wp-content/uploads/2026/11/3.png)\
+\
+Read more\
+\
+**Artificial Intelligence at Quest Diagnostics – Two Use Cases** \
+\
+Quest Diagnostics uses AI to select Pap test images for specialist review, handle routine specimen pickup calls, and route customer emails. Emerj examines how these workflows changed and what the evidence shows about screening performance and productivity.\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+November 9, 2026](https://emerj.com/artificial-intelligence-at-quest-diagnostics-two-use-cases/)
+
+[![](https://emerj.com/wp-content/uploads/2026/11/3.png)\
+\
+Read more\
+\
+**Artificial Intelligence at Quest Diagnostics – Two Use Cases** \
+\
+Quest Diagnostics uses AI to select Pap test images for specialist review, handle routine specimen pickup calls, and route customer emails. Emerj examines how these workflows changed and what the evidence shows about screening performance and productivity.\
+\
+![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
+\
+Anne Alessandri\
+\
+•\
+\
+November 9, 2026](https://emerj.com/artificial-intelligence-at-quest-diagnostics-two-use-cases/)</description>
     </item>
     <item>
       <title>Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans</title>
@@ -134,137 +239,22 @@ Instead, it raised more questions about the struggling artificial intelligence t
 In spring 2026, GAO’s prompts to four of the most used generative artificial intelligence (AI) platforms–Claude, Grok, ChatGPT, and Gemini—produced feasible information that could assist a malicious actor with planning and executing attacks.</description>
     </item>
     <item>
-      <title>Missouri S&amp;T will soon offer the state's first undergraduate degree in artificial intelligence</title>
-      <link>https://www.kcur.org/education/2026-11-22/missouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence</link>
-      <guid isPermaLink="true">https://www.kcur.org/education/2026-11-22/missouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence</guid>
-      <description># Missouri S&amp;T will soon offer the state's first undergraduate degree in artificial intelligence
-- [Facebook](https://www.facebook.com/dialog/share?app_id=2446161798822154&amp;display=popup&amp;href=https%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence)
-- [Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence&amp;text=Missouri%20S%26T%20will%20soon%20offer%20the%20state%27s%20first%20undergraduate%20degree%20in%20artificial%20intelligence)
-- [Threads](https://www.threads.net/intent/post?text=Missouri%20S%26T%20will%20soon%20offer%20the%20state%27s%20first%20undergraduate%20degree%20in%20artificial%20intelligence%20https%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence&amp;)
-- [LinkedIn](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence&amp;mini=true&amp;title=Missouri%20S%26T%20will%20soon%20offer%20the%20state%27s%20first%20undergraduate%20degree%20in%20artificial%20intelligence&amp;summary=Missouri%20S%26T%20plans%20to%20launch%20the%20120-credit-hour%20program%20in%20the%20fall%20of%202027%2C%20pending%20state%20approval%2C%20preparing%20students%20for%20careers%20in%20the%20growing%20artificial%20intelligence%20industry.&amp;source=KCUR)
-- [Email](mailto:?body=Missouri%20S%26T%20will%20soon%20offer%20the%20state%27s%20first%20undergraduate%20degree%20in%20artificial%20intelligence%0A%0Ahttps%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence%0A%0AMissouri%20S%26T%20plans%20to%20launch%20the%20120-credit-hour%20program%20in%20the%20fall%20of%202027%2C%20pending%20state%20approval%2C%20preparing%20students%20for%20careers%20in%20the%20growing%20artificial%20intelligence%20industry.)
+      <title>AI and Existential Risk: For Real?</title>
+      <link>https://cacm.acm.org/opinion/ai-and-existential-risk-for-real/</link>
+      <guid isPermaLink="true">https://cacm.acm.org/opinion/ai-and-existential-risk-for-real/</guid>
+      <description>In practice, most deployed AI is a component inside human workflows: a recommender in a product funnel, a classifier in a queue, a copilot in a developer tool.
 
-## Missouri S&amp;T plans to launch the 120-credit-hour program in the fall of 2027, pending state approval, preparing students for careers in the growing artificial intelligence industry.
-The University of Missouri Board of Curators on Thursday unanimously approved a new bachelor's degree program in artificial intelligence at Missouri University of Science and Technology in Rolla, paving the way for what will be the first standalone undergraduate AI degree offered in Missouri.
+## Original Prompt Text
+### Join the Discussion (0)
+#### Become a Member or Sign In to Post a Comment
+[Artificial Intelligence and Machine Learning](https://cacm.acm.org/category/artificial-intelligence-machine-learning/)
 
-Students will learn from a curriculum that combines computer science, mathematics, data science and ethics with specialized artificial intelligence coursework.
-
-"Our graduates will be prepared to understand and innovate within modern engineered systems that are increasingly using AI."
-
-Students will study programming, algorithms, machine learning, data science, computer organization, databases and cybersecurity.
-
-[Education](https://www.kcur.org/education) [artificial intelligence](https://www.kcur.org/tags/artificial-intelligence) [Missouri S&amp;T](https://www.kcur.org/tags/missouri-s-t) [Missouri](https://www.kcur.org/tags/missouri) [higher education](https://www.kcur.org/tags/higher-education) [University of Missouri System](https://www.kcur.org/tags/university-of-missouri-system)
-
-- [Facebook](https://www.facebook.com/dialog/share?app_id=2446161798822154&amp;display=popup&amp;href=https%3A%2F%2Fwww.kcur.org%2Feducation%2F2026-11-22%2Fmissouri-s-t-will-soon-offer-the-states-first-undergraduate-degree-in-artificial-intelligence)</description>
+[Artificial Intelligence and Machine Learning](https://cacm.acm.org/category/artificial-intelligence-machine-learning/)</description>
     </item>
     <item>
-      <title>Meta ads is now available in AWS Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opinion | Artificial intelligence flourished in California election advertising — and divided voters</title>
-      <link>https://calmatters.org/commentary/2026/11/artificial-intelligence-california-election-advertising/</link>
-      <guid isPermaLink="true">https://calmatters.org/commentary/2026/11/artificial-intelligence-california-election-advertising/</guid>
-      <description>These were all fake images, generated via artificial intelligence to help political campaigns stand out online and on air.
-
-The president has put out plenty of AI-generated content.
-
-Now we are seeing not just that concern — which never got resolved — but the likelihood that AI systems can, in real time, create content that targets you based on your psychology, without going through the entire multi-step process of buying one’s data, gathering the data and creating content based on the data.
-
-But in this case, AI can create content that directly targets you based on data about you.
-
-Everyone knew that that was AI.
-
-## [Denise AmosCalifornia Voices Deputy Editor](https://calmatters.org/author/denise-amos/)
-### Artificial intelligence flourished in California election advertising — and divided voters
-We love that you want to share our stories with your readers.
-
-- **Sharing a CalMatters story on social media?** Please mention @CalMatters. We’re on X, Facebook, Instagram, TikTok and BlueSky.
-
-We’d love to hear from you.
-
-Copy HTML</description>
-    </item>
-    <item>
-      <title>If AI Does the Junior Work, How Will Young People Become Experienced?</title>
-      <link>https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/</link>
-      <guid isPermaLink="true">https://www.the74million.org/article/if-ai-does-the-junior-work-how-will-young-people-become-experienced/</guid>
-      <description># If AI Does the Junior Work, How Will Young People Become Experienced?
-## Poluhina: Artificial intelligence is replacing the work that beginners do, limiting opportunities for graduates to develop judgment and experience.
-![](https://www.the74million.org/wp-content/uploads/2026/11/ai-taking-entry-level-jobs.jpg) The 74/Getty Images
-
-By [Nadia Poluhina](https://www.the74million.org/contributor/1042552/)November 22, 2026
-
-The views expressed here are those of the author.
-
-- [![](https://cdn.flipboard.com/badges/flipboard_mbsw.png)](https://share.flipboard.com/bookmarklet/popout?v=2&amp;title=If%20AI%20Does%20the%20Junior%20Work%2C%20How%20Will%20Young%20People%20Become%20Experienced%3F%20%E2%80%93%20The%2074&amp;url=https%3A%2F%2Fwww.the74million.org%2Farticle%2Fif-ai-does-the-junior-work-how-will-young-people-become-experienced%2F&amp;t=1795348805269&amp;utm_campaign=tools&amp;utm_medium=article-share&amp;utm_source=www.the74million.org)
-
-_Get stories like this delivered straight to your inbox._ [**Sign up for The 74 Newsletter**](https://www.the74million.org/about/newsletters/?utm_source=website&amp;utm_medium=article&amp;utm_campaign=top&amp;utm_id=newsletter)
-
-Those are very different parts of my life, but lately they have led me to the same question: How do people develop judgment and experience if [artificial intelligence](https://www.the74million.org/tag/artificial-intelligence/) starts doing more of the work through which beginners used to gain them?
-
-Early in my career, I built financial models, checked numbers and prepared presentations. More experienced colleagues reviewed what I’d done, sometimes sending me back to reconsider an assumption that looked perfectly reasonable on paper. With enough practice and feedback, I learned that a correct calculation can still lead to a poor decision.
-
-That work was producing two things at once: an output and a more experienced person. The company received something useful, and I gradually became capable of handling more complicated problems.
-
-AI may change the economics of that arrangement.
-
-Junior employees contribute useful work while they learn, helping offset the cost of supervising them. If AI can produce an initial analysis more cheaply, a company may decide it no longer needs as many beginners. The savings are immediate, while developing experienced staff takes years. And even after investing in someone, the employer cannot be certain that person will stay.
-
-A company could automate junior assignments now and hire experienced professionals when it needs them. That may be a reasonable decision for one business. But if enough companies make the same choice, where will those experienced workers come from?
-
-There are early signs that entry-level hiring is changing. A U.S. These include such jobs as  junior software engineers, financial analysts, graphic designers and marketing associates. Neither study proves that AI caused these changes or measures employers’ investments in training.
-
-AI may also help beginners learn faster, and some companies may find better ways to train people with it. We cannot assume, however, that every employer will continue to find it worthwhile to hire inexperienced workers.
-
-### The gap may begin in school
-![](https://www.the74million.org/wp-content/uploads/2026/11/nadia-p-300x300.jpg)
-
-- [AI](https://www.the74million.org/tag/ai/)
-- [Artificial Intelligence](https://www.the74million.org/tag/artificial-intelligence/)
-- [commentary](https://www.the74million.org/tag/commentary/)
-
-Republish This Article
-
-_We want our stories to be shared as widely as possible — for free._
-
-[_Please view The 74's republishing terms._](https://www.the74million.org/republish/)
-
-Copy HTML</description>
-    </item>
-    <item>
-      <title>Building better artificial intelligence requires people willing to do meticulous work at scale</title>
-      <link>https://federalnewsnetwork.com/workforce/2026/11/building-better-artificial-intelligence-requires-people-willing-to-do-meticulous-work-at-scale/</link>
-      <guid isPermaLink="true">https://federalnewsnetwork.com/workforce/2026/11/building-better-artificial-intelligence-requires-people-willing-to-do-meticulous-work-at-scale/</guid>
-      <description># Building better artificial intelligence requires people willing to do meticulous work at scale
-"Don't make it a pilot program or a special program.
-
-|  |  |
-|-|-|
-| **Guest:** | Peter Kant |
-| **Title:** | Founder and CEO of Enabled Intelligence |
-| **Summary:** | Building better artificial intelligence starts with teaching systems what they're looking at. Some workers have a unique set of skills well suited to the painstaking data-labeling work that supports AI applications across defense and the intelligence community. |
-
-So anytime an AI software gets built or AI technology gets built, the first thing that happens to train that AI is you need people to create the data that it learns from. So people have to teach every AI, whether that’s, you know, Reddit or Facebook information or newspaper information, teaching a large language models to folks using CAPTCHA, if you’ve ever used CAPTCH and said, you know, put a box around, tell me where all the traffic lights are. And those people with AI, especially for government technology or for critical AI technology that is for critical usage, you’re important, you need high reliability and high accuracy. And so we don’t hallucinate or the AIs work functionally.
-
-So we created as the very first stage, if someone says, hey, I’m interested in working in enabled intelligence, they go through our website and we send them an assessment and they do basically a sample labeling exercise or a data analysis exercise.
-
-### Related Stories
-#### Pentagon CIO to replace Cairncross as top WH cyber official
-[All News](https://federalnewsnetwork.com/category/all-news/) [Artificial Intelligence](https://federalnewsnetwork.com/category/technology-main/artificial-intelligence/) [Enabled Intelligence](https://federalnewsnetwork.com/tag/enabled-intelligence/) [Management](https://federalnewsnetwork.com/category/management/) [Peter Kant](https://federalnewsnetwork.com/tag/peter-kant/) [Technology](https://federalnewsnetwork.com/category/technology-main/) [Terry Gerton](https://federalnewsnetwork.com/category/terry-gerton/) [The Federal Drive](https://federalnewsnetwork.com/category/terry-gerton/the-federal-drive-with-terry-gerton/) [Workforce](https://federalnewsnetwork.com/category/workforce/)</description>
-    </item>
-    <item>
-      <title>Italian Citizens Favor Farm Artificial Intelligence While Expressing Notable Response Uncertainty</title>
-      <link>https://bioengineer.org/italian-citizens-favor-farm-artificial-intelligence-while-expressing-notable-response-uncertainty/</link>
-      <guid isPermaLink="true">https://bioengineer.org/italian-citizens-favor-farm-artificial-intelligence-while-expressing-notable-response-uncertainty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>An A.I. Editor’s Essential Tool: The Typewriter</title>
-      <link>https://www.nytimes.com/2026/11/22/insider/typewriter-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/insider/typewriter-artificial-intelligence.html</guid>
+      <title>Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou</title>
+      <link>https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1931597</link>
+      <guid isPermaLink="true">https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1931597</guid>
       <description></description>
     </item>
   </channel>
