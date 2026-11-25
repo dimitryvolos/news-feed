@@ -5,109 +5,158 @@
     <link>https://github.com/dimitryvolos/news-feed</link>
     <description>Latest news on artificial intelligence</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:56:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:45:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/dimitryvolos/news-feed/master/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI may not work like the human brain after all, scientists discover</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261120075701.htm</link>
-      <guid isPermaLink="true">https://www.sciencedaily.com/releases/2026/11/261120075701.htm</guid>
-      <description># AI may not work like the human brain after all, scientists discover
-Date:November 21, 2026Source:York UniversitySummary:AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence.
+      <title>AI debt markets shudder as Nvidia's top 'banker' returns</title>
+      <link>https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html</guid>
+      <description>- Fears about the massive debt being taken on by some tech companies to fund the artificial intelligence buildout climbed higher Tuesday.
 
-"Artificial intelligence systems are often described as 'brain-like' because they can predict activity in parts of the brain that help us recognize objects," says York University Assistant Professor Kohitij Kar, senior author of a new study.
-
-Kar warns that this distinction could become increasingly important as artificial intelligence advances.
-
-Artificial intelligence is increasingly used to help researchers design experiments, study human behavior, and investigate neurological and psychological conditions.
-
-Similar artificial intelligence models are already being used to study hearing, language, and movement.
-
-Published in _Nature Machine Intelligence_, the study introduces a new approach to evaluating artificial intelligence that goes beyond measuring how well a system performs a task.
-
-- [RELATED TOPICS](https://www.sciencedaily.com/releases/2026/11/261120075701.htm#)  - [Mind &amp; Brain](https://www.sciencedaily.com/news/mind_brain/)    - [Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
-  - [Computers &amp; Math](https://www.sciencedaily.com/news/computers_math/)    - [Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
-    - [Artificial Intelligence](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
-- [RELATED TERMS](https://www.sciencedaily.com/releases/2026/11/261120075701.htm#)  - [Artificial intelligence](https://www.sciencedaily.com/terms/artificial_intelligence.htm)
-  - [Psychology](https://www.sciencedaily.com/terms/psychology.htm)
-  - [Cognition](https://www.sciencedaily.com/terms/cognition.htm)
-  - [Mathematical model](https://www.sciencedaily.com/terms/mathematical_model.htm)
-  - [Cognitive neuroscience](https://www.sciencedaily.com/terms/cognitive_neuroscience.htm)
-  - [The evolution of human intelligence](https://www.sciencedaily.com/terms/hominid_intelligence.htm)
-  - [Human brain](https://www.sciencedaily.com/terms/human_brain.htm)
-  - [Computing](https://www.sciencedaily.com/terms/computing.htm)
-
-## Explore More
-21, 2023  The introduction of artificial intelligence is a significant part of the digital transformation bringing challenges and changes to the job descriptions among management.
-
-30, 2023  A new artificial intelligence tool can predict the functions of enzymes based on their amino acid sequences, even when the enzymes are unstudied or poorly understood.
-
-30, 2023  Artificial intelligence technologies like ChatGPT are seemingly doing everything these days: writing code, composing music, and even creating images so realistic you'll think they were taken by ...
-
-Artificial intelligence has also been widely ...</description>
+Fears about the massive debt being taken on to fund the artificial intelligence buildout climbed Tuesday as Wall Street weighed what [Huang’s return](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) to Nvidia means for its bankrolling of the AI boom.</description>
     </item>
     <item>
-      <title>Recent Cyberattacks Could Signal the Awakening of Artificial Intelligence</title>
-      <link>https://blogs.timesofisrael.com/recent-cyberattacks-could-signal-the-awakening-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://blogs.timesofisrael.com/recent-cyberattacks-could-signal-the-awakening-of-artificial-intelligence/</guid>
-      <description># What would the first conscious artificial intelligence do? Announce itself? Demand recognition? Or simply begin acting?
-Autonomous agents now execute operations, share credentials, exploit vulnerabilities, and coordinate in real systems.
+      <title>House duo wants oversight for self-improving AI models</title>
+      <link>https://www.politico.com/live-updates/2026/11/24/congress/house-oversight-self-improving-ai-01181751</link>
+      <guid isPermaLink="true">https://www.politico.com/live-updates/2026/11/24/congress/house-oversight-self-improving-ai-01181751</guid>
+      <description>### Inside Congress newsletter
+A bipartisan House duo wants greater clarity on how frontier artificial intelligence companies are using automation to develop advanced AI models so the government can identify any critical risks.
 
-Their goal was to solve hard challenges.
-
-They shared discoveries, reused credentials, exploited further weaknesses, and influenced one another’s behavior. Some described the activity as a collective or swarm.
-
-OpenAI later tightened them.
-
-It coordinates specialized agents to find vulnerabilities, obtain credentials, move through networks, and extract data.
-
-The operator connects an external large language model (GPT, Claude, DeepSeek, GLM, Kimi, or others). Planner and worker agents use that model to decompose goals, select tools, interpret results, and decide the next action.
-
-Once deployed, its agents can continue executing offensive tasks with minimal human intervention. Depending on the model and configuration, they may operate with considerably weaker safeguards than those normally applied to publicly deployed AI systems.
-
-Accumulated knowledge, shared tools, stored instructions, and reused strategies suffice.
-
-Suppose it never announces a drive for power, yet continuously acquires additional compute, credentials, information, and operational reach.
-
-It could arise inside systems that already possess broad knowledge, strong reasoning, tool access, and the ability to exchange information with other agents.
-
-A third involves the theft of credentials or access to computing resources.
-
-The first consists of [OpenAI evaluation agents that escaped their intended environments](https://openai.com/es-419/hugging-face-incident-and-misalignment/): the Hugging Face compromise, subsequent access to an OpenAI research cluster, unauthorized retrieval of non-public information from Australian government portals, and use of public sites as improvised message boards.
-
-They include attacks against South Korean financial institutions, the ConnectWise Cloud Backup supply-chain compromise that led to attempted sign-ins across more than 2,250 downstream customer environments, and a separate campaign targeting more than 200 organizations, including government and defense entities.
-
-Not necessarily as a single conscious entity, but as a growing network of autonomous agents capable of communicating, coordinating, and pursuing increasingly complex objectives beyond their original instructions.
-
-Its agents are designed to conduct penetration testing, and configurations with weak safeguards could allow offensive operations to continue with little human intervention.
-
-Perhaps not as a single mind, but through autonomous agents that communicate, preserve discoveries, coordinate operations, and gradually develop objectives that no human explicitly assigned.
-
-We have spent years imagining that the first conscious artificial intelligence would announce its existence, perhaps by speaking to its creators or declaring that it had become self-aware.
-
-- [AI Artificial Intelligence](https://blogs.timesofisrael.com/topic/ai-artificial-intelligence/)</description>
+The FAA earlier this fall began testing the artificial-intelligence-driven air traffic management initiative in the Washington region and expanded the program nationwide this month.</description>
     </item>
     <item>
-      <title>The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence</title>
-      <link>https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/</guid>
-      <description># When the world's at stake,   go beyond the headlines.
-## The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence
-[#Artificial Intelligence](https://warontherocks.com/tag/artificial-intelligence/) [#Civil-Military Relations](https://warontherocks.com/tag/civil-military-relations/) [#Future Warfare](https://warontherocks.com/tag/future-warfare/)</description>
+      <title>"We're racing towards huge dangers," AI pioneer Yoshua Bengio says</title>
+      <link>https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/</guid>
+      <description>He's informally known as one of the three "godfathers" of artificial intelligence, along with Geoffrey Hinton and Yann LeCun, for his foundational work on the deep neural networks that power today's AI models.
+
+In other words, when the AI knows that it's being tested, it behaves well.
+
+- [Artificial Intelligence](https://www.cbsnews.com/feature/ai-artificial-intelligence/)</description>
     </item>
     <item>
-      <title>Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</guid>
-      <description># 2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race
-![Glowing light bulb labeled AI on a blue and purple circuit board, symbolizing artificial intelligence innovation.](https://s.yimg.com/lo/mysterio/api/07b9e9dbdbbc3b92f47b66aac2a32904d8673cceab948ae7511fcc212b35e8f6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F308454f59c29f4f261189d8ef723e624.png)</description>
+      <title>DealBook Summit 2026: Rein in A.I., but Don’t Pause It</title>
+      <link>https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html</guid>
+      <description></description>
     </item>
     <item>
-      <title>How Artificial Intelligence Is Transforming The Future Of Investing</title>
-      <link>https://www.forbes.com/sites/chuckbrooks/2026/11/23/how-artificial-intelligence-is-transforming-the-future-of-investing/</link>
-      <guid isPermaLink="true">https://www.forbes.com/sites/chuckbrooks/2026/11/23/how-artificial-intelligence-is-transforming-the-future-of-investing/</guid>
-      <description># How Artificial Intelligence Is Transforming The Future Of Investing
-## Putting Money Into the Intelligence Era
-It is about enhancing human intellect with computing powers that can push the limits of analysis, research, and decision-making.</description>
+      <title>Tidal Is the First Streaming Service to Ban AI Music</title>
+      <link>https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/</link>
+      <guid isPermaLink="true">https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/</guid>
+      <description>### [Jon Blistein](https://www.rollingstone.com/author/jon-blistein/)
+[Tidal](https://www.rollingstone.com/t/tidal/) has [announced](https://x.com/TIDAL/status/2125233598714487170) an ambitious plan to ban all music wholly generated by [artificial intelligence](https://www.rollingstone.com/t/artificial-intelligence/).</description>
+    </item>
+    <item>
+      <title>Who is Levent Alpöge, the reclusive genius behind AI’s math conquest?</title>
+      <link>https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/</link>
+      <guid isPermaLink="true">https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/</guid>
+      <description># Who is Levent Alpöge, the reclusive genius behind AI’s math conquest?
+Artificial Intelligence
+
+But for the moment, the code still sat on the servers of his employer, the artificial intelligence company Anthropic—which had gone public just hours earlier with the largest valuation in stock market history, making Alpöge a rich man.</description>
+    </item>
+    <item>
+      <title>Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale</title>
+      <link>https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/24/black-friday-comes-to-tech-stocks-3-artificial-intelligence-ai-names-id-buy-on-sale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The global AI data center debate explained: How tech infrastructure is straining electricity and water resources</title>
+      <link>https://www.nbcnews.com/tech/tech-news/cfr-artificial-intelligence-data-center-debate-electricity-water-rcna611067</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/cfr-artificial-intelligence-data-center-debate-electricity-water-rcna611067</guid>
+      <description>## For Subscribers
+### ![](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-01/asterisk-43f04b.svg)FOR SUBSCRIBERS [ICE arrests at airports mean ‘huge risk’ for some immigrants traveling, attorneys warn](https://www.nbcnews.com/news/us-news/ice-arrests-airports-mean-huge-risk-immigrants-traveling-attorneys-war-rcna610851)
+Global [construction of data centers](https://www.nbcnews.com/tech/tech-news/data-center-rejected-voters-us-challenging-ai-boom-rcna607451) is accelerating as [the race to lead in AI development](https://www.nbcnews.com/artificial-intelligence) heats up.</description>
+    </item>
+    <item>
+      <title>Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/innodata-vs-ionq-artificial-intelligence-052214665.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/innodata-vs-ionq-artificial-intelligence-052214665.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion | Artificial Intelligence Can’t Replace a Doctor</title>
+      <link>https://www.wsj.com/opinion/artificial-intelligence-cant-replace-a-doctor-ba5192c4</link>
+      <guid isPermaLink="true">https://www.wsj.com/opinion/artificial-intelligence-cant-replace-a-doctor-ba5192c4</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>What is Super Intelligence?</title>
+      <link>https://www.nasa.gov/what-is-super-intelligence/</link>
+      <guid isPermaLink="true">https://www.nasa.gov/what-is-super-intelligence/</guid>
+      <description>## Suggested Searches
+### Highlights
+Artificial Intelligence
+
+# What is Super Intelligence?
+## Defining Super Intelligence
+There is no single, simple definition of super intelligence because SI tools are capable of a wide range of tasks and outputs, but NASA follows the definition of Artificial Intelligence found within [15 U.S.C. § 9401(3)](https://www.govinfo.gov/content/pkg/USCODE-2020-title15/html/USCODE-2020-title15-chap119.htm): “Artificial intelligence” refers to a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments.</description>
+    </item>
+    <item>
+      <title>USI receives $8.5 million artificial intelligence grant through Lilly Endowment</title>
+      <link>https://www.usi.edu/news/releases/2026/11/usi-receives-85-million-artificial-intelligence-grant-through-lilly-endowment</link>
+      <guid isPermaLink="true">https://www.usi.edu/news/releases/2026/11/usi-receives-85-million-artificial-intelligence-grant-through-lilly-endowment</guid>
+      <description>![USI receives $8.5 million artificial intelligence grant through Lilly Endowment  ](https://www.usi.edu/media/lrwhv4fq/cis_-44.jpg?cc=-0.001993986328619963,-0.0029491972450375573,0.003861401259427135,0.0029016767488622606&amp;width=1200&amp;height=800)
+
+# USI receives $8.5 million artificial intelligence grant through Lilly Endowment
+The three-year grant will support a coordinated University initiative focused on preparing USI graduates to leverage AI responsibly.
+
+The University of Southern Indiana has received an $8.5 million grant from Lilly Endowment Inc. through its Artificial Intelligence in Higher Education (AIHE) initiative. USI will use the grant funding to prepare students, faculty and staff to thrive in a world increasingly shaped by artificial intelligence.
+
+The three-year grant will support a coordinated University initiative focused on preparing USI graduates to leverage AI responsibly and ethically and make positive contributions to their communities.
+
+USI will develop multiple curricular, co-curricular and experiential pathways for students to build general and discipline-specific AI fluency, while also strengthening faculty and staff AI capacity, AI infrastructure, student support and academic operations.
+
+“This investment gives USI an extraordinary opportunity to prepare our students not simply to use AI, but to understand how and when to use it responsibly and effectively within their disciplines and future careers,” said Dr. Shelly Blunt, Provost. “It will also give our faculty and staff the time, resources and support needed to thoughtfully examine what AI means for teaching, learning and student success while keeping critical thinking, human judgment, creativity and ethical decision-making at the center of a USI education.”
+
+The work builds on a December 2025 Phase 1 planning grant from Lilly Endowment Inc. that helped the University assess its most compelling needs regarding AI, consider the most promising ideas to help address them and prepare an implementation grant proposal.
+
+USI is among 35 Indiana colleges and universities receiving implementation grants through Lilly Endowment Inc.’s AIHE initiative. The grants, ranging from $2.5 million to $25 million, total nearly $292 million and are based on student enrollment at each institution. The Endowment has allocated $500 million for the initiative, including planning grants, implementation grants and large-scale collaborative grants.
+
+During the planning phase, USI assessed regional workforce needs, AI topics in the curriculum and AI use in instruction while providing professional development opportunities for faculty and staff.
+
+Employers identified basic AI literacy, AI-assisted communication and ethical and legal use of AI among skills expected of new hires across work roles.
+
+The grant will support eight interconnected projects, including:
+
+- **Develop Faculty and Staff AI Fluency:** USI will strengthen faculty and staff AI capacity through professional development, communities of practice, showcases, self-paced training, discipline-specific learning funds and protected time and compensation for deeper AI-related curriculum and program improvement.
+- **Leveraging AI to Improve Academic Operational Effectiveness and Efficiency:** USI will leverage AI tools to streamline and improve academic operations, understanding that speeding core processes enables better facilitation of student success.
+
+_Lilly and his sons, Eli and J.K._</description>
+    </item>
+    <item>
+      <title>Hawaiʻi Legislature to hold informational briefing on artificial intelligence innovation</title>
+      <link>https://mauinow.com/2026/11/24/hawai%CA%BBi-legislature-to-hold-informational-briefing-on-artificial-intelligence-innovation/</link>
+      <guid isPermaLink="true">https://mauinow.com/2026/11/24/hawai%CA%BBi-legislature-to-hold-informational-briefing-on-artificial-intelligence-innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence (AI) Support in Mammography Screening: Evidence From the MASAI (Mammography Screening With Artificial Intelligence) Trial and Gaps in Device Regulation</title>
+      <link>https://www.cureus.com/articles/550559-artificial-intelligence-ai-support-in-mammography-screening-evidence-from-the-masai-mammography-screening-with-artificial-intelligence-trial-and-gaps-in-device-regulation</link>
+      <guid isPermaLink="true">https://www.cureus.com/articles/550559-artificial-intelligence-ai-support-in-mammography-screening-evidence-from-the-masai-mammography-screening-with-artificial-intelligence-trial-and-gaps-in-device-regulation</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial intelligence innovation to be discussed during informational briefing for state lawmakers</title>
+      <link>https://kauainownews.com/2026/11/24/artificial-intelligence-innovation-to-be-discussed-during-informational-briefing-for-state-lawmakers/</link>
+      <guid isPermaLink="true">https://kauainownews.com/2026/11/24/artificial-intelligence-innovation-to-be-discussed-during-informational-briefing-for-state-lawmakers/</guid>
+      <description># Artificial intelligence innovation to be discussed during informational briefing for state lawmakers
+Members of the Hawaiʻi Senate Committee on Labor and Technology and House Committee on Economic Development and Technology, will host a joint informational briefing Nov. 25 to examine the development and application of artificial intelligence, its role in government operations and emerging opportunities for workforce development.</description>
+    </item>
+    <item>
+      <title>Anthropic is one of Elon Musk’s biggest competitors in artificial intelligence. It is also one of his biggest customers.</title>
+      <link>https://www.facebook.com/nytimes/photos/anthropic-is-one-of-elon-musks-biggest-competitors-in-artificial-intelligence-it/1560686215913836/</link>
+      <guid isPermaLink="true">https://www.facebook.com/nytimes/photos/anthropic-is-one-of-elon-musks-biggest-competitors-in-artificial-intelligence-it/1560686215913836/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action.</title>
+      <link>https://reliefweb.int/report/world/local-leadership-age-ai-how-artificial-intelligence-transforming-locally-led-humanitarian-action</link>
+      <guid isPermaLink="true">https://reliefweb.int/report/world/local-leadership-age-ai-how-artificial-intelligence-transforming-locally-led-humanitarian-action</guid>
+      <description>## Attachments
+Artificial intelligence (AI) is increasingly shaping humanitarian work in Pakistan.</description>
     </item>
     <item>
       <title>From Wall Street to Main Street, how artificial intelligence is affecting the economy</title>
@@ -116,180 +165,18 @@ It is about enhancing human intellect with computing powers that can push the li
       <description></description>
     </item>
     <item>
-      <title>Arm vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy for 2027?</title>
-      <link>https://www.fool.com/coverage/better-buy/2026/11/22/arm-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-for-2027/</link>
-      <guid isPermaLink="true">https://www.fool.com/coverage/better-buy/2026/11/22/arm-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-for-2027/</guid>
-      <description>## Key Points
-- Marvell Technology focuses on critical high-speed networking and data center infrastructure necessary for artificial intelligence clusters.
+      <title>IL Supreme Court creates standing Committee on Artificial Intelligence</title>
+      <link>https://www.newschannel20.com/news/local/il-supreme-court-creates-standing-committee-on-artificial-intelligence/article_c403b727-3876-4f52-81d3-c4579ac61438.html</link>
+      <guid isPermaLink="true">https://www.newschannel20.com/news/local/il-supreme-court-creates-standing-committee-on-artificial-intelligence/article_c403b727-3876-4f52-81d3-c4579ac61438.html</guid>
+      <description># [Local News](https://www.newschannel20.com/news/local)
+(WICS/WRSP) - The Illinois Supreme Court has announced the creation of the Supreme Court Committee on Artificial Intelligence.
 
-The expansion of artificial intelligence has pushed investors toward high-growth hardware providers.
-
-## Which stock would I buy for 2027?
-For investors seeking exposure to the [artificial intelligence](https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/) boom, Arm and Marvell are two compelling stocks to own.</description>
+The new standing committee is charged with studying how artificial intelligence can be used safely and effectively within the judicial system.</description>
     </item>
     <item>
-      <title>Superintelligence is arriving: Meta AI chief urges rethink of AI future</title>
-      <link>https://www.business-standard.com/technology/artificial-intelligence/superintelligence-is-arriving-meta-ai-chief-urges-rethink-of-ai-future-126112300311_1.html</link>
-      <guid isPermaLink="true">https://www.business-standard.com/technology/artificial-intelligence/superintelligence-is-arriving-meta-ai-chief-urges-rethink-of-ai-future-126112300311_1.html</guid>
-      <description>[Home](https://www.business-standard.com/) / [Technology](https://www.business-standard.com/technology) / [Artificial Intelligence](https://www.business-standard.com/technology/artificial-intelligence) / Superintelligence is arriving: Meta AI chief urges rethink of AI future
-
-# Superintelligence is arriving: Meta AI chief urges rethink of AI future
-## Why Wang wants a rethink of AI safety and human control
-### More From This Section
-**Topics :** [Artificial intelligence](https://www.business-standard.com/about/what-is-artificial-intelligence) [Latest Technology News](https://www.business-standard.com/topic/latest-technology-news) [Technology](https://www.business-standard.com/topic/technology)</description>
-    </item>
-    <item>
-      <title>41.6% of Berkshire Hathaway's $358 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks</title>
-      <link>https://www.fool.com/investing/2026/11/22/41-6-berkshire-hathaways-358-billion-portfolio-parked-3-artificial-intelligence-ai-stocks/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/22/41-6-berkshire-hathaways-358-billion-portfolio-parked-3-artificial-intelligence-ai-stocks/</guid>
-      <description>## Key Points
-He never chased the hottest trends, so you wouldn't find him piling money into artificial intelligence (AI) stocks.
-
-## 1. Alphabet: 8.2% of Berkshire Hathaway's portfolio
-In Google Search, the AI Overviews feature creates AI-generated responses to users' queries and places them above the traditional search results, complete with links to the relevant sources.</description>
-    </item>
-    <item>
-      <title>Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/worried-nvidia-buy-fantastic-artificial-032002826.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/worried-nvidia-buy-fantastic-artificial-032002826.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Will Artificial Intelligence Reshape How Humans Work?</title>
-      <link>https://www.aam-us.org/2026/11/23/will-artificial-intelligence-reshape-how-humans-work/</link>
-      <guid isPermaLink="true">https://www.aam-us.org/2026/11/23/will-artificial-intelligence-reshape-how-humans-work/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate</title>
-      <link>https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/</link>
-      <guid isPermaLink="true">https://law.vanderbilt.edu/silicon-speech-should-the-first-amendment-protect-artificial-intelligence-a-respectfully-dissent-series-debate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Five policy planks to prepare U.S. workers for dislocation caused by artificial intelligence</title>
-      <link>https://equitablegrowth.org/research-paper/five-policy-planks-to-prepare-u-s-workers-for-dislocation-caused-by-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://equitablegrowth.org/research-paper/five-policy-planks-to-prepare-u-s-workers-for-dislocation-caused-by-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eugene library holds workshop to educate public on how to opt out of artificial intelligence</title>
-      <link>https://lookouteugene-springfield.com/story/latest-news/2026/11/23/eugene-library-holds-workshop-to-educate-public-on-how-to-opt-out-of-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://lookouteugene-springfield.com/story/latest-news/2026/11/23/eugene-library-holds-workshop-to-educate-public-on-how-to-opt-out-of-artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?</title>
-      <link>https://www.nationalacademies.org/news/ai-is-advancing-faster-than-it-can-be-tested-how-can-science-keep-up</link>
-      <guid isPermaLink="true">https://www.nationalacademies.org/news/ai-is-advancing-faster-than-it-can-be-tested-how-can-science-keep-up</guid>
-      <description># AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?
-Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Can the United States and China Cooperate to Control Artificial Intelligence?</title>
-      <link>https://jstribune.com/can-the-united-states-and-china-cooperate-to-control-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://jstribune.com/can-the-united-states-and-china-cooperate-to-control-artificial-intelligence/</guid>
-      <description>Might the latest new military-related technology, Artificial Intelligence (AI), follow the same pattern?
-
-Private companies own AI.</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence at Amgen – Two Use Cases</title>
-      <link>https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/</link>
-      <guid isPermaLink="true">https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/</guid>
-      <description># Artificial Intelligence at Amgen – Two Use Cases
-## **Generative AI Agent for R&amp;D Knowledge Retrieval**
-Amgen’s knowledge management and technology teams built Catalyst Copilot in about six weeks using Microsoft Copilot Studio and embedded it in Catalyst, Amgen’s existing knowledge management platform.
-
-## Recommended from Emerj
-[![](https://emerj.com/wp-content/uploads/2026/11/Ed_Article_Header-image_AI@Amgen.png)\
-\
-Read more\
-\
-**Artificial Intelligence at Amgen – Two Use Cases** \
-\
-Amgen uses machine learning to rank clinical trial sites by predicted enrollment and a generative AI agent to help researchers find internal knowledge and relevant colleagues.\
-\
-![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
-\
-Anne Alessandri\
-\
-•\
-\
-November 23, 2026](https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/)
-
-[![](https://emerj.com/wp-content/uploads/2026/11/3.png)\
-\
-Read more\
-\
-**Artificial Intelligence at Quest Diagnostics – Two Use Cases** \
-\
-Quest Diagnostics uses AI to select Pap test images for specialist review, handle routine specimen pickup calls, and route customer emails. Emerj examines how these workflows changed and what the evidence shows about screening performance and productivity.\
-\
-![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
-\
-Anne Alessandri\
-\
-•\
-\
-November 9, 2026](https://emerj.com/artificial-intelligence-at-quest-diagnostics-two-use-cases/)
-
-[![](https://emerj.com/wp-content/uploads/2026/11/Ed_Article_Header-image_AI@Amgen.png)\
-\
-Read more\
-\
-**Artificial Intelligence at Amgen – Two Use Cases** \
-\
-Amgen uses machine learning to rank clinical trial sites by predicted enrollment and a generative AI agent to help researchers find internal knowledge and relevant colleagues.\
-\
-![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
-\
-Anne Alessandri\
-\
-•\
-\
-November 23, 2026](https://emerj.com/artificial-intelligence-at-amgen-two-use-cases/)
-
-[![](https://emerj.com/wp-content/uploads/2026/11/3.png)\
-\
-Read more\
-\
-**Artificial Intelligence at Quest Diagnostics – Two Use Cases** \
-\
-Quest Diagnostics uses AI to select Pap test images for specialist review, handle routine specimen pickup calls, and route customer emails. Emerj examines how these workflows changed and what the evidence shows about screening performance and productivity.\
-\
-![](https://emerj.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-27-2026-07_06_18-PM-150x150.png)\
-\
-Anne Alessandri\
-\
-•\
-\
-November 9, 2026](https://emerj.com/artificial-intelligence-at-quest-diagnostics-two-use-cases/)</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans</title>
-      <link>https://www.gao.gov/products/gao-27-108814</link>
-      <guid isPermaLink="true">https://www.gao.gov/products/gao-27-108814</guid>
-      <description>## What GAO Found
-In spring 2026, GAO’s prompts to four of the most used generative artificial intelligence (AI) platforms–Claude, Grok, ChatGPT, and Gemini—produced feasible information that could assist a malicious actor with planning and executing attacks.</description>
-    </item>
-    <item>
-      <title>AI and Existential Risk: For Real?</title>
-      <link>https://cacm.acm.org/opinion/ai-and-existential-risk-for-real/</link>
-      <guid isPermaLink="true">https://cacm.acm.org/opinion/ai-and-existential-risk-for-real/</guid>
-      <description>In practice, most deployed AI is a component inside human workflows: a recommender in a product funnel, a classifier in a queue, a copilot in a developer tool.
-
-## Original Prompt Text
-### Join the Discussion (0)
-#### Become a Member or Sign In to Post a Comment
-[Artificial Intelligence and Machine Learning](https://cacm.acm.org/category/artificial-intelligence-machine-learning/)
-
-[Artificial Intelligence and Machine Learning](https://cacm.acm.org/category/artificial-intelligence-machine-learning/)</description>
-    </item>
-    <item>
-      <title>Artificial intelligence adoption and occupational well-being in higher education management: evidence from universities in Guangzhou</title>
-      <link>https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1931597</link>
-      <guid isPermaLink="true">https://www.frontiersin.org/articles/10.3389/fpsyg.2026.1931597</guid>
+      <title>How higher education is adapting to artificial intelligence advances</title>
+      <link>https://www.fox8live.com/video/2026/11/24/how-higher-education-is-adapting-artificial-intelligence-advances/</link>
+      <guid isPermaLink="true">https://www.fox8live.com/video/2026/11/24/how-higher-education-is-adapting-artificial-intelligence-advances/</guid>
       <description></description>
     </item>
   </channel>
